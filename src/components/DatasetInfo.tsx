@@ -5,7 +5,7 @@ import type { DatasetStats } from '../config/countries/types';
 import { AVAILABLE_COUNTRIES } from '../config/countries';
 
 export function DatasetInfo() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
   const [statsMap, setStatsMap] = useState<Record<string, DatasetStats>>({});
 
   useEffect(() => {

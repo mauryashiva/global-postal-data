@@ -138,18 +138,27 @@ export default function SaaSPostalLookupPage() {
         setLookupResult(res);
 
         if (res.found && res.records.length > 0) {
-          // Section 11: A postal code may contain multiple post offices.
-          // NEVER automatically choose one when multiple records exist.
-          if (res.records.length === 1) {
-            const singleRec = res.records[0];
-            setSelectedRecord(singleRec);
-            const defaultArea = res.defaultArea || (res.areas && res.areas.length > 0 ? res.areas[0] : singleRec.area);
-            setSelectedArea(defaultArea);
-          } else {
-            // Multiple records exist: wait for user selection
-            setSelectedRecord(null);
-            setSelectedArea('');
+          // CASE 1 (1 record) & CASE 2 (multiple records):
+          // Automatically select the first valid postal-office result as default.
+          // Automatically populate all related fields using that selected default post office.
+          const defaultRecord = res.records[0];
+          setSelectedRecord(defaultRecord);
+
+          const recAreas =
+            defaultRecord.rawRecord?.areas ||
+            defaultRecord.rawRecord?.neighborhoods ||
+            defaultRecord.rawRecord?.localities;
+
+          let defaultArea = defaultRecord.area;
+          if (Array.isArray(recAreas) && recAreas.length > 0) {
+            defaultArea = recAreas.includes(defaultRecord.area) ? defaultRecord.area : recAreas[0];
+          } else if (res.defaultArea) {
+            defaultArea = res.defaultArea;
+          } else if (res.areas && res.areas.length > 0) {
+            defaultArea = res.areas[0];
           }
+
+          setSelectedArea(defaultArea || '');
           setIsCustomArea(false);
           setCustomAreaText('');
         } else {
@@ -187,7 +196,15 @@ export default function SaaSPostalLookupPage() {
   const handleRecordSelect = (rec: UniversalPostalRecord) => {
     setSelectedRecord(rec);
     if (!isCustomArea) {
-      setSelectedArea(rec.area);
+      const recAreas =
+        rec.rawRecord?.areas ||
+        rec.rawRecord?.neighborhoods ||
+        rec.rawRecord?.localities;
+      if (Array.isArray(recAreas) && recAreas.length > 0) {
+        setSelectedArea(recAreas.includes(rec.area) ? rec.area : recAreas[0]);
+      } else {
+        setSelectedArea(rec.area || '');
+      }
     }
   };
 
@@ -207,7 +224,11 @@ export default function SaaSPostalLookupPage() {
   };
 
   const handlePresetClick = (code: string) => {
-    setPostalCode(code);
+    if (postalCode === code && lookupResult?.records && lookupResult.records.length > 0) {
+      handleRecordSelect(lookupResult.records[0]);
+    } else {
+      setPostalCode(code);
+    }
   };
 
   const handleOpenDrawer = (rec: UniversalPostalRecord) => {
