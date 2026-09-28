@@ -4,6 +4,7 @@ import React, { useState, useEffect, useTransition, useMemo } from 'react';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { CountrySelector } from '@/components/CountrySelector';
+import { CompactDropdown, type CompactDropdownOption } from '@/components/CompactDropdown';
 import { PostalRecordDrawer } from '@/components/PostalRecordDrawer';
 import { DatasetInfo } from '@/components/DatasetInfo';
 import {
@@ -84,6 +85,37 @@ export default function SaaSPostalLookupPage() {
 
     return Array.from(areaSet);
   }, [lookupResult, selectedRecord]);
+
+  // Options for Area / Neighborhood compact dropdown
+  const areaDropdownOptions = useMemo((): CompactDropdownOption[] => {
+    const opts: CompactDropdownOption[] = availableAreas.map((area) => ({
+      value: area,
+      label: area,
+    }));
+    opts.push({
+      value: '__CUSTOM__',
+      label: '+ Custom',
+      secondaryLabel: 'Colony / Society / Local Area',
+      isSpecial: true,
+    });
+    return opts;
+  }, [availableAreas]);
+
+  // Options for Post Office Branch compact dropdown
+  const branchDropdownOptions = useMemo(() => {
+    if (!lookupResult?.records) return [];
+    return lookupResult.records.map((r) => {
+      const branchLabel =
+        r.area && r.area.trim() !== r.primaryName.trim()
+          ? `${r.area} — ${r.primaryName}`
+          : r.primaryName;
+      return {
+        value: r.id,
+        label: branchLabel,
+        secondaryLabel: r.deliveryStatus || undefined,
+      };
+    });
+  }, [lookupResult]);
 
   // Execute lookup whenever postalCode reaches the required country length
   useEffect(() => {
@@ -667,36 +699,22 @@ export default function SaaSPostalLookupPage() {
                         )}
                       </div>
                       <div className="flex items-center gap-1.5">
-                        <div className="relative flex-1 min-w-0">
-                          <select
-                            value={isCustomArea ? '__CUSTOM__' : (selectedArea || '')}
-                            onChange={(e) => {
-                              const val = e.target.value;
-                              if (val === '__CUSTOM__') {
-                                setIsCustomArea(true);
-                              } else if (val) {
-                                handleAreaSelect(val);
-                              } else {
-                                setSelectedArea('');
-                              }
-                            }}
-                            disabled={!lookupResult || !lookupResult.found || availableAreas.length === 0}
-                            className="w-full h-7.5 px-2.5 pr-7 rounded-md text-[10.5px] font-medium bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-800 text-slate-900 dark:text-white appearance-none focus:outline-none focus:border-indigo-500 disabled:opacity-60 disabled:cursor-not-allowed transition truncate"
-                          >
-                            <option value="">
-                              {lookupResult?.found ? 'Select an area / neighborhood' : (areaField?.placeholder || 'Select an area / neighborhood')}
-                            </option>
-                            {availableAreas.map((area) => (
-                              <option key={area} value={area}>
-                                {area}
-                              </option>
-                            ))}
-                            <option value="__CUSTOM__">+ Custom</option>
-                          </select>
-                          <div className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 text-[9px]">
-                            ▼
-                          </div>
-                        </div>
+                        <CompactDropdown
+                          value={isCustomArea ? '__CUSTOM__' : (selectedArea || '')}
+                          placeholder={lookupResult?.found ? 'Select an area / neighborhood' : (areaField?.placeholder || 'Select an area / neighborhood')}
+                          options={areaDropdownOptions}
+                          onSelect={(val) => {
+                            if (val === '__CUSTOM__') {
+                              setIsCustomArea(true);
+                            } else if (val) {
+                              handleAreaSelect(val);
+                            } else {
+                              setSelectedArea('');
+                            }
+                          }}
+                          disabled={!lookupResult || !lookupResult.found || availableAreas.length === 0}
+                          maxVisibleItems={4}
+                        />
                         <button
                           type="button"
                           onClick={() => setIsCustomArea(!isCustomArea)}
@@ -740,37 +758,19 @@ export default function SaaSPostalLookupPage() {
                         )}
                       </div>
                       <div className="flex items-center gap-1.5">
-                        <div className="relative flex-1 min-w-0">
-                          <select
-                            value={selectedRecord?.id || ''}
-                            onChange={(e) => {
-                              const chosen = lookupResult?.records.find((r) => r.id === e.target.value);
-                              if (chosen) {
-                                handleRecordSelect(chosen);
-                              }
-                            }}
-                            disabled={!lookupResult || !lookupResult.found || lookupResult.records.length === 0}
-                            className="w-full h-7.5 px-2.5 pr-7 rounded-md text-[10.5px] font-medium bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-800 text-slate-900 dark:text-white appearance-none focus:outline-none focus:border-indigo-500 disabled:opacity-60 disabled:cursor-not-allowed transition truncate"
-                          >
-                            <option value="">
-                              {lookupResult?.found ? 'Select a post office branch' : (postOfficeField?.placeholder || 'Select a post office branch')}
-                            </option>
-                            {lookupResult?.records.map((r) => {
-                              const branchLabel =
-                                r.area && r.area.trim() !== r.primaryName.trim()
-                                  ? `${r.area} — ${r.primaryName}`
-                                  : r.primaryName;
-                              return (
-                                <option key={r.id} value={r.id}>
-                                  {branchLabel}
-                                </option>
-                              );
-                            })}
-                          </select>
-                          <div className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 text-[9px]">
-                            ▼
-                          </div>
-                        </div>
+                        <CompactDropdown
+                          value={selectedRecord?.id || ''}
+                          placeholder={lookupResult?.found ? 'Select a post office branch' : (postOfficeField?.placeholder || 'Select a post office branch')}
+                          options={branchDropdownOptions}
+                          onSelect={(id) => {
+                            const chosen = lookupResult?.records.find((r) => r.id === id);
+                            if (chosen) {
+                              handleRecordSelect(chosen);
+                            }
+                          }}
+                          disabled={!lookupResult || !lookupResult.found || lookupResult.records.length === 0}
+                          maxVisibleItems={4}
+                        />
                         <button
                           type="button"
                           onClick={() => selectedRecord && handleOpenDrawer(selectedRecord)}
