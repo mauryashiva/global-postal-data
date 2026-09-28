@@ -1,0 +1,174 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Arkansas",
+    "abbreviation": "AR",
+    "fipsCode": "05",
+    "capital": "Little Rock",
+    "largestCity": "Little Rock",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "479",
+      "501",
+      "870"
+    ],
+    "prefixes": [
+      "716",
+      "717",
+      "718",
+      "719",
+      "720",
+      "721",
+      "722",
+      "723",
+      "724",
+      "725",
+      "726",
+      "727",
+      "728",
+      "729"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-AR-72201-0",
+      "zip5": "72201",
+      "zip4": "1100",
+      "zipPlus4": "72201-1100",
+      "state": {
+        "nameEn": "Arkansas",
+        "abbreviation": "AR",
+        "fipsCode": "05",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Little Rock",
+      "acceptableCities": [
+        "Little Rock"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Little Rock",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Pulaski County",
+          "fipsCode": "05119",
+          "geoid": "05119"
+        }
+      ],
+      "primaryCounty": "Pulaski County",
+      "zcta": {
+        "code": "72201"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Little Rock Main Post Office",
+        "address": "600 E Capitol Ave",
+        "phone": "(501) 375-4700",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 34.7465,
+        "longitude": -92.2896,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "479",
+          "501",
+          "870"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 19,
+        "deliveryPoints": 8900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AR-72201",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-AR-72701-1",
+      "zip5": "72701",
+      "zip4": "2500",
+      "zipPlus4": "72701-2500",
+      "state": {
+        "nameEn": "Arkansas",
+        "abbreviation": "AR",
+        "fipsCode": "05",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Fayetteville",
+      "acceptableCities": [
+        "Fayetteville"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Fayetteville",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Washington County",
+          "fipsCode": "05143",
+          "geoid": "05143"
+        }
+      ],
+      "primaryCounty": "Washington County",
+      "zcta": {
+        "code": "72701"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Fayetteville Post Office",
+        "address": "1500 N Dickson St",
+        "phone": "(479) 443-4241",
+        "type": "Branch"
+      },
+      "coordinates": {
+        "latitude": 36.0626,
+        "longitude": -94.1574,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "479",
+          "501",
+          "870"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AR-72701",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

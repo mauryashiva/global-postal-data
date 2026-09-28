@@ -1,0 +1,63 @@
+{
+  "code": "74",
+  "nameEn": "Southeast Sulawesi",
+  "nameId": "Sulawesi Tenggara",
+  "nameNative": "Sulawesi Tenggara",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Kendari",
+  "capitalId": "Kota Kendari",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "93111",
+      "province": {
+        "code": "74",
+        "nameEn": "Southeast Sulawesi",
+        "nameId": "Sulawesi Tenggara",
+        "nameNative": "Sulawesi Tenggara",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "74.71",
+        "nameId": "Kota Kendari",
+        "nameEn": "Kendari",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "74.71.01",
+        "nameId": "Kecamatan Mandonga",
+        "nameEn": "Mandonga District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "74.71.01.1001",
+        "nameId": "Kelurahan Mandonga",
+        "nameEn": "Mandonga",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Kendari / Teluk Kendari",
+        "nameEn": "Kendari City Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Kendari",
+        "nameEn": "Kendari Main Post Office",
+        "code": "93000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-74-93111-74.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Guam",
+    "abbreviation": "GU",
+    "fipsCode": "66",
+    "capital": "Hagåtña",
+    "largestCity": "Dededo",
+    "category": "territories",
+    "administrativeType": "Territory",
+    "areaCodes": [
+      "671"
+    ],
+    "prefixes": [
+      "969"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-GU-96910-0",
+      "zip5": "96910",
+      "zip4": "1001",
+      "zipPlus4": "96910-1001",
+      "state": {
+        "nameEn": "Guam",
+        "abbreviation": "GU",
+        "fipsCode": "66",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Hagåtña",
+      "acceptableCities": [
+        "Hagåtña",
+        "Agana"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Hagåtña",
+          "status": "Primary"
+        },
+        {
+          "name": "Agana",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Guam",
+          "fipsCode": "66010",
+          "geoid": "66010"
+        }
+      ],
+      "primaryCounty": "Guam",
+      "zcta": {
+        "code": "96910"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Hagåtña Post Office",
+        "address": "223 W Chalan Santo Papa",
+        "phone": "(671) 472-8811",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 13.4757,
+        "longitude": 144.7533,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "671"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 19,
+        "deliveryPoints": 9500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-GU-96910",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-GU-96913-1",
+      "zip5": "96913",
+      "zip4": "2001",
+      "zipPlus4": "96913-2001",
+      "state": {
+        "nameEn": "Guam",
+        "abbreviation": "GU",
+        "fipsCode": "66",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Barrigada",
+      "acceptableCities": [
+        "Barrigada",
+        "Guam Main Facility"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Barrigada",
+          "status": "Primary"
+        },
+        {
+          "name": "Guam Main Facility",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Guam",
+          "fipsCode": "66010",
+          "geoid": "66010"
+        }
+      ],
+      "primaryCounty": "Guam",
+      "zcta": {
+        "code": "96913"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Guam Main Postal Facility",
+        "address": "497 E Marine Corps Dr",
+        "phone": "(671) 734-3921",
+        "type": "Processing and Distribution Center"
+      },
+      "coordinates": {
+        "latitude": 13.4708,
+        "longitude": 144.7997,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "671"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-GU-96913",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

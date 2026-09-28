@@ -1,0 +1,63 @@
+{
+  "code": "13",
+  "nameEn": "West Sumatra",
+  "nameId": "Sumatera Barat",
+  "nameNative": "Sumatera Barat",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Padang",
+  "capitalId": "Kota Padang",
+  "zone": "2",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "25111",
+      "province": {
+        "code": "13",
+        "nameEn": "West Sumatra",
+        "nameId": "Sumatera Barat",
+        "nameNative": "Sumatera Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "13.71",
+        "nameId": "Kota Padang",
+        "nameEn": "Padang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "13.71.01",
+        "nameId": "Kecamatan Padang Barat",
+        "nameEn": "West Padang District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "13.71.01.1001",
+        "nameId": "Kelurahan Belakang Tangsi",
+        "nameEn": "Belakang Tangsi",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Padang / Pantai Padang",
+        "nameEn": "Padang Waterfront & Commercial Zone"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Padang",
+        "nameEn": "Padang Main Post Office",
+        "code": "25000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-13-25111-13.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

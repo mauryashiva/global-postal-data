@@ -1,0 +1,707 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Khost",
+    "nameNative": "خوست",
+    "isoCode": "AF-KHO",
+    "postalPrefix": "25",
+    "capital": "Khost",
+    "capitalNative": "خوست",
+    "coordinates": {
+      "latitude": 33.3338,
+      "longitude": 69.9372
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 18,
+    "totalRecords": 18,
+    "urbanRecords": 6,
+    "ruralRecords": 12
+  },
+  "records": [
+    {
+      "postalCode": "250101",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Khost - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-KHO-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Khost District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-250101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "250201",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Khost - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-KHO-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Khost District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-250201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "250301",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Khost - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-KHO-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Khost District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-250301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "250401",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Khost - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-KHO-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Khost District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-250401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "250501",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Khost - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-KHO-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Khost District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-250501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "250601",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Khost - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-KHO-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Khost District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-250601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255101",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Spera District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-51"
+      },
+      "locality": {
+        "nameEn": "Spera Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Spera District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255201",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Tani District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-52"
+      },
+      "locality": {
+        "nameEn": "Tani Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tani District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255301",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Shamal District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-53"
+      },
+      "locality": {
+        "nameEn": "Shamal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shamal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255401",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Nadirshahkot District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-54"
+      },
+      "locality": {
+        "nameEn": "Nadirshahkot Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nadirshahkot District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255501",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Mandozayi District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-55"
+      },
+      "locality": {
+        "nameEn": "Mandozayi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Mandozayi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255601",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Gurbuz District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-56"
+      },
+      "locality": {
+        "nameEn": "Gurbuz Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gurbuz District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255701",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Terezayi District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-57"
+      },
+      "locality": {
+        "nameEn": "Terezayi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Terezayi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255801",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Bak District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-58"
+      },
+      "locality": {
+        "nameEn": "Bak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Bak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "255901",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Sabari District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-59"
+      },
+      "locality": {
+        "nameEn": "Sabari Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sabari District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-255901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "256001",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Jajimaydan District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-60"
+      },
+      "locality": {
+        "nameEn": "Jajimaydan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jajimaydan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-256001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "256101",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Musakhel District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-61"
+      },
+      "locality": {
+        "nameEn": "Musakhel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Musakhel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-256101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "256201",
+      "province": {
+        "nameEn": "Khost",
+        "nameNative": "خوست",
+        "code": "AF-KHO",
+        "postalPrefix": "25"
+      },
+      "city": {
+        "nameEn": "Khost",
+        "nameNative": "خوست"
+      },
+      "district": {
+        "nameEn": "Qalandar District",
+        "type": "Rural Administrative District",
+        "code": "AF-KHO-62"
+      },
+      "locality": {
+        "nameEn": "Qalandar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qalandar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.3338,
+        "longitude": 69.9372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-256201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

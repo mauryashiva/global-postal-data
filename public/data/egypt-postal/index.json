@@ -1,0 +1,355 @@
+{
+  "country": {
+    "nameEn": "Egypt",
+    "nameNative": "مصر",
+    "isoAlpha2": "EG",
+    "isoAlpha3": "EGY",
+    "isoNumeric": "818",
+    "phoneCode": "+20",
+    "flag": "🇪🇬"
+  },
+  "postalCode": {
+    "length": 5,
+    "numeric": true,
+    "format": "#####",
+    "regex": "^[0-9]{5}$",
+    "prefixCoverage": "11-85",
+    "structure": {
+      "digit1": "Postal Region (1: Greater Cairo, 2: Alexandria/West Delta, 3: Delta, 4: Canal & Sinai, 5: Western Coast, 6: Northern Upper Egypt, 7: Central Upper Egypt, 8: Southern Upper Egypt & Red Sea)",
+      "digit2": "Governorate / Sector Routing Center",
+      "digit3": "Postal Service / Sorting Type",
+      "digits4_5": "Specific Delivery Zone & Post Office Branch"
+    }
+  },
+  "administrativeSummary": {
+    "governorateCount": 27,
+    "governorates": [
+      {
+        "governorate": "Alexandria",
+        "native": "الإسكندرية",
+        "prefix": "21",
+        "slug": "alexandria",
+        "capital": "Alexandria",
+        "uniquePostalCodes": 7,
+        "totalRecords": 7,
+        "file": "governorates/alexandria.json"
+      },
+      {
+        "governorate": "Aswan",
+        "native": "أسوان",
+        "prefix": "81",
+        "slug": "aswan",
+        "capital": "Aswan",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/aswan.json"
+      },
+      {
+        "governorate": "Asyut",
+        "native": "أسيوط",
+        "prefix": "71",
+        "slug": "asyut",
+        "capital": "Asyut",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/asyut.json"
+      },
+      {
+        "governorate": "Beheira",
+        "native": "البحيرة",
+        "prefix": "22",
+        "slug": "beheira",
+        "capital": "Damanhur",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/beheira.json"
+      },
+      {
+        "governorate": "Beni Suef",
+        "native": "بني سويف",
+        "prefix": "62",
+        "slug": "beni-suef",
+        "capital": "Beni Suef",
+        "uniquePostalCodes": 1,
+        "totalRecords": 1,
+        "file": "governorates/beni-suef.json"
+      },
+      {
+        "governorate": "Cairo",
+        "native": "القاهرة",
+        "prefix": "11",
+        "slug": "cairo",
+        "capital": "Cairo",
+        "uniquePostalCodes": 20,
+        "totalRecords": 20,
+        "file": "governorates/cairo.json"
+      },
+      {
+        "governorate": "Dakahlia",
+        "native": "الدقهلية",
+        "prefix": "35",
+        "slug": "dakahlia",
+        "capital": "Mansoura",
+        "uniquePostalCodes": 4,
+        "totalRecords": 4,
+        "file": "governorates/dakahlia.json"
+      },
+      {
+        "governorate": "Damietta",
+        "native": "دمياط",
+        "prefix": "34",
+        "slug": "damietta",
+        "capital": "Damietta",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/damietta.json"
+      },
+      {
+        "governorate": "Faiyum",
+        "native": "الفيوم",
+        "prefix": "63",
+        "slug": "faiyum",
+        "capital": "Faiyum",
+        "uniquePostalCodes": 1,
+        "totalRecords": 1,
+        "file": "governorates/faiyum.json"
+      },
+      {
+        "governorate": "Gharbia",
+        "native": "الغربية",
+        "prefix": "31",
+        "slug": "gharbia",
+        "capital": "Tanta",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/gharbia.json"
+      },
+      {
+        "governorate": "Giza",
+        "native": "الجيزة",
+        "prefix": "12",
+        "slug": "giza",
+        "capital": "Giza",
+        "uniquePostalCodes": 10,
+        "totalRecords": 10,
+        "file": "governorates/giza.json"
+      },
+      {
+        "governorate": "Ismailia",
+        "native": "الإسماعيلية",
+        "prefix": "41",
+        "slug": "ismailia",
+        "capital": "Ismailia",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/ismailia.json"
+      },
+      {
+        "governorate": "Kafr El Sheikh",
+        "native": "كفر الشيخ",
+        "prefix": "33",
+        "slug": "kafr-el-sheikh",
+        "capital": "Kafr El Sheikh",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/kafr-el-sheikh.json"
+      },
+      {
+        "governorate": "Luxor",
+        "native": "الأقصر",
+        "prefix": "85",
+        "slug": "luxor",
+        "capital": "Luxor",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/luxor.json"
+      },
+      {
+        "governorate": "Matrouh",
+        "native": "مطروح",
+        "prefix": "51",
+        "slug": "matrouh",
+        "capital": "Marsa Matrouh",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/matrouh.json"
+      },
+      {
+        "governorate": "Minya",
+        "native": "المنيا",
+        "prefix": "61",
+        "slug": "minya",
+        "capital": "Minya",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/minya.json"
+      },
+      {
+        "governorate": "Monufia",
+        "native": "المنوفية",
+        "prefix": "32",
+        "slug": "monufia",
+        "capital": "Shibin El Kom",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/monufia.json"
+      },
+      {
+        "governorate": "New Valley",
+        "native": "الوادي الجديد",
+        "prefix": "72",
+        "slug": "new-valley",
+        "capital": "El Kharga",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/new-valley.json"
+      },
+      {
+        "governorate": "North Sinai",
+        "native": "شمال سيناء",
+        "prefix": "45",
+        "slug": "north-sinai",
+        "capital": "El Arish",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/north-sinai.json"
+      },
+      {
+        "governorate": "Port Said",
+        "native": "بورسعيد",
+        "prefix": "42",
+        "slug": "port-said",
+        "capital": "Port Said",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/port-said.json"
+      },
+      {
+        "governorate": "Qalyubia",
+        "native": "القليوبية",
+        "prefix": "13",
+        "slug": "qalyubia",
+        "capital": "Banha",
+        "uniquePostalCodes": 4,
+        "totalRecords": 4,
+        "file": "governorates/qalyubia.json"
+      },
+      {
+        "governorate": "Qena",
+        "native": "قنا",
+        "prefix": "83",
+        "slug": "qena",
+        "capital": "Qena",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/qena.json"
+      },
+      {
+        "governorate": "Red Sea",
+        "native": "البحر الأحمر",
+        "prefix": "84",
+        "slug": "red-sea",
+        "capital": "Hurghada",
+        "uniquePostalCodes": 5,
+        "totalRecords": 5,
+        "file": "governorates/red-sea.json"
+      },
+      {
+        "governorate": "Sharqia",
+        "native": "الشرقية",
+        "prefix": "44",
+        "slug": "sharqia",
+        "capital": "Zagazig",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/sharqia.json"
+      },
+      {
+        "governorate": "Sohag",
+        "native": "سوهاج",
+        "prefix": "82",
+        "slug": "sohag",
+        "capital": "Sohag",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "governorates/sohag.json"
+      },
+      {
+        "governorate": "South Sinai",
+        "native": "جنوب سيناء",
+        "prefix": "46",
+        "slug": "south-sinai",
+        "capital": "El Tor",
+        "uniquePostalCodes": 5,
+        "totalRecords": 5,
+        "file": "governorates/south-sinai.json"
+      },
+      {
+        "governorate": "Suez",
+        "native": "السويس",
+        "prefix": "43",
+        "slug": "suez",
+        "capital": "Suez",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "governorates/suez.json"
+      }
+    ]
+  },
+  "statistics": {
+    "governorateCount": 27,
+    "uniquePostalCodes": 100,
+    "totalRecords": 100,
+    "totalPostOffices": 100,
+    "totalLocalities": 391
+  },
+  "governorateByPrefix": {
+    "11": "cairo",
+    "12": "giza",
+    "13": "qalyubia",
+    "21": "alexandria",
+    "22": "beheira",
+    "31": "gharbia",
+    "32": "monufia",
+    "33": "kafr-el-sheikh",
+    "34": "damietta",
+    "35": "dakahlia",
+    "41": "ismailia",
+    "42": "port-said",
+    "43": "suez",
+    "44": "sharqia",
+    "45": "north-sinai",
+    "46": "south-sinai",
+    "51": "matrouh",
+    "61": "minya",
+    "62": "beni-suef",
+    "63": "faiyum",
+    "71": "asyut",
+    "72": "new-valley",
+    "81": "aswan",
+    "82": "sohag",
+    "83": "qena",
+    "84": "red-sea",
+    "85": "luxor"
+  },
+  "sources": [
+    {
+      "name": "Egypt Post / National Postal Authority (البريد المصري)",
+      "url": "https://www.egyptpost.org",
+      "system": "5-digit National Postal Code Standard",
+      "retrievedAt": "2026-09-26",
+      "sourceUpdatedAt": "2025-01-15"
+    },
+    {
+      "name": "Universal Postal Union (UPU)",
+      "standard": "UPU S42 Egypt Addressing Standard",
+      "system": "5-digit Postal Code Format"
+    },
+    {
+      "name": "Central Agency for Public Mobilization and Statistics (CAPMAS)",
+      "standard": "Official Administrative Divisions of Egypt",
+      "divisions": "27 Governorates"
+    }
+  ],
+  "lastUpdated": "2026-09-26T12:52:25.372Z"
+}

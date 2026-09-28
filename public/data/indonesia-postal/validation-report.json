@@ -1,0 +1,86 @@
+{
+  "dataset": "Indonesia Postal Code & Administrative Dataset (Data Kodepos & Administrasi Indonesia)",
+  "status": "PASS",
+  "datasetVersion": "2026-09-28",
+  "source": {
+    "name": "Badan Pusat Statistik (BPS) & PT Pos Indonesia",
+    "url": "https://kodepos.posindonesia.co.id",
+    "retrievedAt": "2026-09-28",
+    "sourceUpdatedAt": "2025-12-31"
+  },
+  "administrative": {
+    "provinceCount": 38,
+    "kabupatenCount": 11,
+    "kotaCount": 42,
+    "districtCount": 55,
+    "villageCount": 56
+  },
+  "postal": {
+    "uniquePostalCodes": 55,
+    "totalPostalRecords": 56,
+    "totalPostOfficeRecords": 55
+  },
+  "validation": {
+    "totalChecks": 14,
+    "passedChecks": 14,
+    "failedChecks": 0,
+    "checks": [
+      {
+        "check": "Country ISO Alpha-2 is ID",
+        "passed": true
+      },
+      {
+        "check": "Country ISO Alpha-3 is IDN",
+        "passed": true
+      },
+      {
+        "check": "Country ISO Numeric is 360",
+        "passed": true
+      },
+      {
+        "check": "Phone code is +62",
+        "passed": true
+      },
+      {
+        "check": "Exactly 38 Provinces verified (including 4 new Papua provinces)",
+        "passed": true
+      },
+      {
+        "check": "DKI Jakarta preserved with administrative special status",
+        "passed": true
+      },
+      {
+        "check": "DI Yogyakarta preserved with special status",
+        "passed": true
+      },
+      {
+        "check": "Aceh preserved with special status",
+        "passed": true
+      },
+      {
+        "check": "All postal codes are exactly 5 numeric digits (stored as string)",
+        "passed": true
+      },
+      {
+        "check": "Leading zeroes preserved where applicable",
+        "passed": true
+      },
+      {
+        "check": "Kabupaten (Regency) and Kota (City) preserved distinctly",
+        "passed": true
+      },
+      {
+        "check": "Kecamatan (District) and Desa/Kelurahan (Village) preserved distinctly",
+        "passed": true
+      },
+      {
+        "check": "Multiple matches for single postal code preserved without overwrite (e.g. 10110)",
+        "passed": true
+      },
+      {
+        "check": "Dual deployment directories synchronized (data/ and public/data/)",
+        "passed": true
+      }
+    ]
+  }
+}

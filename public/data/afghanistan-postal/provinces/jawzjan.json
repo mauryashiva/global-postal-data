@@ -1,0 +1,555 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Jawzjan",
+    "nameNative": "جوزجان",
+    "isoCode": "AF-JOW",
+    "postalPrefix": "19",
+    "capital": "Sheberghan",
+    "capitalNative": "شبرغان",
+    "coordinates": {
+      "latitude": 36.8978,
+      "longitude": 65.7529
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 14,
+    "totalRecords": 14,
+    "urbanRecords": 4,
+    "ruralRecords": 10
+  },
+  "records": [
+    {
+      "postalCode": "190101",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Sheberghan - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-JOW-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sheberghan District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-190101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "190201",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Sheberghan - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-JOW-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sheberghan District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-190201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "190301",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Sheberghan - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-JOW-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sheberghan District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-190301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "190401",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Sheberghan - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-JOW-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sheberghan District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-190401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195101",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Mardyan District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-51"
+      },
+      "locality": {
+        "nameEn": "Mardyan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Mardyan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195201",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Khamyab District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-52"
+      },
+      "locality": {
+        "nameEn": "Khamyab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khamyab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195301",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Khwajadukoh District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-53"
+      },
+      "locality": {
+        "nameEn": "Khwajadukoh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwajadukoh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195401",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Khanaqa District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-54"
+      },
+      "locality": {
+        "nameEn": "Khanaqa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khanaqa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195501",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Fayzabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-55"
+      },
+      "locality": {
+        "nameEn": "Fayzabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195601",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Aqcha District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-56"
+      },
+      "locality": {
+        "nameEn": "Aqcha Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Aqcha District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195701",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Qushtepa District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-57"
+      },
+      "locality": {
+        "nameEn": "Qushtepa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qushtepa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195801",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Darzab District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-58"
+      },
+      "locality": {
+        "nameEn": "Darzab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Darzab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "195901",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Mingajik District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-59"
+      },
+      "locality": {
+        "nameEn": "Mingajik Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Mingajik District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-195901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "196001",
+      "province": {
+        "nameEn": "Jawzjan",
+        "nameNative": "جوزجان",
+        "code": "AF-JOW",
+        "postalPrefix": "19"
+      },
+      "city": {
+        "nameEn": "Sheberghan",
+        "nameNative": "شبرغان"
+      },
+      "district": {
+        "nameEn": "Qarqin District",
+        "type": "Rural Administrative District",
+        "code": "AF-JOW-60"
+      },
+      "locality": {
+        "nameEn": "Qarqin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qarqin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.8978,
+        "longitude": 65.7529
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-196001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

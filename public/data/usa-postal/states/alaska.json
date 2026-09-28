@@ -1,0 +1,159 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Alaska",
+    "abbreviation": "AK",
+    "fipsCode": "02",
+    "capital": "Juneau",
+    "largestCity": "Anchorage",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "907"
+    ],
+    "prefixes": [
+      "995",
+      "996",
+      "997",
+      "998",
+      "999"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-AK-99501-0",
+      "zip5": "99501",
+      "zip4": "1974",
+      "zipPlus4": "99501-1974",
+      "state": {
+        "nameEn": "Alaska",
+        "abbreviation": "AK",
+        "fipsCode": "02",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Anchorage",
+      "acceptableCities": [
+        "Anchorage"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Anchorage",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Anchorage Municipality",
+          "fipsCode": "02020",
+          "geoid": "02020"
+        }
+      ],
+      "primaryCounty": "Anchorage Municipality",
+      "zcta": {
+        "code": "99501"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Anchorage Downtown Station",
+        "address": "330 W 5th Ave",
+        "phone": "(907) 279-0524",
+        "type": "Finance Station"
+      },
+      "coordinates": {
+        "latitude": 61.2181,
+        "longitude": -149.9003,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "907"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 11400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AK-99501",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-AK-99801-1",
+      "zip5": "99801",
+      "zip4": "2000",
+      "zipPlus4": "99801-2000",
+      "state": {
+        "nameEn": "Alaska",
+        "abbreviation": "AK",
+        "fipsCode": "02",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Juneau",
+      "acceptableCities": [
+        "Juneau"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Juneau",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Juneau City and Borough",
+          "fipsCode": "02110",
+          "geoid": "02110"
+        }
+      ],
+      "primaryCounty": "Juneau City and Borough",
+      "zcta": {
+        "code": "99801"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Juneau Main Post Office",
+        "address": "9491 Glacier Hwy",
+        "phone": "(907) 586-7138",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 58.3019,
+        "longitude": -134.4197,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "907"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 18,
+        "deliveryPoints": 9200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AK-99801",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

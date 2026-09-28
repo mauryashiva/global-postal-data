@@ -1,0 +1,63 @@
+{
+  "code": "62",
+  "nameEn": "Central Kalimantan",
+  "nameId": "Kalimantan Tengah",
+  "nameNative": "Kalimantan Tengah",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Palangka Raya",
+  "capitalId": "Kota Palangka Raya",
+  "zone": "7",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "73111",
+      "province": {
+        "code": "62",
+        "nameEn": "Central Kalimantan",
+        "nameId": "Kalimantan Tengah",
+        "nameNative": "Kalimantan Tengah",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "62.71",
+        "nameId": "Kota Palangka Raya",
+        "nameEn": "Palangka Raya",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "62.71.01",
+        "nameId": "Kecamatan Pahandut",
+        "nameEn": "Pahandut District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "62.71.01.1001",
+        "nameId": "Kelurahan Pahandut",
+        "nameEn": "Pahandut",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Bundaran Besar Palangka Raya / Sungai Kahayan",
+        "nameEn": "Great Roundabout Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Palangka Raya",
+        "nameEn": "Palangka Raya Main Post Office",
+        "code": "73000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-62-73111-62.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

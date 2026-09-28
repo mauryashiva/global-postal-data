@@ -1,0 +1,63 @@
+{
+  "code": "53",
+  "nameEn": "East Nusa Tenggara",
+  "nameId": "Nusa Tenggara Timur",
+  "nameNative": "Nusa Tenggara Timur",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Kupang",
+  "capitalId": "Kota Kupang",
+  "zone": "8",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "85111",
+      "province": {
+        "code": "53",
+        "nameEn": "East Nusa Tenggara",
+        "nameId": "Nusa Tenggara Timur",
+        "nameNative": "Nusa Tenggara Timur",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "53.71",
+        "nameId": "Kota Kupang",
+        "nameEn": "Kupang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "53.71.01",
+        "nameId": "Kecamatan Kota Lama",
+        "nameEn": "Kota Lama District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "53.71.01.1001",
+        "nameId": "Kelurahan Lahilai Bissi Kopan (LLBK)",
+        "nameEn": "LLBK",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Kupang / Pantai Teddys",
+        "nameEn": "Kupang Port & Waterfront"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Kupang",
+        "nameEn": "Kupang Main Post Office",
+        "code": "85000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-53-85111-53.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

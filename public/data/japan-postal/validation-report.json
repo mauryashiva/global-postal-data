@@ -1,0 +1,80 @@
+{
+  "dataset": "Japan Postal Code & Administrative Dataset (日本郵便番号・行政区画データセット)",
+  "status": "PASS",
+  "source": {
+    "name": "Japan Post Co., Ltd. (日本郵便株式会社)",
+    "retrievedAt": "2026-09-28",
+    "updatedAt": "2026-08-31",
+    "version": "2026-08-31"
+  },
+  "administrative": {
+    "prefectures": 47,
+    "toCount": 1,
+    "doCount": 1,
+    "fuCount": 2,
+    "kenCount": 43
+  },
+  "postal": {
+    "uniquePostalCodes": 69,
+    "uniqueAreaPostalCodes": 63,
+    "uniqueBusinessPostalCodes": 6,
+    "areaRecords": 64,
+    "businessRecords": 6,
+    "totalRecords": 70
+  },
+  "validation": {
+    "totalChecks": 12,
+    "passedChecks": 12,
+    "failedChecks": 0,
+    "checks": [
+      {
+        "check": "Country ISO Alpha-2 is JP",
+        "passed": true
+      },
+      {
+        "check": "Country ISO Alpha-3 is JPN",
+        "passed": true
+      },
+      {
+        "check": "Country ISO Numeric is 392",
+        "passed": true
+      },
+      {
+        "check": "Phone code is +81",
+        "passed": true
+      },
+      {
+        "check": "Exactly 47 Prefectures exist (1 To, 1 Do, 2 Fu, 43 Ken)",
+        "passed": true
+      },
+      {
+        "check": "Tokyo Special Wards preserved with administrativeType: \"Special Ward\"",
+        "passed": true
+      },
+      {
+        "check": "All active postal codes are strictly 7 numeric digits (strings)",
+        "passed": true
+      },
+      {
+        "check": "Leading zeros strictly preserved (e.g. 060-0000, 001-0001)",
+        "passed": true
+      },
+      {
+        "check": "Multilingual Japanese characters preserved in UTF-8 without corruption",
+        "passed": true
+      },
+      {
+        "check": "Business postal codes cleanly separated and identified",
+        "passed": true
+      },
+      {
+        "check": "Official Japan Post flags preserved (hasChome, multiplePostalCodesForTownArea, etc.)",
+        "passed": true
+      },
+      {
+        "check": "Dual deployment directories synchronized (data/ and public/data/)",
+        "passed": true
+      }
+    ]
+  }
+}

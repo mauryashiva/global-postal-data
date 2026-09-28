@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "WC",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "WC2N 5DU",
+      "postTown": "LONDON",
+      "locality": "Trafalgar Square",
+      "dependentLocality": "Charing Cross",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Westminster",
+      "civilParish": null,
+      "ward": "St James's",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5089,
+        "longitude": -0.1283,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "WC2N5DU-01",
+          "buildingName": "The National Gallery",
+          "buildingNumber": null,
+          "subBuildingName": null,
+          "thoroughfare": "Trafalgar Square",
+          "postTown": "LONDON",
+          "postcode": "WC2N 5DU",
+          "fullAddressText": "The National Gallery, Trafalgar Square, London WC2N 5DU"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "WC2N 5DU",
+        "outwardCode": "WC2N",
+        "inwardCode": "5DU",
+        "postcodeArea": "WC",
+        "postcodeDistrict": "WC2N",
+        "postcodeSector": "WC2N 5"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-WC2N-5DU",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

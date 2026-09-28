@@ -1,0 +1,193 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Gyeongsangbuk-do",
+    "nameOfficialEn": "North Gyeongsang Province",
+    "nameKo": "경상북도",
+    "category": "provinces",
+    "administrativeType": "Province",
+    "isoCode": "KR-47",
+    "prefixes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "areaCode": "054",
+    "capitalEn": "Andong",
+    "capitalKo": "안동",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 36.5684,
+      "longitude": 128.7294
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 6
+  },
+  "records": [
+    {
+      "postalCode": "36759",
+      "roadAddress": {
+        "roadName": "Docheong-daero",
+        "roadNameKo": "도청대로",
+        "roadNameCode": "471702000001",
+        "buildingNumber": "455",
+        "buildingName": "Gyeongsangbuk-do Provincial Government",
+        "buildingNameKo": "경상북도청 (경북 신도시)",
+        "buildingManagementNumber": "4717031021100010000000001",
+        "fullAddressEn": "455, Docheong-daero, Pungcheon-myeon, Gyeongsangbuk-do 36759, Republic of Korea",
+        "fullAddressKo": "경상북도 풍천면 도청대로 455 (갈전리, 경상북도청 (경북 신도시))"
+      },
+      "jibunAddress": {
+        "jibun": "1 Galjeon-ri, Pungcheon-myeon, Andong-si, Gyeongsangbuk-do",
+        "jibunKo": "경상북도 안동시 풍천면 갈전리 1",
+        "legalDong": "Galjeon-ri",
+        "legalDongKo": "갈전리",
+        "adminDong": "Pungcheon-myeon",
+        "adminDongKo": "풍천면"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gyeongsangbuk-do",
+          "nameOfficialEn": "North Gyeongsang Province",
+          "nameKo": "경상북도",
+          "isoCode": "KR-47",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Andong-si",
+          "nameKo": "안동시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Pungcheon-myeon",
+          "nameKo": "풍천면",
+          "administrativeType": "Myeon"
+        },
+        "townDong": {
+          "nameEn": "Galjeon-ri",
+          "nameKo": "갈전리",
+          "administrativeType": "Ri"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gyeongbuk Provincial Office Post Office",
+        "nameKo": "경북도청우체국",
+        "code": "36000",
+        "type": "Branch Post Office",
+        "phone": "054-880-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "054"
+      },
+      "areas": [
+        "Gyeongbuk Provincial New City",
+        "Traditional Korean Hanok Architecture Complex",
+        "Andong Hahoe Village Gateway"
+      ],
+      "coordinates": {
+        "latitude": 36.5789,
+        "longitude": 128.5089
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-NORTH-GYEONGSANG-36759",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "38127",
+      "roadAddress": {
+        "roadName": "Bulguk-ro",
+        "roadNameKo": "불국로",
+        "roadNameCode": "471303000015",
+        "buildingNumber": "385",
+        "buildingName": "Bulguksa Temple (UNESCO World Heritage)",
+        "buildingNameKo": "불국사 (유네스코 세계문화유산)",
+        "buildingManagementNumber": "4713013800100150001000001",
+        "fullAddressEn": "385, Bulguk-ro, Jinhyeon-dong, Gyeongsangbuk-do 38127, Republic of Korea",
+        "fullAddressKo": "경상북도 진현동 불국로 385 (진현동, 불국사 (유네스코 세계문화유산))"
+      },
+      "jibunAddress": {
+        "jibun": "15-1 Jinhyeon-dong, Gyeongju-si, Gyeongsangbuk-do",
+        "jibunKo": "경상북도 경주시 진현동 15-1",
+        "legalDong": "Jinhyeon-dong",
+        "legalDongKo": "진현동",
+        "adminDong": "Bulguk-dong",
+        "adminDongKo": "불국동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gyeongsangbuk-do",
+          "nameOfficialEn": "North Gyeongsang Province",
+          "nameKo": "경상북도",
+          "isoCode": "KR-47",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Gyeongju-si",
+          "nameKo": "경주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Jinhyeon-dong",
+          "nameKo": "진현동",
+          "administrativeType": "Dong"
+        },
+        "townDong": {
+          "nameEn": "Jinhyeon-dong",
+          "nameKo": "진현동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gyeongju Bulguksa Post Office",
+        "nameKo": "경주불국사우체국",
+        "code": "38000",
+        "type": "Branch Post Office",
+        "phone": "054-740-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "054"
+      },
+      "areas": [
+        "Bulguksa Temple World Heritage Grounds",
+        "Tohamsan Mountain",
+        "Seokguram Grotto Approach"
+      ],
+      "coordinates": {
+        "latitude": 35.7899,
+        "longitude": 129.332
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-NORTH-GYEONGSANG-38127",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

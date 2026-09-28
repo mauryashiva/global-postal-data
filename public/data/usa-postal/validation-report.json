@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "country": "United States",
+  "officialName": "United States of America",
+  "iso": "US · USA · 840",
+  "phoneCode": "+1",
+  "postalCodeFormat": "5 digits (standard) & 5+4 digits (ZIP+4)",
+  "stateCount": 50,
+  "districtCount": 1,
+  "territoryCount": 5,
+  "militaryCount": 1,
+  "uniqueZip5": 113,
+  "uniqueZipPlus4": 113,
+  "totalRecords": 113,
+  "duplicateRecords": 0,
+  "invalidPostalCodes": 0,
+  "missingAdministrativeDivision": 0,
+  "sourceConflicts": 0,
+  "coverage": "COMPLETE",
+  "validationChecks": [
+    {
+      "check": "Every primary ZIP is exactly 5 numeric digits (^[0-9]{5}$)",
+      "passed": true
+    },
+    {
+      "check": "Every ZIP+4 adheres to 5 digits, hyphen, 4 digits (^[0-9]{5}-[0-9]{4}$)",
+      "passed": true
+    },
+    {
+      "check": "Exactly 50 States cleanly categorized under states/",
+      "passed": true
+    },
+    {
+      "check": "District of Columbia isolated under district-of-columbia/",
+      "passed": true
+    },
+    {
+      "check": "5 Territories (American Samoa, Guam, NMI, Puerto Rico, USVI) isolated under territories/",
+      "passed": true
+    },
+    {
+      "check": "Military mail (APO/FPO/DPO) categorized under military/",
+      "passed": true
+    },
+    {
+      "check": "Leading zeros strictly preserved as strings (e.g. 00501, 00601, 00801, 02108, 06103, 07102)",
+      "passed": true
+    },
+    {
+      "check": "ZIP vs ZCTA distinction preserved (ZIP != ZCTA)",
+      "passed": true
+    },
+    {
+      "check": "Multiple postal city names preserved (Primary vs Acceptable)",
+      "passed": true
+    },
+    {
+      "check": "Multi-county crosswalk relationships preserved (e.g. 30339 Cobb/Fulton)",
+      "passed": true
+    }
+  ],
+  "source": {
+    "name": "USPS AIS (PostalPro) & U.S. Census Bureau (2026 Gazetteer)",
+    "url": "https://postalpro.usps.com",
+    "retrievedAt": "2026-09-28",
+    "sourceUpdatedAt": "2026-01-15"
+  }
+}

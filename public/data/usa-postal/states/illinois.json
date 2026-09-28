@@ -1,0 +1,207 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Illinois",
+    "abbreviation": "IL",
+    "fipsCode": "17",
+    "capital": "Springfield",
+    "largestCity": "Chicago",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "217",
+      "309",
+      "312",
+      "618",
+      "630",
+      "708",
+      "773",
+      "815",
+      "847"
+    ],
+    "prefixes": [
+      "600",
+      "601",
+      "602",
+      "603",
+      "604",
+      "605",
+      "606",
+      "607",
+      "608",
+      "609",
+      "610",
+      "611",
+      "612",
+      "613",
+      "614",
+      "615",
+      "616",
+      "617",
+      "618",
+      "619",
+      "620",
+      "622",
+      "623",
+      "624",
+      "625",
+      "626",
+      "627",
+      "628",
+      "629"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-IL-60601-0",
+      "zip5": "60601",
+      "zip4": "1001",
+      "zipPlus4": "60601-1001",
+      "state": {
+        "nameEn": "Illinois",
+        "abbreviation": "IL",
+        "fipsCode": "17",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Chicago",
+      "acceptableCities": [
+        "Chicago"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Chicago",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Cook County",
+          "fipsCode": "17031",
+          "geoid": "17031"
+        }
+      ],
+      "primaryCounty": "Cook County",
+      "zcta": {
+        "code": "60601"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Chicago Loop Station",
+        "address": "211 S Clark St",
+        "phone": "(312) 983-8100",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 41.8853,
+        "longitude": -87.6223,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "217",
+          "309",
+          "312",
+          "618",
+          "630",
+          "708",
+          "773",
+          "815",
+          "847"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 35,
+        "deliveryPoints": 18900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-IL-60601",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-IL-62701-1",
+      "zip5": "62701",
+      "zip4": "2001",
+      "zipPlus4": "62701-2001",
+      "state": {
+        "nameEn": "Illinois",
+        "abbreviation": "IL",
+        "fipsCode": "17",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Springfield",
+      "acceptableCities": [
+        "Springfield"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Springfield",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Sangamon County",
+          "fipsCode": "17167",
+          "geoid": "17167"
+        }
+      ],
+      "primaryCounty": "Sangamon County",
+      "zcta": {
+        "code": "62701"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Springfield Downtown Post Office",
+        "address": "600 E Monroe St",
+        "phone": "(217) 788-7200",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 39.8017,
+        "longitude": -89.6437,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "217",
+          "309",
+          "312",
+          "618",
+          "630",
+          "708",
+          "773",
+          "815",
+          "847"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 11000
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-IL-62701",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

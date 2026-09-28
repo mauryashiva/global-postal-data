@@ -1,0 +1,306 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Pennsylvania",
+    "abbreviation": "PA",
+    "fipsCode": "42",
+    "capital": "Harrisburg",
+    "largestCity": "Philadelphia",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "215",
+      "267",
+      "412",
+      "484",
+      "570",
+      "610",
+      "717",
+      "724",
+      "814",
+      "878"
+    ],
+    "prefixes": [
+      "150",
+      "151",
+      "152",
+      "153",
+      "154",
+      "155",
+      "156",
+      "157",
+      "158",
+      "159",
+      "160",
+      "161",
+      "162",
+      "163",
+      "164",
+      "165",
+      "166",
+      "167",
+      "168",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174",
+      "175",
+      "176",
+      "177",
+      "178",
+      "179",
+      "180",
+      "181",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "187",
+      "188",
+      "189",
+      "190",
+      "191",
+      "192",
+      "193",
+      "194",
+      "195",
+      "196"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-PA-19104-0",
+      "zip5": "19104",
+      "zip4": "1001",
+      "zipPlus4": "19104-1001",
+      "state": {
+        "nameEn": "Pennsylvania",
+        "abbreviation": "PA",
+        "fipsCode": "42",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Philadelphia",
+      "acceptableCities": [
+        "Philadelphia",
+        "University City"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Philadelphia",
+          "status": "Primary"
+        },
+        {
+          "name": "University City",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Philadelphia County",
+          "fipsCode": "42101",
+          "geoid": "42101"
+        }
+      ],
+      "primaryCounty": "Philadelphia County",
+      "zcta": {
+        "code": "19104"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Philadelphia 30th Street Station",
+        "address": "2970 Market St",
+        "phone": "(215) 895-8000",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 39.9575,
+        "longitude": -75.1958,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "215",
+          "267",
+          "412",
+          "484",
+          "570",
+          "610",
+          "717",
+          "724",
+          "814",
+          "878"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 38,
+        "deliveryPoints": 19800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-PA-19104",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-PA-15219-1",
+      "zip5": "15219",
+      "zip4": "1501",
+      "zipPlus4": "15219-1501",
+      "state": {
+        "nameEn": "Pennsylvania",
+        "abbreviation": "PA",
+        "fipsCode": "42",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Pittsburgh",
+      "acceptableCities": [
+        "Pittsburgh"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Pittsburgh",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Allegheny County",
+          "fipsCode": "42003",
+          "geoid": "42003"
+        }
+      ],
+      "primaryCounty": "Allegheny County",
+      "zcta": {
+        "code": "15219"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Pittsburgh Main Post Office",
+        "address": "1001 California Ave",
+        "phone": "(412) 359-7800",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 40.4406,
+        "longitude": -79.9959,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "215",
+          "267",
+          "412",
+          "484",
+          "570",
+          "610",
+          "717",
+          "724",
+          "814",
+          "878"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 32,
+        "deliveryPoints": 16500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-PA-15219",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-PA-17101-2",
+      "zip5": "17101",
+      "zip4": "2001",
+      "zipPlus4": "17101-2001",
+      "state": {
+        "nameEn": "Pennsylvania",
+        "abbreviation": "PA",
+        "fipsCode": "42",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Harrisburg",
+      "acceptableCities": [
+        "Harrisburg"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Harrisburg",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Dauphin County",
+          "fipsCode": "42043",
+          "geoid": "42043"
+        }
+      ],
+      "primaryCounty": "Dauphin County",
+      "zcta": {
+        "code": "17101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Harrisburg Main Post Office",
+        "address": "1425 Crooked Hill Rd",
+        "phone": "(717) 257-2100",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 40.26,
+        "longitude": -76.8839,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "215",
+          "267",
+          "412",
+          "484",
+          "570",
+          "610",
+          "717",
+          "724",
+          "814",
+          "878"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 23,
+        "deliveryPoints": 11500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-PA-17101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

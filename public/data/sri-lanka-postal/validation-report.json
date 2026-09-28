@@ -1,0 +1,98 @@
+{
+  "dataset": "Sri Lanka Postal Code & Administrative Dataset (ශ්‍රී ලංකා තැපැල් සහ පරිපාලන දත්ත පද්ධතිය)",
+  "status": "PASS",
+  "datasetVersion": "2026-09-28",
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144",
+    "phoneCode": "+94",
+    "currency": "LKR"
+  },
+  "administrativeSummary": {
+    "provinces": 9,
+    "districts": 25,
+    "dsDivisions": 329,
+    "gnDivisionsEstimated": 14007
+  },
+  "statistics": {
+    "uniquePostcodes": 2047,
+    "totalRecords": 2069,
+    "postOfficeRecords": 2069,
+    "multiMatchPostcodes": 19
+  },
+  "validation": {
+    "totalChecks": 7,
+    "passedChecks": 7,
+    "failedChecks": 0,
+    "checks": [
+      {
+        "check": "Exactly 9 Provinces verified",
+        "passed": true,
+        "details": "9/9 province files generated"
+      },
+      {
+        "check": "Exactly 25 administrative Districts verified",
+        "passed": true,
+        "details": "25/25 district files generated"
+      },
+      {
+        "check": "All postcodes are exactly 5-digit numeric strings with leading zeroes preserved (00xxx)",
+        "passed": true,
+        "details": "Sample leading zero postcode: \"00800\" (Colombo)"
+      },
+      {
+        "check": "Multiple locality/post-office matches for single postcodes preserved without overwrite",
+        "passed": true,
+        "details": "19 postcodes with multiple locality matches preserved"
+      },
+      {
+        "check": "Multilingual integrity: English, Sinhala (සිංහල), and Tamil (தமிழ்) preserved",
+        "passed": true,
+        "details": "Sinhala and Tamil names verified on administrative units"
+      },
+      {
+        "check": "Zero invalid or malformed postcodes",
+        "passed": true,
+        "details": "Invalid count: 0"
+      },
+      {
+        "check": "Zero orphan records without administrative parent",
+        "passed": true,
+        "details": "All records map to verified Province and District"
+      }
+    ],
+    "invalidPostcodes": [],
+    "duplicateRecords": []
+  },
+  "sources": [
+    {
+      "name": "Sri Lanka Post / Department of Posts",
+      "organization": "Department of Posts, Sri Lanka",
+      "url": "https://www.slpost.gov.lk",
+      "version": "Sri Lanka Postcode Directory",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Department of Census and Statistics (DCS)",
+      "organization": "Ministry of Finance, Economic Stabilization and National Policies",
+      "url": "https://www.statistics.gov.lk",
+      "version": "Administrative Division Codes & Census of Population and Housing",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Universal Postal Union (UPU)",
+      "organization": "Universal Postal Union",
+      "url": "https://www.upu.int",
+      "version": "UPU S42 Postal Addressing Standard - Sri Lanka",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    }
+  ],
+  "generatedAt": "2026-09-28T06:56:25.816Z"
+}

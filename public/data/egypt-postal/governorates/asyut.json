@@ -1,0 +1,120 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Asyut",
+    "nameNative": "أسيوط",
+    "isoCode": "EG-AST",
+    "postalPrefix": "71",
+    "capital": "Asyut",
+    "capitalNative": "أسيوط",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 27.1809,
+      "longitude": 31.1837
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "71511",
+      "governorate": {
+        "nameEn": "Asyut",
+        "nameNative": "أسيوط",
+        "code": "EG-AST",
+        "postalPrefix": "71",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Asyut",
+        "nameNative": "أسيوط",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Asyut 1",
+        "nameNative": "حي أول أسيوط",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata / Geesh",
+        "nameNative": "ميدان المحطة / الجيش",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Asyut Main Post Office",
+        "nameNative": "مكتب بريد أسيوط الرئيسي",
+        "type": "Main Post Office",
+        "code": "71511"
+      },
+      "areas": [
+        "Station Square Asyut",
+        "Geesh St Asyut",
+        "Asyut Nile Barrages",
+        "Yousry Ragheb St"
+      ],
+      "coordinates": {
+        "latitude": 27.1809,
+        "longitude": 31.1837
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ASYUT-71511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "71515",
+      "governorate": {
+        "nameEn": "Asyut",
+        "nameNative": "أسيوط",
+        "code": "EG-AST",
+        "postalPrefix": "71",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Asyut",
+        "nameNative": "أسيوط",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Asyut 2",
+        "nameNative": "حي ثان أسيوط",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "University Campus",
+        "nameNative": "الحرم الجامعي لجامعة أسيوط",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Asyut University Post Office",
+        "nameNative": "مكتب بريد جامعة أسيوط",
+        "type": "Sub Post Office",
+        "code": "71515"
+      },
+      "areas": [
+        "Asyut University Mega Campus",
+        "University Medical City",
+        "Faculty of Science",
+        "Nile West Bank"
+      ],
+      "coordinates": {
+        "latitude": 27.1956,
+        "longitude": 31.1689
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ASYUT-71515",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

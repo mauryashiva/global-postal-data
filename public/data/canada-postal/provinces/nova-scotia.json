@@ -1,0 +1,327 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Nova Scotia",
+    "nameFr": "Nouvelle-Écosse",
+    "code": "NS",
+    "isoCode": "CA-NS",
+    "sgcCode": "12",
+    "category": "province"
+  },
+  "recordCount": 6,
+  "postalRecords": [
+    {
+      "postalCode": "B3J 1A1",
+      "postalCodeNormalized": "B3J1A1",
+      "fsa": "B3J",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12"
+      },
+      "postalGeography": {
+        "postalCity": "Halifax",
+        "postalMunicipality": "Halifax Regional Municipality"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Halifax County",
+          "code": "1209",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Halifax",
+          "code": "1209034",
+          "type": "Regional Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Halifax Central Post Office / Grand Parade",
+        "nameFr": "Bureau de poste central de Halifax",
+        "station": "Stn Central",
+        "type": "Retail Post Office",
+        "identifier": "NS-HFX-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NS-B3J1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "B3J 2H5",
+      "postalCodeNormalized": "B3J2H5",
+      "fsa": "B3J",
+      "ldu": "2H5",
+      "provinceTerritory": {
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12"
+      },
+      "postalGeography": {
+        "postalCity": "Halifax",
+        "postalMunicipality": "Halifax Regional Municipality"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Halifax County",
+          "code": "1209",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Halifax",
+          "code": "1209034",
+          "type": "Regional Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "PO Box 1500-2500",
+          "station": "Central Postal Station"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Halifax Postal Box Facility",
+        "nameFr": "Installation de cases postales de Halifax",
+        "station": "Stn Central Boxes",
+        "type": "Box Delivery Facility",
+        "identifier": "NS-HFX-BOX"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NS-B3J2H5-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "B3K 5X5",
+      "postalCodeNormalized": "B3K5X5",
+      "fsa": "B3K",
+      "ldu": "5X5",
+      "provinceTerritory": {
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12"
+      },
+      "postalGeography": {
+        "postalCity": "Halifax",
+        "postalMunicipality": "Halifax Regional Municipality"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Halifax County",
+          "code": "1209",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Halifax",
+          "code": "1209034",
+          "type": "Regional Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Military Mail",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Military",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canadian Forces Base Halifax (CFB Halifax / Stadacona)",
+        "nameFr": "Base des Forces canadiennes Halifax",
+        "station": "CFPO Halifax",
+        "type": "Military Post Office",
+        "identifier": "NS-HFX-MIL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NS-B3K5X5-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "B2Y 1A1",
+      "postalCodeNormalized": "B2Y1A1",
+      "fsa": "B2Y",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12"
+      },
+      "postalGeography": {
+        "postalCity": "Dartmouth",
+        "postalMunicipality": "Halifax Regional Municipality"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Halifax County",
+          "code": "1209",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Halifax",
+          "code": "1209034",
+          "type": "Regional Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Dartmouth Downtown Post Office",
+        "nameFr": "Bureau de poste de Dartmouth Centre-Ville",
+        "station": "Stn Dartmouth",
+        "type": "Retail Post Office",
+        "identifier": "NS-DAR-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NS-B2Y1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "B1P 5E2",
+      "postalCodeNormalized": "B1P5E2",
+      "fsa": "B1P",
+      "ldu": "5E2",
+      "provinceTerritory": {
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12"
+      },
+      "postalGeography": {
+        "postalCity": "Sydney",
+        "postalMunicipality": "Cape Breton Regional Municipality"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Cape Breton County",
+          "code": "1217",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Cape Breton",
+          "code": "1217030",
+          "type": "Regional Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Sydney Main Post Office",
+        "nameFr": "Bureau de poste principal de Sydney",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "NS-SYD-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NS-B1P5E2-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "B0J 1T0",
+      "postalCodeNormalized": "B0J1T0",
+      "fsa": "B0J",
+      "ldu": "1T0",
+      "provinceTerritory": {
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12"
+      },
+      "postalGeography": {
+        "postalCity": "Hubbards",
+        "postalMunicipality": "Municipality of the District of Chester"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Lunenburg County",
+          "code": "1206",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Chester",
+          "code": "1206015",
+          "type": "Municipal District"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 2",
+          "station": "Hubbards Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Hubbards Post Office",
+        "nameFr": "Bureau de poste de Hubbards",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "NS-HUB-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NS-B0J1T0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

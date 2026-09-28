@@ -1,0 +1,376 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Florida",
+    "abbreviation": "FL",
+    "fipsCode": "12",
+    "capital": "Tallahassee",
+    "largestCity": "Jacksonville",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "305",
+      "321",
+      "352",
+      "386",
+      "407",
+      "561",
+      "727",
+      "772",
+      "813",
+      "850",
+      "863",
+      "904",
+      "941",
+      "954"
+    ],
+    "prefixes": [
+      "320",
+      "321",
+      "322",
+      "323",
+      "324",
+      "325",
+      "326",
+      "327",
+      "328",
+      "329",
+      "330",
+      "331",
+      "332",
+      "333",
+      "334",
+      "335",
+      "336",
+      "337",
+      "338",
+      "339",
+      "341",
+      "342",
+      "344",
+      "346",
+      "347",
+      "349"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 4,
+    "uniqueZipPlus4": 4,
+    "totalRecords": 4,
+    "countiesCount": 4
+  },
+  "records": [
+    {
+      "id": "US-FL-33101-0",
+      "zip5": "33101",
+      "zip4": "0001",
+      "zipPlus4": "33101-0001",
+      "state": {
+        "nameEn": "Florida",
+        "abbreviation": "FL",
+        "fipsCode": "12",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Miami",
+      "acceptableCities": [
+        "Miami"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Miami",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Miami-Dade County",
+          "fipsCode": "12086",
+          "geoid": "12086"
+        }
+      ],
+      "primaryCounty": "Miami-Dade County",
+      "zcta": null,
+      "zipType": "PO BOX",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Miami General Mail Facility",
+        "address": "2200 NW 72nd Ave",
+        "phone": "(305) 470-4200",
+        "type": "PO Box Hub"
+      },
+      "coordinates": {
+        "latitude": 25.7617,
+        "longitude": -80.1918,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "305",
+          "321",
+          "352",
+          "386",
+          "407",
+          "561",
+          "727",
+          "772",
+          "813",
+          "850",
+          "863",
+          "904",
+          "941",
+          "954"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 0,
+        "deliveryPoints": 4200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-FL-33101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-FL-33131-1",
+      "zip5": "33131",
+      "zip4": "1501",
+      "zipPlus4": "33131-1501",
+      "state": {
+        "nameEn": "Florida",
+        "abbreviation": "FL",
+        "fipsCode": "12",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Miami",
+      "acceptableCities": [
+        "Miami",
+        "Brickell"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Miami",
+          "status": "Primary"
+        },
+        {
+          "name": "Brickell",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Miami-Dade County",
+          "fipsCode": "12086",
+          "geoid": "12086"
+        }
+      ],
+      "primaryCounty": "Miami-Dade County",
+      "zcta": {
+        "code": "33131"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Brickell Post Office",
+        "address": "1100 Brickell Bay Dr",
+        "phone": "(305) 374-1290",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 25.7681,
+        "longitude": -80.1902,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "305",
+          "321",
+          "352",
+          "386",
+          "407",
+          "561",
+          "727",
+          "772",
+          "813",
+          "850",
+          "863",
+          "904",
+          "941",
+          "954"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 29,
+        "deliveryPoints": 15400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-FL-33131",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-FL-32801-2",
+      "zip5": "32801",
+      "zip4": "2001",
+      "zipPlus4": "32801-2001",
+      "state": {
+        "nameEn": "Florida",
+        "abbreviation": "FL",
+        "fipsCode": "12",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Orlando",
+      "acceptableCities": [
+        "Orlando"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Orlando",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Orange County",
+          "fipsCode": "12095",
+          "geoid": "12095"
+        }
+      ],
+      "primaryCounty": "Orange County",
+      "zcta": {
+        "code": "32801"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Orlando Downtown Post Office",
+        "address": "51 E Jefferson St",
+        "phone": "(407) 843-1250",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 28.5383,
+        "longitude": -81.3792,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "305",
+          "321",
+          "352",
+          "386",
+          "407",
+          "561",
+          "727",
+          "772",
+          "813",
+          "850",
+          "863",
+          "904",
+          "941",
+          "954"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-FL-32801",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-FL-32301-3",
+      "zip5": "32301",
+      "zip4": "1001",
+      "zipPlus4": "32301-1001",
+      "state": {
+        "nameEn": "Florida",
+        "abbreviation": "FL",
+        "fipsCode": "12",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Tallahassee",
+      "acceptableCities": [
+        "Tallahassee"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Tallahassee",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Leon County",
+          "fipsCode": "12073",
+          "geoid": "12073"
+        }
+      ],
+      "primaryCounty": "Leon County",
+      "zcta": {
+        "code": "32301"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Tallahassee Main Post Office",
+        "address": "2800 S Adams St",
+        "phone": "(850) 942-0145",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 30.4383,
+        "longitude": -84.2807,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "305",
+          "321",
+          "352",
+          "386",
+          "407",
+          "561",
+          "727",
+          "772",
+          "813",
+          "850",
+          "863",
+          "904",
+          "941",
+          "954"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 26,
+        "deliveryPoints": 13600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-FL-32301",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

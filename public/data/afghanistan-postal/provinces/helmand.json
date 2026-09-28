@@ -1,0 +1,745 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Helmand",
+    "nameNative": "هلمند",
+    "isoCode": "AF-HEL",
+    "postalPrefix": "39",
+    "capital": "Lashkargah",
+    "capitalNative": "لشکرگاه",
+    "coordinates": {
+      "latitude": 31.3547,
+      "longitude": 64.3855
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 19,
+    "totalRecords": 19,
+    "urbanRecords": 1,
+    "ruralRecords": 18
+  },
+  "records": [
+    {
+      "postalCode": "390101",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Lashkargah - Lashkargah",
+        "type": "Urban Municipal District",
+        "code": "AF-HEL-01"
+      },
+      "locality": {
+        "nameEn": "Lashkargah (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Lashkargah Lashkargah Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-390101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395101",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Deh-e-shu District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-51"
+      },
+      "locality": {
+        "nameEn": "Deh-e-shu Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Deh-e-shu District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395201",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Reg District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-52"
+      },
+      "locality": {
+        "nameEn": "Reg Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Reg District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395301",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Garmser District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-53"
+      },
+      "locality": {
+        "nameEn": "Garmser Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Garmser District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395401",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Nawa-e-Barakzaiy District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-54"
+      },
+      "locality": {
+        "nameEn": "Nawa-e-Barakzaiy Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nawa-e-Barakzaiy District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395501",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Nahr-e-Saraj District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-55"
+      },
+      "locality": {
+        "nameEn": "Nahr-e-Saraj Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nahr-e-Saraj District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395601",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Sangin District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-56"
+      },
+      "locality": {
+        "nameEn": "Sangin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sangin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395701",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Kajaki District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-57"
+      },
+      "locality": {
+        "nameEn": "Kajaki Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kajaki District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395801",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Baghran District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-58"
+      },
+      "locality": {
+        "nameEn": "Baghran Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baghran District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "395901",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Musaqalah District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-59"
+      },
+      "locality": {
+        "nameEn": "Musaqalah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Musaqalah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-395901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396001",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Nawzad District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-60"
+      },
+      "locality": {
+        "nameEn": "Nawzad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nawzad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396101",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "NaDistrict e-Ali District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-61"
+      },
+      "locality": {
+        "nameEn": "NaDistrict e-Ali Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "NaDistrict e-Ali District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396201",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Washer District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-62"
+      },
+      "locality": {
+        "nameEn": "Washer Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Washer District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396301",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Marja District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-63"
+      },
+      "locality": {
+        "nameEn": "Marja Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Marja District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396401",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Nawa-i- Mesh District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-64"
+      },
+      "locality": {
+        "nameEn": "Nawa-i- Mesh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nawa-i- Mesh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396501",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Baghni District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-65"
+      },
+      "locality": {
+        "nameEn": "Baghni Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baghni District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396601",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Baba Jai District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-66"
+      },
+      "locality": {
+        "nameEn": "Baba Jai Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baba Jai District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396701",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Baramcha District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-67"
+      },
+      "locality": {
+        "nameEn": "Baramcha Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baramcha District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "396801",
+      "province": {
+        "nameEn": "Helmand",
+        "nameNative": "هلمند",
+        "code": "AF-HEL",
+        "postalPrefix": "39"
+      },
+      "city": {
+        "nameEn": "Lashkargah",
+        "nameNative": "لشکرگاه"
+      },
+      "district": {
+        "nameEn": "Gershk (Nar Seraj) District",
+        "type": "Rural Administrative District",
+        "code": "AF-HEL-68"
+      },
+      "locality": {
+        "nameEn": "Gershk (Nar Seraj) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gershk (Nar Seraj) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.3547,
+        "longitude": 64.3855
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-396801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

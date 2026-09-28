@@ -1,0 +1,619 @@
+{
+  "country": {
+    "nameEn": "South Korea",
+    "nameOfficialEn": "Republic of Korea",
+    "nameNative": "대한민국",
+    "isoAlpha2": "KR",
+    "isoAlpha3": "KOR",
+    "isoNumeric": "410",
+    "phoneCode": "+82",
+    "flag": "🇰🇷"
+  },
+  "postalCode": {
+    "length": 5,
+    "numeric": true,
+    "format": "#####",
+    "regex": "^[0-9]{5}$",
+    "prefixCoverage": "01-63",
+    "structure": {
+      "digits1_2": "First-Level Division (Special City / Metropolitan City / Province)",
+      "digit3": "City (Si) / County (Gun) / Autonomous District (Gu)",
+      "digits4_5": "Specific Delivery Zone / Town (Eup/Myeon/Dong) / Road Segment"
+    }
+  },
+  "administrativeSummary": {
+    "specialCityCount": 1,
+    "metropolitanCityCount": 6,
+    "specialSelfGoverningCityCount": 1,
+    "provinceCount": 8,
+    "specialSelfGoverningProvinceCount": 1,
+    "totalFirstLevelDivisions": 17,
+    "divisions": [
+      {
+        "division": "Seoul",
+        "nameOfficialEn": "Seoul Special City",
+        "native": "서울특별시",
+        "category": "special-city",
+        "administrativeType": "Special City",
+        "prefixes": [
+          "01",
+          "02",
+          "03",
+          "04",
+          "05",
+          "06",
+          "07",
+          "08",
+          "09"
+        ],
+        "slug": "seoul",
+        "capital": "Seoul",
+        "uniquePostalCodes": 8,
+        "totalRecords": 8,
+        "file": "special-city/seoul.json"
+      },
+      {
+        "division": "Busan",
+        "nameOfficialEn": "Busan Metropolitan City",
+        "native": "부산광역시",
+        "category": "metropolitan-cities",
+        "administrativeType": "Metropolitan City",
+        "prefixes": [
+          "46",
+          "47",
+          "48",
+          "49"
+        ],
+        "slug": "busan",
+        "capital": "Busan",
+        "uniquePostalCodes": 4,
+        "totalRecords": 4,
+        "file": "metropolitan-cities/busan.json"
+      },
+      {
+        "division": "Daegu",
+        "nameOfficialEn": "Daegu Metropolitan City",
+        "native": "대구광역시",
+        "category": "metropolitan-cities",
+        "administrativeType": "Metropolitan City",
+        "prefixes": [
+          "41",
+          "42",
+          "43"
+        ],
+        "slug": "daegu",
+        "capital": "Daegu",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "metropolitan-cities/daegu.json"
+      },
+      {
+        "division": "Incheon",
+        "nameOfficialEn": "Incheon Metropolitan City",
+        "native": "인천광역시",
+        "category": "metropolitan-cities",
+        "administrativeType": "Metropolitan City",
+        "prefixes": [
+          "21",
+          "22",
+          "23"
+        ],
+        "slug": "incheon",
+        "capital": "Incheon",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "metropolitan-cities/incheon.json"
+      },
+      {
+        "division": "Gwangju",
+        "nameOfficialEn": "Gwangju Metropolitan City",
+        "native": "광주광역시",
+        "category": "metropolitan-cities",
+        "administrativeType": "Metropolitan City",
+        "prefixes": [
+          "61",
+          "62"
+        ],
+        "slug": "gwangju",
+        "capital": "Gwangju",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "metropolitan-cities/gwangju.json"
+      },
+      {
+        "division": "Daejeon",
+        "nameOfficialEn": "Daejeon Metropolitan City",
+        "native": "대전광역시",
+        "category": "metropolitan-cities",
+        "administrativeType": "Metropolitan City",
+        "prefixes": [
+          "34",
+          "35"
+        ],
+        "slug": "daejeon",
+        "capital": "Daejeon",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "metropolitan-cities/daejeon.json"
+      },
+      {
+        "division": "Ulsan",
+        "nameOfficialEn": "Ulsan Metropolitan City",
+        "native": "울산광역시",
+        "category": "metropolitan-cities",
+        "administrativeType": "Metropolitan City",
+        "prefixes": [
+          "44",
+          "45"
+        ],
+        "slug": "ulsan",
+        "capital": "Ulsan",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "metropolitan-cities/ulsan.json"
+      },
+      {
+        "division": "Sejong",
+        "nameOfficialEn": "Sejong Special Self-Governing City",
+        "native": "세종특별자치시",
+        "category": "special-self-governing-city",
+        "administrativeType": "Special Self-Governing City",
+        "prefixes": [
+          "30"
+        ],
+        "slug": "sejong",
+        "capital": "Sejong",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "special-self-governing-city/sejong.json"
+      },
+      {
+        "division": "Gyeonggi-do",
+        "nameOfficialEn": "Gyeonggi Province",
+        "native": "경기도",
+        "category": "provinces",
+        "administrativeType": "Province",
+        "prefixes": [
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20"
+        ],
+        "slug": "gyeonggi",
+        "capital": "Suwon",
+        "uniquePostalCodes": 3,
+        "totalRecords": 3,
+        "file": "provinces/gyeonggi.json"
+      },
+      {
+        "division": "Gangwon State",
+        "nameOfficialEn": "Gangwon Special Self-Governing Province",
+        "native": "강원특별자치도",
+        "category": "provinces",
+        "administrativeType": "Special Self-Governing Province",
+        "prefixes": [
+          "24",
+          "25",
+          "26"
+        ],
+        "slug": "gangwon",
+        "capital": "Chuncheon",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/gangwon.json"
+      },
+      {
+        "division": "Chungcheongbuk-do",
+        "nameOfficialEn": "North Chungcheong Province",
+        "native": "충청북도",
+        "category": "provinces",
+        "administrativeType": "Province",
+        "prefixes": [
+          "27",
+          "28",
+          "29"
+        ],
+        "slug": "north-chungcheong",
+        "capital": "Cheongju",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/north-chungcheong.json"
+      },
+      {
+        "division": "Chungcheongnam-do",
+        "nameOfficialEn": "South Chungcheong Province",
+        "native": "충청남도",
+        "category": "provinces",
+        "administrativeType": "Province",
+        "prefixes": [
+          "31",
+          "32",
+          "33"
+        ],
+        "slug": "south-chungcheong",
+        "capital": "Hongseong (Naepo)",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/south-chungcheong.json"
+      },
+      {
+        "division": "Jeonbuk State",
+        "nameOfficialEn": "Jeonbuk Special Self-Governing Province",
+        "native": "전북특별자치도",
+        "category": "provinces",
+        "administrativeType": "Special Self-Governing Province",
+        "prefixes": [
+          "54",
+          "55",
+          "56"
+        ],
+        "slug": "north-jeolla",
+        "capital": "Jeonju",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/north-jeolla.json"
+      },
+      {
+        "division": "Jeollanam-do",
+        "nameOfficialEn": "South Jeolla Province",
+        "native": "전라남도",
+        "category": "provinces",
+        "administrativeType": "Province",
+        "prefixes": [
+          "57",
+          "58",
+          "59",
+          "60"
+        ],
+        "slug": "south-jeolla",
+        "capital": "Muan (Namak)",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/south-jeolla.json"
+      },
+      {
+        "division": "Gyeongsangbuk-do",
+        "nameOfficialEn": "North Gyeongsang Province",
+        "native": "경상북도",
+        "category": "provinces",
+        "administrativeType": "Province",
+        "prefixes": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "slug": "north-gyeongsang",
+        "capital": "Andong",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/north-gyeongsang.json"
+      },
+      {
+        "division": "Gyeongsangnam-do",
+        "nameOfficialEn": "South Gyeongsang Province",
+        "native": "경상남도",
+        "category": "provinces",
+        "administrativeType": "Province",
+        "prefixes": [
+          "50",
+          "51",
+          "52",
+          "53"
+        ],
+        "slug": "south-gyeongsang",
+        "capital": "Changwon",
+        "uniquePostalCodes": 2,
+        "totalRecords": 2,
+        "file": "provinces/south-gyeongsang.json"
+      },
+      {
+        "division": "Jeju",
+        "nameOfficialEn": "Jeju Special Self-Governing Province",
+        "native": "제주특별자치도",
+        "category": "special-self-governing-province",
+        "administrativeType": "Special Self-Governing Province",
+        "prefixes": [
+          "63"
+        ],
+        "slug": "jeju",
+        "capital": "Jeju City",
+        "uniquePostalCodes": 4,
+        "totalRecords": 4,
+        "file": "special-self-governing-province/jeju.json"
+      }
+    ]
+  },
+  "statistics": {
+    "firstLevelDivisionCount": 17,
+    "uniquePostalCodes": 45,
+    "totalRecords": 45,
+    "totalAddresses": 45,
+    "totalPostOffices": 45,
+    "totalLocalities": 165
+  },
+  "divisionByPrefix": {
+    "10": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "11": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "12": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "13": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "14": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "15": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "16": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "17": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "18": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "19": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "20": {
+      "slug": "gyeonggi",
+      "file": "provinces/gyeonggi.json"
+    },
+    "21": {
+      "slug": "incheon",
+      "file": "metropolitan-cities/incheon.json"
+    },
+    "22": {
+      "slug": "incheon",
+      "file": "metropolitan-cities/incheon.json"
+    },
+    "23": {
+      "slug": "incheon",
+      "file": "metropolitan-cities/incheon.json"
+    },
+    "24": {
+      "slug": "gangwon",
+      "file": "provinces/gangwon.json"
+    },
+    "25": {
+      "slug": "gangwon",
+      "file": "provinces/gangwon.json"
+    },
+    "26": {
+      "slug": "gangwon",
+      "file": "provinces/gangwon.json"
+    },
+    "27": {
+      "slug": "north-chungcheong",
+      "file": "provinces/north-chungcheong.json"
+    },
+    "28": {
+      "slug": "north-chungcheong",
+      "file": "provinces/north-chungcheong.json"
+    },
+    "29": {
+      "slug": "north-chungcheong",
+      "file": "provinces/north-chungcheong.json"
+    },
+    "30": {
+      "slug": "sejong",
+      "file": "special-self-governing-city/sejong.json"
+    },
+    "31": {
+      "slug": "south-chungcheong",
+      "file": "provinces/south-chungcheong.json"
+    },
+    "32": {
+      "slug": "south-chungcheong",
+      "file": "provinces/south-chungcheong.json"
+    },
+    "33": {
+      "slug": "south-chungcheong",
+      "file": "provinces/south-chungcheong.json"
+    },
+    "34": {
+      "slug": "daejeon",
+      "file": "metropolitan-cities/daejeon.json"
+    },
+    "35": {
+      "slug": "daejeon",
+      "file": "metropolitan-cities/daejeon.json"
+    },
+    "36": {
+      "slug": "north-gyeongsang",
+      "file": "provinces/north-gyeongsang.json"
+    },
+    "37": {
+      "slug": "north-gyeongsang",
+      "file": "provinces/north-gyeongsang.json"
+    },
+    "38": {
+      "slug": "north-gyeongsang",
+      "file": "provinces/north-gyeongsang.json"
+    },
+    "39": {
+      "slug": "north-gyeongsang",
+      "file": "provinces/north-gyeongsang.json"
+    },
+    "40": {
+      "slug": "north-gyeongsang",
+      "file": "provinces/north-gyeongsang.json"
+    },
+    "41": {
+      "slug": "daegu",
+      "file": "metropolitan-cities/daegu.json"
+    },
+    "42": {
+      "slug": "daegu",
+      "file": "metropolitan-cities/daegu.json"
+    },
+    "43": {
+      "slug": "daegu",
+      "file": "metropolitan-cities/daegu.json"
+    },
+    "44": {
+      "slug": "ulsan",
+      "file": "metropolitan-cities/ulsan.json"
+    },
+    "45": {
+      "slug": "ulsan",
+      "file": "metropolitan-cities/ulsan.json"
+    },
+    "46": {
+      "slug": "busan",
+      "file": "metropolitan-cities/busan.json"
+    },
+    "47": {
+      "slug": "busan",
+      "file": "metropolitan-cities/busan.json"
+    },
+    "48": {
+      "slug": "busan",
+      "file": "metropolitan-cities/busan.json"
+    },
+    "49": {
+      "slug": "busan",
+      "file": "metropolitan-cities/busan.json"
+    },
+    "50": {
+      "slug": "south-gyeongsang",
+      "file": "provinces/south-gyeongsang.json"
+    },
+    "51": {
+      "slug": "south-gyeongsang",
+      "file": "provinces/south-gyeongsang.json"
+    },
+    "52": {
+      "slug": "south-gyeongsang",
+      "file": "provinces/south-gyeongsang.json"
+    },
+    "53": {
+      "slug": "south-gyeongsang",
+      "file": "provinces/south-gyeongsang.json"
+    },
+    "54": {
+      "slug": "north-jeolla",
+      "file": "provinces/north-jeolla.json"
+    },
+    "55": {
+      "slug": "north-jeolla",
+      "file": "provinces/north-jeolla.json"
+    },
+    "56": {
+      "slug": "north-jeolla",
+      "file": "provinces/north-jeolla.json"
+    },
+    "57": {
+      "slug": "south-jeolla",
+      "file": "provinces/south-jeolla.json"
+    },
+    "58": {
+      "slug": "south-jeolla",
+      "file": "provinces/south-jeolla.json"
+    },
+    "59": {
+      "slug": "south-jeolla",
+      "file": "provinces/south-jeolla.json"
+    },
+    "60": {
+      "slug": "south-jeolla",
+      "file": "provinces/south-jeolla.json"
+    },
+    "61": {
+      "slug": "gwangju",
+      "file": "metropolitan-cities/gwangju.json"
+    },
+    "62": {
+      "slug": "gwangju",
+      "file": "metropolitan-cities/gwangju.json"
+    },
+    "63": {
+      "slug": "jeju",
+      "file": "special-self-governing-province/jeju.json"
+    },
+    "01": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "02": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "03": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "04": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "05": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "06": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "07": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "08": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    },
+    "09": {
+      "slug": "seoul",
+      "file": "special-city/seoul.json"
+    }
+  },
+  "sources": [
+    {
+      "name": "Korea Post (우정사업본부)",
+      "url": "https://www.epost.go.kr",
+      "system": "5-Digit National Basic District System (국가기초구역번호)",
+      "effectiveDate": "2015-08-01",
+      "retrievedAt": "2026-09-28",
+      "sourceUpdatedAt": "2025-01-15"
+    },
+    {
+      "name": "Ministry of the Interior and Safety (행정안전부 도로명주소)",
+      "url": "https://www.juso.go.kr",
+      "standard": "Road Name Address Act (도로명주소법)",
+      "system": "Official Road Name Address & Lot Address Master"
+    },
+    {
+      "name": "Universal Postal Union (UPU)",
+      "standard": "UPU S42 Republic of Korea Addressing Standard",
+      "format": "5-digit postal code format"
+    }
+  ],
+  "lastUpdated": "2026-09-28T05:10:22.443Z"
+}

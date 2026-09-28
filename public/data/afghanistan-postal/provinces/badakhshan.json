@@ -1,0 +1,1353 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Badakhshan",
+    "nameNative": "بدخشان",
+    "isoCode": "AF-BDS",
+    "postalPrefix": "34",
+    "capital": "Fayzabad",
+    "capitalNative": "فیض‌آباد",
+    "coordinates": {
+      "latitude": 36.7348,
+      "longitude": 70.812
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 35,
+    "totalRecords": 35,
+    "urbanRecords": 8,
+    "ruralRecords": 27
+  },
+  "records": [
+    {
+      "postalCode": "340101",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340201",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340301",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340401",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340501",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340601",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340701",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "340801",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Fayzabad - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-BDS-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Fayzabad District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-340801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345101",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Koran wa Monjan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-51"
+      },
+      "locality": {
+        "nameEn": "Koran wa Monjan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Koran wa Monjan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345201",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Yawan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-52"
+      },
+      "locality": {
+        "nameEn": "Yawan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yawan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345301",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Tagab District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-53"
+      },
+      "locality": {
+        "nameEn": "Tagab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tagab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345401",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Keshem District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-54"
+      },
+      "locality": {
+        "nameEn": "Keshem Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Keshem District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345501",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Teshkan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-55"
+      },
+      "locality": {
+        "nameEn": "Teshkan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Teshkan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345601",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Darayem District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-56"
+      },
+      "locality": {
+        "nameEn": "Darayem Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Darayem District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345701",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Argo District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-57"
+      },
+      "locality": {
+        "nameEn": "Argo Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Argo District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345801",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Shahr-e-Buzorg District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-58"
+      },
+      "locality": {
+        "nameEn": "Shahr-e-Buzorg Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shahr-e-Buzorg District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "345901",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Khwahan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-59"
+      },
+      "locality": {
+        "nameEn": "Khwahan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwahan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-345901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346001",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Kohestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-60"
+      },
+      "locality": {
+        "nameEn": "Kohestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346101",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Raghestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-61"
+      },
+      "locality": {
+        "nameEn": "Raghestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Raghestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346201",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Khash District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-62"
+      },
+      "locality": {
+        "nameEn": "Khash Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khash District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346301",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Kofab District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-63"
+      },
+      "locality": {
+        "nameEn": "Kofab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kofab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346401",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Shaki District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-64"
+      },
+      "locality": {
+        "nameEn": "Shaki Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shaki District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346501",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Darwaz District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-65"
+      },
+      "locality": {
+        "nameEn": "Darwaz Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Darwaz District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346601",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Darwaz-e-Balla District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-66"
+      },
+      "locality": {
+        "nameEn": "Darwaz-e-Balla Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Darwaz-e-Balla District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346701",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Shighnan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-67"
+      },
+      "locality": {
+        "nameEn": "Shighnan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shighnan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346801",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Arghanjkhwa District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-68"
+      },
+      "locality": {
+        "nameEn": "Arghanjkhwa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Arghanjkhwa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "346901",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Shuhada District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-69"
+      },
+      "locality": {
+        "nameEn": "Shuhada Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shuhada District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-346901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347001",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Baharak District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-70"
+      },
+      "locality": {
+        "nameEn": "Baharak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baharak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347101",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Jorm District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-71"
+      },
+      "locality": {
+        "nameEn": "Jorm Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jorm District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347201",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Warduj District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-72"
+      },
+      "locality": {
+        "nameEn": "Warduj Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Warduj District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347301",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Eshkmesh District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-73"
+      },
+      "locality": {
+        "nameEn": "Eshkmesh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Eshkmesh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347401",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Zebak District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-74"
+      },
+      "locality": {
+        "nameEn": "Zebak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zebak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347501",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Wakhan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-75"
+      },
+      "locality": {
+        "nameEn": "Wakhan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Wakhan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347601",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Yamgan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-76"
+      },
+      "locality": {
+        "nameEn": "Yamgan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yamgan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "347701",
+      "province": {
+        "nameEn": "Badakhshan",
+        "nameNative": "بدخشان",
+        "code": "AF-BDS",
+        "postalPrefix": "34"
+      },
+      "city": {
+        "nameEn": "Fayzabad",
+        "nameNative": "فیض‌آباد"
+      },
+      "district": {
+        "nameEn": "Yaftal-e-Sufla District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDS-77"
+      },
+      "locality": {
+        "nameEn": "Yaftal-e-Sufla Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yaftal-e-Sufla District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7348,
+        "longitude": 70.812
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-347701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

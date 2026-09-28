@@ -1,0 +1,55 @@
+{
+  "prefix": "96",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "96111",
+      "province": {
+        "code": "75",
+        "nameEn": "Gorontalo",
+        "nameId": "Gorontalo",
+        "nameNative": "Gorontalo",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "75.71",
+        "nameId": "Kota Gorontalo",
+        "nameEn": "Gorontalo",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "75.71.01",
+        "nameId": "Kecamatan Kota Selatan",
+        "nameEn": "South City District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "75.71.01.1001",
+        "nameId": "Kelurahan Limba U-I",
+        "nameEn": "Limba U-I",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Gorontalo / Taruna Remaja",
+        "nameEn": "Gorontalo City Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Gorontalo",
+        "nameEn": "Gorontalo Main Post Office",
+        "code": "96100",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-75-96111-75.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

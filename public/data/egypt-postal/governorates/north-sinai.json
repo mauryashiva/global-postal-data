@@ -1,0 +1,119 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "North Sinai",
+    "nameNative": "شمال سيناء",
+    "isoCode": "EG-SIN",
+    "postalPrefix": "45",
+    "capital": "El Arish",
+    "capitalNative": "العريش",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.1316,
+      "longitude": 33.7984
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "45511",
+      "governorate": {
+        "nameEn": "North Sinai",
+        "nameNative": "شمال سيناء",
+        "code": "EG-SIN",
+        "postalPrefix": "45",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Arish",
+        "nameNative": "العريش",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Arish 1",
+        "nameNative": "قسم أول العريش",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Baladeya / 23 July",
+        "nameNative": "ميدان البلدية / شارع 23 يوليو",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "El Arish Main Post Office",
+        "nameNative": "مكتب بريد العريش الرئيسي",
+        "type": "Main Post Office",
+        "code": "45511"
+      },
+      "areas": [
+        "23rd July St El Arish",
+        "North Sinai Governorate Cabinet",
+        "Arish Corniche Palm Groves",
+        "Sinai University"
+      ],
+      "coordinates": {
+        "latitude": 31.1316,
+        "longitude": 33.7984
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-NORTH-SINAI-45511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "45614",
+      "governorate": {
+        "nameEn": "North Sinai",
+        "nameNative": "شمال سيناء",
+        "code": "EG-SIN",
+        "postalPrefix": "45",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Rafah",
+        "nameNative": "رفح",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Rafah",
+        "nameNative": "مركز رفح",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "New Rafah City",
+        "nameNative": "مدينة رفح الجديدة",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Rafah Post Office",
+        "nameNative": "مكتب بريد رفح المصرية",
+        "type": "Sub Post Office",
+        "code": "45614"
+      },
+      "areas": [
+        "New Rafah Residential Sectors",
+        "Border International Crossings Gate",
+        "Sheikh Zuweid Highway"
+      ],
+      "coordinates": {
+        "latitude": 31.2845,
+        "longitude": 34.2412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-NORTH-SINAI-45614",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

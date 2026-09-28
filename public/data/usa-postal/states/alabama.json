@@ -1,0 +1,253 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Alabama",
+    "abbreviation": "AL",
+    "fipsCode": "01",
+    "capital": "Montgomery",
+    "largestCity": "Huntsville",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "205",
+      "251",
+      "256",
+      "334",
+      "938"
+    ],
+    "prefixes": [
+      "350",
+      "351",
+      "352",
+      "354",
+      "355",
+      "356",
+      "357",
+      "358",
+      "359",
+      "360",
+      "361",
+      "362",
+      "363",
+      "364",
+      "365",
+      "366",
+      "367",
+      "368",
+      "369"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-AL-35801-0",
+      "zip5": "35801",
+      "zip4": "1234",
+      "zipPlus4": "35801-1234",
+      "state": {
+        "nameEn": "Alabama",
+        "abbreviation": "AL",
+        "fipsCode": "01",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Huntsville",
+      "acceptableCities": [
+        "Huntsville"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Huntsville",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Madison County",
+          "fipsCode": "01089",
+          "geoid": "01089"
+        }
+      ],
+      "primaryCounty": "Madison County",
+      "zcta": {
+        "code": "35801"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Huntsville Main Post Office",
+        "address": "3408 Triana Blvd SW",
+        "phone": "(256) 534-1188",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 34.7304,
+        "longitude": -86.5861,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "205",
+          "251",
+          "256",
+          "334",
+          "938"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 36,
+        "deliveryPoints": 16840
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AL-35801",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-AL-36104-1",
+      "zip5": "36104",
+      "zip4": "2001",
+      "zipPlus4": "36104-2001",
+      "state": {
+        "nameEn": "Alabama",
+        "abbreviation": "AL",
+        "fipsCode": "01",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Montgomery",
+      "acceptableCities": [
+        "Montgomery"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Montgomery",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Montgomery County",
+          "fipsCode": "01101",
+          "geoid": "01101"
+        }
+      ],
+      "primaryCounty": "Montgomery County",
+      "zcta": {
+        "code": "36104"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Montgomery Downtown Post Office",
+        "address": "135 Catoma St",
+        "phone": "(334) 262-6281",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 32.3792,
+        "longitude": -86.3077,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "205",
+          "251",
+          "256",
+          "334",
+          "938"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AL-36104",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-AL-35203-2",
+      "zip5": "35203",
+      "zip4": "1000",
+      "zipPlus4": "35203-1000",
+      "state": {
+        "nameEn": "Alabama",
+        "abbreviation": "AL",
+        "fipsCode": "01",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Birmingham",
+      "acceptableCities": [
+        "Birmingham"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Birmingham",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Jefferson County",
+          "fipsCode": "01073",
+          "geoid": "01073"
+        }
+      ],
+      "primaryCounty": "Jefferson County",
+      "zcta": {
+        "code": "35203"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Birmingham Main Post Office",
+        "address": "351 24th St N",
+        "phone": "(205) 521-0260",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 33.5207,
+        "longitude": -86.8025,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "205",
+          "251",
+          "256",
+          "334",
+          "938"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 31,
+        "deliveryPoints": 15300
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AL-35203",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

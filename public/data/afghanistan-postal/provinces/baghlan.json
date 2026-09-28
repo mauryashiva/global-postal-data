@@ -1,0 +1,821 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Baghlan",
+    "nameNative": "بغلان",
+    "isoCode": "AF-BGL",
+    "postalPrefix": "36",
+    "capital": "Puli Khumri",
+    "capitalNative": "پل خمری",
+    "coordinates": {
+      "latitude": 35.9525,
+      "longitude": 68.7099
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 21,
+    "totalRecords": 21,
+    "urbanRecords": 6,
+    "ruralRecords": 15
+  },
+  "records": [
+    {
+      "postalCode": "360101",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Puli Khumri - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-BGL-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Puli Khumri District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-360101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "360201",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Puli Khumri - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-BGL-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Puli Khumri District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-360201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "360301",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Puli Khumri - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-BGL-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Puli Khumri District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-360301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "360401",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Puli Khumri - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-BGL-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Puli Khumri District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-360401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "360501",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Puli Khumri - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-BGL-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Puli Khumri District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-360501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "360601",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Puli Khumri - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-BGL-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Puli Khumri District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-360601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365101",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Tala Wa barfak District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-51"
+      },
+      "locality": {
+        "nameEn": "Tala Wa barfak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tala Wa barfak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365201",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Doshi District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-52"
+      },
+      "locality": {
+        "nameEn": "Doshi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Doshi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365301",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Khenjan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-53"
+      },
+      "locality": {
+        "nameEn": "Khenjan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khenjan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365401",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Andarab District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-54"
+      },
+      "locality": {
+        "nameEn": "Andarab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Andarab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365501",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Dehsalah District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-55"
+      },
+      "locality": {
+        "nameEn": "Dehsalah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dehsalah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365601",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Khost Wa Fereng District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-56"
+      },
+      "locality": {
+        "nameEn": "Khost Wa Fereng Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khost Wa Fereng District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365701",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Fereng Wa Gharu District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-57"
+      },
+      "locality": {
+        "nameEn": "Fereng Wa Gharu Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Fereng Wa Gharu District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365801",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Guzargah-e-Nur District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-58"
+      },
+      "locality": {
+        "nameEn": "Guzargah-e-Nur Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Guzargah-e-Nur District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "365901",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Pul-e-Hesar District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-59"
+      },
+      "locality": {
+        "nameEn": "Pul-e-Hesar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Pul-e-Hesar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-365901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "366001",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Nahrin District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-60"
+      },
+      "locality": {
+        "nameEn": "Nahrin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nahrin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-366001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "366101",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Baghlan-e-Jadid District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-61"
+      },
+      "locality": {
+        "nameEn": "Baghlan-e-Jadid Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baghlan-e-Jadid District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-366101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "366201",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Khwajahejran District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-62"
+      },
+      "locality": {
+        "nameEn": "Khwajahejran Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwajahejran District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-366201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "366301",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Dahana-e-Ghori District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-63"
+      },
+      "locality": {
+        "nameEn": "Dahana-e-Ghori Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dahana-e-Ghori District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-366301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "366401",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Burka District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-64"
+      },
+      "locality": {
+        "nameEn": "Burka Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Burka District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-366401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "366501",
+      "province": {
+        "nameEn": "Baghlan",
+        "nameNative": "بغلان",
+        "code": "AF-BGL",
+        "postalPrefix": "36"
+      },
+      "city": {
+        "nameEn": "Puli Khumri",
+        "nameNative": "پل خمری"
+      },
+      "district": {
+        "nameEn": "Dandghori District",
+        "type": "Rural Administrative District",
+        "code": "AF-BGL-65"
+      },
+      "locality": {
+        "nameEn": "Dandghori Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dandghori District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.9525,
+        "longitude": 68.7099
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-366501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

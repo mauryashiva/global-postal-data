@@ -1,0 +1,221 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Saskatchewan",
+    "nameFr": "Saskatchewan",
+    "code": "SK",
+    "isoCode": "CA-SK",
+    "sgcCode": "47",
+    "category": "province"
+  },
+  "recordCount": 4,
+  "postalRecords": [
+    {
+      "postalCode": "S4P 0A1",
+      "postalCodeNormalized": "S4P0A1",
+      "fsa": "S4P",
+      "ldu": "0A1",
+      "provinceTerritory": {
+        "nameEn": "Saskatchewan",
+        "nameFr": "Saskatchewan",
+        "code": "SK",
+        "isoCode": "CA-SK",
+        "sgcCode": "47"
+      },
+      "postalGeography": {
+        "postalCity": "Regina",
+        "postalMunicipality": "City of Regina"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 6",
+          "code": "4706",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Regina",
+          "code": "4706027",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Saskatchewan Legislative Building / Downtown Station",
+        "nameFr": "Édifice législatif de la Saskatchewan",
+        "station": "Stn Downtown",
+        "type": "Government Facility",
+        "identifier": "SK-REG-LEG"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-SK-S4P0A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "S7K 0H1",
+      "postalCodeNormalized": "S7K0H1",
+      "fsa": "S7K",
+      "ldu": "0H1",
+      "provinceTerritory": {
+        "nameEn": "Saskatchewan",
+        "nameFr": "Saskatchewan",
+        "code": "SK",
+        "isoCode": "CA-SK",
+        "sgcCode": "47"
+      },
+      "postalGeography": {
+        "postalCity": "Saskatoon",
+        "postalMunicipality": "City of Saskatoon"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 11",
+          "code": "4711",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Saskatoon",
+          "code": "4711066",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Saskatoon Downtown Post Office",
+        "nameFr": "Bureau de poste du centre-ville de Saskatoon",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "SK-SAS-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-SK-S7K0H1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "S6H 1A1",
+      "postalCodeNormalized": "S6H1A1",
+      "fsa": "S6H",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Saskatchewan",
+        "nameFr": "Saskatchewan",
+        "code": "SK",
+        "isoCode": "CA-SK",
+        "sgcCode": "47"
+      },
+      "postalGeography": {
+        "postalCity": "Moose Jaw",
+        "postalMunicipality": "City of Moose Jaw"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 7",
+          "code": "4707",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Moose Jaw",
+          "code": "4707038",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Moose Jaw Post Office",
+        "nameFr": "Bureau de poste de Moose Jaw",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "SK-MSJ-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-SK-S6H1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "S0A 0A0",
+      "postalCodeNormalized": "S0A0A0",
+      "fsa": "S0A",
+      "ldu": "0A0",
+      "provinceTerritory": {
+        "nameEn": "Saskatchewan",
+        "nameFr": "Saskatchewan",
+        "code": "SK",
+        "isoCode": "CA-SK",
+        "sgcCode": "47"
+      },
+      "postalGeography": {
+        "postalCity": "Archerwill",
+        "postalMunicipality": "Village of Archerwill"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 14",
+          "code": "4714",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Archerwill",
+          "code": "4714036",
+          "type": "Village"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Archerwill Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Archerwill Post Office",
+        "nameFr": "Bureau de poste d’Archerwill",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "SK-ARC-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-SK-S0A0A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

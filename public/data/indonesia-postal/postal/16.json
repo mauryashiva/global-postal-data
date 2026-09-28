@@ -1,0 +1,55 @@
+{
+  "prefix": "16",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "16111",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.71",
+        "nameId": "Kota Bogor",
+        "nameEn": "Bogor",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "32.71.01",
+        "nameId": "Kecamatan Bogor Tengah",
+        "nameEn": "Central Bogor District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.71.01.1001",
+        "nameId": "Kelurahan Pabaton",
+        "nameEn": "Pabaton",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kebun Raya Bogor / Istana Kepresidenan Bogor",
+        "nameEn": "Bogor Botanical Gardens / Presidential Palace"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bogor",
+        "nameEn": "Bogor Main Post Office",
+        "code": "16000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-16111-32.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Michigan",
+    "abbreviation": "MI",
+    "fipsCode": "26",
+    "capital": "Lansing",
+    "largestCity": "Detroit",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "231",
+      "248",
+      "269",
+      "313",
+      "517",
+      "586",
+      "616",
+      "734",
+      "810",
+      "906",
+      "989"
+    ],
+    "prefixes": [
+      "480",
+      "481",
+      "482",
+      "483",
+      "484",
+      "485",
+      "486",
+      "487",
+      "488",
+      "489",
+      "490",
+      "491",
+      "492",
+      "493",
+      "494",
+      "495",
+      "496",
+      "497",
+      "498",
+      "499"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-MI-48226-0",
+      "zip5": "48226",
+      "zip4": "1001",
+      "zipPlus4": "48226-1001",
+      "state": {
+        "nameEn": "Michigan",
+        "abbreviation": "MI",
+        "fipsCode": "26",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Detroit",
+      "acceptableCities": [
+        "Detroit"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Detroit",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Wayne County",
+          "fipsCode": "26163",
+          "geoid": "26163"
+        }
+      ],
+      "primaryCounty": "Wayne County",
+      "zcta": {
+        "code": "48226"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Detroit Fort Shelby Station",
+        "address": "555 S Fort St",
+        "phone": "(313) 226-8600",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 42.3314,
+        "longitude": -83.0458,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "231",
+          "248",
+          "269",
+          "313",
+          "517",
+          "586",
+          "616",
+          "734",
+          "810",
+          "906",
+          "989"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 29,
+        "deliveryPoints": 14800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MI-48226",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MI-48933-1",
+      "zip5": "48933",
+      "zip4": "1501",
+      "zipPlus4": "48933-1501",
+      "state": {
+        "nameEn": "Michigan",
+        "abbreviation": "MI",
+        "fipsCode": "26",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Lansing",
+      "acceptableCities": [
+        "Lansing"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Lansing",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Ingham County",
+          "fipsCode": "26065",
+          "geoid": "26065"
+        }
+      ],
+      "primaryCounty": "Ingham County",
+      "zcta": {
+        "code": "48933"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Lansing Downtown Station",
+        "address": "315 W Allegan St",
+        "phone": "(517) 377-2200",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 42.7325,
+        "longitude": -84.5555,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "231",
+          "248",
+          "269",
+          "313",
+          "517",
+          "586",
+          "616",
+          "734",
+          "810",
+          "906",
+          "989"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 11100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MI-48933",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

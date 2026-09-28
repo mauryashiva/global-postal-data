@@ -1,0 +1,751 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Ontario",
+    "nameFr": "Ontario",
+    "code": "ON",
+    "isoCode": "CA-ON",
+    "sgcCode": "35",
+    "category": "province"
+  },
+  "recordCount": 14,
+  "postalRecords": [
+    {
+      "postalCode": "K1A 0B1",
+      "postalCodeNormalized": "K1A0B1",
+      "fsa": "K1A",
+      "ldu": "0B1",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Ottawa",
+        "postalMunicipality": "City of Ottawa"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Ottawa",
+          "code": "3506",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Ottawa",
+          "code": "3506008",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "House of Commons / Parliament Hill",
+        "nameFr": "Chambre des communes / Colline du Parlement",
+        "station": "Parliament Hill Station",
+        "type": "Federal Government / LVR",
+        "identifier": "ON-OTT-PARL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K1A0B1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "K1A 0A6",
+      "postalCodeNormalized": "K1A0A6",
+      "fsa": "K1A",
+      "ldu": "0A6",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Ottawa",
+        "postalMunicipality": "City of Ottawa"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Ottawa",
+          "code": "3506",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Ottawa",
+          "code": "3506008",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canada Post Corporation Head Office",
+        "nameFr": "Siège social de la Société canadienne des postes",
+        "station": "CPC Head Office Stn",
+        "type": "Postal HQ Facility",
+        "identifier": "ON-OTT-CPCHQ"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K1A0A6-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "K1A 0A2",
+      "postalCodeNormalized": "K1A0A2",
+      "fsa": "K1A",
+      "ldu": "0A2",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Ottawa",
+        "postalMunicipality": "City of Ottawa"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Ottawa",
+          "code": "3506",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Ottawa",
+          "code": "3506008",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "General Delivery",
+        "deliveryMode": "General delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": {
+          "isGeneralDelivery": true,
+          "identifier": "General Delivery",
+          "station": "Ottawa Station Main"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Ottawa Main General Delivery",
+        "nameFr": "Poste restante principale d’Ottawa",
+        "station": "Stn Main GD",
+        "type": "General Delivery Facility",
+        "identifier": "ON-OTT-GD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K1A0A2-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "K1P 5A0",
+      "postalCodeNormalized": "K1P5A0",
+      "fsa": "K1P",
+      "ldu": "5A0",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Ottawa",
+        "postalMunicipality": "City of Ottawa"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Ottawa",
+          "code": "3506",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Ottawa",
+          "code": "3506008",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "PO Box 100-999",
+          "station": "Station B"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Ottawa Postal Station B (Sparks Street)",
+        "nameFr": "Station postale B d’Ottawa (rue Sparks)",
+        "station": "Stn B",
+        "type": "Box Delivery Facility",
+        "identifier": "ON-OTT-STNB"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K1P5A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "K8N 5W6",
+      "postalCodeNormalized": "K8N5W6",
+      "fsa": "K8N",
+      "ldu": "5W6",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Astra",
+        "postalMunicipality": "City of Quinte West"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Hastings County",
+          "code": "3512",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Quinte West",
+          "code": "3512015",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Military Mail",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Military",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canadian Forces Base Trenton (8 Wing Trenton)",
+        "nameFr": "Base des Forces canadiennes Trenton (8e Escadre)",
+        "station": "CFPO Trenton / Astra",
+        "type": "Military Post Office",
+        "identifier": "ON-TRN-MIL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K8N5W6-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "M5V 3L9",
+      "postalCodeNormalized": "M5V3L9",
+      "fsa": "M5V",
+      "ldu": "3L9",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Toronto",
+        "postalMunicipality": "City of Toronto"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Toronto",
+          "code": "3520",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Toronto",
+          "code": "3520005",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "CN Tower / Rogers Centre Commercial Complex",
+        "nameFr": "Tour CN / Centre Rogers",
+        "station": "Stn Adelaide",
+        "type": "Commercial Retail Outlet",
+        "identifier": "ON-TOR-CNTWR"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-M5V3L9-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "M5H 2N2",
+      "postalCodeNormalized": "M5H2N2",
+      "fsa": "M5H",
+      "ldu": "2N2",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Toronto",
+        "postalMunicipality": "City of Toronto"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Toronto",
+          "code": "3520",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Toronto",
+          "code": "3520005",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Toronto City Hall / Nathan Phillips Square",
+        "nameFr": "Hôtel de ville de Toronto",
+        "station": "City Hall Stn",
+        "type": "Government Facility",
+        "identifier": "ON-TOR-CTYHL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-M5H2N2-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "M5W 1E6",
+      "postalCodeNormalized": "M5W1E6",
+      "fsa": "M5W",
+      "ldu": "1E6",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Toronto",
+        "postalMunicipality": "City of Toronto"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Toronto",
+          "code": "3520",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Toronto",
+          "code": "3520005",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "PO Box 1000-8000",
+          "station": "Station A"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Toronto Station A Box Facility",
+        "nameFr": "Installation de cases postales Station A de Toronto",
+        "station": "Stn A",
+        "type": "Box Delivery Facility",
+        "identifier": "ON-TOR-STNA"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-M5W1E6-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "L4T 1A1",
+      "postalCodeNormalized": "L4T1A1",
+      "fsa": "L4T",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Mississauga",
+        "postalMunicipality": "City of Mississauga"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Regional Municipality of Peel",
+          "code": "3521",
+          "type": "Regional Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Mississauga",
+          "code": "3521005",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Community mailbox",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Malton Postal Station",
+        "nameFr": "Station postale de Malton",
+        "station": "Stn Malton",
+        "type": "Retail Post Office",
+        "identifier": "ON-MIS-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-L4T1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "K0A 1L0",
+      "postalCodeNormalized": "K0A1L0",
+      "fsa": "K0A",
+      "ldu": "1L0",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Carp",
+        "postalMunicipality": "City of Ottawa"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Ottawa",
+          "code": "3506",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Ottawa",
+          "code": "3506008",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Carp Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Carp Post Office",
+        "nameFr": "Bureau de poste de Carp",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "ON-CRP-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K0A1L0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "K0A 1L0",
+      "postalCodeNormalized": "K0A1L0",
+      "fsa": "K0A",
+      "ldu": "1L0",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Mississippi Mills",
+        "postalMunicipality": "Town of Mississippi Mills"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Lanark County",
+          "code": "3509",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Mississippi Mills",
+          "code": "3509030",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 2",
+          "station": "Carp Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Mississippi Mills Delivery Point",
+        "nameFr": "Point de livraison de Mississippi Mills",
+        "station": "Stn Rural",
+        "type": "Rural Post Office",
+        "identifier": "ON-MSM-002"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-K0A1L0-02",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "L4H 0A1",
+      "postalCodeNormalized": "L4H0A1",
+      "fsa": "L4H",
+      "ldu": "0A1",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Vaughan",
+        "postalMunicipality": "City of Vaughan"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Regional Municipality of York",
+          "code": "3519",
+          "type": "Regional Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Vaughan",
+          "code": "3519028",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Community mailbox",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Woodbridge / Vaughan West Postal Station",
+        "nameFr": "Station postale de Woodbridge / Vaughan Ouest",
+        "station": "Stn Woodbridge",
+        "type": "Retail Post Office",
+        "identifier": "ON-VGH-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-L4H0A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "L4H 0A1",
+      "postalCodeNormalized": "L4H0A1",
+      "fsa": "L4H",
+      "ldu": "0A1",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Brampton",
+        "postalMunicipality": "City of Brampton"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Regional Municipality of Peel",
+          "code": "3521",
+          "type": "Regional Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Brampton",
+          "code": "3521010",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Community mailbox",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Goreway Postal Delivery Area",
+        "nameFr": "Secteur de livraison de Goreway",
+        "station": "Stn East Brampton",
+        "type": "Retail Post Office",
+        "identifier": "ON-BRM-002"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-L4H0A1-02",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "L0A 1A0",
+      "postalCodeNormalized": "L0A1A0",
+      "fsa": "L0A",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35"
+      },
+      "postalGeography": {
+        "postalCity": "Bethany",
+        "postalMunicipality": "City of Kawartha Lakes"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Kawartha Lakes",
+          "code": "3516",
+          "type": "Single-tier Municipality"
+        },
+        "censusSubdivision": {
+          "name": "Kawartha Lakes",
+          "code": "3516010",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 2",
+          "station": "Bethany Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Bethany Post Office",
+        "nameFr": "Bureau de poste de Bethany",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "ON-BTH-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-ON-L0A1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

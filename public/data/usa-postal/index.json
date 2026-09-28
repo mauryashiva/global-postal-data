@@ -1,0 +1,5968 @@
+{
+  "country": {
+    "nameEn": "United States",
+    "nameOfficialEn": "United States of America",
+    "nameNative": "United States",
+    "isoAlpha2": "US",
+    "isoAlpha3": "USA",
+    "isoNumeric": "840",
+    "phoneCode": "+1",
+    "flag": "🇺🇸"
+  },
+  "postalSystem": {
+    "name": "USPS ZIP Code & ZIP+4 System",
+    "zip5Length": 5,
+    "zip5Format": "#####",
+    "zip5Regex": "^[0-9]{5}$",
+    "zipPlus4Format": "#####-####",
+    "zipPlus4Regex": "^[0-9]{5}-[0-9]{4}$",
+    "structure": {
+      "digit1": "National Postal Area / Group of States (Zones 0 through 9)",
+      "digits2_3": "Sectional Center Facility (SCF) / Large Transportation Hub",
+      "digits4_5": "Associate Post Office, Local Delivery Station, or Branch",
+      "plus4": "Specific Street Segment, High-Rise Building, Floor, Firm, or Box Range"
+    }
+  },
+  "administrativeSummary": {
+    "stateCount": 50,
+    "districtCount": 1,
+    "territoryCount": 5,
+    "militaryCount": 1,
+    "totalJurisdictions": 57,
+    "divisions": [
+      {
+        "division": "Alabama",
+        "abbreviation": "AL",
+        "fipsCode": "01",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Montgomery",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "states/alabama.json"
+      },
+      {
+        "division": "Alaska",
+        "abbreviation": "AK",
+        "fipsCode": "02",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Juneau",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/alaska.json"
+      },
+      {
+        "division": "Arizona",
+        "abbreviation": "AZ",
+        "fipsCode": "04",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Phoenix",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "states/arizona.json"
+      },
+      {
+        "division": "Arkansas",
+        "abbreviation": "AR",
+        "fipsCode": "05",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Little Rock",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/arkansas.json"
+      },
+      {
+        "division": "California",
+        "abbreviation": "CA",
+        "fipsCode": "06",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Sacramento",
+        "uniqueZip5": 5,
+        "uniqueZipPlus4": 5,
+        "totalRecords": 5,
+        "file": "states/california.json"
+      },
+      {
+        "division": "Colorado",
+        "abbreviation": "CO",
+        "fipsCode": "08",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Denver",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/colorado.json"
+      },
+      {
+        "division": "Connecticut",
+        "abbreviation": "CT",
+        "fipsCode": "09",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Hartford",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/connecticut.json"
+      },
+      {
+        "division": "Delaware",
+        "abbreviation": "DE",
+        "fipsCode": "10",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Dover",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/delaware.json"
+      },
+      {
+        "division": "Florida",
+        "abbreviation": "FL",
+        "fipsCode": "12",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Tallahassee",
+        "uniqueZip5": 4,
+        "uniqueZipPlus4": 4,
+        "totalRecords": 4,
+        "file": "states/florida.json"
+      },
+      {
+        "division": "Georgia",
+        "abbreviation": "GA",
+        "fipsCode": "13",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Atlanta",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/georgia.json"
+      },
+      {
+        "division": "Hawaii",
+        "abbreviation": "HI",
+        "fipsCode": "15",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Honolulu",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/hawaii.json"
+      },
+      {
+        "division": "Idaho",
+        "abbreviation": "ID",
+        "fipsCode": "16",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Boise",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/idaho.json"
+      },
+      {
+        "division": "Illinois",
+        "abbreviation": "IL",
+        "fipsCode": "17",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Springfield",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/illinois.json"
+      },
+      {
+        "division": "Indiana",
+        "abbreviation": "IN",
+        "fipsCode": "18",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Indianapolis",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/indiana.json"
+      },
+      {
+        "division": "Iowa",
+        "abbreviation": "IA",
+        "fipsCode": "19",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Des Moines",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/iowa.json"
+      },
+      {
+        "division": "Kansas",
+        "abbreviation": "KS",
+        "fipsCode": "20",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Topeka",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/kansas.json"
+      },
+      {
+        "division": "Kentucky",
+        "abbreviation": "KY",
+        "fipsCode": "21",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Frankfort",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/kentucky.json"
+      },
+      {
+        "division": "Louisiana",
+        "abbreviation": "LA",
+        "fipsCode": "22",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Baton Rouge",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/louisiana.json"
+      },
+      {
+        "division": "Maine",
+        "abbreviation": "ME",
+        "fipsCode": "23",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Augusta",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/maine.json"
+      },
+      {
+        "division": "Maryland",
+        "abbreviation": "MD",
+        "fipsCode": "24",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Annapolis",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/maryland.json"
+      },
+      {
+        "division": "Massachusetts",
+        "abbreviation": "MA",
+        "fipsCode": "25",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Boston",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/massachusetts.json"
+      },
+      {
+        "division": "Michigan",
+        "abbreviation": "MI",
+        "fipsCode": "26",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Lansing",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/michigan.json"
+      },
+      {
+        "division": "Minnesota",
+        "abbreviation": "MN",
+        "fipsCode": "27",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Saint Paul",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/minnesota.json"
+      },
+      {
+        "division": "Mississippi",
+        "abbreviation": "MS",
+        "fipsCode": "28",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Jackson",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/mississippi.json"
+      },
+      {
+        "division": "Missouri",
+        "abbreviation": "MO",
+        "fipsCode": "29",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Jefferson City",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/missouri.json"
+      },
+      {
+        "division": "Montana",
+        "abbreviation": "MT",
+        "fipsCode": "30",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Helena",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/montana.json"
+      },
+      {
+        "division": "Nebraska",
+        "abbreviation": "NE",
+        "fipsCode": "31",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Lincoln",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/nebraska.json"
+      },
+      {
+        "division": "Nevada",
+        "abbreviation": "NV",
+        "fipsCode": "32",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Carson City",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/nevada.json"
+      },
+      {
+        "division": "New Hampshire",
+        "abbreviation": "NH",
+        "fipsCode": "33",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Concord",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/new-hampshire.json"
+      },
+      {
+        "division": "New Jersey",
+        "abbreviation": "NJ",
+        "fipsCode": "34",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Trenton",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/new-jersey.json"
+      },
+      {
+        "division": "New Mexico",
+        "abbreviation": "NM",
+        "fipsCode": "35",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Santa Fe",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/new-mexico.json"
+      },
+      {
+        "division": "New York",
+        "abbreviation": "NY",
+        "fipsCode": "36",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Albany",
+        "uniqueZip5": 5,
+        "uniqueZipPlus4": 5,
+        "totalRecords": 5,
+        "file": "states/new-york.json"
+      },
+      {
+        "division": "North Carolina",
+        "abbreviation": "NC",
+        "fipsCode": "37",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Raleigh",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/north-carolina.json"
+      },
+      {
+        "division": "North Dakota",
+        "abbreviation": "ND",
+        "fipsCode": "38",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Bismarck",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/north-dakota.json"
+      },
+      {
+        "division": "Ohio",
+        "abbreviation": "OH",
+        "fipsCode": "39",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Columbus",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/ohio.json"
+      },
+      {
+        "division": "Oklahoma",
+        "abbreviation": "OK",
+        "fipsCode": "40",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Oklahoma City",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/oklahoma.json"
+      },
+      {
+        "division": "Oregon",
+        "abbreviation": "OR",
+        "fipsCode": "41",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Salem",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/oregon.json"
+      },
+      {
+        "division": "Pennsylvania",
+        "abbreviation": "PA",
+        "fipsCode": "42",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Harrisburg",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "states/pennsylvania.json"
+      },
+      {
+        "division": "Rhode Island",
+        "abbreviation": "RI",
+        "fipsCode": "44",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Providence",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/rhode-island.json"
+      },
+      {
+        "division": "South Carolina",
+        "abbreviation": "SC",
+        "fipsCode": "45",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Columbia",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/south-carolina.json"
+      },
+      {
+        "division": "South Dakota",
+        "abbreviation": "SD",
+        "fipsCode": "46",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Pierre",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/south-dakota.json"
+      },
+      {
+        "division": "Tennessee",
+        "abbreviation": "TN",
+        "fipsCode": "47",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Nashville",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/tennessee.json"
+      },
+      {
+        "division": "Texas",
+        "abbreviation": "TX",
+        "fipsCode": "48",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Austin",
+        "uniqueZip5": 4,
+        "uniqueZipPlus4": 4,
+        "totalRecords": 4,
+        "file": "states/texas.json"
+      },
+      {
+        "division": "Utah",
+        "abbreviation": "UT",
+        "fipsCode": "49",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Salt Lake City",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/utah.json"
+      },
+      {
+        "division": "Vermont",
+        "abbreviation": "VT",
+        "fipsCode": "50",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Montpelier",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/vermont.json"
+      },
+      {
+        "division": "Virginia",
+        "abbreviation": "VA",
+        "fipsCode": "51",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Richmond",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "states/virginia.json"
+      },
+      {
+        "division": "Washington",
+        "abbreviation": "WA",
+        "fipsCode": "53",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Olympia",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "states/washington.json"
+      },
+      {
+        "division": "West Virginia",
+        "abbreviation": "WV",
+        "fipsCode": "54",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Charleston",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "states/west-virginia.json"
+      },
+      {
+        "division": "Wisconsin",
+        "abbreviation": "WI",
+        "fipsCode": "55",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Madison",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/wisconsin.json"
+      },
+      {
+        "division": "Wyoming",
+        "abbreviation": "WY",
+        "fipsCode": "56",
+        "category": "states",
+        "administrativeType": "State",
+        "capital": "Cheyenne",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "states/wyoming.json"
+      },
+      {
+        "division": "District of Columbia",
+        "abbreviation": "DC",
+        "fipsCode": "11",
+        "category": "district-of-columbia",
+        "administrativeType": "District",
+        "capital": "Washington",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "district-of-columbia/district-of-columbia.json"
+      },
+      {
+        "division": "American Samoa",
+        "abbreviation": "AS",
+        "fipsCode": "60",
+        "category": "territories",
+        "administrativeType": "Territory",
+        "capital": "Pago Pago",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "territories/american-samoa.json"
+      },
+      {
+        "division": "Guam",
+        "abbreviation": "GU",
+        "fipsCode": "66",
+        "category": "territories",
+        "administrativeType": "Territory",
+        "capital": "Hagåtña",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "territories/guam.json"
+      },
+      {
+        "division": "Northern Mariana Islands",
+        "abbreviation": "MP",
+        "fipsCode": "69",
+        "category": "territories",
+        "administrativeType": "Territory",
+        "capital": "Saipan",
+        "uniqueZip5": 1,
+        "uniqueZipPlus4": 1,
+        "totalRecords": 1,
+        "file": "territories/northern-mariana-islands.json"
+      },
+      {
+        "division": "Puerto Rico",
+        "abbreviation": "PR",
+        "fipsCode": "72",
+        "category": "territories",
+        "administrativeType": "Territory",
+        "capital": "San Juan",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "territories/puerto-rico.json"
+      },
+      {
+        "division": "U.S. Virgin Islands",
+        "abbreviation": "VI",
+        "fipsCode": "78",
+        "category": "territories",
+        "administrativeType": "Territory",
+        "capital": "Charlotte Amalie",
+        "uniqueZip5": 2,
+        "uniqueZipPlus4": 2,
+        "totalRecords": 2,
+        "file": "territories/us-virgin-islands.json"
+      },
+      {
+        "division": "U.S. Armed Forces (Military Mail)",
+        "abbreviation": "MIL",
+        "fipsCode": "99",
+        "category": "military",
+        "administrativeType": "Military",
+        "capital": "New York (FPO/APO Gateway)",
+        "uniqueZip5": 3,
+        "uniqueZipPlus4": 3,
+        "totalRecords": 3,
+        "file": "military/military.json"
+      }
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 113,
+    "uniqueZipPlus4": 113,
+    "totalRecords": 113,
+    "totalCountiesCovered": 100,
+    "totalPostOffices": 113
+  },
+  "zipToPartition": {
+    "10001": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "10022": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "11201": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "12207": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "15219": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "17101": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "19104": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "19801": {
+      "slug": "delaware",
+      "category": "states",
+      "file": "states/delaware.json"
+    },
+    "19901": {
+      "slug": "delaware",
+      "category": "states",
+      "file": "states/delaware.json"
+    },
+    "20001": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "20004": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "20500": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "21201": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "21401": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "22202": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "23219": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "23451": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "25301": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "27601": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "28202": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "29201": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "29401": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "30303": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "30339": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "32301": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "32801": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "33101": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "33131": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "34011": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "35203": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "35801": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "36104": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "37203": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "38103": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "39201": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "40202": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "43215": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "44114": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "46204": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "48226": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "48933": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "50309": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "53202": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "53703": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "55401": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "57104": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "58102": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "59101": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "59601": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "60601": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "62701": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "63101": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "64106": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "66603": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "68102": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "70112": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "72201": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "72701": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "73102": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "75001": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "77002": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "78205": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "78701": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "80202": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "80302": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "82001": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "83001": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "83702": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "84101": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "85001": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "85004": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "85701": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "87102": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "87501": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "89101": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "89701": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "90210": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "92101": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "94043": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "94102": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "95814": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "96201": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "96799": {
+      "slug": "american-samoa",
+      "category": "territories",
+      "file": "territories/american-samoa.json"
+    },
+    "96813": {
+      "slug": "hawaii",
+      "category": "states",
+      "file": "states/hawaii.json"
+    },
+    "96910": {
+      "slug": "guam",
+      "category": "territories",
+      "file": "territories/guam.json"
+    },
+    "96913": {
+      "slug": "guam",
+      "category": "territories",
+      "file": "territories/guam.json"
+    },
+    "96950": {
+      "slug": "northern-mariana-islands",
+      "category": "territories",
+      "file": "territories/northern-mariana-islands.json"
+    },
+    "97201": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "97301": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "98052": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "98101": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "98501": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "99501": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "99801": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "06103": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "06901": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "04101": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "02108": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "02138": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "03101": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "03301": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "07102": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "08540": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "00501": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "02903": {
+      "slug": "rhode-island",
+      "category": "states",
+      "file": "states/rhode-island.json"
+    },
+    "05401": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "05602": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "00901": {
+      "slug": "puerto-rico",
+      "category": "territories",
+      "file": "territories/puerto-rico.json"
+    },
+    "00907": {
+      "slug": "puerto-rico",
+      "category": "territories",
+      "file": "territories/puerto-rico.json"
+    },
+    "00601": {
+      "slug": "puerto-rico",
+      "category": "territories",
+      "file": "territories/puerto-rico.json"
+    },
+    "00801": {
+      "slug": "us-virgin-islands",
+      "category": "territories",
+      "file": "territories/us-virgin-islands.json"
+    },
+    "00802": {
+      "slug": "us-virgin-islands",
+      "category": "territories",
+      "file": "territories/us-virgin-islands.json"
+    },
+    "09012": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    }
+  },
+  "prefixToPartition": {
+    "100": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "101": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "102": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "103": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "104": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "105": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "106": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "107": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "108": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "109": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "110": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "111": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "112": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "113": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "114": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "115": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "116": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "117": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "118": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "119": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "120": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "121": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "122": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "123": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "124": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "125": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "126": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "127": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "128": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "129": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "130": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "131": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "132": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "133": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "134": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "135": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "136": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "137": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "138": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "139": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "140": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "141": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "142": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "143": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "144": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "145": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "146": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "147": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "148": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "149": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "150": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "151": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "152": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "153": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "154": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "155": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "156": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "157": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "158": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "159": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "160": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "161": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "162": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "163": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "164": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "165": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "166": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "167": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "168": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "169": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "170": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "171": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "172": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "173": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "174": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "175": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "176": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "177": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "178": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "179": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "180": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "181": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "182": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "183": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "184": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "185": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "186": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "187": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "188": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "189": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "190": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "191": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "192": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "193": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "194": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "195": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "196": {
+      "slug": "pennsylvania",
+      "category": "states",
+      "file": "states/pennsylvania.json"
+    },
+    "197": {
+      "slug": "delaware",
+      "category": "states",
+      "file": "states/delaware.json"
+    },
+    "198": {
+      "slug": "delaware",
+      "category": "states",
+      "file": "states/delaware.json"
+    },
+    "199": {
+      "slug": "delaware",
+      "category": "states",
+      "file": "states/delaware.json"
+    },
+    "200": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "201": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "202": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "203": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "204": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "205": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "206": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "207": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "208": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "209": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "210": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "211": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "212": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "214": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "215": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "216": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "217": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "218": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "219": {
+      "slug": "maryland",
+      "category": "states",
+      "file": "states/maryland.json"
+    },
+    "220": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "221": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "222": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "223": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "224": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "225": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "226": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "227": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "228": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "229": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "230": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "231": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "232": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "233": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "234": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "235": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "236": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "237": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "238": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "239": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "240": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "241": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "242": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "243": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "244": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "245": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "246": {
+      "slug": "virginia",
+      "category": "states",
+      "file": "states/virginia.json"
+    },
+    "247": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "248": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "249": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "250": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "251": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "252": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "253": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "254": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "255": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "256": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "257": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "258": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "259": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "260": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "261": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "262": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "263": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "264": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "265": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "266": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "267": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "268": {
+      "slug": "west-virginia",
+      "category": "states",
+      "file": "states/west-virginia.json"
+    },
+    "270": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "271": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "272": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "273": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "274": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "275": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "276": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "277": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "278": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "279": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "280": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "281": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "282": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "283": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "284": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "285": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "286": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "287": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "288": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "289": {
+      "slug": "north-carolina",
+      "category": "states",
+      "file": "states/north-carolina.json"
+    },
+    "290": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "291": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "292": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "293": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "294": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "295": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "296": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "297": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "298": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "299": {
+      "slug": "south-carolina",
+      "category": "states",
+      "file": "states/south-carolina.json"
+    },
+    "300": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "301": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "302": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "303": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "304": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "305": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "306": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "307": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "308": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "309": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "310": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "311": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "312": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "313": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "314": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "315": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "316": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "317": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "318": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "319": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "320": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "321": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "322": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "323": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "324": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "325": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "326": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "327": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "328": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "329": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "330": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "331": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "332": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "333": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "334": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "335": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "336": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "337": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "338": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "339": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "340": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "341": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "342": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "344": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "346": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "347": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "349": {
+      "slug": "florida",
+      "category": "states",
+      "file": "states/florida.json"
+    },
+    "350": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "351": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "352": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "354": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "355": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "356": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "357": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "358": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "359": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "360": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "361": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "362": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "363": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "364": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "365": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "366": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "367": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "368": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "369": {
+      "slug": "alabama",
+      "category": "states",
+      "file": "states/alabama.json"
+    },
+    "370": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "371": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "372": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "373": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "374": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "375": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "376": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "377": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "378": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "379": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "380": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "381": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "382": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "383": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "384": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "385": {
+      "slug": "tennessee",
+      "category": "states",
+      "file": "states/tennessee.json"
+    },
+    "386": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "387": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "388": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "389": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "390": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "391": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "392": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "393": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "394": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "395": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "396": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "397": {
+      "slug": "mississippi",
+      "category": "states",
+      "file": "states/mississippi.json"
+    },
+    "398": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "399": {
+      "slug": "georgia",
+      "category": "states",
+      "file": "states/georgia.json"
+    },
+    "400": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "401": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "402": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "403": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "404": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "405": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "406": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "407": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "408": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "409": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "410": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "411": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "412": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "413": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "414": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "415": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "416": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "417": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "418": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "420": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "421": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "422": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "423": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "424": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "425": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "426": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "427": {
+      "slug": "kentucky",
+      "category": "states",
+      "file": "states/kentucky.json"
+    },
+    "430": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "431": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "432": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "433": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "434": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "435": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "436": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "437": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "438": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "439": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "440": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "441": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "442": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "443": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "444": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "445": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "446": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "447": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "448": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "449": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "450": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "451": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "452": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "453": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "454": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "455": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "456": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "457": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "458": {
+      "slug": "ohio",
+      "category": "states",
+      "file": "states/ohio.json"
+    },
+    "460": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "461": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "462": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "463": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "464": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "465": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "466": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "467": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "468": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "469": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "470": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "471": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "472": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "473": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "474": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "475": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "476": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "477": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "478": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "479": {
+      "slug": "indiana",
+      "category": "states",
+      "file": "states/indiana.json"
+    },
+    "480": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "481": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "482": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "483": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "484": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "485": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "486": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "487": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "488": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "489": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "490": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "491": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "492": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "493": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "494": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "495": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "496": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "497": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "498": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "499": {
+      "slug": "michigan",
+      "category": "states",
+      "file": "states/michigan.json"
+    },
+    "500": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "501": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "502": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "503": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "504": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "505": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "506": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "507": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "508": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "509": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "510": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "511": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "512": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "513": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "514": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "515": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "516": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "520": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "521": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "522": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "523": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "524": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "525": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "526": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "527": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "528": {
+      "slug": "iowa",
+      "category": "states",
+      "file": "states/iowa.json"
+    },
+    "530": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "531": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "532": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "534": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "535": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "537": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "538": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "539": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "540": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "541": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "542": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "543": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "544": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "545": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "546": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "547": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "548": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "549": {
+      "slug": "wisconsin",
+      "category": "states",
+      "file": "states/wisconsin.json"
+    },
+    "550": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "551": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "553": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "554": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "555": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "556": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "557": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "558": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "559": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "560": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "561": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "562": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "563": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "564": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "565": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "566": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "567": {
+      "slug": "minnesota",
+      "category": "states",
+      "file": "states/minnesota.json"
+    },
+    "569": {
+      "slug": "district-of-columbia",
+      "category": "district-of-columbia",
+      "file": "district-of-columbia/district-of-columbia.json"
+    },
+    "570": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "571": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "572": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "573": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "574": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "575": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "576": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "577": {
+      "slug": "south-dakota",
+      "category": "states",
+      "file": "states/south-dakota.json"
+    },
+    "580": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "581": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "582": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "583": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "584": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "585": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "586": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "587": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "588": {
+      "slug": "north-dakota",
+      "category": "states",
+      "file": "states/north-dakota.json"
+    },
+    "590": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "591": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "592": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "593": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "594": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "595": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "596": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "597": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "598": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "599": {
+      "slug": "montana",
+      "category": "states",
+      "file": "states/montana.json"
+    },
+    "600": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "601": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "602": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "603": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "604": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "605": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "606": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "607": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "608": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "609": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "610": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "611": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "612": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "613": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "614": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "615": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "616": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "617": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "618": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "619": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "620": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "622": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "623": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "624": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "625": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "626": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "627": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "628": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "629": {
+      "slug": "illinois",
+      "category": "states",
+      "file": "states/illinois.json"
+    },
+    "630": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "631": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "633": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "634": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "635": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "636": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "637": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "638": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "639": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "640": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "641": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "644": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "645": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "646": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "647": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "648": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "650": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "651": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "652": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "653": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "654": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "655": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "656": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "657": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "658": {
+      "slug": "missouri",
+      "category": "states",
+      "file": "states/missouri.json"
+    },
+    "660": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "661": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "662": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "664": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "665": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "666": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "667": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "668": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "669": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "670": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "671": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "672": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "673": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "674": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "675": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "676": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "677": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "678": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "679": {
+      "slug": "kansas",
+      "category": "states",
+      "file": "states/kansas.json"
+    },
+    "680": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "681": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "683": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "684": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "685": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "686": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "687": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "688": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "689": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "690": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "691": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "692": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "693": {
+      "slug": "nebraska",
+      "category": "states",
+      "file": "states/nebraska.json"
+    },
+    "700": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "701": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "703": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "704": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "705": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "706": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "707": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "708": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "710": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "711": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "712": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "713": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "714": {
+      "slug": "louisiana",
+      "category": "states",
+      "file": "states/louisiana.json"
+    },
+    "716": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "717": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "718": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "719": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "720": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "721": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "722": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "723": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "724": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "725": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "726": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "727": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "728": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "729": {
+      "slug": "arkansas",
+      "category": "states",
+      "file": "states/arkansas.json"
+    },
+    "730": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "731": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "733": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "734": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "735": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "736": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "737": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "738": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "739": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "740": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "741": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "743": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "744": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "745": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "746": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "747": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "748": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "749": {
+      "slug": "oklahoma",
+      "category": "states",
+      "file": "states/oklahoma.json"
+    },
+    "750": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "751": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "752": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "753": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "754": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "755": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "756": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "757": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "758": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "759": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "760": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "761": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "762": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "763": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "764": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "765": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "766": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "767": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "768": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "769": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "770": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "771": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "772": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "773": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "774": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "775": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "776": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "777": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "778": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "779": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "780": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "781": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "782": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "783": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "784": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "785": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "786": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "787": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "788": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "789": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "790": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "791": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "792": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "793": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "794": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "795": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "796": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "797": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "798": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "799": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "800": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "801": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "802": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "803": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "804": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "805": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "806": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "807": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "808": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "809": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "810": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "811": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "812": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "813": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "814": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "815": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "816": {
+      "slug": "colorado",
+      "category": "states",
+      "file": "states/colorado.json"
+    },
+    "820": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "821": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "822": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "823": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "824": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "825": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "826": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "827": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "828": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "829": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "830": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "831": {
+      "slug": "wyoming",
+      "category": "states",
+      "file": "states/wyoming.json"
+    },
+    "832": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "833": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "834": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "835": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "836": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "837": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "838": {
+      "slug": "idaho",
+      "category": "states",
+      "file": "states/idaho.json"
+    },
+    "840": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "841": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "842": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "843": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "844": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "845": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "846": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "847": {
+      "slug": "utah",
+      "category": "states",
+      "file": "states/utah.json"
+    },
+    "850": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "851": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "852": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "853": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "855": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "856": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "857": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "859": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "860": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "863": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "864": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "865": {
+      "slug": "arizona",
+      "category": "states",
+      "file": "states/arizona.json"
+    },
+    "870": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "871": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "872": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "873": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "874": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "875": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "877": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "878": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "879": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "880": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "881": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "882": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "883": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "884": {
+      "slug": "new-mexico",
+      "category": "states",
+      "file": "states/new-mexico.json"
+    },
+    "885": {
+      "slug": "texas",
+      "category": "states",
+      "file": "states/texas.json"
+    },
+    "889": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "890": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "891": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "893": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "894": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "895": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "897": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "898": {
+      "slug": "nevada",
+      "category": "states",
+      "file": "states/nevada.json"
+    },
+    "900": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "901": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "902": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "903": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "904": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "905": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "906": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "907": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "908": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "910": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "911": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "912": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "913": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "914": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "915": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "916": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "917": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "918": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "919": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "920": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "921": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "922": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "923": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "924": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "925": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "926": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "927": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "928": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "930": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "931": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "932": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "933": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "934": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "935": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "936": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "937": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "938": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "939": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "940": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "941": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "942": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "943": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "944": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "945": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "946": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "947": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "948": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "949": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "950": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "951": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "952": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "953": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "954": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "955": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "956": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "957": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "958": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "959": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "960": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "961": {
+      "slug": "california",
+      "category": "states",
+      "file": "states/california.json"
+    },
+    "962": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "963": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "964": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "965": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "966": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "967": {
+      "slug": "hawaii",
+      "category": "states",
+      "file": "states/hawaii.json"
+    },
+    "968": {
+      "slug": "hawaii",
+      "category": "states",
+      "file": "states/hawaii.json"
+    },
+    "969": {
+      "slug": "guam",
+      "category": "territories",
+      "file": "territories/guam.json"
+    },
+    "970": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "971": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "972": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "973": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "974": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "975": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "976": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "977": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "978": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "979": {
+      "slug": "oregon",
+      "category": "states",
+      "file": "states/oregon.json"
+    },
+    "980": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "981": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "982": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "983": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "984": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "985": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "986": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "988": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "989": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "990": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "991": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "992": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "993": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "994": {
+      "slug": "washington",
+      "category": "states",
+      "file": "states/washington.json"
+    },
+    "995": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "996": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "997": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "998": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "999": {
+      "slug": "alaska",
+      "category": "states",
+      "file": "states/alaska.json"
+    },
+    "060": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "061": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "062": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "063": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "064": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "065": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "066": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "067": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "068": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "069": {
+      "slug": "connecticut",
+      "category": "states",
+      "file": "states/connecticut.json"
+    },
+    "039": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "040": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "041": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "042": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "043": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "044": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "045": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "046": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "047": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "048": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "049": {
+      "slug": "maine",
+      "category": "states",
+      "file": "states/maine.json"
+    },
+    "010": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "011": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "012": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "013": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "014": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "015": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "016": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "017": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "018": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "019": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "020": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "021": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "022": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "023": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "024": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "025": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "026": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "027": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "055": {
+      "slug": "massachusetts",
+      "category": "states",
+      "file": "states/massachusetts.json"
+    },
+    "030": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "031": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "032": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "033": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "034": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "035": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "036": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "037": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "038": {
+      "slug": "new-hampshire",
+      "category": "states",
+      "file": "states/new-hampshire.json"
+    },
+    "070": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "071": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "072": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "073": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "074": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "075": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "076": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "077": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "078": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "079": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "080": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "081": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "082": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "083": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "084": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "085": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "086": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "087": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "088": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "089": {
+      "slug": "new-jersey",
+      "category": "states",
+      "file": "states/new-jersey.json"
+    },
+    "005": {
+      "slug": "new-york",
+      "category": "states",
+      "file": "states/new-york.json"
+    },
+    "028": {
+      "slug": "rhode-island",
+      "category": "states",
+      "file": "states/rhode-island.json"
+    },
+    "029": {
+      "slug": "rhode-island",
+      "category": "states",
+      "file": "states/rhode-island.json"
+    },
+    "050": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "051": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "052": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "053": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "054": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "056": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "057": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "058": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "059": {
+      "slug": "vermont",
+      "category": "states",
+      "file": "states/vermont.json"
+    },
+    "006": {
+      "slug": "puerto-rico",
+      "category": "territories",
+      "file": "territories/puerto-rico.json"
+    },
+    "007": {
+      "slug": "puerto-rico",
+      "category": "territories",
+      "file": "territories/puerto-rico.json"
+    },
+    "009": {
+      "slug": "puerto-rico",
+      "category": "territories",
+      "file": "territories/puerto-rico.json"
+    },
+    "008": {
+      "slug": "us-virgin-islands",
+      "category": "territories",
+      "file": "territories/us-virgin-islands.json"
+    },
+    "090": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "091": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "092": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "093": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "094": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "095": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "096": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "097": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    },
+    "098": {
+      "slug": "military",
+      "category": "military",
+      "file": "military/military.json"
+    }
+  },
+  "sources": [
+    {
+      "name": "United States Postal Service (USPS) — PostalPro Address Information Systems",
+      "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+      "system": "Five-Digit ZIP & City State Product",
+      "sourceUpdatedAt": "2026-01-15",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "U.S. Census Bureau — Geography Division",
+      "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html",
+      "system": "2026/2025 Gazetteer Files (States, Counties, Places, ZCTAs)",
+      "standard": "ANSI INCITS 38:2009 / FIPS 5-2",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "U.S. Department of Housing and Urban Development (HUD)",
+      "url": "https://www.huduser.gov/portal/datasets/usps_crosswalk.html",
+      "system": "HUD-USPS ZIP Code Crosswalk Data",
+      "retrievedAt": "2026-09-28"
+    }
+  ],
+  "lastUpdated": "2026-09-28"
+}

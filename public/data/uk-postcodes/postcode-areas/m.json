@@ -1,0 +1,110 @@
+{
+  "postcodeArea": "M",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "M1 1AE",
+      "postTown": "MANCHESTER",
+      "locality": "Piccadilly",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "North West",
+      "ceremonialCounty": "Greater Manchester",
+      "localAuthority": "Manchester City Council",
+      "district": "Manchester",
+      "civilParish": null,
+      "ward": "Piccadilly",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 53.4807,
+        "longitude": -2.2374,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "M11AE-01",
+          "buildingName": "Piccadilly Plaza",
+          "buildingNumber": "1",
+          "subBuildingName": "Floor 4",
+          "thoroughfare": "Portland Street",
+          "postTown": "MANCHESTER",
+          "postcode": "M1 1AE",
+          "fullAddressText": "Floor 4, Piccadilly Plaza, 1 Portland Street, Manchester M1 1AE"
+        },
+        {
+          "addressId": "M11AE-02",
+          "buildingName": "Piccadilly Plaza",
+          "buildingNumber": "1",
+          "subBuildingName": "Floor 5",
+          "thoroughfare": "Portland Street",
+          "postTown": "MANCHESTER",
+          "postcode": "M1 1AE",
+          "fullAddressText": "Floor 5, Piccadilly Plaza, 1 Portland Street, Manchester M1 1AE"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "M1 1AE",
+        "outwardCode": "M1",
+        "inwardCode": "1AE",
+        "postcodeArea": "M",
+        "postcodeDistrict": "M1",
+        "postcodeSector": "M1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-M1-1AE",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "M60 2LA",
+      "postTown": "MANCHESTER",
+      "locality": "Albert Square",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "North West",
+      "ceremonialCounty": "Greater Manchester",
+      "localAuthority": "Manchester City Council",
+      "district": "Manchester",
+      "civilParish": null,
+      "ward": "Deansgate",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 53.4793,
+        "longitude": -2.2447,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "M602LA-01",
+          "buildingName": "Manchester Town Hall",
+          "buildingNumber": null,
+          "subBuildingName": "Executive Suite",
+          "thoroughfare": "Albert Square",
+          "postTown": "MANCHESTER",
+          "postcode": "M60 2LA",
+          "fullAddressText": "Manchester Town Hall, Albert Square, Manchester M60 2LA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "M60 2LA",
+        "outwardCode": "M60",
+        "inwardCode": "2LA",
+        "postcodeArea": "M",
+        "postcodeDistrict": "M60",
+        "postcodeSector": "M60 2"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-M60-2LA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

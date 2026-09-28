@@ -1,0 +1,72 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Beni Suef",
+    "nameNative": "بني سويف",
+    "isoCode": "EG-BNS",
+    "postalPrefix": "62",
+    "capital": "Beni Suef",
+    "capitalNative": "بني سويف",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 29.0744,
+      "longitude": 31.0979
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 1,
+    "totalRecords": 1,
+    "totalPostOffices": 1,
+    "totalLocalities": 4
+  },
+  "records": [
+    {
+      "postalCode": "62511",
+      "governorate": {
+        "nameEn": "Beni Suef",
+        "nameNative": "بني سويف",
+        "code": "EG-BNS",
+        "postalPrefix": "62",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Beni Suef",
+        "nameNative": "بني سويف",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Beni Suef",
+        "nameNative": "قسم بني سويف",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Midan El Modireya / Corniche",
+        "nameNative": "ميدان المديرية / كورنيش النيل",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Beni Suef Main Post Office",
+        "nameNative": "مكتب بريد بني سويف الرئيسي",
+        "type": "Main Post Office",
+        "code": "62511"
+      },
+      "areas": [
+        "Modireya Square",
+        "Salah Salem St Beni Suef",
+        "Nile Corniche",
+        "Beni Suef University"
+      ],
+      "coordinates": {
+        "latitude": 29.0744,
+        "longitude": 31.0979
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-BENI-SUEF-62511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

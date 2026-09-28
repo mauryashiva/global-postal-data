@@ -1,0 +1,42 @@
+{
+  "prefix": "604",
+  "records": [
+    {
+      "postalCode": "6048571",
+      "postalCodeFormatted": "604-8571",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26104",
+        "nameEn": "Kyoto Nakagyo Ward",
+        "nameJa": "京都市中京区",
+        "nameKana": "キョウトシナカギョウク",
+        "nameRomaji": "Kyoto-shi Nakagyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "Teramachi-dori Oike-agaru Kaminocho",
+        "nameJa": "寺町通御池上る上本能寺前町",
+        "nameKana": "テラマチドオリオイケアガルカミホンノウジマエチョウ",
+        "nameRomaji": "Teramachidori Oikeagaru Kamihonnojimaecho",
+        "type": "NormalTownArea",
+        "landmarkEn": "Kyoto City Hall (京都市役所)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

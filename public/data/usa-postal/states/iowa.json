@@ -1,0 +1,124 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Iowa",
+    "abbreviation": "IA",
+    "fipsCode": "19",
+    "capital": "Des Moines",
+    "largestCity": "Des Moines",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "319",
+      "515",
+      "563",
+      "641",
+      "712"
+    ],
+    "prefixes": [
+      "500",
+      "501",
+      "502",
+      "503",
+      "504",
+      "505",
+      "506",
+      "507",
+      "508",
+      "509",
+      "510",
+      "511",
+      "512",
+      "513",
+      "514",
+      "515",
+      "516",
+      "520",
+      "521",
+      "522",
+      "523",
+      "524",
+      "525",
+      "526",
+      "527",
+      "528"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-IA-50309-0",
+      "zip5": "50309",
+      "zip4": "1001",
+      "zipPlus4": "50309-1001",
+      "state": {
+        "nameEn": "Iowa",
+        "abbreviation": "IA",
+        "fipsCode": "19",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Des Moines",
+      "acceptableCities": [
+        "Des Moines"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Des Moines",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Polk County",
+          "fipsCode": "19153",
+          "geoid": "19153"
+        }
+      ],
+      "primaryCounty": "Polk County",
+      "zcta": {
+        "code": "50309"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Des Moines Downtown Post Office",
+        "address": "1165 2nd Ave",
+        "phone": "(515) 283-7500",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 41.5868,
+        "longitude": -93.625,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "319",
+          "515",
+          "563",
+          "641",
+          "712"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-IA-50309",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Kandahar",
+    "nameNative": "قندهار / کندهار",
+    "isoCode": "AF-KAN",
+    "postalPrefix": "38",
+    "capital": "Kandahar",
+    "capitalNative": "قندهار",
+    "coordinates": {
+      "latitude": 31.6289,
+      "longitude": 65.7372
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 19,
+    "totalRecords": 19,
+    "urbanRecords": 0,
+    "ruralRecords": 19
+  },
+  "records": [
+    {
+      "postalCode": "385101",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Reg District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-51"
+      },
+      "locality": {
+        "nameEn": "Reg Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Reg District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385201",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Shorabak District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-52"
+      },
+      "locality": {
+        "nameEn": "Shorabak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shorabak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385301",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Spinboldak District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-53"
+      },
+      "locality": {
+        "nameEn": "Spinboldak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Spinboldak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385401",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Arghestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-54"
+      },
+      "locality": {
+        "nameEn": "Arghestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Arghestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385501",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Maruf District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-55"
+      },
+      "locality": {
+        "nameEn": "Maruf Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Maruf District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385601",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Daman District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-56"
+      },
+      "locality": {
+        "nameEn": "Daman Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Daman District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385701",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Shahwalikot District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-57"
+      },
+      "locality": {
+        "nameEn": "Shahwalikot Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shahwalikot District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385801",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Nesh District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-58"
+      },
+      "locality": {
+        "nameEn": "Nesh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nesh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "385901",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Khakrez District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-59"
+      },
+      "locality": {
+        "nameEn": "Khakrez Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khakrez District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-385901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386001",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Arghandab District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-60"
+      },
+      "locality": {
+        "nameEn": "Arghandab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Arghandab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386101",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Zheray District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-61"
+      },
+      "locality": {
+        "nameEn": "Zheray Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zheray District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386201",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Maywand District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-62"
+      },
+      "locality": {
+        "nameEn": "Maywand Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Maywand District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386301",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Panjwayi District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-63"
+      },
+      "locality": {
+        "nameEn": "Panjwayi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Panjwayi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386401",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Miyanshin District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-64"
+      },
+      "locality": {
+        "nameEn": "Miyanshin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Miyanshin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386501",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Ghorak District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-65"
+      },
+      "locality": {
+        "nameEn": "Ghorak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ghorak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386601",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Dande District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-66"
+      },
+      "locality": {
+        "nameEn": "Dande Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dande District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386701",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Takhtapul District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-67"
+      },
+      "locality": {
+        "nameEn": "Takhtapul Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Takhtapul District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386801",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Kishuta shah Vali Kot District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-68"
+      },
+      "locality": {
+        "nameEn": "Kishuta shah Vali Kot Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kishuta shah Vali Kot District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "386901",
+      "province": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار / کندهار",
+        "code": "AF-KAN",
+        "postalPrefix": "38"
+      },
+      "city": {
+        "nameEn": "Kandahar",
+        "nameNative": "قندهار"
+      },
+      "district": {
+        "nameEn": "Kishuta Maiwand District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAN-69"
+      },
+      "locality": {
+        "nameEn": "Kishuta Maiwand Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kishuta Maiwand District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31.6289,
+        "longitude": 65.7372
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-386901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

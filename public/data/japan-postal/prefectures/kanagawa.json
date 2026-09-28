@@ -1,0 +1,52 @@
+{
+  "prefecture": {
+    "code": "14",
+    "nameEn": "Kanagawa",
+    "nameJa": "神奈川県",
+    "nameKana": "カナガワケン",
+    "nameRomaji": "Kanagawa-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Yokohama",
+    "capitalJa": "横浜市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "2200012",
+      "postalCodeFormatted": "220-0012",
+      "postalCodeType": "AREA",
+      "prefectureCode": "14",
+      "prefectureNameEn": "Kanagawa",
+      "prefectureNameJa": "神奈川県",
+      "prefectureNameKana": "カナガワケン",
+      "prefectureNameRomaji": "Kanagawa-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "14103",
+        "nameEn": "Yokohama Nishi Ward",
+        "nameJa": "横浜市西区",
+        "nameKana": "ヨコハマシニシク",
+        "nameRomaji": "Yokohama-shi Nishi-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "横浜市",
+        "parentCityEn": "Yokohama City"
+      },
+      "townArea": {
+        "nameEn": "Minatomirai",
+        "nameJa": "みなとみらい",
+        "nameKana": "ミナトミライ",
+        "nameRomaji": "Minatomirai",
+        "type": "NormalTownArea",
+        "landmarkEn": "Yokohama Landmark Tower & Pacifico Yokohama"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

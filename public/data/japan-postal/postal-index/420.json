@@ -1,0 +1,40 @@
+{
+  "prefix": "420",
+  "records": [
+    {
+      "postalCode": "4200000",
+      "postalCodeFormatted": "420-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "22",
+      "prefectureNameEn": "Shizuoka",
+      "prefectureNameJa": "静岡県",
+      "prefectureNameKana": "シズオカケン",
+      "prefectureNameRomaji": "Shizuoka-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "22201",
+        "nameEn": "Shizuoka",
+        "nameJa": "静岡市",
+        "nameKana": "シズオシ",
+        "nameRomaji": "Shizuoka-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Shizuoka Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

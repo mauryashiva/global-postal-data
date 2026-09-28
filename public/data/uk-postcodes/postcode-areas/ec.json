@@ -1,0 +1,110 @@
+{
+  "postcodeArea": "EC",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "EC1A 1BB",
+      "postTown": "LONDON",
+      "locality": "Smithfield",
+      "dependentLocality": null,
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "City of London",
+      "localAuthority": "City of London Corporation",
+      "district": "City of London",
+      "civilParish": null,
+      "ward": "Farringdon Without",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5186,
+        "longitude": -0.1009,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "EC1A1BB-01",
+          "buildingName": "St Bartholomew's Hospital",
+          "buildingNumber": null,
+          "subBuildingName": "Administration Wing",
+          "thoroughfare": "West Smithfield",
+          "postTown": "LONDON",
+          "postcode": "EC1A 1BB",
+          "fullAddressText": "St Bartholomew's Hospital, West Smithfield, London EC1A 1BB"
+        },
+        {
+          "addressId": "EC1A1BB-02",
+          "buildingName": "Charterhouse Court",
+          "buildingNumber": "1",
+          "subBuildingName": "Ground Floor",
+          "thoroughfare": "Charterhouse Square",
+          "postTown": "LONDON",
+          "postcode": "EC1A 1BB",
+          "fullAddressText": "Ground Floor, 1 Charterhouse Square, London EC1A 1BB"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "EC1A 1BB",
+        "outwardCode": "EC1A",
+        "inwardCode": "1BB",
+        "postcodeArea": "EC",
+        "postcodeDistrict": "EC1A",
+        "postcodeSector": "EC1A 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-EC1A-1BB",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "EC2R 8AH",
+      "postTown": "LONDON",
+      "locality": "Bank",
+      "dependentLocality": "Financial District",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "City of London",
+      "localAuthority": "City of London Corporation",
+      "district": "City of London",
+      "civilParish": null,
+      "ward": "Walbrook",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5142,
+        "longitude": -0.0886,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "EC2R8AH-01",
+          "buildingName": "Bank of England",
+          "buildingNumber": null,
+          "subBuildingName": "Headquarters",
+          "thoroughfare": "Threadneedle Street",
+          "postTown": "LONDON",
+          "postcode": "EC2R 8AH",
+          "fullAddressText": "Bank of England, Threadneedle Street, London EC2R 8AH"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "EC2R 8AH",
+        "outwardCode": "EC2R",
+        "inwardCode": "8AH",
+        "postcodeArea": "EC",
+        "postcodeDistrict": "EC2R",
+        "postcodeSector": "EC2R 8"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-EC2R-8AH",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

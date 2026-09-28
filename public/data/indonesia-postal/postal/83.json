@@ -1,0 +1,55 @@
+{
+  "prefix": "83",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "83121",
+      "province": {
+        "code": "52",
+        "nameEn": "West Nusa Tenggara",
+        "nameId": "Nusa Tenggara Barat",
+        "nameNative": "Nusa Tenggara Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "52.71",
+        "nameId": "Kota Mataram",
+        "nameEn": "Mataram",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "52.71.01",
+        "nameId": "Kecamatan Ampenan",
+        "nameEn": "Ampenan District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "52.71.01.1001",
+        "nameId": "Kelurahan Ampenan Tengah",
+        "nameEn": "Ampenan Tengah",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kota Tua Ampenan / Pantai Ampenan",
+        "nameEn": "Historic Old Port Ampenan"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Mataram",
+        "nameEn": "Mataram Main Post Office",
+        "code": "83000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-52-83121-52.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

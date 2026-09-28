@@ -1,0 +1,40 @@
+{
+  "prefix": "680",
+  "records": [
+    {
+      "postalCode": "6800000",
+      "postalCodeFormatted": "680-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "31",
+      "prefectureNameEn": "Tottori",
+      "prefectureNameJa": "鳥取県",
+      "prefectureNameKana": "トットリケン",
+      "prefectureNameRomaji": "Tottori-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "31201",
+        "nameEn": "Tottori",
+        "nameJa": "鳥取市",
+        "nameKana": "トットシ",
+        "nameRomaji": "Tottori-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Tottori Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

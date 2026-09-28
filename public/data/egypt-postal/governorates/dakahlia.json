@@ -1,0 +1,214 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Dakahlia",
+    "nameNative": "الدقهلية",
+    "isoCode": "EG-DK",
+    "postalPrefix": "35",
+    "capital": "Mansoura",
+    "capitalNative": "المنصورة",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.0364,
+      "longitude": 31.3807
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 4,
+    "totalRecords": 4,
+    "totalPostOffices": 4,
+    "totalLocalities": 14
+  },
+  "records": [
+    {
+      "postalCode": "35511",
+      "governorate": {
+        "nameEn": "Dakahlia",
+        "nameNative": "الدقهلية",
+        "code": "EG-DK",
+        "postalPrefix": "35",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Mansoura",
+        "nameNative": "المنصورة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Mansoura 2",
+        "nameNative": "حي غرب المنصورة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata / Abbasi",
+        "nameNative": "ميدان المحطة / العباسي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Mansoura Main Post Office",
+        "nameNative": "مكتب بريد المنصورة الرئيسي",
+        "type": "Main Post Office",
+        "code": "35511"
+      },
+      "areas": [
+        "Mansoura Railway Square",
+        "Abbasi St",
+        "Port Said St Mansoura",
+        "Geesh St Corridor"
+      ],
+      "coordinates": {
+        "latitude": 31.0364,
+        "longitude": 31.3807
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAKAHLIA-35511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "35516",
+      "governorate": {
+        "nameEn": "Dakahlia",
+        "nameNative": "الدقهلية",
+        "code": "EG-DK",
+        "postalPrefix": "35",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Mansoura",
+        "nameNative": "المنصورة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Mansoura 1",
+        "nameNative": "حي غرب المنصورة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Gomhuria St / Campus",
+        "nameNative": "شارع الجمهورية / الحرم الجامعي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Mansoura University Post Office",
+        "nameNative": "مكتب بريد جامعة المنصورة",
+        "type": "Sub Post Office",
+        "code": "35516"
+      },
+      "areas": [
+        "Mansoura University Main Campus",
+        "Urology Center (Ghoneim)",
+        "Gomhuria St",
+        "Faculty of Medicine"
+      ],
+      "coordinates": {
+        "latitude": 31.0423,
+        "longitude": 31.3589
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAKAHLIA-35516",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "35611",
+      "governorate": {
+        "nameEn": "Dakahlia",
+        "nameNative": "الدقهلية",
+        "code": "EG-DK",
+        "postalPrefix": "35",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Talkha",
+        "nameNative": "طلخا",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Talkha",
+        "nameNative": "مركز طلخا",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Talkha Center",
+        "nameNative": "وسط مدينة طلخا",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Talkha Post Office",
+        "nameNative": "مكتب بريد طلخا",
+        "type": "Sub Post Office",
+        "code": "35611"
+      },
+      "areas": [
+        "Damietta Nile Branch Bridgehead",
+        "Fertilizer Plants Area",
+        "Nawares Resort Corridor"
+      ],
+      "coordinates": {
+        "latitude": 31.0545,
+        "longitude": 31.3789
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAKAHLIA-35611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "35621",
+      "governorate": {
+        "nameEn": "Dakahlia",
+        "nameNative": "الدقهلية",
+        "code": "EG-DK",
+        "postalPrefix": "35",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Mit Ghamr",
+        "nameNative": "ميت غمر",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Mit Ghamr",
+        "nameNative": "مركز ميت غمر",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Mit Ghamr Downtown",
+        "nameNative": "وسط ميت غمر",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Mit Ghamr Post Office",
+        "nameNative": "مكتب بريد ميت غمر",
+        "type": "Main Post Office",
+        "code": "35621"
+      },
+      "areas": [
+        "Aluminum Manufacturing Basin",
+        "Port Said St Mit Ghamr",
+        "Zifta Cross-Nile Bridge"
+      ],
+      "coordinates": {
+        "latitude": 30.7189,
+        "longitude": 31.2589
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAKAHLIA-35621",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

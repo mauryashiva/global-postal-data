@@ -1,0 +1,352 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Busan",
+    "nameOfficialEn": "Busan Metropolitan City",
+    "nameKo": "부산광역시",
+    "category": "metropolitan-cities",
+    "administrativeType": "Metropolitan City",
+    "isoCode": "KR-26",
+    "prefixes": [
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "areaCode": "051",
+    "capitalEn": "Busan",
+    "capitalKo": "부산",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 35.1796,
+      "longitude": 129.0756
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 4,
+    "totalRecords": 4,
+    "totalAddresses": 4,
+    "totalPostOffices": 4,
+    "totalLocalities": 16
+  },
+  "records": [
+    {
+      "postalCode": "47545",
+      "roadAddress": {
+        "roadName": "Jungang-daero",
+        "roadNameKo": "중앙대로",
+        "roadNameCode": "264702002001",
+        "buildingNumber": "1001",
+        "buildingName": "Busan Metropolitan City Hall",
+        "buildingNameKo": "부산광역시청",
+        "buildingManagementNumber": "2647010200110000000011234",
+        "fullAddressEn": "1001, Jungang-daero, Yeonje-gu, Busan 47545, Republic of Korea",
+        "fullAddressKo": "부산광역시 연제구 중앙대로 1001 (연산동, 부산광역시청)"
+      },
+      "jibunAddress": {
+        "jibun": "1000 Yeonsan-dong, Yeonje-gu, Busan",
+        "jibunKo": "부산광역시 연제구 연산동 1000",
+        "legalDong": "Yeonsan-dong",
+        "legalDongKo": "연산동",
+        "adminDong": "Yeonsan 5-dong",
+        "adminDongKo": "연산5동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Busan",
+          "nameOfficialEn": "Busan Metropolitan City",
+          "nameKo": "부산광역시",
+          "isoCode": "KR-26",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Busan",
+          "nameKo": "부산",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Yeonje-gu",
+          "nameKo": "연제구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Yeonsan-dong",
+          "nameKo": "연산동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Busan Yeonje Post Office",
+        "nameKo": "부산연제우체국",
+        "code": "61100",
+        "type": "Head Post Office",
+        "phone": "051-860-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "051"
+      },
+      "areas": [
+        "City Hall Square",
+        "Busan Police Agency",
+        "Yeonsan Junction",
+        "Geoje Station"
+      ],
+      "coordinates": {
+        "latitude": 35.1796,
+        "longitude": 129.0756
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-BUSAN-47545",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "48058",
+      "roadAddress": {
+        "roadName": "Centum nam-daero",
+        "roadNameKo": "센텀남대로",
+        "roadNameCode": "263503132001",
+        "buildingNumber": "35",
+        "buildingName": "Shinsegae Centum City",
+        "buildingNameKo": "신세계백화점 센텀시티점",
+        "buildingManagementNumber": "2635010500114950000000001",
+        "fullAddressEn": "35, Centum nam-daero, Haeundae-gu, Busan 48058, Republic of Korea",
+        "fullAddressKo": "부산광역시 해운대구 센텀남대로 35 (우동, 신세계백화점 센텀시티점)"
+      },
+      "jibunAddress": {
+        "jibun": "1495 U-dong, Haeundae-gu, Busan",
+        "jibunKo": "부산광역시 해운대구 우동 1495",
+        "legalDong": "U-dong",
+        "legalDongKo": "우동",
+        "adminDong": "U 2-dong",
+        "adminDongKo": "우2동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Busan",
+          "nameOfficialEn": "Busan Metropolitan City",
+          "nameKo": "부산광역시",
+          "isoCode": "KR-26",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Busan",
+          "nameKo": "부산",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Haeundae-gu",
+          "nameKo": "해운대구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "U-dong",
+          "nameKo": "우동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Haeundae Post Office",
+        "nameKo": "해운대우체국",
+        "code": "61200",
+        "type": "Head Post Office",
+        "phone": "051-740-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "051"
+      },
+      "areas": [
+        "Centum City Tech Complex",
+        "BEXCO Exhibition Center",
+        "Busan Cinema Center",
+        "Centum Station"
+      ],
+      "coordinates": {
+        "latitude": 35.1689,
+        "longitude": 129.1306
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-BUSAN-48058",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "48095",
+      "roadAddress": {
+        "roadName": "Haeundaehaebyeon-ro",
+        "roadNameKo": "해운대해변로",
+        "roadNameCode": "263502002002",
+        "buildingNumber": "264",
+        "buildingName": "Haeundae Beach Tourist Center",
+        "buildingNameKo": "해운대관광안내소",
+        "buildingManagementNumber": "2635010600113920000000001",
+        "fullAddressEn": "264, Haeundaehaebyeon-ro, Haeundae-gu, Busan 48095, Republic of Korea",
+        "fullAddressKo": "부산광역시 해운대구 해운대해변로 264 (중동, 해운대관광안내소)"
+      },
+      "jibunAddress": {
+        "jibun": "1392 Jung-dong, Haeundae-gu, Busan",
+        "jibunKo": "부산광역시 해운대구 중동 1392",
+        "legalDong": "Jung-dong",
+        "legalDongKo": "중동",
+        "adminDong": "Jung 1-dong",
+        "adminDongKo": "중1동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Busan",
+          "nameOfficialEn": "Busan Metropolitan City",
+          "nameKo": "부산광역시",
+          "isoCode": "KR-26",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Busan",
+          "nameKo": "부산",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Haeundae-gu",
+          "nameKo": "해운대구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Jung-dong",
+          "nameKo": "중동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Haeundae Jung-dong Post Office",
+        "nameKo": "해운대중동우체국",
+        "code": "61201",
+        "type": "Branch Post Office",
+        "phone": "051-742-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "051"
+      },
+      "areas": [
+        "Haeundae Beach Boardwalk",
+        "Dongbaek Island",
+        "Gunam-ro Culture Square",
+        "LCT Landmark Tower"
+      ],
+      "coordinates": {
+        "latitude": 35.1587,
+        "longitude": 129.1604
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-BUSAN-48095",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "48721",
+      "roadAddress": {
+        "roadName": "Jungang-daero",
+        "roadNameKo": "중앙대로",
+        "roadNameCode": "261702002001",
+        "buildingNumber": "206",
+        "buildingName": "Busan KTX Station",
+        "buildingNameKo": "부산역 (KTX)",
+        "buildingManagementNumber": "2617010100111870001000001",
+        "fullAddressEn": "206, Jungang-daero, Dong-gu, Busan 48721, Republic of Korea",
+        "fullAddressKo": "부산광역시 동구 중앙대로 206 (초량동, 부산역 (KTX))"
+      },
+      "jibunAddress": {
+        "jibun": "1187-1 Choryang-dong, Dong-gu, Busan",
+        "jibunKo": "부산광역시 동구 초량동 1187-1",
+        "legalDong": "Choryang-dong",
+        "legalDongKo": "초량동",
+        "adminDong": "Choryang 3-dong",
+        "adminDongKo": "초량3동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Busan",
+          "nameOfficialEn": "Busan Metropolitan City",
+          "nameKo": "부산광역시",
+          "isoCode": "KR-26",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Busan",
+          "nameKo": "부산",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Dong-gu",
+          "nameKo": "동구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Choryang-dong",
+          "nameKo": "초량동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Busan Station Post Office",
+        "nameKo": "부산역전우체국",
+        "code": "60101",
+        "type": "Branch Post Office",
+        "phone": "051-463-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "051"
+      },
+      "areas": [
+        "Busan Station Plaza",
+        "Choryang Chinatown",
+        "North Port Redevelopment Zone",
+        "Texas Street"
+      ],
+      "coordinates": {
+        "latitude": 35.1152,
+        "longitude": 129.0422
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-BUSAN-48721",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

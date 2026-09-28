@@ -1,0 +1,40 @@
+{
+  "prefix": "192",
+  "records": [
+    {
+      "postalCode": "1920083",
+      "postalCodeFormatted": "192-0083",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13201",
+        "nameEn": "Hachioji",
+        "nameJa": "八王子市",
+        "nameKana": "ハチオウジシ",
+        "nameRomaji": "Hachioji-shi",
+        "administrativeType": "Core City"
+      },
+      "townArea": {
+        "nameEn": "Asahicho",
+        "nameJa": "旭町",
+        "nameKana": "アサヒチョウ",
+        "nameRomaji": "Asahicho",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Hachioji Station Center"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

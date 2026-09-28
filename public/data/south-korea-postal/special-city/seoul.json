@@ -1,0 +1,675 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Seoul",
+    "nameOfficialEn": "Seoul Special City",
+    "nameKo": "서울특별시",
+    "category": "special-city",
+    "administrativeType": "Special City",
+    "isoCode": "KR-11",
+    "prefixes": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09"
+    ],
+    "areaCode": "02",
+    "capitalEn": "Seoul",
+    "capitalKo": "서울",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 37.5665,
+      "longitude": 126.978
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 8,
+    "totalRecords": 8,
+    "totalAddresses": 8,
+    "totalPostOffices": 8,
+    "totalLocalities": 34
+  },
+  "records": [
+    {
+      "postalCode": "04524",
+      "roadAddress": {
+        "roadName": "Sejong-daero",
+        "roadNameKo": "세종대로",
+        "roadNameCode": "111402005001",
+        "buildingNumber": "110",
+        "buildingName": "Seoul Metropolitan Government (City Hall)",
+        "buildingNameKo": "서울특별시청",
+        "buildingManagementNumber": "1114010300100310000019235",
+        "fullAddressEn": "110, Sejong-daero, Jung-gu, Seoul 04524, Republic of Korea",
+        "fullAddressKo": "서울특별시 중구 세종대로 110 (태평로1가, 서울특별시청)"
+      },
+      "jibunAddress": {
+        "jibun": "31 Taepyeongno 1-ga, Jung-gu, Seoul",
+        "jibunKo": "서울특별시 중구 태평로1가 31",
+        "legalDong": "Taepyeongno 1-ga",
+        "legalDongKo": "태평로1가",
+        "adminDong": "Sogong-dong",
+        "adminDongKo": "소공동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Jung-gu",
+          "nameKo": "중구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Taepyeongno 1-ga",
+          "nameKo": "태평로1가",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seoul Central Post Office (Myeongdong)",
+        "nameKo": "서울중앙우체국",
+        "code": "10000",
+        "type": "Head Post Office",
+        "phone": "02-6450-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Seoul City Hall Plaza",
+        "Deoksugung Palace Area",
+        "Taepyeongno 1-ga",
+        "Sogong-dong"
+      ],
+      "coordinates": {
+        "latitude": 37.5663,
+        "longitude": 126.9779
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-04524",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "03172",
+      "roadAddress": {
+        "roadName": "Sejong-daero",
+        "roadNameKo": "세종대로",
+        "roadNameCode": "111102005001",
+        "buildingNumber": "209",
+        "buildingName": "Government Complex Seoul",
+        "buildingNameKo": "정부서울청사",
+        "buildingManagementNumber": "1111011900100770006000001",
+        "fullAddressEn": "209, Sejong-daero, Jongno-gu, Seoul 03172, Republic of Korea",
+        "fullAddressKo": "서울특별시 종로구 세종대로 209 (세종로, 정부서울청사)"
+      },
+      "jibunAddress": {
+        "jibun": "77-6 Sejongno, Jongno-gu, Seoul",
+        "jibunKo": "서울특별시 종로구 세종로 77-6",
+        "legalDong": "Sejongno",
+        "legalDongKo": "세종로",
+        "adminDong": "Jongno 1.2.3.4-ga dong",
+        "adminDongKo": "종로1.2.3.4가동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Jongno-gu",
+          "nameKo": "종로구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Sejongno",
+          "nameKo": "세종로",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gwanghwamun Post Office",
+        "nameKo": "광화문우체국",
+        "code": "11000",
+        "type": "Head Post Office",
+        "phone": "02-397-2114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Gwanghwamun Square",
+        "Gyeongbokgung Entrance",
+        "Sejongno",
+        "Sejong Center for Performing Arts"
+      ],
+      "coordinates": {
+        "latitude": 37.5759,
+        "longitude": 126.9768
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-03172",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "04538",
+      "roadAddress": {
+        "roadName": "Myeongdong-gil",
+        "roadNameKo": "명동길",
+        "roadNameCode": "111403100016",
+        "buildingNumber": "74",
+        "buildingName": "Myeongdong Cathedral",
+        "buildingNameKo": "명동성당",
+        "buildingManagementNumber": "1114012700100010001018970",
+        "fullAddressEn": "74, Myeongdong-gil, Jung-gu, Seoul 04538, Republic of Korea",
+        "fullAddressKo": "서울특별시 중구 명동길 74 (명동2가, 명동성당)"
+      },
+      "jibunAddress": {
+        "jibun": "1-1 Myeong-dong 2-ga, Jung-gu, Seoul",
+        "jibunKo": "서울특별시 중구 명동2가 1-1",
+        "legalDong": "Myeong-dong 2-ga",
+        "legalDongKo": "명동2가",
+        "adminDong": "Myeong-dong",
+        "adminDongKo": "명동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Jung-gu",
+          "nameKo": "중구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Myeong-dong 2-ga",
+          "nameKo": "명동2가",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seoul Central Post Office",
+        "nameKo": "서울중앙우체국",
+        "code": "10000",
+        "type": "Head Post Office",
+        "phone": "02-6450-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Myeongdong Pedestrian Shopping Street",
+        "Myeongdong Cathedral Precinct",
+        "Euljiro Entrance",
+        "Lotte Department Store"
+      ],
+      "coordinates": {
+        "latitude": 37.5632,
+        "longitude": 126.9873
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-04538",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "06236",
+      "roadAddress": {
+        "roadName": "Teheran-ro",
+        "roadNameKo": "테헤란로",
+        "roadNameCode": "116802000001",
+        "buildingNumber": "152",
+        "buildingName": "Gangnam Finance Center (GFC)",
+        "buildingNameKo": "강남파이낸스센터",
+        "buildingManagementNumber": "1168010100107370000021345",
+        "fullAddressEn": "152, Teheran-ro, Gangnam-gu, Seoul 06236, Republic of Korea",
+        "fullAddressKo": "서울특별시 강남구 테헤란로 152 (역삼동, 강남파이낸스센터)"
+      },
+      "jibunAddress": {
+        "jibun": "737 Yeoksam-dong, Gangnam-gu, Seoul",
+        "jibunKo": "서울특별시 강남구 역삼동 737",
+        "legalDong": "Yeoksam-dong",
+        "legalDongKo": "역삼동",
+        "adminDong": "Yeoksam 1-dong",
+        "adminDongKo": "역삼1동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Gangnam-gu",
+          "nameKo": "강남구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Yeoksam-dong",
+          "nameKo": "역삼동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seoul Gangnam Post Office",
+        "nameKo": "서울강남우체국",
+        "code": "13500",
+        "type": "Head Post Office",
+        "phone": "02-3450-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Teheran Valley Financial District",
+        "Yeoksam Station",
+        "Gangnam Station East",
+        "POSCO Center Corridor"
+      ],
+      "coordinates": {
+        "latitude": 37.5,
+        "longitude": 127.0365
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-06236",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "06164",
+      "roadAddress": {
+        "roadName": "Yeongdong-daero",
+        "roadNameKo": "영동대로",
+        "roadNameCode": "116802000004",
+        "buildingNumber": "513",
+        "buildingName": "COEX Convention & Exhibition Center",
+        "buildingNameKo": "코엑스",
+        "buildingManagementNumber": "1168010500101590000000001",
+        "fullAddressEn": "513, Yeongdong-daero, Gangnam-gu, Seoul 06164, Republic of Korea",
+        "fullAddressKo": "서울특별시 강남구 영동대로 513 (삼성동, 코엑스)"
+      },
+      "jibunAddress": {
+        "jibun": "159 Samseong-dong, Gangnam-gu, Seoul",
+        "jibunKo": "서울특별시 강남구 삼성동 159",
+        "legalDong": "Samseong-dong",
+        "legalDongKo": "삼성동",
+        "adminDong": "Samseong 1-dong",
+        "adminDongKo": "삼성1동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Gangnam-gu",
+          "nameKo": "강남구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Samseong-dong",
+          "nameKo": "삼성동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seoul Trade Center Post Office",
+        "nameKo": "무역센터우체국",
+        "code": "13509",
+        "type": "Branch Post Office",
+        "phone": "02-551-5114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "COEX Mall",
+        "World Trade Center Seoul",
+        "Bongeunsa Station",
+        "Starfield Library",
+        "InterContinental Hotel"
+      ],
+      "coordinates": {
+        "latitude": 37.5119,
+        "longitude": 127.0592
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-06164",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "05551",
+      "roadAddress": {
+        "roadName": "Olympic-ro",
+        "roadNameKo": "올림픽로",
+        "roadNameCode": "117102000001",
+        "buildingNumber": "300",
+        "buildingName": "Lotte World Tower",
+        "buildingNameKo": "롯데월드타워",
+        "buildingManagementNumber": "1171010200100290000000001",
+        "fullAddressEn": "300, Olympic-ro, Songpa-gu, Seoul 05551, Republic of Korea",
+        "fullAddressKo": "서울특별시 송파구 올림픽로 300 (신천동, 롯데월드타워)"
+      },
+      "jibunAddress": {
+        "jibun": "29 Sincheon-dong, Songpa-gu, Seoul",
+        "jibunKo": "서울특별시 송파구 신천동 29",
+        "legalDong": "Sincheon-dong",
+        "legalDongKo": "신천동",
+        "adminDong": "Jamsil 6-dong",
+        "adminDongKo": "잠실6동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Songpa-gu",
+          "nameKo": "송파구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Sincheon-dong",
+          "nameKo": "신천동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seoul Songpa Post Office",
+        "nameKo": "서울송파우체국",
+        "code": "13800",
+        "type": "Head Post Office",
+        "phone": "02-2140-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Lotte World Tower & Mall",
+        "Jamsil Station Junction",
+        "Seokchon Lake Park",
+        "Olympic-ro Corridor"
+      ],
+      "coordinates": {
+        "latitude": 37.5126,
+        "longitude": 127.1025
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-05551",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "07326",
+      "roadAddress": {
+        "roadName": "Gukjegeomyung-ro",
+        "roadNameKo": "국제금융로",
+        "roadNameCode": "115603118002",
+        "buildingNumber": "10",
+        "buildingName": "International Finance Center Seoul (IFC)",
+        "buildingNameKo": "서울국제금융센터 (IFC)",
+        "buildingManagementNumber": "1156011000100230000028741",
+        "fullAddressEn": "10, Gukjegeomyung-ro, Yeongdeungpo-gu, Seoul 07326, Republic of Korea",
+        "fullAddressKo": "서울특별시 영등포구 국제금융로 10 (여의도동, 서울국제금융센터 (IFC))"
+      },
+      "jibunAddress": {
+        "jibun": "23 Yeouido-dong, Yeongdeungpo-gu, Seoul",
+        "jibunKo": "서울특별시 영등포구 여의도동 23",
+        "legalDong": "Yeouido-dong",
+        "legalDongKo": "여의도동",
+        "adminDong": "Yeouido-dong",
+        "adminDongKo": "여의도동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Yeongdeungpo-gu",
+          "nameKo": "영등포구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Yeouido-dong",
+          "nameKo": "여의도동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Yeouido Post Office",
+        "nameKo": "여의도우체국",
+        "code": "15001",
+        "type": "Head Post Office",
+        "phone": "02-768-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Yeouido Financial Center",
+        "The Hyundai Seoul",
+        "Korea Exchange (KRX)",
+        "Yeouido Park",
+        "National Assembly Area"
+      ],
+      "coordinates": {
+        "latitude": 37.5251,
+        "longitude": 126.9254
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-07326",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "04038",
+      "roadAddress": {
+        "roadName": "Hongik-ro",
+        "roadNameKo": "홍익로",
+        "roadNameCode": "114403113012",
+        "buildingNumber": "29",
+        "buildingName": "Hongik University Gate",
+        "buildingNameKo": "홍익대학교 정문",
+        "buildingManagementNumber": "1144012000100720001000001",
+        "fullAddressEn": "29, Hongik-ro, Mapo-gu, Seoul 04038, Republic of Korea",
+        "fullAddressKo": "서울특별시 마포구 홍익로 29 (서교동, 홍익대학교 정문)"
+      },
+      "jibunAddress": {
+        "jibun": "72-1 Seogyo-dong, Mapo-gu, Seoul",
+        "jibunKo": "서울특별시 마포구 서교동 72-1",
+        "legalDong": "Seogyo-dong",
+        "legalDongKo": "서교동",
+        "adminDong": "Seogyo-dong",
+        "adminDongKo": "서교동"
+      },
+      "administrative": {
+        "category": "special-city",
+        "firstLevel": {
+          "nameEn": "Seoul",
+          "nameOfficialEn": "Seoul Special City",
+          "nameKo": "서울특별시",
+          "isoCode": "KR-11",
+          "administrativeType": "Special City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seoul",
+          "nameKo": "서울",
+          "administrativeType": "Special City"
+        },
+        "district": {
+          "nameEn": "Mapo-gu",
+          "nameKo": "마포구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Seogyo-dong",
+          "nameKo": "서교동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seoul Mapo Post Office",
+        "nameKo": "서울마포우체국",
+        "code": "12100",
+        "type": "Head Post Office",
+        "phone": "02-710-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "02"
+      },
+      "areas": [
+        "Hongdae Commercial District",
+        "Eoulmadang-ro Walking Street",
+        "Hongik Children Park",
+        "Seogyo Arts Zone"
+      ],
+      "coordinates": {
+        "latitude": 37.5516,
+        "longitude": 126.9249
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEOUL-04038",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

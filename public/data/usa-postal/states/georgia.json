@@ -1,0 +1,210 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Georgia",
+    "abbreviation": "GA",
+    "fipsCode": "13",
+    "capital": "Atlanta",
+    "largestCity": "Atlanta",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "229",
+      "404",
+      "470",
+      "478",
+      "678",
+      "706",
+      "762",
+      "770",
+      "912"
+    ],
+    "prefixes": [
+      "300",
+      "301",
+      "302",
+      "303",
+      "304",
+      "305",
+      "306",
+      "307",
+      "308",
+      "309",
+      "310",
+      "311",
+      "312",
+      "313",
+      "314",
+      "315",
+      "316",
+      "317",
+      "318",
+      "319",
+      "398",
+      "399"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-GA-30303-0",
+      "zip5": "30303",
+      "zip4": "1001",
+      "zipPlus4": "30303-1001",
+      "state": {
+        "nameEn": "Georgia",
+        "abbreviation": "GA",
+        "fipsCode": "13",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Atlanta",
+      "acceptableCities": [
+        "Atlanta"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Atlanta",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Fulton County",
+          "fipsCode": "13121",
+          "geoid": "13121"
+        }
+      ],
+      "primaryCounty": "Fulton County",
+      "zcta": {
+        "code": "30303"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Atlanta Downtown Post Office",
+        "address": "107 Marietta St NW",
+        "phone": "(404) 524-1188",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 33.7537,
+        "longitude": -84.3917,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "229",
+          "404",
+          "470",
+          "478",
+          "678",
+          "706",
+          "762",
+          "770",
+          "912"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-GA-30303",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-GA-30339-1",
+      "zip5": "30339",
+      "zip4": "2001",
+      "zipPlus4": "30339-2001",
+      "state": {
+        "nameEn": "Georgia",
+        "abbreviation": "GA",
+        "fipsCode": "13",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Atlanta",
+      "acceptableCities": [
+        "Atlanta",
+        "Vinings"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Atlanta",
+          "status": "Primary"
+        },
+        {
+          "name": "Vinings",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Cobb County",
+          "fipsCode": "13067",
+          "geoid": "13067"
+        },
+        {
+          "name": "Fulton County",
+          "fipsCode": "13121",
+          "geoid": "13121"
+        }
+      ],
+      "primaryCounty": "Cobb County",
+      "zcta": {
+        "code": "30339"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Akron / Cumberland Branch",
+        "address": "2980 Cobb Pkwy",
+        "phone": "(770) 952-1188",
+        "type": "Branch"
+      },
+      "coordinates": {
+        "latitude": 33.8744,
+        "longitude": -84.4641,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "229",
+          "404",
+          "470",
+          "478",
+          "678",
+          "706",
+          "762",
+          "770",
+          "912"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 34,
+        "deliveryPoints": 18200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-GA-30339",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2212 @@
+[
+  {
+    "postalCode": "400000",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Yu Zhong District",
+          "nameZh": "渝中区",
+          "namePinyin": "Yu Zhong",
+          "administrativeType": "District",
+          "code": "500103"
+        },
+        "locality": {
+          "nameEn": "Yu Zhong District Central",
+          "nameZh": "渝中区投递局",
+          "namePinyin": "Yu Zhong Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Yu Zhong District Post Office",
+          "nameZh": "渝中区邮政支局",
+          "namePinyin": "Yu Zhong Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500103",
+          "retrievedAt": "2026-09-26"
+        }
+      },
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Da Du Kou District",
+          "nameZh": "大渡口区",
+          "namePinyin": "Da Du Kou",
+          "administrativeType": "District",
+          "code": "500104"
+        },
+        "locality": {
+          "nameEn": "Da Du Kou District Central",
+          "nameZh": "大渡口区投递局",
+          "namePinyin": "Da Du Kou Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Da Du Kou District Post Office",
+          "nameZh": "大渡口区邮政支局",
+          "namePinyin": "Da Du Kou Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500104",
+          "retrievedAt": "2026-09-26"
+        }
+      },
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Jiang Bei District",
+          "nameZh": "江北区",
+          "namePinyin": "Jiang Bei",
+          "administrativeType": "District",
+          "code": "500105"
+        },
+        "locality": {
+          "nameEn": "Jiang Bei District Central",
+          "nameZh": "江北区投递局",
+          "namePinyin": "Jiang Bei Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Jiang Bei District Post Office",
+          "nameZh": "江北区邮政支局",
+          "namePinyin": "Jiang Bei Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500105",
+          "retrievedAt": "2026-09-26"
+        }
+      },
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Sha Ping Ba District",
+          "nameZh": "沙坪坝区",
+          "namePinyin": "Sha Ping Ba",
+          "administrativeType": "District",
+          "code": "500106"
+        },
+        "locality": {
+          "nameEn": "Sha Ping Ba District Central",
+          "nameZh": "沙坪坝区投递局",
+          "namePinyin": "Sha Ping Ba Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Sha Ping Ba District Post Office",
+          "nameZh": "沙坪坝区邮政支局",
+          "namePinyin": "Sha Ping Ba Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500106",
+          "retrievedAt": "2026-09-26"
+        }
+      },
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Jiu Long Po District",
+          "nameZh": "九龙坡区",
+          "namePinyin": "Jiu Long Po",
+          "administrativeType": "District",
+          "code": "500107"
+        },
+        "locality": {
+          "nameEn": "Jiu Long Po District Central",
+          "nameZh": "九龙坡区投递局",
+          "namePinyin": "Jiu Long Po Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Jiu Long Po District Post Office",
+          "nameZh": "九龙坡区邮政支局",
+          "namePinyin": "Jiu Long Po Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500107",
+          "retrievedAt": "2026-09-26"
+        }
+      },
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Nan An District",
+          "nameZh": "南岸区",
+          "namePinyin": "Nan An",
+          "administrativeType": "District",
+          "code": "500108"
+        },
+        "locality": {
+          "nameEn": "Nan An District Central",
+          "nameZh": "南岸区投递局",
+          "namePinyin": "Nan An Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Nan An District Post Office",
+          "nameZh": "南岸区邮政支局",
+          "namePinyin": "Nan An Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500108",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "400700",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Bei Bei District",
+          "nameZh": "北碚区",
+          "namePinyin": "Bei Bei",
+          "administrativeType": "District",
+          "code": "500109"
+        },
+        "locality": {
+          "nameEn": "Bei Bei District Central",
+          "nameZh": "北碚区投递局",
+          "namePinyin": "Bei Bei Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Bei Bei District Post Office",
+          "nameZh": "北碚区邮政支局",
+          "namePinyin": "Bei Bei Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "400700"
+        },
+        "latitude": null,
+        "longitude": null,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500109",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "401100",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Yu Bei District",
+          "nameZh": "渝北区",
+          "namePinyin": "Yu Bei",
+          "administrativeType": "District",
+          "code": "500112"
+        },
+        "locality": {
+          "nameEn": "Yu Bei District Central",
+          "nameZh": "渝北区投递局",
+          "namePinyin": "Yu Bei Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Yu Bei District Post Office",
+          "nameZh": "渝北区邮政支局",
+          "namePinyin": "Yu Bei Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "401100"
+        },
+        "latitude": 29.9736,
+        "longitude": 106.2766,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500112",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "401200",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Chang Shou District",
+          "nameZh": "长寿区",
+          "namePinyin": "Chang Shou",
+          "administrativeType": "District",
+          "code": "500115"
+        },
+        "locality": {
+          "nameEn": "Chang Shou District Central",
+          "nameZh": "长寿区投递局",
+          "namePinyin": "Chang Shou Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Chang Shou District Post Office",
+          "nameZh": "长寿区邮政支局",
+          "namePinyin": "Chang Shou Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "401200"
+        },
+        "latitude": 29.9736,
+        "longitude": 106.2766,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500115",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "401300",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Ba Nan District",
+          "nameZh": "巴南区",
+          "namePinyin": "Ba Nan",
+          "administrativeType": "District",
+          "code": "500113"
+        },
+        "locality": {
+          "nameEn": "Ba Nan District Central",
+          "nameZh": "巴南区投递局",
+          "namePinyin": "Ba Nan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Ba Nan District Post Office",
+          "nameZh": "巴南区邮政支局",
+          "namePinyin": "Ba Nan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "401300"
+        },
+        "latitude": 29.9736,
+        "longitude": 106.2766,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500113",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "401400",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Qi Jiang District",
+          "nameZh": "綦江区",
+          "namePinyin": "Qi Jiang",
+          "administrativeType": "District",
+          "code": "500110"
+        },
+        "locality": {
+          "nameEn": "Qi Jiang District Central",
+          "nameZh": "綦江区投递局",
+          "namePinyin": "Qi Jiang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Qi Jiang District Post Office",
+          "nameZh": "綦江区邮政支局",
+          "namePinyin": "Qi Jiang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "401400"
+        },
+        "latitude": 29.9736,
+        "longitude": 106.2766,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500110",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "401500",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "He Chuan District",
+          "nameZh": "合川区",
+          "namePinyin": "He Chuan",
+          "administrativeType": "District",
+          "code": "500117"
+        },
+        "locality": {
+          "nameEn": "He Chuan District Central",
+          "nameZh": "合川区投递局",
+          "namePinyin": "He Chuan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "He Chuan District Post Office",
+          "nameZh": "合川区邮政支局",
+          "namePinyin": "He Chuan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "401500"
+        },
+        "latitude": 29.9736,
+        "longitude": 106.2766,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500117",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402100",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Yong Chuan District",
+          "nameZh": "永川区",
+          "namePinyin": "Yong Chuan",
+          "administrativeType": "District",
+          "code": "500118"
+        },
+        "locality": {
+          "nameEn": "Yong Chuan District Central",
+          "nameZh": "永川区投递局",
+          "namePinyin": "Yong Chuan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Yong Chuan District Post Office",
+          "nameZh": "永川区邮政支局",
+          "namePinyin": "Yong Chuan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402100"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500118",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402200",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Jiang Jin District",
+          "nameZh": "江津区",
+          "namePinyin": "Jiang Jin",
+          "administrativeType": "District",
+          "code": "500116"
+        },
+        "locality": {
+          "nameEn": "Jiang Jin District Central",
+          "nameZh": "江津区投递局",
+          "namePinyin": "Jiang Jin Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Jiang Jin District Post Office",
+          "nameZh": "江津区邮政支局",
+          "namePinyin": "Jiang Jin Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402200"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500116",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402300",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Da Zu District",
+          "nameZh": "大足区",
+          "namePinyin": "Da Zu",
+          "administrativeType": "District",
+          "code": "500111"
+        },
+        "locality": {
+          "nameEn": "Da Zu District Central",
+          "nameZh": "大足区投递局",
+          "namePinyin": "Da Zu Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Da Zu District Post Office",
+          "nameZh": "大足区邮政支局",
+          "namePinyin": "Da Zu Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402300"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500111",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402400",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Rong Chang District",
+          "nameZh": "荣昌区",
+          "namePinyin": "Rong Chang",
+          "administrativeType": "District",
+          "code": "500153"
+        },
+        "locality": {
+          "nameEn": "Rong Chang District Central",
+          "nameZh": "荣昌区投递局",
+          "namePinyin": "Rong Chang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Rong Chang District Post Office",
+          "nameZh": "荣昌区邮政支局",
+          "namePinyin": "Rong Chang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402400"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500153",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402500",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Tong Liang District",
+          "nameZh": "铜梁区",
+          "namePinyin": "Tong Liang",
+          "administrativeType": "District",
+          "code": "500151"
+        },
+        "locality": {
+          "nameEn": "Tong Liang District Central",
+          "nameZh": "铜梁区投递局",
+          "namePinyin": "Tong Liang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Tong Liang District Post Office",
+          "nameZh": "铜梁区邮政支局",
+          "namePinyin": "Tong Liang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402500"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500151",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402600",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Tong Nan District",
+          "nameZh": "潼南区",
+          "namePinyin": "Tong Nan",
+          "administrativeType": "District",
+          "code": "500152"
+        },
+        "locality": {
+          "nameEn": "Tong Nan District Central",
+          "nameZh": "潼南区投递局",
+          "namePinyin": "Tong Nan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Tong Nan District Post Office",
+          "nameZh": "潼南区邮政支局",
+          "namePinyin": "Tong Nan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402600"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500152",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "402700",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Bi Shan District",
+          "nameZh": "璧山区",
+          "namePinyin": "Bi Shan",
+          "administrativeType": "District",
+          "code": "500120"
+        },
+        "locality": {
+          "nameEn": "Bi Shan District Central",
+          "nameZh": "璧山区投递局",
+          "namePinyin": "Bi Shan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Bi Shan District Post Office",
+          "nameZh": "璧山区邮政支局",
+          "namePinyin": "Bi Shan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "402700"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500120",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "404000",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500000"
+        },
+        "prefectureCounty": {
+          "nameEn": "Wanzhou District",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "District / Urban Area",
+          "code": "500000"
+        },
+        "locality": {
+          "nameEn": "Chongqing Postal Center",
+          "nameZh": "重庆市邮政投递局",
+          "namePinyin": "Chóngqìng Shì Yóuzhèng Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Chongqing Central Post Office",
+          "nameZh": "重庆市邮政局",
+          "namePinyin": "Chóngqìng Shì Yóuzhèngjú",
+          "type": "Central Post Office",
+          "code": "404000"
+        },
+        "latitude": 30.9262,
+        "longitude": 108.7104,
+        "source": {
+          "name": "China Post & GeoNames National Postal Directory",
+          "recordId": "CN-GEO-404000",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "404100",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Wan Zhou District",
+          "nameZh": "万州区",
+          "namePinyin": "Wan Zhou",
+          "administrativeType": "District",
+          "code": "500101"
+        },
+        "locality": {
+          "nameEn": "Wan Zhou District Central",
+          "nameZh": "万州区投递局",
+          "namePinyin": "Wan Zhou Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Wan Zhou District Post Office",
+          "nameZh": "万州区邮政支局",
+          "namePinyin": "Wan Zhou Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "404100"
+        },
+        "latitude": null,
+        "longitude": null,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500101",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "404300",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Zhong Xian County",
+          "nameZh": "忠县",
+          "namePinyin": "Zhong Xian",
+          "administrativeType": "County",
+          "code": "500233"
+        },
+        "locality": {
+          "nameEn": "Zhong Xian County Central",
+          "nameZh": "忠县投递局",
+          "namePinyin": "Zhong Xian Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Zhong Xian County Post Office",
+          "nameZh": "忠县邮政支局",
+          "namePinyin": "Zhong Xian Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "404300"
+        },
+        "latitude": 30.9262,
+        "longitude": 108.7104,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500233",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "404500",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Yun Yang County",
+          "nameZh": "云阳县",
+          "namePinyin": "Yun Yang",
+          "administrativeType": "County",
+          "code": "500235"
+        },
+        "locality": {
+          "nameEn": "Yun Yang County Central",
+          "nameZh": "云阳县投递局",
+          "namePinyin": "Yun Yang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Yun Yang County Post Office",
+          "nameZh": "云阳县邮政支局",
+          "namePinyin": "Yun Yang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "404500"
+        },
+        "latitude": 30.9262,
+        "longitude": 108.7104,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500235",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "404600",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Feng Jie County",
+          "nameZh": "奉节县",
+          "namePinyin": "Feng Jie",
+          "administrativeType": "County",
+          "code": "500236"
+        },
+        "locality": {
+          "nameEn": "Feng Jie County Central",
+          "nameZh": "奉节县投递局",
+          "namePinyin": "Feng Jie Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Feng Jie County Post Office",
+          "nameZh": "奉节县邮政支局",
+          "namePinyin": "Feng Jie Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "404600"
+        },
+        "latitude": 30.9262,
+        "longitude": 108.7104,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500236",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "404700",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Wu Shan County",
+          "nameZh": "巫山县",
+          "namePinyin": "Wu Shan",
+          "administrativeType": "County",
+          "code": "500237"
+        },
+        "locality": {
+          "nameEn": "Wu Shan County Central",
+          "nameZh": "巫山县投递局",
+          "namePinyin": "Wu Shan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Wu Shan County Post Office",
+          "nameZh": "巫山县邮政支局",
+          "namePinyin": "Wu Shan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "404700"
+        },
+        "latitude": 30.9262,
+        "longitude": 108.7104,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500237",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "405200",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Liang Ping District",
+          "nameZh": "梁平区",
+          "namePinyin": "Liang Ping",
+          "administrativeType": "District",
+          "code": "500155"
+        },
+        "locality": {
+          "nameEn": "Liang Ping District Central",
+          "nameZh": "梁平区投递局",
+          "namePinyin": "Liang Ping Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Liang Ping District Post Office",
+          "nameZh": "梁平区邮政支局",
+          "namePinyin": "Liang Ping Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "405200"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500155",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "405400",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Kai Zhou District",
+          "nameZh": "开州区",
+          "namePinyin": "Kai Zhou",
+          "administrativeType": "District",
+          "code": "500154"
+        },
+        "locality": {
+          "nameEn": "Kai Zhou District Central",
+          "nameZh": "开州区投递局",
+          "namePinyin": "Kai Zhou Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Kai Zhou District Post Office",
+          "nameZh": "开州区邮政支局",
+          "namePinyin": "Kai Zhou Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "405400"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500154",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "405800",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Wu Xi County",
+          "nameZh": "巫溪县",
+          "namePinyin": "Wu Xi",
+          "administrativeType": "County",
+          "code": "500238"
+        },
+        "locality": {
+          "nameEn": "Wu Xi County Central",
+          "nameZh": "巫溪县投递局",
+          "namePinyin": "Wu Xi Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Wu Xi County Post Office",
+          "nameZh": "巫溪县邮政支局",
+          "namePinyin": "Wu Xi Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "405800"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500238",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "405900",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Cheng Kou County",
+          "nameZh": "城口县",
+          "namePinyin": "Cheng Kou",
+          "administrativeType": "County",
+          "code": "500229"
+        },
+        "locality": {
+          "nameEn": "Cheng Kou County Central",
+          "nameZh": "城口县投递局",
+          "namePinyin": "Cheng Kou Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Cheng Kou County Post Office",
+          "nameZh": "城口县邮政支局",
+          "namePinyin": "Cheng Kou Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "405900"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500229",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "408000",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Fu Ling District",
+          "nameZh": "涪陵区",
+          "namePinyin": "Fu Ling",
+          "administrativeType": "District",
+          "code": "500102"
+        },
+        "locality": {
+          "nameEn": "Fu Ling District Central",
+          "nameZh": "涪陵区投递局",
+          "namePinyin": "Fu Ling Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Fu Ling District Post Office",
+          "nameZh": "涪陵区邮政支局",
+          "namePinyin": "Fu Ling Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "408000"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500102",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "408200",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Feng Du County",
+          "nameZh": "丰都县",
+          "namePinyin": "Feng Du",
+          "administrativeType": "County",
+          "code": "500230"
+        },
+        "locality": {
+          "nameEn": "Feng Du County Central",
+          "nameZh": "丰都县投递局",
+          "namePinyin": "Feng Du Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Feng Du County Post Office",
+          "nameZh": "丰都县邮政支局",
+          "namePinyin": "Feng Du Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "408200"
+        },
+        "latitude": null,
+        "longitude": null,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500230",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "408300",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Dian Jiang County",
+          "nameZh": "垫江县",
+          "namePinyin": "Dian Jiang",
+          "administrativeType": "County",
+          "code": "500231"
+        },
+        "locality": {
+          "nameEn": "Dian Jiang County Central",
+          "nameZh": "垫江县投递局",
+          "namePinyin": "Dian Jiang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Dian Jiang County Post Office",
+          "nameZh": "垫江县邮政支局",
+          "namePinyin": "Dian Jiang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "408300"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500231",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "408400",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Nan Chuan District",
+          "nameZh": "南川区",
+          "namePinyin": "Nan Chuan",
+          "administrativeType": "District",
+          "code": "500119"
+        },
+        "locality": {
+          "nameEn": "Nan Chuan District Central",
+          "nameZh": "南川区投递局",
+          "namePinyin": "Nan Chuan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Nan Chuan District Post Office",
+          "nameZh": "南川区邮政支局",
+          "namePinyin": "Nan Chuan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "408400"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500119",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "408500",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Wu Long District",
+          "nameZh": "武隆区",
+          "namePinyin": "Wu Long",
+          "administrativeType": "District",
+          "code": "500156"
+        },
+        "locality": {
+          "nameEn": "Wu Long District Central",
+          "nameZh": "武隆区投递局",
+          "namePinyin": "Wu Long Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Wu Long District Post Office",
+          "nameZh": "武隆区邮政支局",
+          "namePinyin": "Wu Long Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "408500"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500156",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "409000",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆城区 District",
+          "nameZh": "重庆城区",
+          "namePinyin": "重庆城区",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Qian Jiang District",
+          "nameZh": "黔江区",
+          "namePinyin": "Qian Jiang",
+          "administrativeType": "District",
+          "code": "500114"
+        },
+        "locality": {
+          "nameEn": "Qian Jiang District Central",
+          "nameZh": "黔江区投递局",
+          "namePinyin": "Qian Jiang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Qian Jiang District Post Office",
+          "nameZh": "黔江区邮政支局",
+          "namePinyin": "Qian Jiang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "409000"
+        },
+        "latitude": null,
+        "longitude": null,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500114",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "409100",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Shi Zhu Autonomous County",
+          "nameZh": "石柱土家族自治县",
+          "namePinyin": "Shi Zhu",
+          "administrativeType": "Autonomous County",
+          "code": "500240"
+        },
+        "locality": {
+          "nameEn": "Shi Zhu Autonomous County Central",
+          "nameZh": "石柱土家族自治县投递局",
+          "namePinyin": "Shi Zhu Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Shi Zhu Autonomous County Post Office",
+          "nameZh": "石柱土家族自治县邮政支局",
+          "namePinyin": "Shi Zhu Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "409100"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500240",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "409600",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Peng Shui Autonomous County",
+          "nameZh": "彭水苗族土家族自治县",
+          "namePinyin": "Peng Shui",
+          "administrativeType": "Autonomous County",
+          "code": "500243"
+        },
+        "locality": {
+          "nameEn": "Peng Shui Autonomous County Central",
+          "nameZh": "彭水苗族土家族自治县投递局",
+          "namePinyin": "Peng Shui Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Peng Shui Autonomous County Post Office",
+          "nameZh": "彭水苗族土家族自治县邮政支局",
+          "namePinyin": "Peng Shui Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "409600"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500243",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "409700",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500000"
+        },
+        "prefectureCounty": {
+          "nameEn": "Qianjiang Qu",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "District / Urban Area",
+          "code": "500000"
+        },
+        "locality": {
+          "nameEn": "Chongqing Postal Center",
+          "nameZh": "重庆市邮政投递局",
+          "namePinyin": "Chóngqìng Shì Yóuzhèng Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Chongqing Central Post Office",
+          "nameZh": "重庆市邮政局",
+          "namePinyin": "Chóngqìng Shì Yóuzhèngjú",
+          "type": "Central Post Office",
+          "code": "409700"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China Post & GeoNames National Postal Directory",
+          "recordId": "CN-GEO-409700",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "409800",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "You Yang Autonomous County",
+          "nameZh": "酉阳土家族苗族自治县",
+          "namePinyin": "You Yang",
+          "administrativeType": "Autonomous County",
+          "code": "500242"
+        },
+        "locality": {
+          "nameEn": "You Yang Autonomous County Central",
+          "nameZh": "酉阳土家族苗族自治县投递局",
+          "namePinyin": "You Yang Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "You Yang Autonomous County Post Office",
+          "nameZh": "酉阳土家族苗族自治县邮政支局",
+          "namePinyin": "You Yang Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "409800"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500242",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  },
+  {
+    "postalCode": "409900",
+    "provinceRegion": {
+      "nameEn": "Chongqing",
+      "nameZh": "重庆市",
+      "namePinyin": "Chóngqìng Shì",
+      "administrativeType": "Municipality",
+      "code": "500000",
+      "slug": "chongqing",
+      "folder": "municipalities"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Chongqing",
+          "nameZh": "重庆市",
+          "namePinyin": "Chóngqìng Shì",
+          "administrativeType": "Municipality",
+          "code": "500000"
+        },
+        "city": {
+          "nameEn": "重庆郊县 County",
+          "nameZh": "重庆郊县",
+          "namePinyin": "重庆郊县",
+          "administrativeType": "Direct-Administered Municipality",
+          "code": "500200"
+        },
+        "prefectureCounty": {
+          "nameEn": "Xiu Shan Autonomous County",
+          "nameZh": "秀山土家族苗族自治县",
+          "namePinyin": "Xiu Shan",
+          "administrativeType": "Autonomous County",
+          "code": "500241"
+        },
+        "locality": {
+          "nameEn": "Xiu Shan Autonomous County Central",
+          "nameZh": "秀山土家族苗族自治县投递局",
+          "namePinyin": "Xiu Shan Tóudìjú"
+        },
+        "postOffice": {
+          "nameEn": "Xiu Shan Autonomous County Post Office",
+          "nameZh": "秀山土家族苗族自治县邮政支局",
+          "namePinyin": "Xiu Shan Yóuzhèng Zhījú",
+          "type": "Branch Post Office",
+          "code": "409900"
+        },
+        "latitude": 30.6087,
+        "longitude": 107.8991,
+        "source": {
+          "name": "China National Bureau of Statistics GB/T 2260 & China Post",
+          "recordId": "CN-500241",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  }
+]

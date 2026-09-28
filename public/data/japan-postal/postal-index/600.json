@@ -1,0 +1,42 @@
+{
+  "prefix": "600",
+  "records": [
+    {
+      "postalCode": "6008216",
+      "postalCodeFormatted": "600-8216",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26106",
+        "nameEn": "Kyoto Shimogyo Ward",
+        "nameJa": "京都市下京区",
+        "nameKana": "キョウトシシモギョウク",
+        "nameRomaji": "Kyoto-shi Shimogyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "Higashishiokojicho",
+        "nameJa": "東塩小路町",
+        "nameKana": "ヒガシシオコウジチョウ",
+        "nameRomaji": "Higashishiokojicho",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Kyoto Station & Kyoto Tower"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

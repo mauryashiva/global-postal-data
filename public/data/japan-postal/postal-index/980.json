@@ -1,0 +1,40 @@
+{
+  "prefix": "980",
+  "records": [
+    {
+      "postalCode": "9800000",
+      "postalCodeFormatted": "980-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "04",
+      "prefectureNameEn": "Miyagi",
+      "prefectureNameJa": "宮城県",
+      "prefectureNameKana": "ミヤギケン",
+      "prefectureNameRomaji": "Miyagi-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "04201",
+        "nameEn": "Sendai",
+        "nameJa": "仙台市",
+        "nameKana": "ミヤギシ",
+        "nameRomaji": "Miyagi-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Miyagi Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

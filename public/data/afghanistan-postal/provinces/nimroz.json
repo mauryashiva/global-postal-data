@@ -1,0 +1,251 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Nimroz",
+    "nameNative": "نیمروز",
+    "isoCode": "AF-NIM",
+    "postalPrefix": "43",
+    "capital": "Zaranj",
+    "capitalNative": "زرنج",
+    "coordinates": {
+      "latitude": 31,
+      "longitude": 62
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 6,
+    "totalRecords": 6,
+    "urbanRecords": 1,
+    "ruralRecords": 5
+  },
+  "records": [
+    {
+      "postalCode": "430101",
+      "province": {
+        "nameEn": "Nimroz",
+        "nameNative": "نیمروز",
+        "code": "AF-NIM",
+        "postalPrefix": "43"
+      },
+      "city": {
+        "nameEn": "Zaranj",
+        "nameNative": "زرنج"
+      },
+      "district": {
+        "nameEn": "Zaranj - Zaranj",
+        "type": "Urban Municipal District",
+        "code": "AF-NIM-01"
+      },
+      "locality": {
+        "nameEn": "Zaranj (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Zaranj Zaranj Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31,
+        "longitude": 62
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-430101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "435101",
+      "province": {
+        "nameEn": "Nimroz",
+        "nameNative": "نیمروز",
+        "code": "AF-NIM",
+        "postalPrefix": "43"
+      },
+      "city": {
+        "nameEn": "Zaranj",
+        "nameNative": "زرنج"
+      },
+      "district": {
+        "nameEn": "Charburjak District",
+        "type": "Rural Administrative District",
+        "code": "AF-NIM-51"
+      },
+      "locality": {
+        "nameEn": "Charburjak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Charburjak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31,
+        "longitude": 62
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-435101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "435201",
+      "province": {
+        "nameEn": "Nimroz",
+        "nameNative": "نیمروز",
+        "code": "AF-NIM",
+        "postalPrefix": "43"
+      },
+      "city": {
+        "nameEn": "Zaranj",
+        "nameNative": "زرنج"
+      },
+      "district": {
+        "nameEn": "Khashrod District",
+        "type": "Rural Administrative District",
+        "code": "AF-NIM-52"
+      },
+      "locality": {
+        "nameEn": "Khashrod Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khashrod District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31,
+        "longitude": 62
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-435201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "435301",
+      "province": {
+        "nameEn": "Nimroz",
+        "nameNative": "نیمروز",
+        "code": "AF-NIM",
+        "postalPrefix": "43"
+      },
+      "city": {
+        "nameEn": "Zaranj",
+        "nameNative": "زرنج"
+      },
+      "district": {
+        "nameEn": "Chakhansur District",
+        "type": "Rural Administrative District",
+        "code": "AF-NIM-53"
+      },
+      "locality": {
+        "nameEn": "Chakhansur Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chakhansur District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31,
+        "longitude": 62
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-435301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "435401",
+      "province": {
+        "nameEn": "Nimroz",
+        "nameNative": "نیمروز",
+        "code": "AF-NIM",
+        "postalPrefix": "43"
+      },
+      "city": {
+        "nameEn": "Zaranj",
+        "nameNative": "زرنج"
+      },
+      "district": {
+        "nameEn": "Kang District",
+        "type": "Rural Administrative District",
+        "code": "AF-NIM-54"
+      },
+      "locality": {
+        "nameEn": "Kang Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kang District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31,
+        "longitude": 62
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-435401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "435501",
+      "province": {
+        "nameEn": "Nimroz",
+        "nameNative": "نیمروز",
+        "code": "AF-NIM",
+        "postalPrefix": "43"
+      },
+      "city": {
+        "nameEn": "Zaranj",
+        "nameNative": "زرنج"
+      },
+      "district": {
+        "nameEn": "Dilaram District",
+        "type": "Rural Administrative District",
+        "code": "AF-NIM-55"
+      },
+      "locality": {
+        "nameEn": "Dilaram Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dilaram District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 31,
+        "longitude": 62
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-435501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

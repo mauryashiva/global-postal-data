@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "SA",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "SA1 1DP",
+      "postTown": "SWANSEA",
+      "locality": "Maritime Quarter",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "Wales",
+      "constituentCountryCode": "GB-WLS",
+      "region": "Wales",
+      "ceremonialCounty": "West Glamorgan",
+      "localAuthority": "City and County of Swansea Council",
+      "district": "Swansea",
+      "civilParish": null,
+      "ward": "Castle",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.6183,
+        "longitude": -3.9436,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SA11DP-01",
+          "buildingName": "Civic Centre (Canolfan Ddinesig)",
+          "buildingNumber": null,
+          "subBuildingName": "Oystermouth Wing",
+          "thoroughfare": "Oystermouth Road",
+          "postTown": "SWANSEA",
+          "postcode": "SA1 1DP",
+          "fullAddressText": "Civic Centre, Oystermouth Road, Swansea SA1 1DP"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SA1 1DP",
+        "outwardCode": "SA1",
+        "inwardCode": "1DP",
+        "postcodeArea": "SA",
+        "postcodeDistrict": "SA1",
+        "postcodeSector": "SA1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SA1-1DP",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5438 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Dong Thap",
+    "nameVi": "Đồng Tháp",
+    "fullNameEn": "Dong Thap Province",
+    "fullNameVi": "Tỉnh Đồng Tháp",
+    "nameSearchNormalized": "dong thap",
+    "officialCode": "82",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "81, 84",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 102,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "84113",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Dao Thanh",
+        "nameVi": "Đạo Thạnh",
+        "fullNameEn": "Dao Thanh Ward",
+        "fullNameVi": "Phường Đạo Thạnh",
+        "nameSearchNormalized": "dao thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28249",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Dao Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đạo Thạnh",
+        "type": "Ward",
+        "code": "84113"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tho",
+        "districtFullName": "Thành phố Mỹ Tho",
+        "districtNameEn": "My Tho",
+        "districtCode": "815",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Tho",
+        "nameVi": "Mỹ Tho",
+        "fullNameEn": "My Tho Ward",
+        "fullNameVi": "Phường Mỹ Tho",
+        "nameSearchNormalized": "my tho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28261",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Tho Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Tho",
+        "type": "Ward",
+        "code": "84123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tho",
+        "districtFullName": "Thành phố Mỹ Tho",
+        "districtNameEn": "My Tho",
+        "districtCode": "815",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thoi Son",
+        "nameVi": "Thới Sơn",
+        "fullNameEn": "Thoi Son Ward",
+        "fullNameVi": "Phường Thới Sơn",
+        "nameSearchNormalized": "thoi son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28270",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thoi Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thới Sơn",
+        "type": "Ward",
+        "code": "84122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tho",
+        "districtFullName": "Thành phố Mỹ Tho",
+        "districtNameEn": "My Tho",
+        "districtCode": "815",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Phong",
+        "nameVi": "Mỹ Phong",
+        "fullNameEn": "My Phong Ward",
+        "fullNameVi": "Phường Mỹ Phong",
+        "nameSearchNormalized": "my phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28273",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Phong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Phong",
+        "type": "Ward",
+        "code": "84112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tho",
+        "districtFullName": "Thành phố Mỹ Tho",
+        "districtNameEn": "My Tho",
+        "districtCode": "815",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Trung An",
+        "nameVi": "Trung An",
+        "fullNameEn": "Trung An Ward",
+        "fullNameVi": "Phường Trung An",
+        "nameSearchNormalized": "trung an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28285",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Trung An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trung An",
+        "type": "Ward",
+        "code": "84118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tho",
+        "districtFullName": "Thành phố Mỹ Tho",
+        "districtNameEn": "My Tho",
+        "districtCode": "815",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Thuan",
+        "nameVi": "Long Thuận",
+        "fullNameEn": "Long Thuan Ward",
+        "fullNameVi": "Phường Long Thuận",
+        "nameSearchNormalized": "long thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28297",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Thuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Thuận",
+        "type": "Ward",
+        "code": "84308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công",
+        "districtFullName": "Thành phố Gò Công",
+        "districtNameEn": "Go Cong",
+        "districtCode": "816",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84318",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Go Cong",
+        "nameVi": "Gò Công",
+        "fullNameEn": "Go Cong Ward",
+        "fullNameVi": "Phường Gò Công",
+        "nameSearchNormalized": "go cong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28306",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Go Cong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Gò Công",
+        "type": "Ward",
+        "code": "84318"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công",
+        "districtFullName": "Thành phố Gò Công",
+        "districtNameEn": "Go Cong",
+        "districtCode": "816",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Binh Xuan",
+        "nameVi": "Bình Xuân",
+        "fullNameEn": "Binh Xuan Ward",
+        "fullNameVi": "Phường Bình Xuân",
+        "nameSearchNormalized": "binh xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28315",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Binh Xuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bình Xuân",
+        "type": "Ward",
+        "code": "84312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công",
+        "districtFullName": "Thành phố Gò Công",
+        "districtNameEn": "Go Cong",
+        "districtCode": "816",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84719",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Phuoc 1",
+        "nameVi": "Tân Phước 1",
+        "fullNameEn": "Commune Tan Phuoc 1",
+        "fullNameVi": "Xã Tân Phước 1",
+        "nameSearchNormalized": "tan phuoc 1",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28321",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phuoc 1 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phước 1",
+        "type": "Commune",
+        "code": "84719"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Phước",
+        "districtFullName": "Huyện Tân Phước",
+        "districtNameEn": "Tan Phuoc",
+        "districtCode": "818",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84720",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Phuoc 2",
+        "nameVi": "Tân Phước 2",
+        "fullNameEn": "Commune Tan Phuoc 2",
+        "fullNameVi": "Xã Tân Phước 2",
+        "nameSearchNormalized": "tan phuoc 2",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28327",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phuoc 2 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phước 2",
+        "type": "Commune",
+        "code": "84720"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Phước",
+        "districtFullName": "Huyện Tân Phước",
+        "districtNameEn": "Tan Phuoc",
+        "districtCode": "818",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Hung Thanh",
+        "nameVi": "Hưng Thạnh",
+        "fullNameEn": "Hung Thanh Commune",
+        "fullNameVi": "Xã Hưng Thạnh",
+        "nameSearchNormalized": "hung thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28336",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Hung Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hưng Thạnh",
+        "type": "Commune",
+        "code": "84712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Phước",
+        "districtFullName": "Huyện Tân Phước",
+        "districtNameEn": "Tan Phuoc",
+        "districtCode": "818",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84721",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Phuoc 3",
+        "nameVi": "Tân Phước 3",
+        "fullNameEn": "Commune Tan Phuoc 3",
+        "fullNameVi": "Xã Tân Phước 3",
+        "nameSearchNormalized": "tan phuoc 3",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28345",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phuoc 3 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phước 3",
+        "type": "Commune",
+        "code": "84721"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Phước",
+        "districtFullName": "Huyện Tân Phước",
+        "districtNameEn": "Tan Phuoc",
+        "districtCode": "818",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Cai Be",
+        "nameVi": "Cái Bè",
+        "fullNameEn": "Cai Be Commune",
+        "fullNameVi": "Xã Cái Bè",
+        "nameSearchNormalized": "cai be",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28360",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Cai Be Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cái Bè",
+        "type": "Commune",
+        "code": "84906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84934",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Hau My",
+        "nameVi": "Hậu Mỹ",
+        "fullNameEn": "Hau My Commune",
+        "fullNameVi": "Xã Hậu Mỹ",
+        "nameSearchNormalized": "hau my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28366",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Hau My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hậu Mỹ",
+        "type": "Commune",
+        "code": "84934"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84933",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Thien",
+        "nameVi": "Mỹ Thiện",
+        "fullNameEn": "My Thien Commune",
+        "fullNameVi": "Xã Mỹ Thiện",
+        "nameSearchNormalized": "my thien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28378",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Thien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Thiện",
+        "type": "Commune",
+        "code": "84933"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84935",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Hoi Cu",
+        "nameVi": "Hội Cư",
+        "fullNameEn": "Hoi Cu Commune",
+        "fullNameVi": "Xã Hội Cư",
+        "nameSearchNormalized": "hoi cu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28393",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Hoi Cu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hội Cư",
+        "type": "Commune",
+        "code": "84935"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84921",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Duc Tay",
+        "nameVi": "Mỹ Đức Tây",
+        "fullNameEn": "My Duc Tay Commune",
+        "fullNameVi": "Xã Mỹ Đức Tây",
+        "nameSearchNormalized": "my duc tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28405",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Duc Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Đức Tây",
+        "type": "Commune",
+        "code": "84921"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84932",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Loi",
+        "nameVi": "Mỹ Lợi",
+        "fullNameEn": "My Loi Commune",
+        "fullNameVi": "Xã Mỹ Lợi",
+        "nameSearchNormalized": "my loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28414",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Loi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Lợi",
+        "type": "Commune",
+        "code": "84932"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84931",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thanh Hung",
+        "nameVi": "Thanh Hưng",
+        "fullNameEn": "Thanh Hung Commune",
+        "fullNameVi": "Xã Thanh Hưng",
+        "nameSearchNormalized": "thanh hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28426",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Hưng",
+        "type": "Commune",
+        "code": "84931"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84927",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "An Huu",
+        "nameVi": "An Hữu",
+        "fullNameEn": "An Huu Commune",
+        "fullNameVi": "Xã An Hữu",
+        "nameSearchNormalized": "an huu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28429",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "An Huu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Hữu",
+        "type": "Commune",
+        "code": "84927"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Bè",
+        "districtFullName": "Huyện Cái Bè",
+        "districtNameEn": "Cai Be",
+        "districtCode": "819",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84864",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Phuoc Tay",
+        "nameVi": "Mỹ Phước Tây",
+        "fullNameEn": "My Phuoc Tay Ward",
+        "fullNameVi": "Phường Mỹ Phước Tây",
+        "nameSearchNormalized": "my phuoc tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28435",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Phuoc Tay Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Phước Tây",
+        "type": "Ward",
+        "code": "84864"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Thị xã Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "817",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84867",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thanh Hoa",
+        "nameVi": "Thanh Hoà",
+        "fullNameEn": "Thanh Hoa Ward",
+        "fullNameVi": "Phường Thanh Hoà",
+        "nameSearchNormalized": "thanh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28436",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Hoa Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thanh Hoà",
+        "type": "Ward",
+        "code": "84867"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Thị xã Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "817",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84872",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Cai Lay",
+        "nameVi": "Cai Lậy",
+        "fullNameEn": "Cai Lay Ward",
+        "fullNameVi": "Phường Cai Lậy",
+        "nameSearchNormalized": "cai lay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28439",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Cai Lay Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cai Lậy",
+        "type": "Ward",
+        "code": "84872"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Thị xã Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "817",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84823",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thanh Phu",
+        "nameVi": "Thạnh Phú",
+        "fullNameEn": "Thanh Phu Commune",
+        "fullNameVi": "Xã Thạnh Phú",
+        "nameSearchNormalized": "thanh phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28444",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Phú",
+        "type": "Commune",
+        "code": "84823"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Huyện Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "820",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84822",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Thanh",
+        "nameVi": "Mỹ Thành",
+        "fullNameEn": "My Thanh Commune",
+        "fullNameVi": "Xã Mỹ Thành",
+        "nameSearchNormalized": "my thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28456",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Thành",
+        "type": "Commune",
+        "code": "84822"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Huyện Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "820",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84861",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Phu",
+        "nameVi": "Tân Phú",
+        "fullNameEn": "Tan Phu Commune",
+        "fullNameVi": "Xã Tân Phú",
+        "nameSearchNormalized": "tan phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28468",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phú",
+        "type": "Commune",
+        "code": "84861"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Thị xã Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "817",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Binh Phu",
+        "nameVi": "Bình Phú",
+        "fullNameEn": "Binh Phu Commune",
+        "fullNameVi": "Xã Bình Phú",
+        "nameSearchNormalized": "binh phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28471",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Binh Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Phú",
+        "type": "Commune",
+        "code": "84806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Huyện Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "820",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84871",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Nhi Quy",
+        "nameVi": "Nhị Quý",
+        "fullNameEn": "Nhi Quy Ward",
+        "fullNameVi": "Phường Nhị Quý",
+        "nameSearchNormalized": "nhi quy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28477",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Nhi Quy Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Nhị Quý",
+        "type": "Ward",
+        "code": "84871"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Thị xã Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "817",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84816",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Hiep Duc",
+        "nameVi": "Hiệp Đức",
+        "fullNameEn": "Hiep Duc Commune",
+        "fullNameVi": "Xã Hiệp Đức",
+        "nameSearchNormalized": "hiep duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28501",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Hiep Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hiệp Đức",
+        "type": "Commune",
+        "code": "84816"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Huyện Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "820",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Tien",
+        "nameVi": "Long Tiên",
+        "fullNameEn": "Long Tien Commune",
+        "fullNameVi": "Xã Long Tiên",
+        "nameSearchNormalized": "long tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28504",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Tiên",
+        "type": "Commune",
+        "code": "84815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Huyện Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "820",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84821",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Ngu Hiep",
+        "nameVi": "Ngũ Hiệp",
+        "fullNameEn": "Ngu Hiep Commune",
+        "fullNameVi": "Xã Ngũ Hiệp",
+        "nameSearchNormalized": "ngu hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28516",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Ngu Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngũ Hiệp",
+        "type": "Commune",
+        "code": "84821"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cai Lậy",
+        "districtFullName": "Huyện Cai Lậy",
+        "districtNameEn": "Cai Lay",
+        "districtCode": "820",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84629",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Chau Thanh",
+        "nameVi": "Châu Thành",
+        "fullNameEn": "Chau Thanh Commune",
+        "fullNameVi": "Xã Châu Thành",
+        "nameSearchNormalized": "chau thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28519",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Chau Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Thành",
+        "type": "Commune",
+        "code": "84629"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84608",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Huong",
+        "nameVi": "Tân Hương",
+        "fullNameEn": "Tan Huong Commune",
+        "fullNameVi": "Xã Tân Hương",
+        "nameSearchNormalized": "tan huong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28525",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Huong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hương",
+        "type": "Commune",
+        "code": "84608"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84621",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Hung",
+        "nameVi": "Long Hưng",
+        "fullNameEn": "Long Hung Commune",
+        "fullNameVi": "Xã Long Hưng",
+        "nameSearchNormalized": "long hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28537",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Hưng",
+        "type": "Commune",
+        "code": "84621"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84614",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Dinh",
+        "nameVi": "Long Định",
+        "fullNameEn": "Long Dinh Commune",
+        "fullNameVi": "Xã Long Định",
+        "nameSearchNormalized": "long dinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28543",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Dinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Định",
+        "type": "Commune",
+        "code": "84614"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84619",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Binh Trung",
+        "nameVi": "Bình Trưng",
+        "fullNameEn": "Binh Trung Commune",
+        "fullNameVi": "Xã Bình Trưng",
+        "nameSearchNormalized": "binh trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28564",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Binh Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Trưng",
+        "type": "Commune",
+        "code": "84619"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84625",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Vinh Kim",
+        "nameVi": "Vĩnh Kim",
+        "fullNameEn": "Vinh Kim Commune",
+        "fullNameVi": "Xã Vĩnh Kim",
+        "nameSearchNormalized": "vinh kim",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28576",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Kim Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Kim",
+        "type": "Commune",
+        "code": "84625"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84627",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Kim Son",
+        "nameVi": "Kim Sơn",
+        "fullNameEn": "Kim Son Commune",
+        "fullNameVi": "Xã Kim Sơn",
+        "nameSearchNormalized": "kim son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28582",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Kim Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kim Sơn",
+        "type": "Commune",
+        "code": "84627"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "821",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Cho Gao",
+        "nameVi": "Chợ Gạo",
+        "fullNameEn": "Cho Gao Commune",
+        "fullNameVi": "Xã Chợ Gạo",
+        "nameSearchNormalized": "cho gao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28594",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Cho Gao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chợ Gạo",
+        "type": "Commune",
+        "code": "84506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Gạo",
+        "districtFullName": "Huyện Chợ Gạo",
+        "districtNameEn": "Cho Gao",
+        "districtCode": "822",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84520",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Tinh An",
+        "nameVi": "Mỹ Tịnh An",
+        "fullNameEn": "My Tinh An Commune",
+        "fullNameVi": "Xã Mỹ Tịnh An",
+        "nameSearchNormalized": "my tinh an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28603",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Tinh An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Tịnh An",
+        "type": "Commune",
+        "code": "84520"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Gạo",
+        "districtFullName": "Huyện Chợ Gạo",
+        "districtNameEn": "Cho Gao",
+        "districtCode": "822",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84523",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Luong Hoa Lac",
+        "nameVi": "Lương Hoà Lạc",
+        "fullNameEn": "Luong Hoa Lac Commune",
+        "fullNameVi": "Xã Lương Hoà Lạc",
+        "nameSearchNormalized": "luong hoa lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28615",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Luong Hoa Lac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lương Hoà Lạc",
+        "type": "Commune",
+        "code": "84523"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Gạo",
+        "districtFullName": "Huyện Chợ Gạo",
+        "districtNameEn": "Cho Gao",
+        "districtCode": "822",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Thuan Binh",
+        "nameVi": "Tân Thuận Bình",
+        "fullNameEn": "Tan Thuan Binh Commune",
+        "fullNameVi": "Xã Tân Thuận Bình",
+        "nameSearchNormalized": "tan thuan binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28627",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thuan Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thuận Bình",
+        "type": "Commune",
+        "code": "84510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Gạo",
+        "districtFullName": "Huyện Chợ Gạo",
+        "districtNameEn": "Cho Gao",
+        "districtCode": "822",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84514",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "An Thanh Thuy",
+        "nameVi": "An Thạnh Thuỷ",
+        "fullNameEn": "An Thanh Thuy Commune",
+        "fullNameVi": "Xã An Thạnh Thuỷ",
+        "nameSearchNormalized": "an thanh thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28633",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "An Thanh Thuy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Thạnh Thuỷ",
+        "type": "Commune",
+        "code": "84514"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Gạo",
+        "districtFullName": "Huyện Chợ Gạo",
+        "districtNameEn": "Cho Gao",
+        "districtCode": "822",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84515",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Binh Ninh",
+        "nameVi": "Bình Ninh",
+        "fullNameEn": "Binh Ninh Commune",
+        "fullNameVi": "Xã Bình Ninh",
+        "nameSearchNormalized": "binh ninh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28648",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Binh Ninh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Ninh",
+        "type": "Commune",
+        "code": "84515"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Gạo",
+        "districtFullName": "Huyện Chợ Gạo",
+        "districtNameEn": "Cho Gao",
+        "districtCode": "822",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Vinh Binh",
+        "nameVi": "Vĩnh Bình",
+        "fullNameEn": "Vinh Binh Commune",
+        "fullNameVi": "Xã Vĩnh Bình",
+        "nameSearchNormalized": "vinh binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28651",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Bình",
+        "type": "Commune",
+        "code": "84406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Tây",
+        "districtFullName": "Huyện Gò Công Tây",
+        "districtNameEn": "Go Cong Tay",
+        "districtCode": "823",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Dong Son",
+        "nameVi": "Đồng Sơn",
+        "fullNameEn": "Dong Son Commune",
+        "fullNameVi": "Xã Đồng Sơn",
+        "nameSearchNormalized": "dong son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28660",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Dong Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Sơn",
+        "type": "Commune",
+        "code": "84411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Tây",
+        "districtFullName": "Huyện Gò Công Tây",
+        "districtNameEn": "Go Cong Tay",
+        "districtCode": "823",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84419",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phu Thanh",
+        "nameVi": "Phú Thành",
+        "fullNameEn": "Phu Thanh Commune",
+        "fullNameVi": "Xã Phú Thành",
+        "nameSearchNormalized": "phu thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28663",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phu Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Thành",
+        "type": "Commune",
+        "code": "84419"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Tây",
+        "districtFullName": "Huyện Gò Công Tây",
+        "districtNameEn": "Go Cong Tay",
+        "districtCode": "823",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Vinh Huu",
+        "nameVi": "Vĩnh Hựu",
+        "fullNameEn": "Vinh Huu Commune",
+        "fullNameVi": "Xã Vĩnh Hựu",
+        "nameSearchNormalized": "vinh huu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28678",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Huu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hựu",
+        "type": "Commune",
+        "code": "84415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Tây",
+        "districtFullName": "Huyện Gò Công Tây",
+        "districtNameEn": "Go Cong Tay",
+        "districtCode": "823",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Binh",
+        "nameVi": "Long Bình",
+        "fullNameEn": "Long Binh Commune",
+        "fullNameVi": "Xã Long Bình",
+        "nameSearchNormalized": "long binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28687",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Bình",
+        "type": "Commune",
+        "code": "84417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Tây",
+        "districtFullName": "Huyện Gò Công Tây",
+        "districtNameEn": "Go Cong Tay",
+        "districtCode": "823",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84210",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Thoi",
+        "nameVi": "Tân Thới",
+        "fullNameEn": "Tan Thoi Commune",
+        "fullNameVi": "Xã Tân Thới",
+        "nameSearchNormalized": "tan thoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28693",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thới",
+        "type": "Commune",
+        "code": "84210"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Phú Đông",
+        "districtFullName": "Huyện Tân Phú Đông",
+        "districtNameEn": "Tan Phu Dong",
+        "districtCode": "825",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84212",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Phu Dong",
+        "nameVi": "Tân Phú Đông",
+        "fullNameEn": "Tan Phu Dong Commune",
+        "fullNameVi": "Xã Tân Phú Đông",
+        "nameSearchNormalized": "tan phu dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28696",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phu Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phú Đông",
+        "type": "Commune",
+        "code": "84212"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Phú Đông",
+        "districtFullName": "Huyện Tân Phú Đông",
+        "districtNameEn": "Tan Phu Dong",
+        "districtCode": "825",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84356",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Hoa",
+        "nameVi": "Tân Hoà",
+        "fullNameEn": "Tan Hoa Commune",
+        "fullNameVi": "Xã Tân Hoà",
+        "nameSearchNormalized": "tan hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28702",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hoà",
+        "type": "Commune",
+        "code": "84356"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Đông",
+        "districtFullName": "Huyện Gò Công Đông",
+        "districtNameEn": "Go Cong Dong",
+        "districtCode": "824",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84362",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Gia Thuan",
+        "nameVi": "Gia Thuận",
+        "fullNameEn": "Gia Thuan Commune",
+        "fullNameVi": "Xã Gia Thuận",
+        "nameSearchNormalized": "gia thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28720",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Gia Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gia Thuận",
+        "type": "Commune",
+        "code": "84362"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Đông",
+        "districtFullName": "Huyện Gò Công Đông",
+        "districtNameEn": "Go Cong Dong",
+        "districtCode": "824",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84365",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Dong",
+        "nameVi": "Tân Đông",
+        "fullNameEn": "Tan Dong Commune",
+        "fullNameVi": "Xã Tân Đông",
+        "nameSearchNormalized": "tan dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28723",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Đông",
+        "type": "Commune",
+        "code": "84365"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Đông",
+        "districtFullName": "Huyện Gò Công Đông",
+        "districtNameEn": "Go Cong Dong",
+        "districtCode": "824",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84319",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Son Qui",
+        "nameVi": "Sơn Qui",
+        "fullNameEn": "Son Qui Ward",
+        "fullNameVi": "Phường Sơn Qui",
+        "nameSearchNormalized": "son qui",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "28729",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Son Qui Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sơn Qui",
+        "type": "Ward",
+        "code": "84319"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công",
+        "districtFullName": "Thành phố Gò Công",
+        "districtNameEn": "Go Cong",
+        "districtCode": "816",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84359",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Dien",
+        "nameVi": "Tân Điền",
+        "fullNameEn": "Tan Dien Commune",
+        "fullNameVi": "Xã Tân Điền",
+        "nameSearchNormalized": "tan dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28738",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Điền",
+        "type": "Commune",
+        "code": "84359"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Đông",
+        "districtFullName": "Huyện Gò Công Đông",
+        "districtNameEn": "Go Cong Dong",
+        "districtCode": "824",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "84369",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Go Cong Dong",
+        "nameVi": "Gò Công Đông",
+        "fullNameEn": "Go Cong Dong Commune",
+        "fullNameVi": "Xã Gò Công Đông",
+        "nameSearchNormalized": "go cong dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "28747",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Go Cong Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gò Công Đông",
+        "type": "Commune",
+        "code": "84369"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Công Đông",
+        "districtFullName": "Huyện Gò Công Đông",
+        "districtNameEn": "Go Cong Dong",
+        "districtCode": "824",
+        "legacyProvinceName": "Tiền Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81121",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Cao Lanh",
+        "nameVi": "Cao Lãnh",
+        "fullNameEn": "Cao Lanh Ward",
+        "fullNameVi": "Phường Cao Lãnh",
+        "nameSearchNormalized": "cao lanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29869",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Cao Lanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cao Lãnh",
+        "type": "Ward",
+        "code": "81121"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Thành phố Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "866",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81110",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Ngai",
+        "nameVi": "Mỹ Ngãi",
+        "fullNameEn": "My Ngai Ward",
+        "fullNameVi": "Phường Mỹ Ngãi",
+        "nameSearchNormalized": "my ngai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29884",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Ngai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Ngãi",
+        "type": "Ward",
+        "code": "81110"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Thành phố Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "866",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81108",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Tra",
+        "nameVi": "Mỹ Trà",
+        "fullNameEn": "My Tra Ward",
+        "fullNameVi": "Phường Mỹ Trà",
+        "nameSearchNormalized": "my tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29888",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Tra Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Trà",
+        "type": "Ward",
+        "code": "81108"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Thành phố Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "866",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Sa Dec",
+        "nameVi": "Sa Đéc",
+        "fullNameEn": "Sa Dec Ward",
+        "fullNameVi": "Phường Sa Đéc",
+        "nameSearchNormalized": "sa dec",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29905",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Sa Dec Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sa Đéc",
+        "type": "Ward",
+        "code": "81815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Đéc",
+        "districtFullName": "Thành phố Sa Đéc",
+        "districtNameEn": "Sa Dec",
+        "districtCode": "867",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Hong",
+        "nameVi": "Tân Hồng",
+        "fullNameEn": "Tan Hong Commune",
+        "fullNameVi": "Xã Tân Hồng",
+        "nameSearchNormalized": "tan hong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29926",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hồng",
+        "type": "Commune",
+        "code": "81415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hồng",
+        "districtFullName": "Huyện Tân Hồng",
+        "districtNameEn": "Tan Hong",
+        "districtCode": "869",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Ho Co",
+        "nameVi": "Tân Hộ Cơ",
+        "fullNameEn": "Tan Ho Co Commune",
+        "fullNameVi": "Xã Tân Hộ Cơ",
+        "nameSearchNormalized": "tan ho co",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29929",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Ho Co Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hộ Cơ",
+        "type": "Commune",
+        "code": "81410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hồng",
+        "districtFullName": "Huyện Tân Hồng",
+        "districtNameEn": "Tan Hong",
+        "districtCode": "869",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thành",
+        "fullNameEn": "Tan Thanh Commune",
+        "fullNameVi": "Xã Tân Thành",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29938",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thành",
+        "type": "Commune",
+        "code": "81416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hồng",
+        "districtFullName": "Huyện Tân Hồng",
+        "districtNameEn": "Tan Hong",
+        "districtCode": "869",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "An Phuoc",
+        "nameVi": "An Phước",
+        "fullNameEn": "An Phuoc Commune",
+        "fullNameVi": "Xã An Phước",
+        "nameSearchNormalized": "an phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29944",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "An Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Phước",
+        "type": "Commune",
+        "code": "81413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hồng",
+        "districtFullName": "Huyện Tân Hồng",
+        "districtNameEn": "Tan Hong",
+        "districtCode": "869",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "An Binh",
+        "nameVi": "An Bình",
+        "fullNameEn": "An Binh Ward",
+        "fullNameVi": "Phường An Bình",
+        "nameSearchNormalized": "an binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29954",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "An Binh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Bình",
+        "type": "Ward",
+        "code": "81513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Ngự",
+        "districtFullName": "Thành phố Hồng Ngự",
+        "districtNameEn": "Hong Ngu",
+        "districtCode": "868",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81514",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Hong Ngu",
+        "nameVi": "Hồng Ngự",
+        "fullNameEn": "Hong Ngu Ward",
+        "fullNameVi": "Phường Hồng Ngự",
+        "nameSearchNormalized": "hong ngu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29955",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Hong Ngu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hồng Ngự",
+        "type": "Ward",
+        "code": "81514"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Ngự",
+        "districtFullName": "Thành phố Hồng Ngự",
+        "districtNameEn": "Hong Ngu",
+        "districtCode": "868",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81567",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thuong Phuoc",
+        "nameVi": "Thường Phước",
+        "fullNameEn": "Thuong Phuoc Commune",
+        "fullNameVi": "Xã Thường Phước",
+        "nameSearchNormalized": "thuong phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29971",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thường Phước",
+        "type": "Commune",
+        "code": "81567"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Ngự",
+        "districtFullName": "Huyện Hồng Ngự",
+        "districtNameEn": "Hong Ngu",
+        "districtCode": "870",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81561",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thuong Lac",
+        "nameVi": "Thường Lạc",
+        "fullNameEn": "Thuong Lac Ward",
+        "fullNameVi": "Phường Thường Lạc",
+        "nameSearchNormalized": "thuong lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "29978",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Lac Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thường Lạc",
+        "type": "Ward",
+        "code": "81561"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Ngự",
+        "districtFullName": "Thành phố Hồng Ngự",
+        "districtNameEn": "Hong Ngu",
+        "districtCode": "868",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81568",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Khanh",
+        "nameVi": "Long Khánh",
+        "fullNameEn": "Long Khanh Commune",
+        "fullNameVi": "Xã Long Khánh",
+        "nameSearchNormalized": "long khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29983",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Khánh",
+        "type": "Commune",
+        "code": "81568"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Ngự",
+        "districtFullName": "Huyện Hồng Ngự",
+        "districtNameEn": "Hong Ngu",
+        "districtCode": "870",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81569",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Long Phu Thuan",
+        "nameVi": "Long Phú Thuận",
+        "fullNameEn": "Long Phu Thuan Commune",
+        "fullNameVi": "Xã Long Phú Thuận",
+        "nameSearchNormalized": "long phu thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "29992",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Long Phu Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Phú Thuận",
+        "type": "Commune",
+        "code": "81569"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Ngự",
+        "districtFullName": "Huyện Hồng Ngự",
+        "districtNameEn": "Hong Ngu",
+        "districtCode": "870",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tram Chim",
+        "nameVi": "Tràm Chim",
+        "fullNameEn": "Tram Chim Commune",
+        "fullNameVi": "Xã Tràm Chim",
+        "nameSearchNormalized": "tram chim",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30001",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tram Chim Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tràm Chim",
+        "type": "Commune",
+        "code": "81306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Nông",
+        "districtFullName": "Huyện Tam Nông",
+        "districtNameEn": "Tam Nong",
+        "districtCode": "871",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81318",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tam Nong",
+        "nameVi": "Tam Nông",
+        "fullNameEn": "Tam Nong Commune",
+        "fullNameVi": "Xã Tam Nông",
+        "nameSearchNormalized": "tam nong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30010",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tam Nong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Nông",
+        "type": "Commune",
+        "code": "81318"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Nông",
+        "districtFullName": "Huyện Tam Nông",
+        "districtNameEn": "Tam Nong",
+        "districtCode": "871",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "An Hoa",
+        "nameVi": "An Hoà",
+        "fullNameEn": "An Hoa Commune",
+        "fullNameVi": "Xã An Hoà",
+        "nameSearchNormalized": "an hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30019",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "An Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Hoà",
+        "type": "Commune",
+        "code": "81312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Nông",
+        "districtFullName": "Huyện Tam Nông",
+        "districtNameEn": "Tam Nong",
+        "districtCode": "871",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81307",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phu Cuong",
+        "nameVi": "Phú Cường",
+        "fullNameEn": "Phu Cuong Commune",
+        "fullNameVi": "Xã Phú Cường",
+        "nameSearchNormalized": "phu cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30025",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phu Cuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Cường",
+        "type": "Commune",
+        "code": "81307"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Nông",
+        "districtFullName": "Huyện Tam Nông",
+        "districtNameEn": "Tam Nong",
+        "districtCode": "871",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "An Long",
+        "nameVi": "An Long",
+        "fullNameEn": "An Long Commune",
+        "fullNameVi": "Xã An Long",
+        "nameSearchNormalized": "an long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30028",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "An Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Long",
+        "type": "Commune",
+        "code": "81313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Nông",
+        "districtFullName": "Huyện Tam Nông",
+        "districtNameEn": "Tam Nong",
+        "districtCode": "871",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phu Tho",
+        "nameVi": "Phú Thọ",
+        "fullNameEn": "Phu Tho Commune",
+        "fullNameVi": "Xã Phú Thọ",
+        "nameSearchNormalized": "phu tho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30034",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phu Tho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Thọ",
+        "type": "Commune",
+        "code": "81316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Nông",
+        "districtFullName": "Huyện Tam Nông",
+        "districtNameEn": "Tam Nong",
+        "districtCode": "871",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81219",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thap Muoi",
+        "nameVi": "Tháp Mười",
+        "fullNameEn": "Thap Muoi Commune",
+        "fullNameVi": "Xã Tháp Mười",
+        "nameSearchNormalized": "thap muoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30037",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thap Muoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tháp Mười",
+        "type": "Commune",
+        "code": "81219"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tháp Mười",
+        "districtFullName": "Huyện Tháp Mười",
+        "districtNameEn": "Thap Muoi",
+        "districtCode": "872",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81161",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phuong Thinh",
+        "nameVi": "Phương Thịnh",
+        "fullNameEn": "Phuong Thinh Commune",
+        "fullNameVi": "Xã Phương Thịnh",
+        "nameSearchNormalized": "phuong thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30043",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phuong Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phương Thịnh",
+        "type": "Commune",
+        "code": "81161"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tháp Mười",
+        "districtFullName": "Huyện Tháp Mười",
+        "districtNameEn": "Thap Muoi",
+        "districtCode": "872",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Truong Xuan",
+        "nameVi": "Trường Xuân",
+        "fullNameEn": "Truong Xuan Commune",
+        "fullNameVi": "Xã Trường Xuân",
+        "nameSearchNormalized": "truong xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30046",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Truong Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Xuân",
+        "type": "Commune",
+        "code": "81209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tháp Mười",
+        "districtFullName": "Huyện Tháp Mười",
+        "districtNameEn": "Thap Muoi",
+        "districtCode": "872",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81212",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Qui",
+        "nameVi": "Mỹ Quí",
+        "fullNameEn": "My Qui Commune",
+        "fullNameVi": "Xã Mỹ Quí",
+        "nameSearchNormalized": "my qui",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30055",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Qui Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Quí",
+        "type": "Commune",
+        "code": "81212"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tháp Mười",
+        "districtFullName": "Huyện Tháp Mười",
+        "districtNameEn": "Thap Muoi",
+        "districtCode": "872",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Doc Binh Kieu",
+        "nameVi": "Đốc Binh Kiều",
+        "fullNameEn": "Doc Binh Kieu Commune",
+        "fullNameVi": "Xã Đốc Binh Kiều",
+        "nameSearchNormalized": "doc binh kieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30061",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Doc Binh Kieu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đốc Binh Kiều",
+        "type": "Commune",
+        "code": "81217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tháp Mười",
+        "districtFullName": "Huyện Tháp Mười",
+        "districtNameEn": "Thap Muoi",
+        "districtCode": "872",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81215",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thanh My",
+        "nameVi": "Thanh Mỹ",
+        "fullNameEn": "Thanh My Commune",
+        "fullNameVi": "Xã Thanh Mỹ",
+        "nameSearchNormalized": "thanh my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30073",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thanh My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Mỹ",
+        "type": "Commune",
+        "code": "81215"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tháp Mười",
+        "districtFullName": "Huyện Tháp Mười",
+        "districtNameEn": "Thap Muoi",
+        "districtCode": "872",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81157",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Tho",
+        "nameVi": "Mỹ Thọ",
+        "fullNameEn": "My Tho Commune",
+        "fullNameVi": "Xã Mỹ Thọ",
+        "nameSearchNormalized": "my tho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30076",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Tho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Thọ",
+        "type": "Commune",
+        "code": "81157"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Huyện Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "873",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81160",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Ba Sao",
+        "nameVi": "Ba Sao",
+        "fullNameEn": "Ba Sao Commune",
+        "fullNameVi": "Xã Ba Sao",
+        "nameSearchNormalized": "ba sao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30085",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Ba Sao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Sao",
+        "type": "Commune",
+        "code": "81160"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Huyện Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "873",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81163",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phong My",
+        "nameVi": "Phong Mỹ",
+        "fullNameEn": "Phong My Commune",
+        "fullNameVi": "Xã Phong Mỹ",
+        "nameSearchNormalized": "phong my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30088",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phong My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Mỹ",
+        "type": "Commune",
+        "code": "81163"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Huyện Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "873",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81172",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My Hiep",
+        "nameVi": "Mỹ Hiệp",
+        "fullNameEn": "My Hiep Commune",
+        "fullNameVi": "Xã Mỹ Hiệp",
+        "nameSearchNormalized": "my hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30112",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Hiệp",
+        "type": "Commune",
+        "code": "81172"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Huyện Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "873",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81169",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Binh Hang Trung",
+        "nameVi": "Bình Hàng Trung",
+        "fullNameEn": "Binh Hang Trung Commune",
+        "fullNameVi": "Xã Bình Hàng Trung",
+        "nameSearchNormalized": "binh hang trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30118",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Binh Hang Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Hàng Trung",
+        "type": "Commune",
+        "code": "81169"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lãnh",
+        "districtFullName": "Huyện Cao Lãnh",
+        "districtNameEn": "Cao Lanh",
+        "districtCode": "873",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Thanh Binh",
+        "nameVi": "Thanh Bình",
+        "fullNameEn": "Thanh Binh Commune",
+        "fullNameVi": "Xã Thanh Bình",
+        "nameSearchNormalized": "thanh binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30130",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Bình",
+        "type": "Commune",
+        "code": "81606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thanh Bình",
+        "districtFullName": "Huyện Thanh Bình",
+        "districtNameEn": "Thanh Binh",
+        "districtCode": "874",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Long",
+        "nameVi": "Tân Long",
+        "fullNameEn": "Tan Long Commune",
+        "fullNameVi": "Xã Tân Long",
+        "nameSearchNormalized": "tan long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30154",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Long",
+        "type": "Commune",
+        "code": "81616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thanh Bình",
+        "districtFullName": "Huyện Thanh Bình",
+        "districtNameEn": "Thanh Binh",
+        "districtCode": "874",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81617",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thạnh",
+        "fullNameEn": "Tan Thanh Commune",
+        "fullNameVi": "Xã Tân Thạnh",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30157",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thạnh",
+        "type": "Commune",
+        "code": "81617"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thanh Bình",
+        "districtFullName": "Huyện Thanh Bình",
+        "districtNameEn": "Thanh Binh",
+        "districtCode": "874",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81607",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Binh Thanh",
+        "nameVi": "Bình Thành",
+        "fullNameEn": "Binh Thanh Commune",
+        "fullNameVi": "Xã Bình Thành",
+        "nameSearchNormalized": "binh thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30163",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Binh Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Thành",
+        "type": "Commune",
+        "code": "81607"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thanh Bình",
+        "districtFullName": "Huyện Thanh Bình",
+        "districtNameEn": "Thanh Binh",
+        "districtCode": "874",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Lap Vo",
+        "nameVi": "Lấp Vò",
+        "fullNameEn": "Lap Vo Commune",
+        "fullNameVi": "Xã Lấp Vò",
+        "nameSearchNormalized": "lap vo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30169",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Lap Vo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lấp Vò",
+        "type": "Commune",
+        "code": "81706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lấp Vò",
+        "districtFullName": "Huyện Lấp Vò",
+        "districtNameEn": "Lap Vo",
+        "districtCode": "875",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81719",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "My An Hung",
+        "nameVi": "Mỹ An Hưng",
+        "fullNameEn": "My An Hung Commune",
+        "fullNameVi": "Xã Mỹ An Hưng",
+        "nameSearchNormalized": "my an hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30178",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "My An Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ An Hưng",
+        "type": "Commune",
+        "code": "81719"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lấp Vò",
+        "districtFullName": "Huyện Lấp Vò",
+        "districtNameEn": "Lap Vo",
+        "districtCode": "875",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Khanh Trung",
+        "nameVi": "Tân Khánh Trung",
+        "fullNameEn": "Tan Khanh Trung Commune",
+        "fullNameVi": "Xã Tân Khánh Trung",
+        "nameSearchNormalized": "tan khanh trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30184",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Khanh Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Khánh Trung",
+        "type": "Commune",
+        "code": "81718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lấp Vò",
+        "districtFullName": "Huyện Lấp Vò",
+        "districtNameEn": "Lap Vo",
+        "districtCode": "875",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81763",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Hoa Long",
+        "nameVi": "Hoà Long",
+        "fullNameEn": "Hoa Long Commune",
+        "fullNameVi": "Xã Hoà Long",
+        "nameSearchNormalized": "hoa long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30208",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Long",
+        "type": "Commune",
+        "code": "81763"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lai Vung",
+        "districtFullName": "Huyện Lai Vung",
+        "districtNameEn": "Lai Vung",
+        "districtCode": "876",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81758",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Duong",
+        "nameVi": "Tân Dương",
+        "fullNameEn": "Tan Duong Commune",
+        "fullNameVi": "Xã Tân Dương",
+        "nameSearchNormalized": "tan duong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30214",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Duong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Dương",
+        "type": "Commune",
+        "code": "81758"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lai Vung",
+        "districtFullName": "Huyện Lai Vung",
+        "districtNameEn": "Lai Vung",
+        "districtCode": "876",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81768",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Lai Vung",
+        "nameVi": "Lai Vung",
+        "fullNameEn": "Lai Vung Commune",
+        "fullNameVi": "Xã Lai Vung",
+        "nameSearchNormalized": "lai vung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30226",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Lai Vung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lai Vung",
+        "type": "Commune",
+        "code": "81768"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lai Vung",
+        "districtFullName": "Huyện Lai Vung",
+        "districtNameEn": "Lai Vung",
+        "districtCode": "876",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81767",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phong Hoa",
+        "nameVi": "Phong Hoà",
+        "fullNameEn": "Phong Hoa Commune",
+        "fullNameVi": "Xã Phong Hoà",
+        "nameSearchNormalized": "phong hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30235",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phong Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Hoà",
+        "type": "Commune",
+        "code": "81767"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lai Vung",
+        "districtFullName": "Huyện Lai Vung",
+        "districtNameEn": "Lai Vung",
+        "districtCode": "876",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81914",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Phu Huu",
+        "nameVi": "Phú Hựu",
+        "fullNameEn": "Phu Huu Commune",
+        "fullNameVi": "Xã Phú Hựu",
+        "nameSearchNormalized": "phu huu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30244",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Phu Huu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hựu",
+        "type": "Commune",
+        "code": "81914"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "877",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81909",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Nhuan Dong",
+        "nameVi": "Tân Nhuận Đông",
+        "fullNameEn": "Tan Nhuan Dong Commune",
+        "fullNameVi": "Xã Tân Nhuận Đông",
+        "nameSearchNormalized": "tan nhuan dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30253",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Nhuan Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Nhuận Đông",
+        "type": "Commune",
+        "code": "81909"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "877",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "81911",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dong Thap",
+        "nameVi": "Đồng Tháp",
+        "fullNameEn": "Dong Thap Province",
+        "fullNameVi": "Tỉnh Đồng Tháp",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "82"
+      },
+      "commune": {
+        "nameEn": "Tan Phu Trung",
+        "nameVi": "Tân Phú Trung",
+        "fullNameEn": "Tan Phu Trung Commune",
+        "fullNameVi": "Xã Tân Phú Trung",
+        "nameSearchNormalized": "tan phu trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30259",
+        "provinceCode": "82"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phu Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phú Trung",
+        "type": "Commune",
+        "code": "81911"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "877",
+        "legacyProvinceName": "Đồng Tháp",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

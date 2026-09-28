@@ -1,0 +1,55 @@
+{
+  "prefix": "12",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "12190",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.74",
+        "nameId": "Kota Administrasi Jakarta Selatan",
+        "nameEn": "South Jakarta",
+        "administrativeType": "Administrative City"
+      },
+      "district": {
+        "code": "31.74.07",
+        "nameId": "Kecamatan Kebayoran Baru",
+        "nameEn": "Kebayoran Baru District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.74.07.1001",
+        "nameId": "Kelurahan Senayan",
+        "nameEn": "Senayan",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "SCBD (Sudirman Central Business District)",
+        "nameEn": "Sudirman Central Business District"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Jakarta Selatan",
+        "nameEn": "South Jakarta Post Office",
+        "code": "12000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-12190-31.74.07.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

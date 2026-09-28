@@ -1,0 +1,253 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Washington",
+    "abbreviation": "WA",
+    "fipsCode": "53",
+    "capital": "Olympia",
+    "largestCity": "Seattle",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "206",
+      "253",
+      "360",
+      "425",
+      "509"
+    ],
+    "prefixes": [
+      "980",
+      "981",
+      "982",
+      "983",
+      "984",
+      "985",
+      "986",
+      "988",
+      "989",
+      "990",
+      "991",
+      "992",
+      "993",
+      "994"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-WA-98101-0",
+      "zip5": "98101",
+      "zip4": "1001",
+      "zipPlus4": "98101-1001",
+      "state": {
+        "nameEn": "Washington",
+        "abbreviation": "WA",
+        "fipsCode": "53",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Seattle",
+      "acceptableCities": [
+        "Seattle",
+        "Downtown"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Seattle",
+          "status": "Primary"
+        },
+        {
+          "name": "Downtown",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "King County",
+          "fipsCode": "53033",
+          "geoid": "53033"
+        }
+      ],
+      "primaryCounty": "King County",
+      "zcta": {
+        "code": "98101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Seattle Midtown Post Office",
+        "address": "1101 4th Ave",
+        "phone": "(206) 442-6340",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 47.6101,
+        "longitude": -122.3344,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "206",
+          "253",
+          "360",
+          "425",
+          "509"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 38,
+        "deliveryPoints": 19400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WA-98101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-WA-98052-1",
+      "zip5": "98052",
+      "zip4": "2001",
+      "zipPlus4": "98052-2001",
+      "state": {
+        "nameEn": "Washington",
+        "abbreviation": "WA",
+        "fipsCode": "53",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Redmond",
+      "acceptableCities": [
+        "Redmond"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Redmond",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "King County",
+          "fipsCode": "53033",
+          "geoid": "53033"
+        }
+      ],
+      "primaryCounty": "King County",
+      "zcta": {
+        "code": "98052"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Redmond Main Post Office",
+        "address": "7241 185th Ave NE",
+        "phone": "(425) 885-1188",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 47.674,
+        "longitude": -122.1215,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "206",
+          "253",
+          "360",
+          "425",
+          "509"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 34,
+        "deliveryPoints": 17800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WA-98052",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-WA-98501-2",
+      "zip5": "98501",
+      "zip4": "1501",
+      "zipPlus4": "98501-1501",
+      "state": {
+        "nameEn": "Washington",
+        "abbreviation": "WA",
+        "fipsCode": "53",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Olympia",
+      "acceptableCities": [
+        "Olympia"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Olympia",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Thurston County",
+          "fipsCode": "53067",
+          "geoid": "53067"
+        }
+      ],
+      "primaryCounty": "Thurston County",
+      "zcta": {
+        "code": "98501"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Olympia Main Post Office",
+        "address": "900 Jefferson St SE",
+        "phone": "(360) 357-2200",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 47.0379,
+        "longitude": -122.9007,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "206",
+          "253",
+          "360",
+          "425",
+          "509"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 27,
+        "deliveryPoints": 13900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WA-98501",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

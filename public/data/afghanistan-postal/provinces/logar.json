@@ -1,0 +1,403 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Logar",
+    "nameNative": "لوگر",
+    "isoCode": "AF-LOG",
+    "postalPrefix": "14",
+    "capital": "Pul-i-Alam",
+    "capitalNative": "پل علم",
+    "coordinates": {
+      "latitude": 33.9972,
+      "longitude": 69.0389
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 10,
+    "totalRecords": 10,
+    "urbanRecords": 4,
+    "ruralRecords": 6
+  },
+  "records": [
+    {
+      "postalCode": "140101",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Pul-i-Alam - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-LOG-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Pul-i-Alam District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-140101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "140201",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Pul-i-Alam - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-LOG-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Pul-i-Alam District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-140201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "140301",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Pul-i-Alam - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-LOG-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Pul-i-Alam District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-140301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "140401",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Pul-i-Alam - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-LOG-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Pul-i-Alam District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-140401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "145101",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Mohammadagha District",
+        "type": "Rural Administrative District",
+        "code": "AF-LOG-51"
+      },
+      "locality": {
+        "nameEn": "Mohammadagha Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Mohammadagha District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-145101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "145201",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Azra District",
+        "type": "Rural Administrative District",
+        "code": "AF-LOG-52"
+      },
+      "locality": {
+        "nameEn": "Azra Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Azra District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-145201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "145301",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Khoshi District",
+        "type": "Rural Administrative District",
+        "code": "AF-LOG-53"
+      },
+      "locality": {
+        "nameEn": "Khoshi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khoshi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-145301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "145401",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Barakibarak District",
+        "type": "Rural Administrative District",
+        "code": "AF-LOG-54"
+      },
+      "locality": {
+        "nameEn": "Barakibarak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Barakibarak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-145401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "145501",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Charkh District",
+        "type": "Rural Administrative District",
+        "code": "AF-LOG-55"
+      },
+      "locality": {
+        "nameEn": "Charkh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Charkh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-145501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "145601",
+      "province": {
+        "nameEn": "Logar",
+        "nameNative": "لوگر",
+        "code": "AF-LOG",
+        "postalPrefix": "14"
+      },
+      "city": {
+        "nameEn": "Pul-i-Alam",
+        "nameNative": "پل علم"
+      },
+      "district": {
+        "nameEn": "Kharwar District",
+        "type": "Rural Administrative District",
+        "code": "AF-LOG-56"
+      },
+      "locality": {
+        "nameEn": "Kharwar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kharwar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.9972,
+        "longitude": 69.0389
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-145601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

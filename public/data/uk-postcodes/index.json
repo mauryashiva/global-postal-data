@@ -1,0 +1,142 @@
+{
+  "country": {
+    "nameEn": "United Kingdom",
+    "officialNameEn": "United Kingdom of Great Britain and Northern Ireland",
+    "isoAlpha2": "GB",
+    "isoAlpha3": "GBR",
+    "isoNumeric": "826",
+    "phoneCode": "+44",
+    "flag": "🇬🇧"
+  },
+  "constituentCountries": [
+    {
+      "nameEn": "England",
+      "code": "GB-ENG",
+      "type": "Constituent Country",
+      "sovereignState": "United Kingdom",
+      "capital": "London",
+      "postcodeAreasCount": 84
+    },
+    {
+      "nameEn": "Scotland",
+      "code": "GB-SCT",
+      "type": "Constituent Country",
+      "sovereignState": "United Kingdom",
+      "capital": "Edinburgh",
+      "postcodeAreasCount": 16
+    },
+    {
+      "nameEn": "Wales",
+      "code": "GB-WLS",
+      "codeAlt": "GB-CYM",
+      "type": "Constituent Country",
+      "sovereignState": "United Kingdom",
+      "capital": "Cardiff",
+      "postcodeAreasCount": 7
+    },
+    {
+      "nameEn": "Northern Ireland",
+      "code": "GB-NIR",
+      "type": "Constituent Country",
+      "sovereignState": "United Kingdom",
+      "capital": "Belfast",
+      "postcodeAreasCount": 1
+    }
+  ],
+  "crownDependencies": [
+    {
+      "nameEn": "Jersey",
+      "isoAlpha2": "JE",
+      "isoAlpha3": "JEY",
+      "isoNumeric": "832",
+      "type": "Crown Dependency",
+      "capital": "Saint Helier",
+      "postcodeArea": "JE",
+      "note": "Self-governing dependency of the British Crown; not part of the United Kingdom."
+    },
+    {
+      "nameEn": "Guernsey",
+      "isoAlpha2": "GG",
+      "isoAlpha3": "GGY",
+      "isoNumeric": "831",
+      "type": "Crown Dependency",
+      "capital": "Saint Peter Port",
+      "postcodeArea": "GY",
+      "note": "Bailiwick of Guernsey; self-governing Crown Dependency; not part of the United Kingdom."
+    },
+    {
+      "nameEn": "Isle of Man",
+      "isoAlpha2": "IM",
+      "isoAlpha3": "IMN",
+      "isoNumeric": "833",
+      "type": "Crown Dependency",
+      "capital": "Douglas",
+      "postcodeArea": "IM",
+      "note": "Self-governing British Crown Dependency; not part of the United Kingdom."
+    }
+  ],
+  "postcode": {
+    "countryFormat": "UK",
+    "alphanumeric": true,
+    "inwardCodeLength": 3,
+    "standardPattern": "^[A-Z]{1,2}[0-9][A-Z0-9]?\\s[0-9][A-Z]{2}$",
+    "normalizationRule": "Trim whitespace, uppercase, extract last 3 characters as inward, join with single space."
+  },
+  "statistics": {
+    "uniquePostcodes": 40,
+    "totalAddressRecords": 48,
+    "postcodeAreasCount": 24,
+    "poBoxRecords": 1,
+    "largeUserRecords": 32,
+    "bfpoRecords": 3,
+    "crownDependencyRecords": 3,
+    "recordsByConstituentCountry": {
+      "England": 23,
+      "Scotland": 5,
+      "Wales": 3,
+      "Northern Ireland": 3,
+      "Crown Dependencies": 3,
+      "BFPO": 3
+    }
+  },
+  "sources": [
+    {
+      "sourceName": "Office for National Statistics (ONS) - National Statistics Postcode Lookup (NSPL)",
+      "sourceType": "Official Government Dataset",
+      "sourceURL": "https://geoportal.statistics.gov.uk/",
+      "retrievedAt": "2026-09-28",
+      "sourceUpdatedAt": "2026-08-01",
+      "license": "Open Government Licence v3.0 (OGL v3.0)"
+    },
+    {
+      "sourceName": "Ordnance Survey (OS) - Code-Point Open",
+      "sourceType": "Official Geospatial Dataset",
+      "sourceURL": "https://www.ordnancesurvey.co.uk/products/code-point-open",
+      "retrievedAt": "2026-09-28",
+      "sourceUpdatedAt": "2026-08-01",
+      "license": "Open Government Licence v3.0"
+    },
+    {
+      "sourceName": "Royal Mail Post Town & Address Guidelines",
+      "sourceType": "National Postal Operator Standards",
+      "sourceURL": "https://www.royalmail.com/",
+      "retrievedAt": "2026-09-28",
+      "license": "Official Reference Standards"
+    },
+    {
+      "sourceName": "GOV.UK Ministry of Defence - British Forces Post Office (BFPO)",
+      "sourceType": "Official Government Ministry List",
+      "sourceURL": "https://www.gov.uk/guidance/british-forces-post-office-services",
+      "retrievedAt": "2026-09-28",
+      "license": "Crown Copyright (OGL v3.0)"
+    },
+    {
+      "sourceName": "Crown Dependencies Postal Authorities (Jersey Post, Guernsey Post, Isle of Man Post Office)",
+      "sourceType": "Crown Dependency Postal Operators",
+      "retrievedAt": "2026-09-28",
+      "license": "Public Postal Standards"
+    }
+  ],
+  "generatedAt": "2026-09-28T05:47:05.246Z",
+  "version": "1.0.0"
+}

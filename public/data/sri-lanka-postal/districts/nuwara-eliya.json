@@ -1,0 +1,5143 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Nuwara Eliya",
+    "nameSi": "නුවර එළිය",
+    "nameTa": "நுவரேலியா",
+    "administrativeType": "District",
+    "code": "LK-23"
+  },
+  "province": {
+    "nameEn": "Central Province",
+    "nameSi": "මධ්‍යම පළාත",
+    "nameTa": "மத்திய மாகாணம்",
+    "code": "LK-2"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Ambagamuwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Hanguranketha",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kothmale",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Nuwara Eliya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Walapane",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 77,
+    "totalRecords": 77,
+    "dsDivisionCount": 5
+  },
+  "postcodes": [
+    {
+      "postcode": "20440",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HEWAHETA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Hewaheta",
+            "nameSi": "හේවාහැට",
+            "nameTa": "ஹெவாஹெட்டா"
+          },
+          "city": {
+            "nameEn": "Hewaheta",
+            "nameSi": "හේවාහැට",
+            "nameTa": "ஹெவாஹெட்டா"
+          },
+          "postcode": "20440",
+          "postOffice": {
+            "nameEn": "Hewaheta Post Office",
+            "nameSi": "හේවාහැට තැපැල් කාර්යාලය",
+            "nameTa": "ஹெவாஹெட்டா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20440"
+          },
+          "coordinates": {
+            "latitude": 7.1118366,
+            "longitude": 80.7633563
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20442",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRIBATHKUMBURA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kiribathkumbura",
+            "nameSi": "කිරිබත්කුඹුර",
+            "nameTa": "கிரிபத்கும்புரா"
+          },
+          "city": {
+            "nameEn": "Kiribathkumbura",
+            "nameSi": "කිරිබත්කුඹුර",
+            "nameTa": "கிரிபத்கும்புரா"
+          },
+          "postcode": "20442",
+          "postOffice": {
+            "nameEn": "Kiribathkumbura Post Office",
+            "nameSi": "කිරිබත්කුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "கிரிபத்கும்புரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20442"
+          },
+          "coordinates": {
+            "latitude": 7.2696289,
+            "longitude": 80.5757161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20560",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTMALE",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kotmale",
+            "nameSi": "කොත්මලේ",
+            "nameTa": "கொத்மலை"
+          },
+          "city": {
+            "nameEn": "Kotmale",
+            "nameSi": "කොත්මලේ",
+            "nameTa": "கொத்மலை"
+          },
+          "postcode": "20560",
+          "postOffice": {
+            "nameEn": "Kotmale Post Office",
+            "nameSi": "කොත්මලේ තැපැල් කාර්යාලය",
+            "nameTa": "கொத்மலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20560"
+          },
+          "coordinates": {
+            "latitude": 7.0223089,
+            "longitude": 80.5910567
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20566",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MASWELA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Maswela",
+            "nameSi": "මස්වෙල",
+            "nameTa": "மஸ்வெலா"
+          },
+          "city": {
+            "nameEn": "Maswela",
+            "nameSi": "මස්වෙල",
+            "nameTa": "மஸ்வெலா"
+          },
+          "postcode": "20566",
+          "postOffice": {
+            "nameEn": "Maswela Post Office",
+            "nameSi": "මස්වෙල තැපැල් කාර්යාලය",
+            "nameTa": "மஸ்வெலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20566"
+          },
+          "coordinates": {
+            "latitude": 7.0639737,
+            "longitude": 80.6330479
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20567",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DORAGALA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Doragala",
+            "nameSi": "දොරගල",
+            "nameTa": "தொரகல"
+          },
+          "city": {
+            "nameEn": "Doragala",
+            "nameSi": "දොරගල",
+            "nameTa": "தொரகல"
+          },
+          "postcode": "20567",
+          "postOffice": {
+            "nameEn": "Doragala Post Office",
+            "nameSi": "දොරගල තැපැල් කාර්යාලය",
+            "nameTa": "தொரகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20567"
+          },
+          "coordinates": {
+            "latitude": 6.956273,
+            "longitude": 80.784718
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20568",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAYAPANA JANAPADAYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Nayapana Janapadaya",
+            "nameSi": "නයපාන ජනපදය",
+            "nameTa": "நயபன ஜநபதய"
+          },
+          "city": {
+            "nameEn": "Nayapana Janapadaya",
+            "nameSi": "නයපාන ජනපදය",
+            "nameTa": "நயபன ஜநபதய"
+          },
+          "postcode": "20568",
+          "postOffice": {
+            "nameEn": "Nayapana Janapadaya Post Office",
+            "nameSi": "නයපාන ජනපදය තැපැල් කාර්යාලය",
+            "nameTa": "நயபன ஜநபதய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20568"
+          },
+          "coordinates": {
+            "latitude": 7.0665384,
+            "longitude": 80.606533
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20590",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RAMBODA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Ramboda",
+            "nameSi": "රම්බොඩ",
+            "nameTa": "ரம்பொடை"
+          },
+          "city": {
+            "nameEn": "Ramboda",
+            "nameSi": "රම්බොඩ",
+            "nameTa": "ரம்பொடை"
+          },
+          "postcode": "20590",
+          "postOffice": {
+            "nameEn": "Ramboda Post Office",
+            "nameSi": "රම්බොඩ තැපැල් කාර්යාලය",
+            "nameTa": "ரம்பொடை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20590"
+          },
+          "coordinates": {
+            "latitude": 7.0565468,
+            "longitude": 80.6938474
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20592",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LABUKELE",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Labukele",
+            "nameSi": "ලබුකැලේ",
+            "nameTa": "லபுகெல"
+          },
+          "city": {
+            "nameEn": "Labukele",
+            "nameSi": "ලබුකැලේ",
+            "nameTa": "லபுகெல"
+          },
+          "postcode": "20592",
+          "postOffice": {
+            "nameEn": "Labukele Post Office",
+            "nameSi": "ලබුකැලේ තැපැල් කාර්යාලය",
+            "nameTa": "லபுகெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20592"
+          },
+          "coordinates": {
+            "latitude": 7.0243154,
+            "longitude": 80.7190951
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20668",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HAPUGASTHALAWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Hapugasthalawa",
+            "nameSi": "හපුගස්තලාව",
+            "nameTa": "ஹப்புகஸ்தலாவை"
+          },
+          "city": {
+            "nameEn": "Hapugasthalawa",
+            "nameSi": "හපුගස්තලාව",
+            "nameTa": "ஹப்புகஸ்தலாவை"
+          },
+          "postcode": "20668",
+          "postOffice": {
+            "nameEn": "Hapugasthalawa Post Office",
+            "nameSi": "හපුගස්තලාව තැපැල් කාර්යාලය",
+            "nameTa": "ஹப்புகஸ்தலாவை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20668"
+          },
+          "coordinates": {
+            "latitude": 7.0578134,
+            "longitude": 80.5730084
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20680",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GINIGATHENA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Ginigathena",
+            "nameSi": "ගිනිගතැන",
+            "nameTa": "கினிகத்தனை"
+          },
+          "city": {
+            "nameEn": "Ginigathena",
+            "nameSi": "ගිනිගතැන",
+            "nameTa": "கினிகத்தனை"
+          },
+          "postcode": "20680",
+          "postOffice": {
+            "nameEn": "Ginigathena Post Office",
+            "nameSi": "ගිනිගතැන තැපැල් කාර්යාලය",
+            "nameTa": "கினிகத்தனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20680"
+          },
+          "coordinates": {
+            "latitude": 6.9893171,
+            "longitude": 80.4926933
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20682",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PITAWALA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Pitawala",
+            "nameSi": "පිටවල",
+            "nameTa": "பிடவாலா"
+          },
+          "city": {
+            "nameEn": "Pitawala",
+            "nameSi": "පිටවල",
+            "nameTa": "பிடவாலா"
+          },
+          "postcode": "20682",
+          "postOffice": {
+            "nameEn": "Pitawala Post Office",
+            "nameSi": "පිටවල තැපැල් කාර්යාලය",
+            "nameTa": "பிடவாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20682"
+          },
+          "coordinates": {
+            "latitude": 6.9983695,
+            "longitude": 80.4576835
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20684",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DAGAMPITIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Dagampitiya",
+            "nameSi": "දාගම්පිටිය",
+            "nameTa": "தகம்பிட்டிய"
+          },
+          "city": {
+            "nameEn": "Dagampitiya",
+            "nameSi": "දාගම්පිටිය",
+            "nameTa": "தகம்பிட்டிய"
+          },
+          "postcode": "20684",
+          "postOffice": {
+            "nameEn": "Dagampitiya Post Office",
+            "nameSi": "දාගම්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "தகம்பிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20684"
+          },
+          "coordinates": {
+            "latitude": 6.9774755,
+            "longitude": 80.4743669
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20686",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMBATALAWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Ambatalawa",
+            "nameSi": "අඹතලාව",
+            "nameTa": "அம்பதலாவ"
+          },
+          "city": {
+            "nameEn": "Ambatalawa",
+            "nameSi": "අඹතලාව",
+            "nameTa": "அம்பதலாவ"
+          },
+          "postcode": "20686",
+          "postOffice": {
+            "nameEn": "Ambatalawa Post Office",
+            "nameSi": "අඹතලාව තැපැල් කාර්යාලය",
+            "nameTa": "அம்பதலாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20686"
+          },
+          "coordinates": {
+            "latitude": 7.05,
+            "longitude": 80.6666669
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20710",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": {
+            "nameEn": "Hanguranketha",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "HANGURANKETHA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Hanguranketha",
+            "nameSi": "හඟුරන්කෙත",
+            "nameTa": "ஹங்குரன்கெத"
+          },
+          "city": {
+            "nameEn": "Hanguranketha",
+            "nameSi": "හඟුරන්කෙත",
+            "nameTa": "ஹங்குரன்கெத"
+          },
+          "postcode": "20710",
+          "postOffice": {
+            "nameEn": "Hanguranketha Post Office",
+            "nameSi": "හඟුරන්කෙත තැපැල් කාර්යාලය",
+            "nameTa": "ஹங்குரன்கெத தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20710"
+          },
+          "coordinates": {
+            "latitude": 7.2905715,
+            "longitude": 80.6337262
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20714",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MARYMOUNT COLONY",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Marymount Colony",
+            "nameSi": "මේරිමවුන්ට් ජනපදය",
+            "nameTa": "மேரிமவுண்ட் காலனி"
+          },
+          "city": {
+            "nameEn": "Marymount Colony",
+            "nameSi": "මේරිමවුන්ට් ජනපදය",
+            "nameTa": "மேரிமவுண்ட் காலனி"
+          },
+          "postcode": "20714",
+          "postOffice": {
+            "nameEn": "Marymount Colony Post Office",
+            "nameSi": "මේරිමවුන්ට් ජනපදය තැපැල් කාර්යාලය",
+            "nameTa": "மேரிமவுண்ட் காலனி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20714"
+          },
+          "coordinates": {
+            "latitude": 7.2905715,
+            "longitude": 80.6337262
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20730",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RIKILLAGASKADA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Rikillagaskada",
+            "nameSi": "රිකිල්ලගස්කඩ",
+            "nameTa": "ரிகில்லகஸ்கட"
+          },
+          "city": {
+            "nameEn": "Rikillagaskada",
+            "nameSi": "රිකිල්ලගස්කඩ",
+            "nameTa": "ரிகில்லகஸ்கட"
+          },
+          "postcode": "20730",
+          "postOffice": {
+            "nameEn": "Rikillagaskada Post Office",
+            "nameSi": "රිකිල්ලගස්කඩ තැපැල් කාර්යාලය",
+            "nameTa": "ரிகில்லகஸ்கட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20730"
+          },
+          "coordinates": {
+            "latitude": 7.1486516,
+            "longitude": 80.7907103
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20732",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "EKIRIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Ekiriya",
+            "nameSi": "ඇකිරිය",
+            "nameTa": "எகிரியா"
+          },
+          "city": {
+            "nameEn": "Ekiriya",
+            "nameSi": "ඇකිරිය",
+            "nameTa": "எகிரியா"
+          },
+          "postcode": "20732",
+          "postOffice": {
+            "nameEn": "Ekiriya Post Office",
+            "nameSi": "ඇකිරිය තැපැල් කාර්යාලය",
+            "nameTa": "எகிரியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20732"
+          },
+          "coordinates": {
+            "latitude": 7.1482551,
+            "longitude": 80.7543517
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20734",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PALLEBOWALA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Pallebowala",
+            "nameSi": "පල්ලෙබෝවල",
+            "nameTa": "பல்லேபோவல"
+          },
+          "city": {
+            "nameEn": "Pallebowala",
+            "nameSi": "පල්ලෙබෝවල",
+            "nameTa": "பல்லேபோவல"
+          },
+          "postcode": "20734",
+          "postOffice": {
+            "nameEn": "Pallebowala Post Office",
+            "nameSi": "පල්ලෙබෝවල තැපැල් කාර්යාලය",
+            "nameTa": "பல்லேபோவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20734"
+          },
+          "coordinates": {
+            "latitude": 7.1515047,
+            "longitude": 80.7339144
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20738",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARANDAGOLLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Karandagolla",
+            "nameSi": "කරඳගොල්ල",
+            "nameTa": "கரந்தகொல்ல"
+          },
+          "city": {
+            "nameEn": "Karandagolla",
+            "nameSi": "කරඳගොල්ල",
+            "nameTa": "கரந்தகொல்ல"
+          },
+          "postcode": "20738",
+          "postOffice": {
+            "nameEn": "Karandagolla Post Office",
+            "nameSi": "කරඳගොල්ල තැපැල් කාර්යාලය",
+            "nameTa": "கரந்தகொல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20738"
+          },
+          "coordinates": {
+            "latitude": 7.0570194,
+            "longitude": 80.9007245
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20742",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ELAMULLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Elamulla",
+            "nameSi": "ඇලමුල්ල",
+            "nameTa": "எலமுல்லா"
+          },
+          "city": {
+            "nameEn": "Elamulla",
+            "nameSi": "ඇලමුල්ල",
+            "nameTa": "எலமுல்லா"
+          },
+          "postcode": "20742",
+          "postOffice": {
+            "nameEn": "Elamulla Post Office",
+            "nameSi": "ඇලමුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "எலமுல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20742"
+          },
+          "coordinates": {
+            "latitude": 7.0566861,
+            "longitude": 80.7684374
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20744",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANDARAM NUWARA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Mandaram Nuwara",
+            "nameSi": "මන්දාරම් නුවර",
+            "nameTa": "மந்தாரம் நுவர"
+          },
+          "city": {
+            "nameEn": "Mandaram Nuwara",
+            "nameSi": "මන්දාරම් නුවර",
+            "nameTa": "மந்தாரம் நுவர"
+          },
+          "postcode": "20744",
+          "postOffice": {
+            "nameEn": "Mandaram Nuwara Post Office",
+            "nameSi": "මන්දාරම් නුවර තැපැල් කාර්යාලය",
+            "nameTa": "மந்தாரம் நுவர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20744"
+          },
+          "coordinates": {
+            "latitude": 7.0420108,
+            "longitude": 80.7796313
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20748",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MATURATA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Maturata",
+            "nameSi": "මතුරට",
+            "nameTa": "மதுரதா"
+          },
+          "city": {
+            "nameEn": "Maturata",
+            "nameSi": "මතුරට",
+            "nameTa": "மதுரதா"
+          },
+          "postcode": "20748",
+          "postOffice": {
+            "nameEn": "Maturata Post Office",
+            "nameSi": "මතුරට තැපැල් කාර්යාලය",
+            "nameTa": "மதுரதா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20748"
+          },
+          "coordinates": {
+            "latitude": 6.9910874,
+            "longitude": 80.8338012
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20750",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PADIYAPELELLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Padiyapelella",
+            "nameSi": "පදියපැලැල්ල",
+            "nameTa": "பதியபெலல்ல"
+          },
+          "city": {
+            "nameEn": "Padiyapelella",
+            "nameSi": "පදියපැලැල්ල",
+            "nameTa": "பதியபெலல்ல"
+          },
+          "postcode": "20750",
+          "postOffice": {
+            "nameEn": "Padiyapelella Post Office",
+            "nameSi": "පදියපැලැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "பதியபெலல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20750"
+          },
+          "coordinates": {
+            "latitude": 7.0935749,
+            "longitude": 80.7983262
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20752",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MUNWATTA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Munwatta",
+            "nameSi": "මුන්වත්ත",
+            "nameTa": "முன்வத்த"
+          },
+          "city": {
+            "nameEn": "Munwatta",
+            "nameSi": "මුන්වත්ත",
+            "nameTa": "முன்வத்த"
+          },
+          "postcode": "20752",
+          "postOffice": {
+            "nameEn": "Munwatta Post Office",
+            "nameSi": "මුන්වත්ත තැපැල් කාර්යාලය",
+            "nameTa": "முன்வத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20752"
+          },
+          "coordinates": {
+            "latitude": 7.1157896,
+            "longitude": 80.8114792
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20830",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANVILA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Panvila",
+            "nameSi": "පන්විල",
+            "nameTa": "பன்வில"
+          },
+          "city": {
+            "nameEn": "Panvila",
+            "nameSi": "පන්විල",
+            "nameTa": "பன்வில"
+          },
+          "postcode": "20830",
+          "postOffice": {
+            "nameEn": "Panvila Post Office",
+            "nameSi": "පන්විල තැපැල් කාර්යාලය",
+            "nameTa": "பன்வில தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20830"
+          },
+          "coordinates": {
+            "latitude": 7.4004208,
+            "longitude": 80.7329079
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20838",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TAWALANTENNA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Tawalantenna",
+            "nameSi": "තවලන්තැන්න",
+            "nameTa": "தவலந்தென்ன"
+          },
+          "city": {
+            "nameEn": "Tawalantenna",
+            "nameSi": "තවලන්තැන්න",
+            "nameTa": "தவலந்தென்ன"
+          },
+          "postcode": "20838",
+          "postOffice": {
+            "nameEn": "Tawalantenna Post Office",
+            "nameSi": "තවලන්තැන්න තැපැල් කාර්යාලය",
+            "nameTa": "தவலந்தென்ன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20838"
+          },
+          "coordinates": {
+            "latitude": 7.0706822,
+            "longitude": 80.6840121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HATTON",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Hatton",
+            "nameSi": "හැටන්",
+            "nameTa": "ஹட்டன்"
+          },
+          "city": {
+            "nameEn": "Hatton",
+            "nameSi": "හැටන්",
+            "nameTa": "ஹட்டன்"
+          },
+          "postcode": "22000",
+          "postOffice": {
+            "nameEn": "Hatton Post Office",
+            "nameSi": "හැටන් තැපැල් කාර්යාලය",
+            "nameTa": "ஹட்டன் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22000"
+          },
+          "coordinates": {
+            "latitude": 6.8922153,
+            "longitude": 80.5985765
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22002",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DUNUKEDENIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Dunukedeniya",
+            "nameSi": "දුනුකෙදෙණිය",
+            "nameTa": "துனுகெதெனிய"
+          },
+          "city": {
+            "nameEn": "Dunukedeniya",
+            "nameSi": "දුනුකෙදෙණිය",
+            "nameTa": "துனுகெதெனிய"
+          },
+          "postcode": "22002",
+          "postOffice": {
+            "nameEn": "Dunukedeniya Post Office",
+            "nameSi": "දුනුකෙදෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "துனுகெதெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22002"
+          },
+          "coordinates": {
+            "latitude": 6.9900282,
+            "longitude": 80.6368539
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22008",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ROZELLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Rozella",
+            "nameSi": "රොසැල්ල",
+            "nameTa": "ரொசெல்ல"
+          },
+          "city": {
+            "nameEn": "Rozella",
+            "nameSi": "රොසැල්ල",
+            "nameTa": "ரொசெல்ல"
+          },
+          "postcode": "22008",
+          "postOffice": {
+            "nameEn": "Rozella Post Office",
+            "nameSi": "රොසැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "ரொசெல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22008"
+          },
+          "coordinates": {
+            "latitude": 6.9276827,
+            "longitude": 80.558546
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22010",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WATAWALA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Watawala",
+            "nameSi": "වටවල",
+            "nameTa": "வட்டவளை"
+          },
+          "city": {
+            "nameEn": "Watawala",
+            "nameSi": "වටවල",
+            "nameTa": "வட்டவளை"
+          },
+          "postcode": "22010",
+          "postOffice": {
+            "nameEn": "Watawala Post Office",
+            "nameSi": "වටවල තැපැල් කාර්යාලය",
+            "nameTa": "வட்டவளை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22010"
+          },
+          "coordinates": {
+            "latitude": 6.9449468,
+            "longitude": 80.5389834
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22018",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WIJEBAHUKANDA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Wijebahukanda",
+            "nameSi": "විජේබාහුකන්ද",
+            "nameTa": "விஜேபாகுகந்த"
+          },
+          "city": {
+            "nameEn": "Wijebahukanda",
+            "nameSi": "විජේබාහුකන්ද",
+            "nameTa": "விஜேபாகுகந்த"
+          },
+          "postcode": "22018",
+          "postOffice": {
+            "nameEn": "Wijebahukanda Post Office",
+            "nameSi": "විජේබාහුකන්ද තැපැල් කාර්යාලය",
+            "nameTa": "விஜேபாகுகந்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22018"
+          },
+          "coordinates": {
+            "latitude": 6.9497166,
+            "longitude": 80.7891068
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22032",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WIDULIPURA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Widulipura",
+            "nameSi": "විදුලිපුර",
+            "nameTa": "விதுலிபுரா"
+          },
+          "city": {
+            "nameEn": "Widulipura",
+            "nameSi": "විදුලිපුර",
+            "nameTa": "விதுலிபுரா"
+          },
+          "postcode": "22032",
+          "postOffice": {
+            "nameEn": "Widulipura Post Office",
+            "nameSi": "විදුලිපුර තැපැල් කාර්යාලය",
+            "nameTa": "விதுலிபுரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22032"
+          },
+          "coordinates": {
+            "latitude": 6.9094057,
+            "longitude": 80.5188396
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22034",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LAXAPANA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Laxapana",
+            "nameSi": "ලක්ෂපාන",
+            "nameTa": "லக்ஷ்பான"
+          },
+          "city": {
+            "nameEn": "Laxapana",
+            "nameSi": "ලක්ෂපාන",
+            "nameTa": "லக்ஷ்பான"
+          },
+          "postcode": "22034",
+          "postOffice": {
+            "nameEn": "Laxapana Post Office",
+            "nameSi": "ලක්ෂපාන තැපැල් කාර්යාලය",
+            "nameTa": "லக்ஷ்பான தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22034"
+          },
+          "coordinates": {
+            "latitude": 6.9247584,
+            "longitude": 80.491047
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22036",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MORAHENAGAMA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Morahenagama",
+            "nameSi": "මොරහේනගම",
+            "nameTa": "மொரஹேனகம"
+          },
+          "city": {
+            "nameEn": "Morahenagama",
+            "nameSi": "මොරහේනගම",
+            "nameTa": "மொரஹேனகம"
+          },
+          "postcode": "22036",
+          "postOffice": {
+            "nameEn": "Morahenagama Post Office",
+            "nameSi": "මොරහේනගම තැපැල් කාර්යාලය",
+            "nameTa": "மொரஹேனகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22036"
+          },
+          "coordinates": {
+            "latitude": 6.9457512,
+            "longitude": 80.4799273
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22040",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTTELLENA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kottellena",
+            "nameSi": "කොට්ටැල්ලෙන",
+            "nameTa": "கொட்டெல்லெனா"
+          },
+          "city": {
+            "nameEn": "Kottellena",
+            "nameSi": "කොට්ටැල්ලෙන",
+            "nameTa": "கொட்டெல்லெனா"
+          },
+          "postcode": "22040",
+          "postOffice": {
+            "nameEn": "Kottellena Post Office",
+            "nameSi": "කොට්ටැල්ලෙන තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டெல்லெனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22040"
+          },
+          "coordinates": {
+            "latitude": 6.8931684,
+            "longitude": 80.5021652
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22044",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HANGARAPITIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Hangarapitiya",
+            "nameSi": "හඟරාපිටිය",
+            "nameTa": "ஹங்கராபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Hangarapitiya",
+            "nameSi": "හඟරාපිටිය",
+            "nameTa": "ஹங்கராபிட்டிய"
+          },
+          "postcode": "22044",
+          "postOffice": {
+            "nameEn": "Hangarapitiya Post Office",
+            "nameSi": "හඟරාපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "ஹங்கராபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22044"
+          },
+          "coordinates": {
+            "latitude": 6.920407,
+            "longitude": 80.4725565
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22046",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HITIGEGAMA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Hitigegama",
+            "nameSi": "හිටිගේගම",
+            "nameTa": "ஹிட்டிகேகம"
+          },
+          "city": {
+            "nameEn": "Hitigegama",
+            "nameSi": "හිටිගේගම",
+            "nameTa": "ஹிட்டிகேகம"
+          },
+          "postcode": "22046",
+          "postOffice": {
+            "nameEn": "Hitigegama Post Office",
+            "nameSi": "හිටිගේගම තැපැල් කාර්යාලය",
+            "nameTa": "ஹிட்டிகேகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22046"
+          },
+          "coordinates": {
+            "latitude": 6.9506076,
+            "longitude": 80.4576835
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22050",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIKOYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Dikoya",
+            "nameSi": "දික්ඔය",
+            "nameTa": "டிக்கோயா"
+          },
+          "city": {
+            "nameEn": "Dikoya",
+            "nameSi": "දික්ඔය",
+            "nameTa": "டிக்கோயா"
+          },
+          "postcode": "22050",
+          "postOffice": {
+            "nameEn": "Dikoya Post Office",
+            "nameSi": "දික්ඔය තැපැල් කාර්යාලය",
+            "nameTa": "டிக்கோயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22050"
+          },
+          "coordinates": {
+            "latitude": 6.8751313,
+            "longitude": 80.6006772
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22058",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NORWOOD",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Norwood",
+            "nameSi": "නෝවුඩ්",
+            "nameTa": "நோர்வூட்"
+          },
+          "city": {
+            "nameEn": "Norwood",
+            "nameSi": "නෝවුඩ්",
+            "nameTa": "நோர்வூட்"
+          },
+          "postcode": "22058",
+          "postOffice": {
+            "nameEn": "Norwood Post Office",
+            "nameSi": "නෝවුඩ් තැපැල් කාර්යාලය",
+            "nameTa": "நோர்வூட் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22058"
+          },
+          "coordinates": {
+            "latitude": 6.8384207,
+            "longitude": 80.6146524
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22060",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BOGAWANTALAWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Bogawantalawa",
+            "nameSi": "බොගවන්තලාව",
+            "nameTa": "பொகவந்தலாவ"
+          },
+          "city": {
+            "nameEn": "Bogawantalawa",
+            "nameSi": "බොගවන්තලාව",
+            "nameTa": "பொகவந்தலாவ"
+          },
+          "postcode": "22060",
+          "postOffice": {
+            "nameEn": "Bogawantalawa Post Office",
+            "nameSi": "බොගවන්තලාව තැපැල් කාර්යාලය",
+            "nameTa": "பொகவந்தலாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22060"
+          },
+          "coordinates": {
+            "latitude": 6.7972337,
+            "longitude": 80.675692
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22070",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MASKELIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Maskeliya",
+            "nameSi": "මස්කෙළිය",
+            "nameTa": "மஸ்கெலியா"
+          },
+          "city": {
+            "nameEn": "Maskeliya",
+            "nameSi": "මස්කෙළිය",
+            "nameTa": "மஸ்கெலியா"
+          },
+          "postcode": "22070",
+          "postOffice": {
+            "nameEn": "Maskeliya Post Office",
+            "nameSi": "මස්කෙළිය තැපැල් කාර්යාලය",
+            "nameTa": "மஸ்கெலியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22070"
+          },
+          "coordinates": {
+            "latitude": 6.8329294,
+            "longitude": 80.5709256
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22075",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NISSANKA UYANA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Nissanka Uyana",
+            "nameSi": "නිශ්ශංක උයන",
+            "nameTa": "நிஸ்ஸங்க உயன"
+          },
+          "city": {
+            "nameEn": "Nissanka Uyana",
+            "nameSi": "නිශ්ශංක උයන",
+            "nameTa": "நிஸ்ஸங்க உயன"
+          },
+          "postcode": "22075",
+          "postOffice": {
+            "nameEn": "Nissanka Uyana Post Office",
+            "nameSi": "නිශ්ශංක උයන තැපැල් කාර්යාලය",
+            "nameTa": "நிஸ்ஸங்க உயன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22075"
+          },
+          "coordinates": {
+            "latitude": 6.9497166,
+            "longitude": 80.7891068
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22090",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LINDULA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Lindula",
+            "nameSi": "ලිඳුල",
+            "nameTa": "லிந்துல"
+          },
+          "city": {
+            "nameEn": "Lindula",
+            "nameSi": "ලිඳුල",
+            "nameTa": "லிந்துல"
+          },
+          "postcode": "22090",
+          "postOffice": {
+            "nameEn": "Lindula Post Office",
+            "nameSi": "ලිඳුල තැපැල් කාර්යාලය",
+            "nameTa": "லிந்துல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22090"
+          },
+          "coordinates": {
+            "latitude": 6.901898,
+            "longitude": 80.6716524
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22094",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AGARAPATHANA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Agarapathana",
+            "nameSi": "ආගරපතන",
+            "nameTa": "அக்கரப்பத்தனை"
+          },
+          "city": {
+            "nameEn": "Agarapathana",
+            "nameSi": "ආගරපතන",
+            "nameTa": "அக்கரப்பத்தனை"
+          },
+          "postcode": "22094",
+          "postOffice": {
+            "nameEn": "Agarapathana Post Office",
+            "nameSi": "ආගරපතන තැපැල් කාර්යාලය",
+            "nameTa": "அக்கரப்பத்தனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22094"
+          },
+          "coordinates": {
+            "latitude": 6.8672431,
+            "longitude": 80.7121754
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22095",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BOPATTALAWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Bopattalawa",
+            "nameSi": "බෝපත්තලාව",
+            "nameTa": "போபத்தலாவ"
+          },
+          "city": {
+            "nameEn": "Bopattalawa",
+            "nameSi": "බෝපත්තලාව",
+            "nameTa": "போபத்தலாவ"
+          },
+          "postcode": "22095",
+          "postOffice": {
+            "nameEn": "Bopattalawa Post Office",
+            "nameSi": "බෝපත්තලාව තැපැල් කාර්යාලය",
+            "nameTa": "போபத்தலாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22095"
+          },
+          "coordinates": {
+            "latitude": 6.809019,
+            "longitude": 80.6959013
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22096",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DAYAGAMA BAZAAR",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Dayagama Bazaar",
+            "nameSi": "ඩයගම බසාර්",
+            "nameTa": "டயகம பஜார்"
+          },
+          "city": {
+            "nameEn": "Dayagama Bazaar",
+            "nameSi": "ඩයගම බසාර්",
+            "nameTa": "டயகம பஜார்"
+          },
+          "postcode": "22096",
+          "postOffice": {
+            "nameEn": "Dayagama Bazaar Post Office",
+            "nameSi": "ඩයගම බසාර් තැපැල් කාර්යාලය",
+            "nameTa": "டயகம பஜார் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22096"
+          },
+          "coordinates": {
+            "latitude": 6.8561299,
+            "longitude": 80.7474261
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALAWAKELE",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Talawakele",
+            "nameSi": "තලවකැලේ",
+            "nameTa": "தலவாக்கலை"
+          },
+          "city": {
+            "nameEn": "Talawakele",
+            "nameSi": "තලවකැලේ",
+            "nameTa": "தலவாக்கலை"
+          },
+          "postcode": "22100",
+          "postOffice": {
+            "nameEn": "Talawakele Post Office",
+            "nameSi": "තලවකැලේ තැපැල් කාර්යාලය",
+            "nameTa": "தலவாக்கலை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22100"
+          },
+          "coordinates": {
+            "latitude": 6.9387914,
+            "longitude": 80.6632103
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22120",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUNDALUOYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Pundaluoya",
+            "nameSi": "පුණ්ඩළුඔය",
+            "nameTa": "பூண்டுலோயா"
+          },
+          "city": {
+            "nameEn": "Pundaluoya",
+            "nameSi": "පුණ්ඩළුඔය",
+            "nameTa": "பூண்டுலோயா"
+          },
+          "postcode": "22120",
+          "postOffice": {
+            "nameEn": "Pundaluoya Post Office",
+            "nameSi": "පුණ්ඩළුඔය තැපැල් කාර්යාලය",
+            "nameTa": "பூண்டுலோயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22120"
+          },
+          "coordinates": {
+            "latitude": 7.0131278,
+            "longitude": 80.6632103
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": {
+            "nameEn": "Nuwara Eliya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "NUWARA ELIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවරඑළිය",
+            "nameTa": "நுவரெலியா"
+          },
+          "city": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවරඑළිය",
+            "nameTa": "நுவரெலியா"
+          },
+          "postcode": "22200",
+          "postOffice": {
+            "nameEn": "Nuwara Eliya Post Office",
+            "nameSi": "නුවරඑළිය තැපැල් කාර්යාලය",
+            "nameTa": "நுவரெலியா தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22200"
+          },
+          "coordinates": {
+            "latitude": 6.9479581,
+            "longitude": 80.7885103
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22202",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SANTHIPURA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Santhipura",
+            "nameSi": "ශාන්තිපුර",
+            "nameTa": "சாந்திபுரா"
+          },
+          "city": {
+            "nameEn": "Santhipura",
+            "nameSi": "ශාන්තිපුර",
+            "nameTa": "சாந்திபுரா"
+          },
+          "postcode": "22202",
+          "postOffice": {
+            "nameEn": "Santhipura Post Office",
+            "nameSi": "ශාන්තිපුර තැපැල් කාර්යාලය",
+            "nameTa": "சாந்திபுரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22202"
+          },
+          "coordinates": {
+            "latitude": 6.9789453,
+            "longitude": 80.7477708
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22208",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HAGGALA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Haggala",
+            "nameSi": "හග්ගල",
+            "nameTa": "ஹக்கலா"
+          },
+          "city": {
+            "nameEn": "Haggala",
+            "nameSi": "හග්ගල",
+            "nameTa": "ஹக்கலா"
+          },
+          "postcode": "22208",
+          "postOffice": {
+            "nameEn": "Haggala Post Office",
+            "nameSi": "හග්ගල තැපැල් කාර්යාලය",
+            "nameTa": "ஹக்கலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22208"
+          },
+          "coordinates": {
+            "latitude": 6.9186817,
+            "longitude": 80.8310318
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22212",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RUWANELIYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Ruwaneliya",
+            "nameSi": "රුවන්එළිය",
+            "nameTa": "ருவனெலியா"
+          },
+          "city": {
+            "nameEn": "Ruwaneliya",
+            "nameSi": "රුවන්එළිය",
+            "nameTa": "ருவனெலியா"
+          },
+          "postcode": "22212",
+          "postOffice": {
+            "nameEn": "Ruwaneliya Post Office",
+            "nameSi": "රුවන්එළිය තැපැල් කාර්යාලය",
+            "nameTa": "ருவனெலியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22212"
+          },
+          "coordinates": {
+            "latitude": 6.9420892,
+            "longitude": 80.7768129
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22214",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIPILIMANA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Mipilimana",
+            "nameSi": "මීපිලිමාන",
+            "nameTa": "மிபிலிமன"
+          },
+          "city": {
+            "nameEn": "Mipilimana",
+            "nameSi": "මීපිලිමාන",
+            "nameTa": "மிபிலிமன"
+          },
+          "postcode": "22214",
+          "postOffice": {
+            "nameEn": "Mipilimana Post Office",
+            "nameSi": "මීපිලිමාන තැපැල් කාර්යාලය",
+            "nameTa": "மிபிலிமன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22214"
+          },
+          "coordinates": {
+            "latitude": 6.9304568,
+            "longitude": 80.7796313
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22216",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMBEWELA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Ambewela",
+            "nameSi": "අඹේවෙල",
+            "nameTa": "அம்பேவெல"
+          },
+          "city": {
+            "nameEn": "Ambewela",
+            "nameSi": "අඹේවෙල",
+            "nameTa": "அம்பேவெல"
+          },
+          "postcode": "22216",
+          "postOffice": {
+            "nameEn": "Ambewela Post Office",
+            "nameSi": "අඹේවෙල තැපැල් කාර්යාලය",
+            "nameTa": "அம்பேவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22216"
+          },
+          "coordinates": {
+            "latitude": 6.8787195,
+            "longitude": 80.8135558
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANDAPOLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kandapola",
+            "nameSi": "කඳපොල",
+            "nameTa": "கந்தபொல"
+          },
+          "city": {
+            "nameEn": "Kandapola",
+            "nameSi": "කඳපොල",
+            "nameTa": "கந்தபொல"
+          },
+          "postcode": "22220",
+          "postOffice": {
+            "nameEn": "Kandapola Post Office",
+            "nameSi": "කඳපොල තැපැල් කාර්යාලය",
+            "nameTa": "கந்தபொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22220"
+          },
+          "coordinates": {
+            "latitude": 7.0002512,
+            "longitude": 80.818401
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22226",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GONAKELE",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Gonakele",
+            "nameSi": "ගෝනකැලේ",
+            "nameTa": "கோனகேலை"
+          },
+          "city": {
+            "nameEn": "Gonakele",
+            "nameSi": "ගෝනකැලේ",
+            "nameTa": "கோனகேலை"
+          },
+          "postcode": "22226",
+          "postOffice": {
+            "nameEn": "Gonakele Post Office",
+            "nameSi": "ගෝනකැලේ තැපැල් කාර්යාලය",
+            "nameTa": "கோனகேலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22226"
+          },
+          "coordinates": {
+            "latitude": 6.9837958,
+            "longitude": 80.7581585
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22240",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HALGRANOYA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Halgranoya",
+            "nameSi": "හාල්ගරනඔය",
+            "nameTa": "ஹல்கிரானோயா"
+          },
+          "city": {
+            "nameEn": "Halgranoya",
+            "nameSi": "හාල්ගරනඔය",
+            "nameTa": "ஹல்கிரானோயா"
+          },
+          "postcode": "22240",
+          "postOffice": {
+            "nameEn": "Halgranoya Post Office",
+            "nameSi": "හාල්ගරනඔය තැපැල් කාර්යාලය",
+            "nameTa": "ஹல்கிரானோயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22240"
+          },
+          "coordinates": {
+            "latitude": 7.0067834,
+            "longitude": 80.8652038
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22245",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RUPAHA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Rupaha",
+            "nameSi": "රූපහ",
+            "nameTa": "ரூபாஹா"
+          },
+          "city": {
+            "nameEn": "Rupaha",
+            "nameSi": "රූපහ",
+            "nameTa": "ரூபாஹா"
+          },
+          "postcode": "22245",
+          "postOffice": {
+            "nameEn": "Rupaha Post Office",
+            "nameSi": "රූපහ තැපැල් කාර්යාලය",
+            "nameTa": "ரூபாஹா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22245"
+          },
+          "coordinates": {
+            "latitude": 7.0322593,
+            "longitude": 80.9043234
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22246",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KUMBUKWELA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kumbukwela",
+            "nameSi": "කුඹුක්වෙල",
+            "nameTa": "கும்பக்வேலா"
+          },
+          "city": {
+            "nameEn": "Kumbukwela",
+            "nameSi": "කුඹුක්වෙල",
+            "nameTa": "கும்பக்வேலா"
+          },
+          "postcode": "22246",
+          "postOffice": {
+            "nameEn": "Kumbukwela Post Office",
+            "nameSi": "කුඹුක්වෙල තැපැල් කාර්යාලය",
+            "nameTa": "கும்பக்வேலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22246"
+          },
+          "coordinates": {
+            "latitude": 7.0534652,
+            "longitude": 80.8889692
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDAPUSSALLAWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Udapussallawa",
+            "nameSi": "උඩපුස්සල්ලාව",
+            "nameTa": "உடபுஸ்ஸல்லாவ"
+          },
+          "city": {
+            "nameEn": "Udapussallawa",
+            "nameSi": "උඩපුස්සල්ලාව",
+            "nameTa": "உடபுஸ்ஸல்லாவ"
+          },
+          "postcode": "22250",
+          "postOffice": {
+            "nameEn": "Udapussallawa Post Office",
+            "nameSi": "උඩපුස්සල්ලාව තැපැල් කාර්යාලය",
+            "nameTa": "உடபுஸ்ஸல்லாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22250"
+          },
+          "coordinates": {
+            "latitude": 7.0127123,
+            "longitude": 80.9124781
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22252",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KURUPANAWELA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kurupanawela",
+            "nameSi": "කුරුපනාවෙල",
+            "nameTa": "குருபனவெல"
+          },
+          "city": {
+            "nameEn": "Kurupanawela",
+            "nameSi": "කුරුපනාවෙල",
+            "nameTa": "குருபனவெல"
+          },
+          "postcode": "22252",
+          "postOffice": {
+            "nameEn": "Kurupanawela Post Office",
+            "nameSi": "කුරුපනාවෙල තැපැල් කාර්යාලය",
+            "nameTa": "குருபனவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22252"
+          },
+          "coordinates": {
+            "latitude": 7.0167262,
+            "longitude": 80.9138608
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22254",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIPANAWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Mipanawa",
+            "nameSi": "මීපනාව",
+            "nameTa": "மிபனாவா"
+          },
+          "city": {
+            "nameEn": "Mipanawa",
+            "nameSi": "මීපනාව",
+            "nameTa": "மிபனாவா"
+          },
+          "postcode": "22254",
+          "postOffice": {
+            "nameEn": "Mipanawa Post Office",
+            "nameSi": "මීපනාව තැපැල් කාර්යාලය",
+            "nameTa": "மிபனாவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22254"
+          },
+          "coordinates": {
+            "latitude": 6.97314,
+            "longitude": 80.76664
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22256",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MADULLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Madulla",
+            "nameSi": "මඩුල්ල",
+            "nameTa": "மதுல்லா"
+          },
+          "city": {
+            "nameEn": "Madulla",
+            "nameSi": "මඩුල්ල",
+            "nameTa": "மதுல்லா"
+          },
+          "postcode": "22256",
+          "postOffice": {
+            "nameEn": "Madulla Post Office",
+            "nameSi": "මඩුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "மதுல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22256"
+          },
+          "coordinates": {
+            "latitude": 7.0194419,
+            "longitude": 80.921301
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22262",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HARASBEDDA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Harasbedda",
+            "nameSi": "හරස්බැද්ද",
+            "nameTa": "ஹரஸ்பெத்தா"
+          },
+          "city": {
+            "nameEn": "Harasbedda",
+            "nameSi": "හරස්බැද්ද",
+            "nameTa": "ஹரஸ்பெத்தா"
+          },
+          "postcode": "22262",
+          "postOffice": {
+            "nameEn": "Harasbedda Post Office",
+            "nameSi": "හරස්බැද්ද තැපැල් කාර්යාලය",
+            "nameTa": "ஹரஸ்பெத்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22262"
+          },
+          "coordinates": {
+            "latitude": 7.0626387,
+            "longitude": 80.8820535
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22270",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": {
+            "nameEn": "Walapane",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "WALAPANE",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Walapane",
+            "nameSi": "වලපනේ",
+            "nameTa": "வலப்பனை"
+          },
+          "city": {
+            "nameEn": "Walapane",
+            "nameSi": "වලපනේ",
+            "nameTa": "வலப்பனை"
+          },
+          "postcode": "22270",
+          "postOffice": {
+            "nameEn": "Walapane Post Office",
+            "nameSi": "වලපනේ තැපැල් කාර්යාලය",
+            "nameTa": "வலப்பனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22270"
+          },
+          "coordinates": {
+            "latitude": 7.1021663,
+            "longitude": 80.8626864
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22272",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KUMBALGAMUWA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kumbalgamuwa",
+            "nameSi": "කුඹල්ගමුව",
+            "nameTa": "கும்பல்கமுவ"
+          },
+          "city": {
+            "nameEn": "Kumbalgamuwa",
+            "nameSi": "කුඹල්ගමුව",
+            "nameTa": "கும்பல்கமுவ"
+          },
+          "postcode": "22272",
+          "postOffice": {
+            "nameEn": "Kumbalgamuwa Post Office",
+            "nameSi": "කුඹල්ගමුව තැපැල් කාර්යාලය",
+            "nameTa": "கும்பல்கமுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22272"
+          },
+          "coordinates": {
+            "latitude": 7.1124839,
+            "longitude": 80.8460822
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22274",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KEERTHI BANDARAPURA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Keerthi Bandarapura",
+            "nameSi": "කීර්තිබණ්ඩාරපුර",
+            "nameTa": "கீர்த்தி பண்டாரபுர"
+          },
+          "city": {
+            "nameEn": "Keerthi Bandarapura",
+            "nameSi": "කීර්තිබණ්ඩාරපුර",
+            "nameTa": "கீர்த்தி பண்டாரபுர"
+          },
+          "postcode": "22274",
+          "postOffice": {
+            "nameEn": "Keerthi Bandarapura Post Office",
+            "nameSi": "කීර්තිබණ්ඩාරපුර තැපැල් කාර්යාලය",
+            "nameTa": "கீர்த்தி பண்டாரபுர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22274"
+          },
+          "coordinates": {
+            "latitude": 7.1458998,
+            "longitude": 80.853001
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22280",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NILDANDAHINNA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Nildandahinna",
+            "nameSi": "නිල්දණ්ඩාහින්න",
+            "nameTa": "நில்தண்டாஹின்ன"
+          },
+          "city": {
+            "nameEn": "Nildandahinna",
+            "nameSi": "නිල්දණ්ඩාහින්න",
+            "nameTa": "நில்தண்டாஹின்ன"
+          },
+          "postcode": "22280",
+          "postOffice": {
+            "nameEn": "Nildandahinna Post Office",
+            "nameSi": "නිල්දණ්ඩාහින්න තැපැල් කාර්යාලය",
+            "nameTa": "நில்தண்டாஹின்ன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22280"
+          },
+          "coordinates": {
+            "latitude": 7.0801197,
+            "longitude": 80.8917353
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22282",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALAGANWATTA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kalaganwatta",
+            "nameSi": "කලගන්වත්ත",
+            "nameTa": "கலகன்வத்த"
+          },
+          "city": {
+            "nameEn": "Kalaganwatta",
+            "nameSi": "කලගන්වත්ත",
+            "nameTa": "கலகன்வத்த"
+          },
+          "postcode": "22282",
+          "postOffice": {
+            "nameEn": "Kalaganwatta Post Office",
+            "nameSi": "කලගන්වත්ත තැපැල් කාර්යාලය",
+            "nameTa": "கலகன்வத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22282"
+          },
+          "coordinates": {
+            "latitude": 7.100639,
+            "longitude": 80.8994579
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22285",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDAMADURA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Udamadura",
+            "nameSi": "උඩමාදුර",
+            "nameTa": "உடமதுர"
+          },
+          "city": {
+            "nameEn": "Udamadura",
+            "nameSi": "උඩමාදුර",
+            "nameTa": "உடமதுர"
+          },
+          "postcode": "22285",
+          "postOffice": {
+            "nameEn": "Udamadura Post Office",
+            "nameSi": "උඩමාදුර තැපැල් කාර්යාලය",
+            "nameTa": "உடமதுர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22285"
+          },
+          "coordinates": {
+            "latitude": 7.0965737,
+            "longitude": 80.916626
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22287",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TERIPEHA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Teripeha",
+            "nameSi": "තෙරිපේහා",
+            "nameTa": "தெரிபெஹா"
+          },
+          "city": {
+            "nameEn": "Teripeha",
+            "nameSi": "තෙරිපේහා",
+            "nameTa": "தெரிபெஹா"
+          },
+          "postcode": "22287",
+          "postOffice": {
+            "nameEn": "Teripeha Post Office",
+            "nameSi": "තෙරිපේහා තැපැල් කාර්යාලය",
+            "nameTa": "தெரிபெஹா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22287"
+          },
+          "coordinates": {
+            "latitude": 7.1140442,
+            "longitude": 80.9144285
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90013",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "EGODAWELA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Egodawela",
+            "nameSi": "එගොඩවෙල",
+            "nameTa": "எகொடவெல"
+          },
+          "city": {
+            "nameEn": "Egodawela",
+            "nameSi": "එගොඩවෙල",
+            "nameTa": "எகொடவெல"
+          },
+          "postcode": "90013",
+          "postOffice": {
+            "nameEn": "Egodawela Post Office",
+            "nameSi": "එගොඩවෙල තැපැල් කාර්යාලය",
+            "nameTa": "எகொடவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90013"
+          },
+          "coordinates": {
+            "latitude": 6.9644836,
+            "longitude": 80.7633599
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90061",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UVA UDUWARA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Uva Uduwara",
+            "nameSi": "ඌව උඩුවර",
+            "nameTa": "ஊவா உடுவார"
+          },
+          "city": {
+            "nameEn": "Uva Uduwara",
+            "nameSi": "ඌව උඩුවර",
+            "nameTa": "ஊவா உடுவார"
+          },
+          "postcode": "90061",
+          "postOffice": {
+            "nameEn": "Uva Uduwara Post Office",
+            "nameSi": "ඌව උඩුවර තැපැල් කාර්යාලය",
+            "nameTa": "ஊவா உடுவார தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90061"
+          },
+          "coordinates": {
+            "latitude": 6.9304421,
+            "longitude": 81.0561458
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90062",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UVA DEEGALLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Uva Deegalla",
+            "nameSi": "ඌව දීගල්ල",
+            "nameTa": "ஊவா டீகல்ல"
+          },
+          "city": {
+            "nameEn": "Uva Deegalla",
+            "nameSi": "ඌව දීගල්ල",
+            "nameTa": "ஊவா டீகல்ல"
+          },
+          "postcode": "90062",
+          "postOffice": {
+            "nameEn": "Uva Deegalla Post Office",
+            "nameSi": "ඌව දීගල්ල තැපැල් කාර්යාලය",
+            "nameTa": "ஊவா டீகல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90062"
+          },
+          "coordinates": {
+            "latitude": 6.9497166,
+            "longitude": 80.7891068
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90063",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "JANGULLA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Jangulla",
+            "nameSi": "ජංගුල්ල",
+            "nameTa": "ஜங்குல்லா"
+          },
+          "city": {
+            "nameEn": "Jangulla",
+            "nameSi": "ජංගුල්ල",
+            "nameTa": "ஜங்குல்லா"
+          },
+          "postcode": "90063",
+          "postOffice": {
+            "nameEn": "Jangulla Post Office",
+            "nameSi": "ජංගුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "ஜங்குல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90063"
+          },
+          "coordinates": {
+            "latitude": 6.9497166,
+            "longitude": 80.7891068
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90230",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UVAPARANAGAMA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Uvaparanagama",
+            "nameSi": "ඌව-පරණගම",
+            "nameTa": "ஊவா பரணகம"
+          },
+          "city": {
+            "nameEn": "Uvaparanagama",
+            "nameSi": "ඌව-පරණගම",
+            "nameTa": "ஊவா பரணகம"
+          },
+          "postcode": "90230",
+          "postOffice": {
+            "nameEn": "Uvaparanagama Post Office",
+            "nameSi": "ඌව-පරණගම තැපැල් කාර්යාලය",
+            "nameTa": "ஊவா பரணகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90230"
+          },
+          "coordinates": {
+            "latitude": 6.9497166,
+            "longitude": 80.7891068
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91024",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Nuwara Eliya",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா",
+            "administrativeType": "District",
+            "code": "LK-23"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTIYAGALA",
+            "nameSi": "නුවර එළිය",
+            "nameTa": "நுவரேலியா"
+          },
+          "locality": {
+            "nameEn": "Kotiyagala",
+            "nameSi": "කොටියාගල",
+            "nameTa": "கொட்டியாகலை"
+          },
+          "city": {
+            "nameEn": "Kotiyagala",
+            "nameSi": "කොටියාගල",
+            "nameTa": "கொட்டியாகலை"
+          },
+          "postcode": "91024",
+          "postOffice": {
+            "nameEn": "Kotiyagala Post Office",
+            "nameSi": "කොටියාගල තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டியாகலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91024"
+          },
+          "coordinates": {
+            "latitude": 6.7855074,
+            "longitude": 80.6853986
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

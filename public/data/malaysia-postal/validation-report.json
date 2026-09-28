@@ -1,0 +1,98 @@
+{
+  "dataset": "Malaysia Postal Code & Administrative Dataset (Data Poskod & Pentadbiran Malaysia)",
+  "status": "PASS",
+  "datasetVersion": "2026-09-28",
+  "country": {
+    "nameEn": "Malaysia",
+    "isoAlpha2": "MY",
+    "isoAlpha3": "MYS",
+    "isoNumeric": "458",
+    "phoneCode": "+60",
+    "currency": "MYR"
+  },
+  "administrativeSummary": {
+    "states": 13,
+    "federalTerritories": 3,
+    "total": 16
+  },
+  "statistics": {
+    "uniquePostcodes": 2928,
+    "totalRecords": 2932,
+    "multiMatchPostcodes": 4
+  },
+  "validation": {
+    "totalChecks": 7,
+    "passedChecks": 7,
+    "failedChecks": 0,
+    "checks": [
+      {
+        "check": "Top-level structure has exactly 13 States and 3 Federal Territories (Total: 16)",
+        "passed": true,
+        "details": "States: 13/13, FT: 3/3"
+      },
+      {
+        "check": "All postcodes are exactly 5-digit numeric strings with leading zeroes preserved",
+        "passed": true,
+        "details": "Sample leading zero postcode: \"05000\""
+      },
+      {
+        "check": "Multiple locality matches for single postcodes preserved without overwrite",
+        "passed": true,
+        "details": "4 postcodes with multiple locality matches preserved"
+      },
+      {
+        "check": "Kelantan administrative hierarchy preserved as Jajahan",
+        "passed": true,
+        "details": "Kelantan Jajahan administrativeType verified"
+      },
+      {
+        "check": "Federal Territories classified with administrativeType 'Federal Territory'",
+        "passed": true,
+        "details": "Kuala Lumpur administrativeType: Federal Territory"
+      },
+      {
+        "check": "Zero invalid or malformed postcodes",
+        "passed": true,
+        "details": "Invalid count: 0"
+      },
+      {
+        "check": "Zero orphan records without administrative parent",
+        "passed": true,
+        "details": "All records map to verified State/Federal Territory and District/Jajahan"
+      }
+    ],
+    "invalidPostcodes": [],
+    "duplicateRecords": []
+  },
+  "sources": [
+    {
+      "name": "Malaysian Communications and Multimedia Commission (MCMC)",
+      "url": "https://data.gov.my",
+      "version": "MCMC Postcode Dataset",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Department of Statistics Malaysia (DOSM / OpenDOSM)",
+      "url": "https://open.dosm.gov.my",
+      "version": "DOSM Regional Classifications & Geodata (160 Districts)",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Ministry of Health Malaysia (MoH)",
+      "url": "https://github.com/MoH-Malaysia/data-resources-public",
+      "version": "MoH Public Facilities Administrative Registry",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Universal Postal Union (UPU)",
+      "url": "https://www.upu.int",
+      "version": "UPU S42 Postal Addressing Standard - Malaysia",
+      "sourceUpdatedAt": "2025-12-31",
+      "retrievedAt": "2026-09-28"
+    }
+  ],
+  "generatedAt": "2026-09-28T06:38:56.954Z"
+}

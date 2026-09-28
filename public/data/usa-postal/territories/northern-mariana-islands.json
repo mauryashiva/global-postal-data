@@ -1,0 +1,91 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Northern Mariana Islands",
+    "abbreviation": "MP",
+    "fipsCode": "69",
+    "capital": "Saipan",
+    "largestCity": "Saipan",
+    "category": "territories",
+    "administrativeType": "Territory",
+    "areaCodes": [
+      "670"
+    ],
+    "prefixes": [
+      "969"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-MP-96950-0",
+      "zip5": "96950",
+      "zip4": "1001",
+      "zipPlus4": "96950-1001",
+      "state": {
+        "nameEn": "Northern Mariana Islands",
+        "abbreviation": "MP",
+        "fipsCode": "69",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Saipan",
+      "acceptableCities": [
+        "Saipan"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Saipan",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Saipan Municipality",
+          "fipsCode": "69110",
+          "geoid": "69110"
+        }
+      ],
+      "primaryCounty": "Saipan Municipality",
+      "zcta": {
+        "code": "96950"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Saipan Main Post Office",
+        "address": "1000 Chalan Pale Arnold",
+        "phone": "(670) 234-6240",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 15.195,
+        "longitude": 145.744,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "670"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 16,
+        "deliveryPoints": 7900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MP-96950",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

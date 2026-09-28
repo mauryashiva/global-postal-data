@@ -1,0 +1,119 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Kafr El Sheikh",
+    "nameNative": "كفر الشيخ",
+    "isoCode": "EG-KFS",
+    "postalPrefix": "33",
+    "capital": "Kafr El Sheikh",
+    "capitalNative": "كفر الشيخ",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.1107,
+      "longitude": 30.9388
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "33511",
+      "governorate": {
+        "nameEn": "Kafr El Sheikh",
+        "nameNative": "كفر الشيخ",
+        "code": "EG-KFS",
+        "postalPrefix": "33",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Kafr El Sheikh",
+        "nameNative": "كفر الشيخ",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Kafr El Sheikh",
+        "nameNative": "قسم كفر الشيخ",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Nasr / Mahata",
+        "nameNative": "ميدان النصر / المحطة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Kafr El Sheikh Main Post Office",
+        "nameNative": "مكتب بريد كفر الشيخ الرئيسي",
+        "type": "Main Post Office",
+        "code": "33511"
+      },
+      "areas": [
+        "Nasr Square",
+        "El Geesh St",
+        "Kafr El Sheikh University",
+        "Governorate Complex"
+      ],
+      "coordinates": {
+        "latitude": 31.1107,
+        "longitude": 30.9388
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-KAFR-EL-SHEIKH-33511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "33611",
+      "governorate": {
+        "nameEn": "Kafr El Sheikh",
+        "nameNative": "كفر الشيخ",
+        "code": "EG-KFS",
+        "postalPrefix": "33",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Desouk",
+        "nameNative": "دسوق",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Desouk",
+        "nameNative": "مركز دسوق",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Ibrahim El Desouki Square",
+        "nameNative": "ميدان العارف بالله إبراهيم الدسوقي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Desouk Post Office",
+        "nameNative": "مكتب بريد دسوق",
+        "type": "Sub Post Office",
+        "code": "33611"
+      },
+      "areas": [
+        "Sidi Ibrahim El Desouki Mosque Area",
+        "Nile Rosetta Branch Corniche",
+        "Geesh St Desouk"
+      ],
+      "coordinates": {
+        "latitude": 31.1345,
+        "longitude": 30.6489
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-KAFR-EL-SHEIKH-33611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

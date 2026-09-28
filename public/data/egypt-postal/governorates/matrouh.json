@@ -1,0 +1,168 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Matrouh",
+    "nameNative": "مطروح",
+    "isoCode": "EG-MT",
+    "postalPrefix": "51",
+    "capital": "Marsa Matrouh",
+    "capitalNative": "مرسى مطروح",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.3543,
+      "longitude": 27.2373
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 12
+  },
+  "records": [
+    {
+      "postalCode": "51511",
+      "governorate": {
+        "nameEn": "Matrouh",
+        "nameNative": "مطروح",
+        "code": "EG-MT",
+        "postalPrefix": "51",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Marsa Matrouh",
+        "nameNative": "مرسى مطروح",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Matrouh",
+        "nameNative": "قسم مطروح",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Alexandria St / Corniche",
+        "nameNative": "شارع الإسكندرية / كورنيش مطروح",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Marsa Matrouh Main Post Office",
+        "nameNative": "مكتب بريد مرسى مطروح الرئيسي",
+        "type": "Main Post Office",
+        "code": "51511"
+      },
+      "areas": [
+        "Alexandria St Matrouh",
+        "Corniche El Nil Matrouh",
+        "Governorate Square",
+        "Rommel Beach Road"
+      ],
+      "coordinates": {
+        "latitude": 31.3543,
+        "longitude": 27.2373
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MATROUH-51511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "51736",
+      "governorate": {
+        "nameEn": "Matrouh",
+        "nameNative": "مطروح",
+        "code": "EG-MT",
+        "postalPrefix": "51",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Alamein",
+        "nameNative": "العلمين الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Alamein",
+        "nameNative": "مركز العلمين",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Iconic Towers Sector",
+        "nameNative": "منطقة الأبراج الأيقونية",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "New Alamein City Post Office",
+        "nameNative": "مكتب بريد مدينة العلمين الجديدة",
+        "type": "Main Post Office",
+        "code": "51736"
+      },
+      "areas": [
+        "New Alamein Coastal Towers",
+        "Government District Alamein",
+        "International University Campus",
+        "Heritage City"
+      ],
+      "coordinates": {
+        "latitude": 30.8345,
+        "longitude": 28.9567
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MATROUH-51736",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "51718",
+      "governorate": {
+        "nameEn": "Matrouh",
+        "nameNative": "مطروح",
+        "code": "EG-MT",
+        "postalPrefix": "51",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Siwa Oasis",
+        "nameNative": "سيوة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Siwa",
+        "nameNative": "مركز سيوة",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Shali Fortress Square",
+        "nameNative": "ميدان قلعة شالي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Siwa Oasis Post Office",
+        "nameNative": "مكتب بريد واحة سيوة",
+        "type": "Sub Post Office",
+        "code": "51718"
+      },
+      "areas": [
+        "Historic Shali Fortress",
+        "Temple of the Oracle (Amun)",
+        "Cleopatra Spring Area",
+        "Olive & Date Groves Basin"
+      ],
+      "coordinates": {
+        "latitude": 29.2045,
+        "longitude": 25.5189
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MATROUH-51718",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

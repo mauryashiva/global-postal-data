@@ -1,0 +1,157 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Delaware",
+    "abbreviation": "DE",
+    "fipsCode": "10",
+    "capital": "Dover",
+    "largestCity": "Wilmington",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "302"
+    ],
+    "prefixes": [
+      "197",
+      "198",
+      "199"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-DE-19801-0",
+      "zip5": "19801",
+      "zip4": "1100",
+      "zipPlus4": "19801-1100",
+      "state": {
+        "nameEn": "Delaware",
+        "abbreviation": "DE",
+        "fipsCode": "10",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Wilmington",
+      "acceptableCities": [
+        "Wilmington"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Wilmington",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "New Castle County",
+          "fipsCode": "10003",
+          "geoid": "10003"
+        }
+      ],
+      "primaryCounty": "New Castle County",
+      "zcta": {
+        "code": "19801"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Wilmington Rodney Square Station",
+        "address": "1100 N Market St",
+        "phone": "(302) 658-4521",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 39.7447,
+        "longitude": -75.5484,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "302"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 21,
+        "deliveryPoints": 10400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-DE-19801",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-DE-19901-1",
+      "zip5": "19901",
+      "zip4": "2001",
+      "zipPlus4": "19901-2001",
+      "state": {
+        "nameEn": "Delaware",
+        "abbreviation": "DE",
+        "fipsCode": "10",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Dover",
+      "acceptableCities": [
+        "Dover"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Dover",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Kent County",
+          "fipsCode": "10001",
+          "geoid": "10001"
+        }
+      ],
+      "primaryCounty": "Kent County",
+      "zcta": {
+        "code": "19901"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Dover Main Post Office",
+        "address": "55 S State St",
+        "phone": "(302) 674-3291",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 39.1582,
+        "longitude": -75.5244,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "302"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 23,
+        "deliveryPoints": 11800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-DE-19901",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Nuristan",
+    "nameNative": "نورستان",
+    "isoCode": "AF-NUR",
+    "postalPrefix": "29",
+    "capital": "Parun",
+    "capitalNative": "پارون",
+    "coordinates": {
+      "latitude": 35.325,
+      "longitude": 70.9071
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 10,
+    "totalRecords": 10,
+    "urbanRecords": 1,
+    "ruralRecords": 9
+  },
+  "records": [
+    {
+      "postalCode": "290101",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Parun - Poruns",
+        "type": "Urban Municipal District",
+        "code": "AF-NUR-01"
+      },
+      "locality": {
+        "nameEn": "Poruns (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Parun Poruns Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-290101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295101",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Nurgeram District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-51"
+      },
+      "locality": {
+        "nameEn": "Nurgeram Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nurgeram District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295201",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Wama District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-52"
+      },
+      "locality": {
+        "nameEn": "Wama Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Wama District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295301",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Waygal District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-53"
+      },
+      "locality": {
+        "nameEn": "Waygal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Waygal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295401",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Kamdesh District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-54"
+      },
+      "locality": {
+        "nameEn": "Kamdesh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kamdesh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295501",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Barg-e-Matal District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-55"
+      },
+      "locality": {
+        "nameEn": "Barg-e-Matal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Barg-e-Matal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295601",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Mandol District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-56"
+      },
+      "locality": {
+        "nameEn": "Mandol Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Mandol District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295701",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Duab District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-57"
+      },
+      "locality": {
+        "nameEn": "Duab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Duab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295801",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Want District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-58"
+      },
+      "locality": {
+        "nameEn": "Want Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Want District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "295901",
+      "province": {
+        "nameEn": "Nuristan",
+        "nameNative": "نورستان",
+        "code": "AF-NUR",
+        "postalPrefix": "29"
+      },
+      "city": {
+        "nameEn": "Parun",
+        "nameNative": "پارون"
+      },
+      "district": {
+        "nameEn": "Cantwah District",
+        "type": "Rural Administrative District",
+        "code": "AF-NUR-59"
+      },
+      "locality": {
+        "nameEn": "Cantwah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Cantwah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.325,
+        "longitude": 70.9071
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-295901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5182 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Matale",
+    "nameSi": "මාතලේ",
+    "nameTa": "மாத்தளை",
+    "administrativeType": "District",
+    "code": "LK-22"
+  },
+  "province": {
+    "nameEn": "Central Province",
+    "nameSi": "මධ්‍යම පළාත",
+    "nameTa": "மத்திய மாகாணம்",
+    "code": "LK-2"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Ambanganga Korale",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Dambulla",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Galewela",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Laggala-Pallegama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Matale",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Naula",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Pallepola",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Rattota",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Ukuwela",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Wilgamuwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Yatawatta",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 77,
+    "totalRecords": 77,
+    "dsDivisionCount": 11
+  },
+  "postcodes": [
+    {
+      "postcode": "20960",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HASALAKA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Hasalaka",
+            "nameSi": "හසලක",
+            "nameTa": "ஹசலக"
+          },
+          "city": {
+            "nameEn": "Hasalaka",
+            "nameSi": "හසලක",
+            "nameTa": "ஹசலக"
+          },
+          "postcode": "20960",
+          "postOffice": {
+            "nameEn": "Hasalaka Post Office",
+            "nameSi": "හසලක තැපැල් කාර්යාලය",
+            "nameTa": "ஹசலக தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20960"
+          },
+          "coordinates": {
+            "latitude": 7.4680228,
+            "longitude": 80.6248266
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20967",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BARAWARDHANA OYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Barawardhana Oya",
+            "nameSi": "බරවර්ධන ඔය",
+            "nameTa": "பரவர்தன ஓயா"
+          },
+          "city": {
+            "nameEn": "Barawardhana Oya",
+            "nameSi": "බරවර්ධන ඔය",
+            "nameTa": "பரவர்தன ஓயா"
+          },
+          "postcode": "20967",
+          "postOffice": {
+            "nameEn": "Barawardhana Oya Post Office",
+            "nameSi": "බරවර්ධන ඔය තැපැල් කාර්යාලය",
+            "nameTa": "பரவர்தன ஓயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20967"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Matale",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "MATALE",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "city": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "postcode": "21000",
+          "postOffice": {
+            "nameEn": "Matale Post Office",
+            "nameSi": "මාතලේ තැපැල් කාර්යාලය",
+            "nameTa": "மாத்தளை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21000"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21004",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALWATTA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Alwatta",
+            "nameSi": "අල්වත්ත",
+            "nameTa": "அல்வத்தா"
+          },
+          "city": {
+            "nameEn": "Alwatta",
+            "nameSi": "අල්වත්ත",
+            "nameTa": "அல்வத்தா"
+          },
+          "postcode": "21004",
+          "postOffice": {
+            "nameEn": "Alwatta Post Office",
+            "nameSi": "අල්වත්ත තැපැල් කාර්යාලය",
+            "nameTa": "அல்வத்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21004"
+          },
+          "coordinates": {
+            "latitude": 7.448908,
+            "longitude": 80.6645973
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21006",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDATENNA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Udatenna",
+            "nameSi": "උඩතැන්න",
+            "nameTa": "உடதென்ன"
+          },
+          "city": {
+            "nameEn": "Udatenna",
+            "nameSi": "උඩතැන්න",
+            "nameTa": "உடதென்ன"
+          },
+          "postcode": "21006",
+          "postOffice": {
+            "nameEn": "Udatenna Post Office",
+            "nameSi": "උඩතැන්න තැපැල් කාර්යාලය",
+            "nameTa": "உடதென்ன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21006"
+          },
+          "coordinates": {
+            "latitude": 7.4287425,
+            "longitude": 80.6475418
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21008",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LELIAMBE",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Leliambe",
+            "nameSi": "ලෑලිඅඹේ",
+            "nameTa": "லீலியாம்பே"
+          },
+          "city": {
+            "nameEn": "Leliambe",
+            "nameSi": "ලෑලිඅඹේ",
+            "nameTa": "லீலியாம்பே"
+          },
+          "postcode": "21008",
+          "postOffice": {
+            "nameEn": "Leliambe Post Office",
+            "nameSi": "ලෑලිඅඹේ තැපැල් කාර්යාලය",
+            "nameTa": "லீலியாம்பே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21008"
+          },
+          "coordinates": {
+            "latitude": 7.4225079,
+            "longitude": 80.6571008
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21009",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEHIGALA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Wehigala",
+            "nameSi": "වැහිගල",
+            "nameTa": "வெஹிகல"
+          },
+          "city": {
+            "nameEn": "Wehigala",
+            "nameSi": "වැහිගල",
+            "nameTa": "வெஹிகல"
+          },
+          "postcode": "21009",
+          "postOffice": {
+            "nameEn": "Wehigala Post Office",
+            "nameSi": "වැහිගල තැපැල් කාර්යාලය",
+            "nameTa": "வெஹிகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21009"
+          },
+          "coordinates": {
+            "latitude": 7.4382265,
+            "longitude": 80.6140685
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21012",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ELKADUWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Elkaduwa",
+            "nameSi": "ඇල්කඩුව",
+            "nameTa": "எல்கடுவ"
+          },
+          "city": {
+            "nameEn": "Elkaduwa",
+            "nameSi": "ඇල්කඩුව",
+            "nameTa": "எல்கடுவ"
+          },
+          "postcode": "21012",
+          "postOffice": {
+            "nameEn": "Elkaduwa Post Office",
+            "nameSi": "ඇල්කඩුව තැපැල් කාර්යාලය",
+            "nameTa": "எல்கடுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21012"
+          },
+          "coordinates": {
+            "latitude": 7.4172376,
+            "longitude": 80.6840121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21032",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DANKANDA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Dankanda",
+            "nameSi": "දංකන්ද",
+            "nameTa": "தங்கந்தா"
+          },
+          "city": {
+            "nameEn": "Dankanda",
+            "nameSi": "දංකන්ද",
+            "nameTa": "தங்கந்தா"
+          },
+          "postcode": "21032",
+          "postOffice": {
+            "nameEn": "Dankanda Post Office",
+            "nameSi": "දංකන්ද තැපැල් කාර්යාලය",
+            "nameTa": "தங்கந்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21032"
+          },
+          "coordinates": {
+            "latitude": 7.5347288,
+            "longitude": 80.7010927
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21042",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIWULA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kiwula",
+            "nameSi": "කිවුල",
+            "nameTa": "கிவுலா"
+          },
+          "city": {
+            "nameEn": "Kiwula",
+            "nameSi": "කිවුල",
+            "nameTa": "கிவுலா"
+          },
+          "postcode": "21042",
+          "postOffice": {
+            "nameEn": "Kiwula Post Office",
+            "nameSi": "කිවුල තැපැල් කාර්යාලය",
+            "nameTa": "கிவுலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21042"
+          },
+          "coordinates": {
+            "latitude": 7.4634749,
+            "longitude": 80.6264477
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21044",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MUWANDENIYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Muwandeniya",
+            "nameSi": "මුවන්දෙණිය",
+            "nameTa": "முவன்தெனிய"
+          },
+          "city": {
+            "nameEn": "Muwandeniya",
+            "nameSi": "මුවන්දෙණිය",
+            "nameTa": "முவன்தெனிய"
+          },
+          "postcode": "21044",
+          "postOffice": {
+            "nameEn": "Muwandeniya Post Office",
+            "nameSi": "මුවන්දෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "முவன்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21044"
+          },
+          "coordinates": {
+            "latitude": 7.4547649,
+            "longitude": 80.6409764
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21046",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DUNKOLAWATTA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Dunkolawatta",
+            "nameSi": "දුන්කොලවත්ත",
+            "nameTa": "டன்கொலவத்த"
+          },
+          "city": {
+            "nameEn": "Dunkolawatta",
+            "nameSi": "දුන්කොලවත්ත",
+            "nameTa": "டன்கொலவத்த"
+          },
+          "postcode": "21046",
+          "postOffice": {
+            "nameEn": "Dunkolawatta Post Office",
+            "nameSi": "දුන්කොලවත්ත තැපැල් කාර්යාලය",
+            "nameTa": "டன்கொலவத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21046"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21048",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WALAWELA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Walawela",
+            "nameSi": "වලවෙල",
+            "nameTa": "வலவெல"
+          },
+          "city": {
+            "nameEn": "Walawela",
+            "nameSi": "වලවෙල",
+            "nameTa": "வலவெல"
+          },
+          "postcode": "21048",
+          "postOffice": {
+            "nameEn": "Walawela Post Office",
+            "nameSi": "වලවෙල තැපැල් කාර්යාලය",
+            "nameTa": "வலவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21048"
+          },
+          "coordinates": {
+            "latitude": 7.5197143,
+            "longitude": 80.5979973
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21051",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDASGIRIYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Udasgiriya",
+            "nameSi": "උඩස්ගිරිය",
+            "nameTa": "உதஸ்கிரிய"
+          },
+          "city": {
+            "nameEn": "Udasgiriya",
+            "nameSi": "උඩස්ගිරිය",
+            "nameTa": "உதஸ்கிரிய"
+          },
+          "postcode": "21051",
+          "postOffice": {
+            "nameEn": "Udasgiriya Post Office",
+            "nameSi": "උඩස්ගිරිය තැපැල් කාර්යාලය",
+            "nameTa": "உதஸ்கிரிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21051"
+          },
+          "coordinates": {
+            "latitude": 7.5351747,
+            "longitude": 80.5702314
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21054",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DULLEWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Dullewa",
+            "nameSi": "දුල්වල",
+            "nameTa": "துல்லேவா"
+          },
+          "city": {
+            "nameEn": "Dullewa",
+            "nameSi": "දුල්වල",
+            "nameTa": "துல்லேவா"
+          },
+          "postcode": "21054",
+          "postOffice": {
+            "nameEn": "Dullewa Post Office",
+            "nameSi": "දුල්වල තැපැල් කාර්යාලය",
+            "nameTa": "துல்லேவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21054"
+          },
+          "coordinates": {
+            "latitude": 7.5144218,
+            "longitude": 80.6007734
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21055",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MELIPITIYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Melipitiya",
+            "nameSi": "මේලිපිටිය",
+            "nameTa": "மெலிபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Melipitiya",
+            "nameSi": "මේලිපිටිය",
+            "nameTa": "மெலிபிட்டிய"
+          },
+          "postcode": "21055",
+          "postOffice": {
+            "nameEn": "Melipitiya Post Office",
+            "nameSi": "මේලිපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "மெலிபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21055"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21056",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Yatawatta",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "YATAWATTA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Yatawatta",
+            "nameSi": "යටවත්ත",
+            "nameTa": "யாதவத்த"
+          },
+          "city": {
+            "nameEn": "Yatawatta",
+            "nameSi": "යටවත්ත",
+            "nameTa": "யாதவத்த"
+          },
+          "postcode": "21056",
+          "postOffice": {
+            "nameEn": "Yatawatta Post Office",
+            "nameSi": "යටවත්ත තැපැල් කාර්යාලය",
+            "nameTa": "யாதவத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21056"
+          },
+          "coordinates": {
+            "latitude": 7.5634826,
+            "longitude": 80.5876794
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21058",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SELAGAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Selagama",
+            "nameSi": "සැලගම",
+            "nameTa": "செலாகம"
+          },
+          "city": {
+            "nameEn": "Selagama",
+            "nameSi": "සැලගම",
+            "nameTa": "செலாகம"
+          },
+          "postcode": "21058",
+          "postOffice": {
+            "nameEn": "Selagama Post Office",
+            "nameSi": "සැලගම තැපැල් කාර්යාලය",
+            "nameTa": "செலாகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21058"
+          },
+          "coordinates": {
+            "latitude": 7.5920469,
+            "longitude": 80.5940497
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21062",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "METIHAKKA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Metihakka",
+            "nameSi": "මැටිහක්ක",
+            "nameTa": "மெதிஹாக்கா"
+          },
+          "city": {
+            "nameEn": "Metihakka",
+            "nameSi": "මැටිහක්ක",
+            "nameTa": "மெதிஹாக்கா"
+          },
+          "postcode": "21062",
+          "postOffice": {
+            "nameEn": "Metihakka Post Office",
+            "nameSi": "මැටිහක්ක තැපැල් කාර්යාලය",
+            "nameTa": "மெதிஹாக்கா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21062"
+          },
+          "coordinates": {
+            "latitude": 7.5400973,
+            "longitude": 80.6532201
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21064",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IMBULGOLLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Imbulgolla",
+            "nameSi": "ඉඹුල්ගොල්ල",
+            "nameTa": "இம்புல்கொல்ல"
+          },
+          "city": {
+            "nameEn": "Imbulgolla",
+            "nameSi": "ඉඹුල්ගොල්ල",
+            "nameTa": "இம்புல்கொல்ல"
+          },
+          "postcode": "21064",
+          "postOffice": {
+            "nameEn": "Imbulgolla Post Office",
+            "nameSi": "ඉඹුල්ගොල්ල තැපැල් කාර්යාලය",
+            "nameTa": "இம்புல்கொல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21064"
+          },
+          "coordinates": {
+            "latitude": 7.5668121,
+            "longitude": 80.6669211
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21066",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAIKAWALA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kaikawala",
+            "nameSi": "කයිකාවල",
+            "nameTa": "கைகாவாலா"
+          },
+          "city": {
+            "nameEn": "Kaikawala",
+            "nameSi": "කයිකාවල",
+            "nameTa": "கைகாவாலா"
+          },
+          "postcode": "21066",
+          "postOffice": {
+            "nameEn": "Kaikawala Post Office",
+            "nameSi": "කයිකාවල තැපැල් කාර්යාලය",
+            "nameTa": "கைகாவாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21066"
+          },
+          "coordinates": {
+            "latitude": 7.5076989,
+            "longitude": 80.6618234
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21068",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GAMMADUWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Gammaduwa",
+            "nameSi": "ගම්මඩුව",
+            "nameTa": "கம்மதுவ"
+          },
+          "city": {
+            "nameEn": "Gammaduwa",
+            "nameSi": "ගම්මඩුව",
+            "nameTa": "கம்மதுவ"
+          },
+          "postcode": "21068",
+          "postOffice": {
+            "nameEn": "Gammaduwa Post Office",
+            "nameSi": "ගම්මඩුව තැපැල් කාර්යාලය",
+            "nameTa": "கம்மதுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21068"
+          },
+          "coordinates": {
+            "latitude": 7.5702262,
+            "longitude": 80.6970969
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21072",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAVUDUPELELLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kavudupelella",
+            "nameSi": "කවුඩුපැලැල්ල",
+            "nameTa": "கவுடுபெலல்ல"
+          },
+          "city": {
+            "nameEn": "Kavudupelella",
+            "nameSi": "කවුඩුපැලැල්ල",
+            "nameTa": "கவுடுபெலல்ல"
+          },
+          "postcode": "21072",
+          "postOffice": {
+            "nameEn": "Kavudupelella Post Office",
+            "nameSi": "කවුඩුපැලැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "கவுடுபெலல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21072"
+          },
+          "coordinates": {
+            "latitude": 7.5802077,
+            "longitude": 80.6265808
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21076",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "OPALGALA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Opalgala",
+            "nameSi": "ඕපල්ගල",
+            "nameTa": "ஓபல்கல"
+          },
+          "city": {
+            "nameEn": "Opalgala",
+            "nameSi": "ඕපල්ගල",
+            "nameTa": "ஓபல்கல"
+          },
+          "postcode": "21076",
+          "postOffice": {
+            "nameEn": "Opalgala Post Office",
+            "nameSi": "ඕපල්ගල තැපැල් කාර්යාලය",
+            "nameTa": "ஓபல்கல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21076"
+          },
+          "coordinates": {
+            "latitude": 7.6248986,
+            "longitude": 80.6937177
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21082",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NALANDA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Nalanda",
+            "nameSi": "නාලන්ද",
+            "nameTa": "நாளந்தா"
+          },
+          "city": {
+            "nameEn": "Nalanda",
+            "nameSi": "නාලන්ද",
+            "nameTa": "நாளந்தா"
+          },
+          "postcode": "21082",
+          "postOffice": {
+            "nameEn": "Nalanda Post Office",
+            "nameSi": "නාලන්ද තැපැල් කාර්යාලය",
+            "nameTa": "நாளந்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21082"
+          },
+          "coordinates": {
+            "latitude": 7.6697486,
+            "longitude": 80.645856
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21090",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Naula",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "NAULA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Naula",
+            "nameSi": "නාඋල",
+            "nameTa": "நாவுலா"
+          },
+          "city": {
+            "nameEn": "Naula",
+            "nameSi": "නාඋල",
+            "nameTa": "நாவுலா"
+          },
+          "postcode": "21090",
+          "postOffice": {
+            "nameEn": "Naula Post Office",
+            "nameSi": "නාඋල තැපැල් කාර්යාලය",
+            "nameTa": "நாவுலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21090"
+          },
+          "coordinates": {
+            "latitude": 7.7071493,
+            "longitude": 80.6521139
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21094",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LENADORA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Lenadora",
+            "nameSi": "ලෙනදොර",
+            "nameTa": "லெனடோரா"
+          },
+          "city": {
+            "nameEn": "Lenadora",
+            "nameSi": "ලෙනදොර",
+            "nameTa": "லெனடோரா"
+          },
+          "postcode": "21094",
+          "postOffice": {
+            "nameEn": "Lenadora Post Office",
+            "nameSi": "ලෙනදොර තැපැල් කාර්යාලය",
+            "nameTa": "லெனடோரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21094"
+          },
+          "coordinates": {
+            "latitude": 7.7555173,
+            "longitude": 80.66165
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Dambulla",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "DAMBULLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Dambulla",
+            "nameSi": "දඹුල්ල",
+            "nameTa": "தம்புள்ள"
+          },
+          "city": {
+            "nameEn": "Dambulla",
+            "nameSi": "දඹුල්ල",
+            "nameTa": "தம்புள்ள"
+          },
+          "postcode": "21100",
+          "postOffice": {
+            "nameEn": "Dambulla Post Office",
+            "nameSi": "දඹුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "தம்புள்ள தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21100"
+          },
+          "coordinates": {
+            "latitude": 7.874217,
+            "longitude": 80.6511287
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21106",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANDALAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kandalama",
+            "nameSi": "කන්ඩලම",
+            "nameTa": "கண்டலமா"
+          },
+          "city": {
+            "nameEn": "Kandalama",
+            "nameSi": "කන්ඩලම",
+            "nameTa": "கண்டலமா"
+          },
+          "postcode": "21106",
+          "postOffice": {
+            "nameEn": "Kandalama Post Office",
+            "nameSi": "කන්ඩලම තැපැල් කාර්යාලය",
+            "nameTa": "கண்டலமா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21106"
+          },
+          "coordinates": {
+            "latitude": 7.8884985,
+            "longitude": 80.7103532
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ERAWULA JUNCTION",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Erawula Junction",
+            "nameSi": "එරවුල හන්දිය",
+            "nameTa": "எராவுலா சந்தி"
+          },
+          "city": {
+            "nameEn": "Erawula Junction",
+            "nameSi": "එරවුල හන්දිය",
+            "nameTa": "எராவுலா சந்தி"
+          },
+          "postcode": "21108",
+          "postOffice": {
+            "nameEn": "Erawula Junction Post Office",
+            "nameSi": "එරවුල හන්දිය තැපැල් කාර්යාලය",
+            "nameTa": "எராவுலா சந்தி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21108"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21112",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALUNDAWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kalundawa",
+            "nameSi": "කලන්දූව",
+            "nameTa": "கலுந்தவா"
+          },
+          "city": {
+            "nameEn": "Kalundawa",
+            "nameSi": "කලන්දූව",
+            "nameTa": "கலுந்தவா"
+          },
+          "postcode": "21112",
+          "postOffice": {
+            "nameEn": "Kalundawa Post Office",
+            "nameSi": "කලන්දූව තැපැල් කාර්යාලය",
+            "nameTa": "கலுந்தவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21112"
+          },
+          "coordinates": {
+            "latitude": 7.8033546,
+            "longitude": 80.6696034
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21114",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEWALAWEWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Wewalawewa",
+            "nameSi": "වේවැලවැව",
+            "nameTa": "வெவலவெவ"
+          },
+          "city": {
+            "nameEn": "Wewalawewa",
+            "nameSi": "වේවැලවැව",
+            "nameTa": "வெவலவெவ"
+          },
+          "postcode": "21114",
+          "postOffice": {
+            "nameEn": "Wewalawewa Post Office",
+            "nameSi": "වේවැලවැව තැපැල් කාර්යාලය",
+            "nameTa": "வெவலவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21114"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21116",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALAKIRIYAGAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Talakiriyagama",
+            "nameSi": "තලකිරියාගම",
+            "nameTa": "தலகிரியாகம"
+          },
+          "city": {
+            "nameEn": "Talakiriyagama",
+            "nameSi": "තලකිරියාගම",
+            "nameTa": "தலகிரியாகம"
+          },
+          "postcode": "21116",
+          "postOffice": {
+            "nameEn": "Talakiriyagama Post Office",
+            "nameSi": "තලකිරියාගම තැපැල් කාර්යාලය",
+            "nameTa": "தலகிரியாகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21116"
+          },
+          "coordinates": {
+            "latitude": 7.8253167,
+            "longitude": 80.6208972
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21120",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SIGIRIYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Sigiriya",
+            "nameSi": "සීගිරිය",
+            "nameTa": "சிகிரியா"
+          },
+          "city": {
+            "nameEn": "Sigiriya",
+            "nameSi": "සීගිරිය",
+            "nameTa": "சிகிரியா"
+          },
+          "postcode": "21120",
+          "postOffice": {
+            "nameEn": "Sigiriya Post Office",
+            "nameSi": "සීගිරිය තැපැල් කාර්යාලය",
+            "nameTa": "சிகிரியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21120"
+          },
+          "coordinates": {
+            "latitude": 7.9541085,
+            "longitude": 80.754698
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21122",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIBISSA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kibissa",
+            "nameSi": "කිඹිස්ස",
+            "nameTa": "கிபிஸ்ஸா"
+          },
+          "city": {
+            "nameEn": "Kibissa",
+            "nameSi": "කිඹිස්ස",
+            "nameTa": "கிபிஸ்ஸா"
+          },
+          "postcode": "21122",
+          "postOffice": {
+            "nameEn": "Kibissa Post Office",
+            "nameSi": "කිඹිස්ස තැපැල් කාර්යාලය",
+            "nameTa": "கிபிஸ்ஸா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21122"
+          },
+          "coordinates": {
+            "latitude": 7.9373285,
+            "longitude": 80.7269854
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21124",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "INAMALUWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Inamaluwa",
+            "nameSi": "ඉනාමලුව",
+            "nameTa": "இனாமாலுவ"
+          },
+          "city": {
+            "nameEn": "Inamaluwa",
+            "nameSi": "ඉනාමලුව",
+            "nameTa": "இனாமாலுவ"
+          },
+          "postcode": "21124",
+          "postOffice": {
+            "nameEn": "Inamaluwa Post Office",
+            "nameSi": "ඉනාමලුව තැපැල් කාර්යාලය",
+            "nameTa": "இனாமாலுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21124"
+          },
+          "coordinates": {
+            "latitude": 7.9242499,
+            "longitude": 80.6840121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21140",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAHAWELA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Mahawela",
+            "nameSi": "මහවෙල",
+            "nameTa": "மஹவெல"
+          },
+          "city": {
+            "nameEn": "Mahawela",
+            "nameSi": "මහවෙල",
+            "nameTa": "மஹவெல"
+          },
+          "postcode": "21140",
+          "postOffice": {
+            "nameEn": "Mahawela Post Office",
+            "nameSi": "මහවෙල තැපැල් කාර්යාලය",
+            "nameTa": "மஹவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21140"
+          },
+          "coordinates": {
+            "latitude": 7.5801417,
+            "longitude": 80.6113806
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21142",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AKURAMBODA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Akuramboda",
+            "nameSi": "අකුරම්බොඩ",
+            "nameTa": "அகுரம்பொட"
+          },
+          "city": {
+            "nameEn": "Akuramboda",
+            "nameSi": "අකුරම්බොඩ",
+            "nameTa": "அகுரம்பொட"
+          },
+          "postcode": "21142",
+          "postOffice": {
+            "nameEn": "Akuramboda Post Office",
+            "nameSi": "අකුරම්බොඩ තැපැල් කාර්යාලය",
+            "nameTa": "அகுரம்பொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21142"
+          },
+          "coordinates": {
+            "latitude": 7.65,
+            "longitude": 80.6
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21144",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANANWATTA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Mananwatta",
+            "nameSi": "මානවත්ත",
+            "nameTa": "மனன்வத்த"
+          },
+          "city": {
+            "nameEn": "Mananwatta",
+            "nameSi": "මානවත්ත",
+            "nameTa": "மனன்வத்த"
+          },
+          "postcode": "21144",
+          "postOffice": {
+            "nameEn": "Mananwatta Post Office",
+            "nameSi": "මානවත්ත තැපැල් කාර්යාලය",
+            "nameTa": "மனன்வத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21144"
+          },
+          "coordinates": {
+            "latitude": 7.6845891,
+            "longitude": 80.6021614
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21152",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Pallepola",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "PALLEPOLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Pallepola",
+            "nameSi": "පල්ලේපො",
+            "nameTa": "பல்லேபொல"
+          },
+          "city": {
+            "nameEn": "Pallepola",
+            "nameSi": "පල්ලේපො",
+            "nameTa": "பல்லேபொல"
+          },
+          "postcode": "21152",
+          "postOffice": {
+            "nameEn": "Pallepola Post Office",
+            "nameSi": "පල්ලේපො තැපැල් කාර්යාලය",
+            "nameTa": "பல்லேபொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21152"
+          },
+          "coordinates": {
+            "latitude": 7.6229762,
+            "longitude": 80.6049374
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21154",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MILLAWANA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Millawana",
+            "nameSi": "මිල්ලවාන",
+            "nameTa": "மில்லவானா"
+          },
+          "city": {
+            "nameEn": "Millawana",
+            "nameSi": "මිල්ලවාන",
+            "nameTa": "மில்லவானா"
+          },
+          "postcode": "21154",
+          "postOffice": {
+            "nameEn": "Millawana Post Office",
+            "nameSi": "මිල්ලවාන තැපැල් කාර්යාලය",
+            "nameTa": "மில்லவானா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21154"
+          },
+          "coordinates": {
+            "latitude": 7.6499106,
+            "longitude": 80.5754664
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21156",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MADIPOLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Madipola",
+            "nameSi": "මාඩිපොල",
+            "nameTa": "மடிபோல"
+          },
+          "city": {
+            "nameEn": "Madipola",
+            "nameSi": "මාඩිපොල",
+            "nameTa": "மடிபோல"
+          },
+          "postcode": "21156",
+          "postOffice": {
+            "nameEn": "Madipola Post Office",
+            "nameSi": "මාඩිපොල තැපැල් කාර්යාලය",
+            "nameTa": "மடிபோல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21156"
+          },
+          "coordinates": {
+            "latitude": 7.6761154,
+            "longitude": 80.5827272
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21160",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WAHACOTTE",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Wahacotte",
+            "nameSi": "වහකෝට්ටේ",
+            "nameTa": "வஹாகோட்டே"
+          },
+          "city": {
+            "nameEn": "Wahacotte",
+            "nameSi": "වහකෝට්ටේ",
+            "nameTa": "வஹாகோட்டே"
+          },
+          "postcode": "21160",
+          "postOffice": {
+            "nameEn": "Wahacotte Post Office",
+            "nameSi": "වහකෝට්ටේ තැපැල් කාර්යාලය",
+            "nameTa": "வஹாகோட்டே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21160"
+          },
+          "coordinates": {
+            "latitude": 7.7190437,
+            "longitude": 80.5827272
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Galewela",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "GALEWELA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Galewela",
+            "nameSi": "ගලේවෙල",
+            "nameTa": "கலேவெல"
+          },
+          "city": {
+            "nameEn": "Galewela",
+            "nameSi": "ගලේවෙල",
+            "nameTa": "கலேவெல"
+          },
+          "postcode": "21200",
+          "postOffice": {
+            "nameEn": "Galewela Post Office",
+            "nameSi": "ගලේවෙල තැපැල් කාර්යාලය",
+            "nameTa": "கலேவெல தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21200"
+          },
+          "coordinates": {
+            "latitude": 7.7565045,
+            "longitude": 80.5771737
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21206",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEWAHUWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Dewahuwa",
+            "nameSi": "දේවහුව",
+            "nameTa": "தேவாஹுவ"
+          },
+          "city": {
+            "nameEn": "Dewahuwa",
+            "nameSi": "දේවහුව",
+            "nameTa": "தேவாஹுவ"
+          },
+          "postcode": "21206",
+          "postOffice": {
+            "nameEn": "Dewahuwa Post Office",
+            "nameSi": "දේවහුව තැපැල් කාර්යාලය",
+            "nameTa": "தேவாஹுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21206"
+          },
+          "coordinates": {
+            "latitude": 7.8438612,
+            "longitude": 80.5785621
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21212",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BAMBARAGASWEWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Bambaragaswewa",
+            "nameSi": "බඹරගස්වැව",
+            "nameTa": "பம்பரகஸ்வெவ"
+          },
+          "city": {
+            "nameEn": "Bambaragaswewa",
+            "nameSi": "බඹරගස්වැව",
+            "nameTa": "பம்பரகஸ்வெவ"
+          },
+          "postcode": "21212",
+          "postOffice": {
+            "nameEn": "Bambaragaswewa Post Office",
+            "nameSi": "බඹරගස්වැව තැපැල් කාර්යාලය",
+            "nameTa": "பம்பரகஸ்வெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21212"
+          },
+          "coordinates": {
+            "latitude": 7.7860914,
+            "longitude": 80.5329166
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21214",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BELIGAMUWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Beligamuwa",
+            "nameSi": "බෙලිගමුව",
+            "nameTa": "பெலிகமுவ"
+          },
+          "city": {
+            "nameEn": "Beligamuwa",
+            "nameSi": "බෙලිගමුව",
+            "nameTa": "பெலிகமுவ"
+          },
+          "postcode": "21214",
+          "postOffice": {
+            "nameEn": "Beligamuwa Post Office",
+            "nameSi": "බෙලිගමුව තැපැල් කාර්යාලය",
+            "nameTa": "பெலிகமுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21214"
+          },
+          "coordinates": {
+            "latitude": 7.7273721,
+            "longitude": 80.549748
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Ukuwela",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "UKUWELA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Ukuwela",
+            "nameSi": "උකුවෙල",
+            "nameTa": "உகுவெல"
+          },
+          "city": {
+            "nameEn": "Ukuwela",
+            "nameSi": "උකුවෙල",
+            "nameTa": "உகுவெல"
+          },
+          "postcode": "21300",
+          "postOffice": {
+            "nameEn": "Ukuwela Post Office",
+            "nameSi": "උකුවෙල තැපැල් කාර්යාලය",
+            "nameTa": "உகுவெல தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21300"
+          },
+          "coordinates": {
+            "latitude": 7.4234623,
+            "longitude": 80.6306103
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": {
+            "nameEn": "Rattota",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "RATTOTA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Rattota",
+            "nameSi": "රත්තොට",
+            "nameTa": "ரத்தோட்ட"
+          },
+          "city": {
+            "nameEn": "Rattota",
+            "nameSi": "රත්තොට",
+            "nameTa": "ரத்தோட்ட"
+          },
+          "postcode": "21400",
+          "postOffice": {
+            "nameEn": "Rattota Post Office",
+            "nameSi": "රත්තොට තැපැල් කාර්යාලය",
+            "nameTa": "ரத்தோட்ட தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21400"
+          },
+          "coordinates": {
+            "latitude": 7.517273,
+            "longitude": 80.6715317
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21402",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ETANAWALA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Etanawala",
+            "nameSi": "එතනවල",
+            "nameTa": "எடனாவல"
+          },
+          "city": {
+            "nameEn": "Etanawala",
+            "nameSi": "එතනවල",
+            "nameTa": "எடனாவல"
+          },
+          "postcode": "21402",
+          "postOffice": {
+            "nameEn": "Etanawala Post Office",
+            "nameSi": "එතනවල තැපැල් කාර්යාලය",
+            "nameTa": "எடனாவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21402"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21404",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GANGALA PUWAKPITIYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Gangala Puwakpitiya",
+            "nameSi": "ගන්ගල පුවක්පිටිය",
+            "nameTa": "கங்கலா புவக்பிட்டிய"
+          },
+          "city": {
+            "nameEn": "Gangala Puwakpitiya",
+            "nameSi": "ගන්ගල පුවක්පිටිය",
+            "nameTa": "கங்கலா புவக்பிட்டிய"
+          },
+          "postcode": "21404",
+          "postOffice": {
+            "nameEn": "Gangala Puwakpitiya Post Office",
+            "nameSi": "ගන්ගල පුවක්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "கங்கலா புவக்பிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21404"
+          },
+          "coordinates": {
+            "latitude": 7.5882467,
+            "longitude": 80.7549674
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21406",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ILLUKKUMBURA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Illukkumbura",
+            "nameSi": "ඉලුක්කුඹුර",
+            "nameTa": "இல்லுக்கும்புற"
+          },
+          "city": {
+            "nameEn": "Illukkumbura",
+            "nameSi": "ඉලුක්කුඹුර",
+            "nameTa": "இல்லுக்கும்புற"
+          },
+          "postcode": "21406",
+          "postOffice": {
+            "nameEn": "Illukkumbura Post Office",
+            "nameSi": "ඉලුක්කුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "இல்லுக்கும்புற தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21406"
+          },
+          "coordinates": {
+            "latitude": 7.544131,
+            "longitude": 80.8017877
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21408",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WELANGAHAWATTE",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Welangahawatte",
+            "nameSi": "වෙලංගහවත්ත",
+            "nameTa": "வெலங்கஹவத்த"
+          },
+          "city": {
+            "nameEn": "Welangahawatte",
+            "nameSi": "වෙලංගහවත්ත",
+            "nameTa": "வெலங்கஹவத்த"
+          },
+          "postcode": "21408",
+          "postOffice": {
+            "nameEn": "Welangahawatte Post Office",
+            "nameSi": "වෙලංගහවත්ත තැපැල් කාර්යාලය",
+            "nameTa": "வெலங்கஹவத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21408"
+          },
+          "coordinates": {
+            "latitude": 7.549807,
+            "longitude": 80.7542447
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KONGAHAWELA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Kongahawela",
+            "nameSi": "කෝන්ගහවෙල",
+            "nameTa": "கொன்கஹவெல"
+          },
+          "city": {
+            "nameEn": "Kongahawela",
+            "nameSi": "කෝන්ගහවෙල",
+            "nameTa": "கொன்கஹவெல"
+          },
+          "postcode": "21500",
+          "postOffice": {
+            "nameEn": "Kongahawela Post Office",
+            "nameSi": "කෝන්ගහවෙල තැපැල් කාර්යාලය",
+            "nameTa": "கொன்கஹவெல தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21500"
+          },
+          "coordinates": {
+            "latitude": 7.6897523,
+            "longitude": 80.7158977
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21504",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMBANA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Ambana",
+            "nameSi": "අම්බාන",
+            "nameTa": "அம்பானா"
+          },
+          "city": {
+            "nameEn": "Ambana",
+            "nameSi": "අම්බාන",
+            "nameTa": "அம்பானா"
+          },
+          "postcode": "21504",
+          "postOffice": {
+            "nameEn": "Ambana Post Office",
+            "nameSi": "අම්බාන තැපැල් කාර්යාලය",
+            "nameTa": "அம்பானா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21504"
+          },
+          "coordinates": {
+            "latitude": 7.6476603,
+            "longitude": 80.6923312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21506",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALAGODA JUNCTION",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Talagoda Junction",
+            "nameSi": "තලගොඩ හන්දිය",
+            "nameTa": "தலகொட சந்தி"
+          },
+          "city": {
+            "nameEn": "Talagoda Junction",
+            "nameSi": "තලගොඩ හන්දිය",
+            "nameTa": "தலகொட சந்தி"
+          },
+          "postcode": "21506",
+          "postOffice": {
+            "nameEn": "Talagoda Junction Post Office",
+            "nameSi": "තලගොඩ හන්දිය තැපැල් කාර්යාලය",
+            "nameTa": "தலகொட சந்தி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21506"
+          },
+          "coordinates": {
+            "latitude": 7.7014477,
+            "longitude": 80.7602394
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21512",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ATARAGALLEWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Ataragallewa",
+            "nameSi": "අටරගල්ලෑව",
+            "nameTa": "அதரகல்லேவ"
+          },
+          "city": {
+            "nameEn": "Ataragallewa",
+            "nameSi": "අටරගල්ලෑව",
+            "nameTa": "அதரகல்லேவ"
+          },
+          "postcode": "21512",
+          "postOffice": {
+            "nameEn": "Ataragallewa Post Office",
+            "nameSi": "අටරගල්ලෑව තැපැල් කාර්යාලය",
+            "nameTa": "அதரகல்லேவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21512"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21514",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HATTOTA AMUNA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Hattota Amuna",
+            "nameSi": "හත්තොට අමුණ",
+            "nameTa": "ஹத்தோட்ட அமுன"
+          },
+          "city": {
+            "nameEn": "Hattota Amuna",
+            "nameSi": "හත්තොට අමුණ",
+            "nameTa": "ஹத்தோட்ட அமுன"
+          },
+          "postcode": "21514",
+          "postOffice": {
+            "nameEn": "Hattota Amuna Post Office",
+            "nameSi": "හත්තොට අමුණ තැපැල් කාර්යාලය",
+            "nameTa": "ஹத்தோட்ட அமுன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21514"
+          },
+          "coordinates": {
+            "latitude": 7.6122478,
+            "longitude": 80.8275506
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21520",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LAGGALA PALLEGAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Laggala Pallegama",
+            "nameSi": "ලග්ගල පල්ලේගම",
+            "nameTa": "லக்கல பல்லேகம"
+          },
+          "city": {
+            "nameEn": "Laggala Pallegama",
+            "nameSi": "ලග්ගල පල්ලේගම",
+            "nameTa": "லக்கல பல்லேகம"
+          },
+          "postcode": "21520",
+          "postOffice": {
+            "nameEn": "Laggala Pallegama Post Office",
+            "nameSi": "ලග්ගල පල්ලේගම තැපැල් කාර්යාලය",
+            "nameTa": "லக்கல பல்லேகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21520"
+          },
+          "coordinates": {
+            "latitude": 7.5965337,
+            "longitude": 80.8367834
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21524",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANAMUREGAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Ranamuregama",
+            "nameSi": "රණමුරේගම",
+            "nameTa": "ரணமுரேகம"
+          },
+          "city": {
+            "nameEn": "Ranamuregama",
+            "nameSi": "රණමුරේගම",
+            "nameTa": "ரணமுரேகம"
+          },
+          "postcode": "21524",
+          "postOffice": {
+            "nameEn": "Ranamuregama Post Office",
+            "nameSi": "රණමුරේගම තැපැල් කාර්යාලය",
+            "nameTa": "ரணமுரேகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21524"
+          },
+          "coordinates": {
+            "latitude": 7.5029094,
+            "longitude": 80.833034
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21552",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEVAGIRIYA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Devagiriya",
+            "nameSi": "දේවගිරිය",
+            "nameTa": "தேவகிரிய"
+          },
+          "city": {
+            "nameEn": "Devagiriya",
+            "nameSi": "දේවගිරිය",
+            "nameTa": "தேவகிரிய"
+          },
+          "postcode": "21552",
+          "postOffice": {
+            "nameEn": "Devagiriya Post Office",
+            "nameSi": "දේවගිරිය තැපැල් කාර්යාලය",
+            "nameTa": "தேவகிரிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21552"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "21554",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MARAKA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Maraka",
+            "nameSi": "මාරක",
+            "nameTa": "மரக்கா"
+          },
+          "city": {
+            "nameEn": "Maraka",
+            "nameSi": "මාරක",
+            "nameTa": "மரக்கா"
+          },
+          "postcode": "21554",
+          "postOffice": {
+            "nameEn": "Maraka Post Office",
+            "nameSi": "මාරක තැපැල් කාර්යාලය",
+            "nameTa": "மரக்கா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "21554"
+          },
+          "coordinates": {
+            "latitude": 7.5855372,
+            "longitude": 80.9656181
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32014",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DAMANA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Damana",
+            "nameSi": "දමන",
+            "nameTa": "தமண"
+          },
+          "city": {
+            "nameEn": "Damana",
+            "nameSi": "දමන",
+            "nameTa": "தமண"
+          },
+          "postcode": "32014",
+          "postOffice": {
+            "nameEn": "Damana Post Office",
+            "nameSi": "දමන තැපැල් කාර්යාලය",
+            "nameTa": "தமண தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32014"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "50262",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IHALA HALMILLEWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Ihala Halmillewa",
+            "nameSi": "ඉහළ හල්මිල්ලෑව",
+            "nameTa": "இஹல ஹல்மில்லேவா"
+          },
+          "city": {
+            "nameEn": "Ihala Halmillewa",
+            "nameSi": "ඉහළ හල්මිල්ලෑව",
+            "nameTa": "இஹல ஹல்மில்லேவா"
+          },
+          "postcode": "50262",
+          "postOffice": {
+            "nameEn": "Ihala Halmillewa Post Office",
+            "nameSi": "ඉහළ හල්මිල්ලෑව තැපැල් කාර්යාලය",
+            "nameTa": "இஹல ஹல்மில்லேவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "50262"
+          },
+          "coordinates": {
+            "latitude": 8.1363774,
+            "longitude": 80.3575128
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51050",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PULASTIGAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Pulastigama",
+            "nameSi": "පුලතිසිගම",
+            "nameTa": "புலஸ்திகம"
+          },
+          "city": {
+            "nameEn": "Pulastigama",
+            "nameSi": "පුලතිසිගම",
+            "nameTa": "புலஸ்திகம"
+          },
+          "postcode": "51050",
+          "postOffice": {
+            "nameEn": "Pulastigama Post Office",
+            "nameSi": "පුලතිසිගම තැපැල් කාර්යාලය",
+            "nameTa": "புலஸ்திகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51050"
+          },
+          "coordinates": {
+            "latitude": 8.0421963,
+            "longitude": 81.0809848
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51052",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SUNGAVILA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Sungavila",
+            "nameSi": "සුංගාවිග",
+            "nameTa": "சுங்கவிளை"
+          },
+          "city": {
+            "nameEn": "Sungavila",
+            "nameSi": "සුංගාවිග",
+            "nameTa": "சுங்கவிளை"
+          },
+          "postcode": "51052",
+          "postOffice": {
+            "nameEn": "Sungavila Post Office",
+            "nameSi": "සුංගාවිග තැපැල් කාර්යාලය",
+            "nameTa": "சுங்கவிளை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51052"
+          },
+          "coordinates": {
+            "latitude": 8.0748374,
+            "longitude": 81.0920218
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51089",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TAMANKADUWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Tamankaduwa",
+            "nameSi": "තමන්කඩුව",
+            "nameTa": "தமன்கடுவ"
+          },
+          "city": {
+            "nameEn": "Tamankaduwa",
+            "nameSi": "තමන්කඩුව",
+            "nameTa": "தமன்கடுவ"
+          },
+          "postcode": "51089",
+          "postOffice": {
+            "nameEn": "Tamankaduwa Post Office",
+            "nameSi": "තමන්කඩුව තැපැල් කාර්යාලය",
+            "nameTa": "தமன்கடுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51089"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ARALAGANWILA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Aralaganwila",
+            "nameSi": "අරලගන්විල",
+            "nameTa": "அரலகன்வில"
+          },
+          "city": {
+            "nameEn": "Aralaganwila",
+            "nameSi": "අරලගන්විල",
+            "nameTa": "அரலகன்வில"
+          },
+          "postcode": "51100",
+          "postOffice": {
+            "nameEn": "Aralaganwila Post Office",
+            "nameSi": "අරලගන්විල තැපැල් කාර්යාලය",
+            "nameTa": "அரலகன்வில தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51100"
+          },
+          "coordinates": {
+            "latitude": 7.7827819,
+            "longitude": 81.1845426
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51102",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PIMBURATTEWA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Pimburattewa",
+            "nameSi": "පිඹුරත්තෑව",
+            "nameTa": "பிம்புரத்தேவா"
+          },
+          "city": {
+            "nameEn": "Pimburattewa",
+            "nameSi": "පිඹුරත්තෑව",
+            "nameTa": "பிம்புரத்தேவா"
+          },
+          "postcode": "51102",
+          "postOffice": {
+            "nameEn": "Pimburattewa Post Office",
+            "nameSi": "පිඹුරත්තෑව තැපැල් කාර්යාලය",
+            "nameTa": "பிம்புரத்தேவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51102"
+          },
+          "coordinates": {
+            "latitude": 7.7185503,
+            "longitude": 81.1885293
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51104",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIVULDAMANA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Divuldamana",
+            "nameSi": "දිවුල්දමන",
+            "nameTa": "திவுல்டமான"
+          },
+          "city": {
+            "nameEn": "Divuldamana",
+            "nameSi": "දිවුල්දමන",
+            "nameTa": "திவுல்டமான"
+          },
+          "postcode": "51104",
+          "postOffice": {
+            "nameEn": "Divuldamana Post Office",
+            "nameSi": "දිවුල්දමන තැපැල් කාර්යාලය",
+            "nameTa": "திவுல்டமான தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51104"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51106",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DAMMINNA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Damminna",
+            "nameSi": "දම්මින්න",
+            "nameTa": "டம்மின்னா"
+          },
+          "city": {
+            "nameEn": "Damminna",
+            "nameSi": "දම්මින්න",
+            "nameTa": "டம்மின்னா"
+          },
+          "postcode": "51106",
+          "postOffice": {
+            "nameEn": "Damminna Post Office",
+            "nameSi": "දම්මින්න තැපැල් කාර්යාලය",
+            "nameTa": "டம்மின்னா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51106"
+          },
+          "coordinates": {
+            "latitude": 7.7502371,
+            "longitude": 81.2167377
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MADIPOLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Madipola",
+            "nameSi": "මාදිපොල",
+            "nameTa": "மடிபோல"
+          },
+          "city": {
+            "nameEn": "Madipola",
+            "nameSi": "මාදිපොල",
+            "nameTa": "மடிபோல"
+          },
+          "postcode": "51108",
+          "postOffice": {
+            "nameEn": "Madipola Post Office",
+            "nameSi": "මාදිපොල තැපැල් කාර්යාලය",
+            "nameTa": "மடிபோல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51108"
+          },
+          "coordinates": {
+            "latitude": 7.6761154,
+            "longitude": 80.5827272
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51375",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GALOYA JUNCTION",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Galoya Junction",
+            "nameSi": "ගල්ඔය හන්දිය",
+            "nameTa": "கலோயா சந்தி"
+          },
+          "city": {
+            "nameEn": "Galoya Junction",
+            "nameSi": "ගල්ඔය හන්දිය",
+            "nameTa": "கலோயா சந்தி"
+          },
+          "postcode": "51375",
+          "postOffice": {
+            "nameEn": "Galoya Junction Post Office",
+            "nameSi": "ගල්ඔය හන්දිය තැපැල් කාර්යාලය",
+            "nameTa": "கலோயா சந்தி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51375"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51378",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SINHAGAMA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Sinhagama",
+            "nameSi": "සිංහගම",
+            "nameTa": "சிங்ககம"
+          },
+          "city": {
+            "nameEn": "Sinhagama",
+            "nameSi": "සිංහගම",
+            "nameTa": "சிங்ககம"
+          },
+          "postcode": "51378",
+          "postOffice": {
+            "nameEn": "Sinhagama Post Office",
+            "nameSi": "සිංහගම තැපැල් කාර්යාලය",
+            "nameTa": "சிங்ககம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51378"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "60044",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DELWITE",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Delwite",
+            "nameSi": "දෙල්විටේ",
+            "nameTa": "டெல்வைட்"
+          },
+          "city": {
+            "nameEn": "Delwite",
+            "nameSi": "දෙල්විටේ",
+            "nameTa": "டெல்வைட்"
+          },
+          "postcode": "60044",
+          "postOffice": {
+            "nameEn": "Delwite Post Office",
+            "nameSi": "දෙල්විටේ තැපැල් කාර්යාලය",
+            "nameTa": "டெல்வைட் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "60044"
+          },
+          "coordinates": {
+            "latitude": 7.4709715,
+            "longitude": 80.6230621
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "60045",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IRIYAGOLLA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Iriyagolla",
+            "nameSi": "ඊරියගොල්ල",
+            "nameTa": "இரியகொல்ல"
+          },
+          "city": {
+            "nameEn": "Iriyagolla",
+            "nameSi": "ඊරියගොල්ල",
+            "nameTa": "இரியகொல்ல"
+          },
+          "postcode": "60045",
+          "postOffice": {
+            "nameEn": "Iriyagolla Post Office",
+            "nameSi": "ඊරියගොල්ල තැපැල් කාර්යාලය",
+            "nameTa": "இரியகொல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "60045"
+          },
+          "coordinates": {
+            "latitude": 7.467465,
+            "longitude": 80.6234161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "60047",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Central Province",
+            "nameSi": "මධ්‍යම පළාත",
+            "nameTa": "மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-2",
+            "capital": "Kandy"
+          },
+          "district": {
+            "nameEn": "Matale",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை",
+            "administrativeType": "District",
+            "code": "LK-22"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALAWATUWALA",
+            "nameSi": "මාතලේ",
+            "nameTa": "மாத்தளை"
+          },
+          "locality": {
+            "nameEn": "Alawatuwala",
+            "nameSi": "අලවතුවල",
+            "nameTa": "அலவத்துவல"
+          },
+          "city": {
+            "nameEn": "Alawatuwala",
+            "nameSi": "අලවතුවල",
+            "nameTa": "அலவத்துவல"
+          },
+          "postcode": "60047",
+          "postOffice": {
+            "nameEn": "Alawatuwala Post Office",
+            "nameSi": "අලවතුවල තැපැල් කාර්යාලය",
+            "nameTa": "அலவத்துவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "60047"
+          },
+          "coordinates": {
+            "latitude": 7.4576549,
+            "longitude": 80.6242599
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

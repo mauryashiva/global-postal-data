@@ -1,0 +1,112 @@
+{
+  "code": "35",
+  "nameEn": "East Java",
+  "nameId": "Jawa Timur",
+  "nameNative": "Jawa Timur",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Surabaya",
+  "capitalId": "Kota Surabaya",
+  "zone": "6",
+  "totalRecords": 2,
+  "records": [
+    {
+      "postalCode": "60271",
+      "province": {
+        "code": "35",
+        "nameEn": "East Java",
+        "nameId": "Jawa Timur",
+        "nameNative": "Jawa Timur",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "35.78",
+        "nameId": "Kota Surabaya",
+        "nameEn": "Surabaya",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "35.78.11",
+        "nameId": "Kecamatan Genteng",
+        "nameEn": "Genteng District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "35.78.11.1001",
+        "nameId": "Kelurahan Embong Kaliasin",
+        "nameEn": "Embong Kaliasin",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Balai Kota Surabaya / Tunjungan Plaza",
+        "nameEn": "Surabaya City Hall & Commercial Corridor"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Besar Kebonrojo",
+        "nameEn": "Kebonrojo Surabaya Main Post Office",
+        "code": "60000",
+        "type": "KPRK",
+        "deliveryStatus": "Central Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-35-60271-35.78.11.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "65111",
+      "province": {
+        "code": "35",
+        "nameEn": "East Java",
+        "nameId": "Jawa Timur",
+        "nameNative": "Jawa Timur",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "35.73",
+        "nameId": "Kota Malang",
+        "nameEn": "Malang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "35.73.01",
+        "nameId": "Kecamatan Klojen",
+        "nameEn": "Klojen District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "35.73.01.1001",
+        "nameId": "Kelurahan Kauman",
+        "nameEn": "Kauman",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Alun-alun Kota Malang / Stasiun Kota Baru",
+        "nameEn": "Malang Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Malang",
+        "nameEn": "Malang Main Post Office",
+        "code": "65100",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-35-65111-35.73.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

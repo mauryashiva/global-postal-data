@@ -1,0 +1,63 @@
+{
+  "code": "94",
+  "nameEn": "Central Papua",
+  "nameId": "Papua Tengah",
+  "nameNative": "Papua Tengah",
+  "administrativeType": "Province",
+  "specialStatus": "Special Autonomy (Otonomi Khusus)",
+  "capitalEn": "Nabire",
+  "capitalId": "Kabupaten Nabire",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "98811",
+      "province": {
+        "code": "94",
+        "nameEn": "Central Papua",
+        "nameId": "Papua Tengah",
+        "nameNative": "Papua Tengah",
+        "administrativeType": "Province",
+        "specialStatus": "Special Autonomy (Otonomi Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "94.01",
+        "nameId": "Kabupaten Nabire",
+        "nameEn": "Nabire Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "94.01.01",
+        "nameId": "Kecamatan Nabire",
+        "nameEn": "Nabire District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "94.01.01.1001",
+        "nameId": "Kelurahan Kalibobo",
+        "nameEn": "Kalibobo",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Ibukota Provinsi Papua Tengah / Teluk Cenderawasih",
+        "nameEn": "Nabire Provincial Capital"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Nabire",
+        "nameEn": "Nabire Main Post Office",
+        "code": "98800",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-94-98811-94.01.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

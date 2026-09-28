@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "LS",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "LS1 1UR",
+      "postTown": "LEEDS",
+      "locality": "City Square",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "Yorkshire and the Humber",
+      "ceremonialCounty": "West Yorkshire",
+      "localAuthority": "Leeds City Council",
+      "district": "Leeds",
+      "civilParish": null,
+      "ward": "City & Hunslet",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 53.7968,
+        "longitude": -1.5478,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "LS11UR-01",
+          "buildingName": "Queens Hotel",
+          "buildingNumber": null,
+          "subBuildingName": null,
+          "thoroughfare": "City Square",
+          "postTown": "LEEDS",
+          "postcode": "LS1 1UR",
+          "fullAddressText": "Queens Hotel, City Square, Leeds LS1 1UR"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "LS1 1UR",
+        "outwardCode": "LS1",
+        "inwardCode": "1UR",
+        "postcodeArea": "LS",
+        "postcodeDistrict": "LS1",
+        "postcodeSector": "LS1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-LS1-1UR",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "dataset": "United Kingdom Postcode & Address Dataset",
+  "validatedAt": "2026-09-28T05:47:05.376Z",
+  "status": "PASS",
+  "totalChecks": 11,
+  "passedChecks": 11,
+  "failedChecks": 0,
+  "checks": [
+    {
+      "check": "Country ISO Alpha-2 is GB (not UK)",
+      "passed": true
+    },
+    {
+      "check": "Country ISO Alpha-3 is GBR",
+      "passed": true
+    },
+    {
+      "check": "Country ISO Numeric is 826",
+      "passed": true
+    },
+    {
+      "check": "Phone code is +44",
+      "passed": true
+    },
+    {
+      "check": "Exactly 4 Constituent Countries (England, Scotland, Wales, Northern Ireland)",
+      "passed": true
+    },
+    {
+      "check": "Crown Dependencies strictly separated from UK constituent countries",
+      "passed": true
+    },
+    {
+      "check": "BFPO records preserved and distinguished from physical UK geography",
+      "passed": true
+    },
+    {
+      "check": "Post Town preserved independently from administrative geography",
+      "passed": true
+    },
+    {
+      "check": "All postcodes normalized to uppercase with valid outward and 3-char inward code",
+      "passed": true
+    },
+    {
+      "check": "Multiple addresses preserved without destructive overwrite",
+      "passed": true
+    },
+    {
+      "check": "Dual deployment directories synchronized (data/ and public/data/)",
+      "passed": true
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 40,
+    "totalAddressRecords": 48,
+    "postcodeAreasCount": 24,
+    "poBoxRecords": 1,
+    "largeUserRecords": 32,
+    "bfpoRecords": 3,
+    "crownDependencyRecords": 3,
+    "recordsByConstituentCountry": {
+      "England": 23,
+      "Scotland": 5,
+      "Wales": 3,
+      "Northern Ireland": 3,
+      "Crown Dependencies": 3,
+      "BFPO": 3
+    }
+  }
+}

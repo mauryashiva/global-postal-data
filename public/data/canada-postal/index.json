@@ -1,0 +1,830 @@
+{
+  "country": {
+    "nameEn": "Canada",
+    "nameFr": "Canada",
+    "isoAlpha2": "CA",
+    "isoAlpha3": "CAN",
+    "isoNumeric": "124",
+    "phoneCode": "+1",
+    "flag": "🇨🇦"
+  },
+  "postalCode": {
+    "type": "alphanumeric",
+    "length": 6,
+    "displayFormat": "ANA NAN",
+    "normalizedFormat": "ANANAN",
+    "regex": "^[ABCEGHJ-NPRSTVXY][0-9][A-CEGHJ-NPR-TV-Z][0-9][A-CEGHJ-NPR-TV-Z][0-9]$",
+    "excludedLetters": [
+      "D",
+      "F",
+      "I",
+      "O",
+      "Q",
+      "U"
+    ],
+    "excludedFirstLetters": [
+      "W",
+      "Z"
+    ]
+  },
+  "administrativeSummary": {
+    "provinceCount": 10,
+    "territoryCount": 3,
+    "totalProvinceTerritoryCount": 13,
+    "divisions": [
+      {
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10",
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "category": "province",
+        "partitionFile": "provinces/newfoundland-and-labrador.json"
+      },
+      {
+        "code": "PE",
+        "isoCode": "CA-PE",
+        "sgcCode": "11",
+        "nameEn": "Prince Edward Island",
+        "nameFr": "Île-du-Prince-Édouard",
+        "category": "province",
+        "partitionFile": "provinces/prince-edward-island.json"
+      },
+      {
+        "code": "NS",
+        "isoCode": "CA-NS",
+        "sgcCode": "12",
+        "nameEn": "Nova Scotia",
+        "nameFr": "Nouvelle-Écosse",
+        "category": "province",
+        "partitionFile": "provinces/nova-scotia.json"
+      },
+      {
+        "code": "NB",
+        "isoCode": "CA-NB",
+        "sgcCode": "13",
+        "nameEn": "New Brunswick",
+        "nameFr": "Nouveau-Brunswick",
+        "category": "province",
+        "partitionFile": "provinces/new-brunswick.json"
+      },
+      {
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24",
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "category": "province",
+        "partitionFile": "provinces/quebec.json"
+      },
+      {
+        "code": "ON",
+        "isoCode": "CA-ON",
+        "sgcCode": "35",
+        "nameEn": "Ontario",
+        "nameFr": "Ontario",
+        "category": "province",
+        "partitionFile": "provinces/ontario.json"
+      },
+      {
+        "code": "MB",
+        "isoCode": "CA-MB",
+        "sgcCode": "46",
+        "nameEn": "Manitoba",
+        "nameFr": "Manitoba",
+        "category": "province",
+        "partitionFile": "provinces/manitoba.json"
+      },
+      {
+        "code": "SK",
+        "isoCode": "CA-SK",
+        "sgcCode": "47",
+        "nameEn": "Saskatchewan",
+        "nameFr": "Saskatchewan",
+        "category": "province",
+        "partitionFile": "provinces/saskatchewan.json"
+      },
+      {
+        "code": "AB",
+        "isoCode": "CA-AB",
+        "sgcCode": "48",
+        "nameEn": "Alberta",
+        "nameFr": "Alberta",
+        "category": "province",
+        "partitionFile": "provinces/alberta.json"
+      },
+      {
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59",
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "category": "province",
+        "partitionFile": "provinces/british-columbia.json"
+      },
+      {
+        "code": "YT",
+        "isoCode": "CA-YT",
+        "sgcCode": "60",
+        "nameEn": "Yukon",
+        "nameFr": "Yukon",
+        "category": "territory",
+        "partitionFile": "territories/yukon.json"
+      },
+      {
+        "code": "NT",
+        "isoCode": "CA-NT",
+        "sgcCode": "61",
+        "nameEn": "Northwest Territories",
+        "nameFr": "Territoires du Nord-Ouest",
+        "category": "territory",
+        "partitionFile": "territories/northwest-territories.json"
+      },
+      {
+        "code": "NU",
+        "isoCode": "CA-NU",
+        "sgcCode": "62",
+        "nameEn": "Nunavut",
+        "nameFr": "Nunavut",
+        "category": "territory",
+        "partitionFile": "territories/nunavut.json"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Canada Post Corporation (Société canadienne des postes)",
+      "url": "https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/postal-codes.page",
+      "retrievedAt": "2026-09-28T13:00:00Z",
+      "sourceUpdatedAt": "2026-06-15T00:00:00Z",
+      "version": "2026.2",
+      "license": "Canada Post Postal Code Addressing Data & Delivery Specifications",
+      "role": "Primary authority for postal code structure, FSA, LDU, and delivery classification"
+    },
+    {
+      "name": "Statistics Canada (Statistique Canada)",
+      "url": "https://www.statcan.gc.ca/en/subjects/standard/sgc/2021/index",
+      "retrievedAt": "2026-09-28T13:00:00Z",
+      "sourceUpdatedAt": "2026-01-20T00:00:00Z",
+      "version": "SGC 2021 Version 1.0",
+      "license": "Statistics Canada Open Licence Agreement",
+      "role": "Primary authority for Standard Geographical Classification, Provinces, Census Divisions, and Census Subdivisions"
+    }
+  ],
+  "statistics": {
+    "uniquePostalCodes": 80,
+    "totalRecords": 82,
+    "fsaCount": 63,
+    "postalBoxRecords": 7,
+    "ruralRouteRecords": 13,
+    "generalDeliveryRecords": 6
+  },
+  "version": {
+    "datasetVersion": "2026.1.0",
+    "generatedAt": "2026-09-28T07:36:01.012Z",
+    "sourceRetrievedAt": "2026-09-28T13:00:00Z",
+    "sourceUpdatedAt": "2026-06-15T00:00:00Z"
+  },
+  "postcodeMap": {
+    "A1A1A1": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A1A",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "St. John's",
+      "isUrban": true
+    },
+    "A1C5T7": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A1C",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "St. John's",
+      "isUrban": true
+    },
+    "A1N1A1": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A1N",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "Mount Pearl",
+      "isUrban": true
+    },
+    "A2H6J8": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A2H",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "Corner Brook",
+      "isUrban": true
+    },
+    "A2A1A1": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A2A",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "Grand Falls-Windsor",
+      "isUrban": true
+    },
+    "A0A1A0": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A0A",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "Bay Bulls",
+      "isUrban": false
+    },
+    "A0P1E0": {
+      "file": "provinces/newfoundland-and-labrador.json",
+      "fsa": "A0P",
+      "provinceCode": "NL",
+      "provinceNameEn": "Newfoundland and Labrador",
+      "postalCity": "Happy Valley-Goose Bay",
+      "isUrban": false
+    },
+    "C1A1A1": {
+      "file": "provinces/prince-edward-island.json",
+      "fsa": "C1A",
+      "provinceCode": "PE",
+      "provinceNameEn": "Prince Edward Island",
+      "postalCity": "Charlottetown",
+      "isUrban": true
+    },
+    "C1A4P3": {
+      "file": "provinces/prince-edward-island.json",
+      "fsa": "C1A",
+      "provinceCode": "PE",
+      "provinceNameEn": "Prince Edward Island",
+      "postalCity": "Charlottetown",
+      "isUrban": true
+    },
+    "C1N1C4": {
+      "file": "provinces/prince-edward-island.json",
+      "fsa": "C1N",
+      "provinceCode": "PE",
+      "provinceNameEn": "Prince Edward Island",
+      "postalCity": "Summerside",
+      "isUrban": true
+    },
+    "C0A1B0": {
+      "file": "provinces/prince-edward-island.json",
+      "fsa": "C0A",
+      "provinceCode": "PE",
+      "provinceNameEn": "Prince Edward Island",
+      "postalCity": "Breadalbane",
+      "isUrban": false
+    },
+    "C0A1R0": {
+      "file": "provinces/prince-edward-island.json",
+      "fsa": "C0A",
+      "provinceCode": "PE",
+      "provinceNameEn": "Prince Edward Island",
+      "postalCity": "Montague",
+      "isUrban": false
+    },
+    "B3J1A1": {
+      "file": "provinces/nova-scotia.json",
+      "fsa": "B3J",
+      "provinceCode": "NS",
+      "provinceNameEn": "Nova Scotia",
+      "postalCity": "Halifax",
+      "isUrban": true
+    },
+    "B3J2H5": {
+      "file": "provinces/nova-scotia.json",
+      "fsa": "B3J",
+      "provinceCode": "NS",
+      "provinceNameEn": "Nova Scotia",
+      "postalCity": "Halifax",
+      "isUrban": true
+    },
+    "B3K5X5": {
+      "file": "provinces/nova-scotia.json",
+      "fsa": "B3K",
+      "provinceCode": "NS",
+      "provinceNameEn": "Nova Scotia",
+      "postalCity": "Halifax",
+      "isUrban": true
+    },
+    "B2Y1A1": {
+      "file": "provinces/nova-scotia.json",
+      "fsa": "B2Y",
+      "provinceCode": "NS",
+      "provinceNameEn": "Nova Scotia",
+      "postalCity": "Dartmouth",
+      "isUrban": true
+    },
+    "B1P5E2": {
+      "file": "provinces/nova-scotia.json",
+      "fsa": "B1P",
+      "provinceCode": "NS",
+      "provinceNameEn": "Nova Scotia",
+      "postalCity": "Sydney",
+      "isUrban": true
+    },
+    "B0J1T0": {
+      "file": "provinces/nova-scotia.json",
+      "fsa": "B0J",
+      "provinceCode": "NS",
+      "provinceNameEn": "Nova Scotia",
+      "postalCity": "Hubbards",
+      "isUrban": false
+    },
+    "E1C1A1": {
+      "file": "provinces/new-brunswick.json",
+      "fsa": "E1C",
+      "provinceCode": "NB",
+      "provinceNameEn": "New Brunswick",
+      "postalCity": "Moncton",
+      "isUrban": true
+    },
+    "E3B1B7": {
+      "file": "provinces/new-brunswick.json",
+      "fsa": "E3B",
+      "provinceCode": "NB",
+      "provinceNameEn": "New Brunswick",
+      "postalCity": "Fredericton",
+      "isUrban": true
+    },
+    "E2L1E8": {
+      "file": "provinces/new-brunswick.json",
+      "fsa": "E2L",
+      "provinceCode": "NB",
+      "provinceNameEn": "New Brunswick",
+      "postalCity": "Saint John",
+      "isUrban": true
+    },
+    "E2V4J5": {
+      "file": "provinces/new-brunswick.json",
+      "fsa": "E2V",
+      "provinceCode": "NB",
+      "provinceNameEn": "New Brunswick",
+      "postalCity": "Oromocto",
+      "isUrban": true
+    },
+    "E3V1A1": {
+      "file": "provinces/new-brunswick.json",
+      "fsa": "E3V",
+      "provinceCode": "NB",
+      "provinceNameEn": "New Brunswick",
+      "postalCity": "Edmundston",
+      "isUrban": true
+    },
+    "E0A1L0": {
+      "file": "provinces/new-brunswick.json",
+      "fsa": "E0A",
+      "provinceCode": "NB",
+      "provinceNameEn": "New Brunswick",
+      "postalCity": "Cap-Pelé",
+      "isUrban": false
+    },
+    "H3B2Y5": {
+      "file": "provinces/quebec.json",
+      "fsa": "H3B",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Montréal",
+      "isUrban": true
+    },
+    "H3B1A0": {
+      "file": "provinces/quebec.json",
+      "fsa": "H3B",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Montréal",
+      "isUrban": true
+    },
+    "H3C3A9": {
+      "file": "provinces/quebec.json",
+      "fsa": "H3C",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Montréal",
+      "isUrban": true
+    },
+    "H2Y1A1": {
+      "file": "provinces/quebec.json",
+      "fsa": "H2Y",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Montréal",
+      "isUrban": true
+    },
+    "G1R4P5": {
+      "file": "provinces/quebec.json",
+      "fsa": "G1R",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Québec",
+      "isUrban": true
+    },
+    "G0A4Z0": {
+      "file": "provinces/quebec.json",
+      "fsa": "G0A",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Courcelette",
+      "isUrban": false
+    },
+    "G0A1K0": {
+      "file": "provinces/quebec.json",
+      "fsa": "G0A",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Boischatel",
+      "isUrban": false
+    },
+    "J8Y3Z4": {
+      "file": "provinces/quebec.json",
+      "fsa": "J8Y",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Gatineau",
+      "isUrban": true
+    },
+    "J0A1M0": {
+      "file": "provinces/quebec.json",
+      "fsa": "J0A",
+      "provinceCode": "QC",
+      "provinceNameEn": "Quebec",
+      "postalCity": "Warwick",
+      "isUrban": false
+    },
+    "K1A0B1": {
+      "file": "provinces/ontario.json",
+      "fsa": "K1A",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Ottawa",
+      "isUrban": true
+    },
+    "K1A0A6": {
+      "file": "provinces/ontario.json",
+      "fsa": "K1A",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Ottawa",
+      "isUrban": true
+    },
+    "K1A0A2": {
+      "file": "provinces/ontario.json",
+      "fsa": "K1A",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Ottawa",
+      "isUrban": true
+    },
+    "K1P5A0": {
+      "file": "provinces/ontario.json",
+      "fsa": "K1P",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Ottawa",
+      "isUrban": true
+    },
+    "K8N5W6": {
+      "file": "provinces/ontario.json",
+      "fsa": "K8N",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Astra",
+      "isUrban": true
+    },
+    "M5V3L9": {
+      "file": "provinces/ontario.json",
+      "fsa": "M5V",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Toronto",
+      "isUrban": true
+    },
+    "M5H2N2": {
+      "file": "provinces/ontario.json",
+      "fsa": "M5H",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Toronto",
+      "isUrban": true
+    },
+    "M5W1E6": {
+      "file": "provinces/ontario.json",
+      "fsa": "M5W",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Toronto",
+      "isUrban": true
+    },
+    "L4T1A1": {
+      "file": "provinces/ontario.json",
+      "fsa": "L4T",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Mississauga",
+      "isUrban": true
+    },
+    "K0A1L0": {
+      "file": "provinces/ontario.json",
+      "fsa": "K0A",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Carp",
+      "isUrban": false
+    },
+    "L4H0A1": {
+      "file": "provinces/ontario.json",
+      "fsa": "L4H",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Vaughan",
+      "isUrban": true
+    },
+    "L0A1A0": {
+      "file": "provinces/ontario.json",
+      "fsa": "L0A",
+      "provinceCode": "ON",
+      "provinceNameEn": "Ontario",
+      "postalCity": "Bethany",
+      "isUrban": false
+    },
+    "R3C1A1": {
+      "file": "provinces/manitoba.json",
+      "fsa": "R3C",
+      "provinceCode": "MB",
+      "provinceNameEn": "Manitoba",
+      "postalCity": "Winnipeg",
+      "isUrban": true
+    },
+    "R3C2G1": {
+      "file": "provinces/manitoba.json",
+      "fsa": "R3C",
+      "provinceCode": "MB",
+      "provinceNameEn": "Manitoba",
+      "postalCity": "Winnipeg",
+      "isUrban": true
+    },
+    "R7A1A1": {
+      "file": "provinces/manitoba.json",
+      "fsa": "R7A",
+      "provinceCode": "MB",
+      "provinceNameEn": "Manitoba",
+      "postalCity": "Brandon",
+      "isUrban": true
+    },
+    "R0K0C0": {
+      "file": "provinces/manitoba.json",
+      "fsa": "R0K",
+      "provinceCode": "MB",
+      "provinceNameEn": "Manitoba",
+      "postalCity": "Shilo",
+      "isUrban": false
+    },
+    "R0A0A0": {
+      "file": "provinces/manitoba.json",
+      "fsa": "R0A",
+      "provinceCode": "MB",
+      "provinceNameEn": "Manitoba",
+      "postalCity": "Altona",
+      "isUrban": false
+    },
+    "S4P0A1": {
+      "file": "provinces/saskatchewan.json",
+      "fsa": "S4P",
+      "provinceCode": "SK",
+      "provinceNameEn": "Saskatchewan",
+      "postalCity": "Regina",
+      "isUrban": true
+    },
+    "S7K0H1": {
+      "file": "provinces/saskatchewan.json",
+      "fsa": "S7K",
+      "provinceCode": "SK",
+      "provinceNameEn": "Saskatchewan",
+      "postalCity": "Saskatoon",
+      "isUrban": true
+    },
+    "S6H1A1": {
+      "file": "provinces/saskatchewan.json",
+      "fsa": "S6H",
+      "provinceCode": "SK",
+      "provinceNameEn": "Saskatchewan",
+      "postalCity": "Moose Jaw",
+      "isUrban": true
+    },
+    "S0A0A0": {
+      "file": "provinces/saskatchewan.json",
+      "fsa": "S0A",
+      "provinceCode": "SK",
+      "provinceNameEn": "Saskatchewan",
+      "postalCity": "Archerwill",
+      "isUrban": false
+    },
+    "T2P1J9": {
+      "file": "provinces/alberta.json",
+      "fsa": "T2P",
+      "provinceCode": "AB",
+      "provinceNameEn": "Alberta",
+      "postalCity": "Calgary",
+      "isUrban": true
+    },
+    "T2P2G8": {
+      "file": "provinces/alberta.json",
+      "fsa": "T2P",
+      "provinceCode": "AB",
+      "provinceNameEn": "Alberta",
+      "postalCity": "Calgary",
+      "isUrban": true
+    },
+    "T5J0N3": {
+      "file": "provinces/alberta.json",
+      "fsa": "T5J",
+      "provinceCode": "AB",
+      "provinceNameEn": "Alberta",
+      "postalCity": "Edmonton",
+      "isUrban": true
+    },
+    "T0A0A5": {
+      "file": "provinces/alberta.json",
+      "fsa": "T0A",
+      "provinceCode": "AB",
+      "provinceNameEn": "Alberta",
+      "postalCity": "Cold Lake",
+      "isUrban": false
+    },
+    "T0A0A0": {
+      "file": "provinces/alberta.json",
+      "fsa": "T0A",
+      "provinceCode": "AB",
+      "provinceNameEn": "Alberta",
+      "postalCity": "Ardmore",
+      "isUrban": false
+    },
+    "V6B1A1": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V6B",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Vancouver",
+      "isUrban": true
+    },
+    "V6B1A0": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V6B",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Vancouver",
+      "isUrban": true
+    },
+    "V6B3P7": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V6B",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Vancouver",
+      "isUrban": true
+    },
+    "V8W1P5": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V8W",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Victoria",
+      "isUrban": true
+    },
+    "V9A7N2": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V9A",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Victoria",
+      "isUrban": true
+    },
+    "V1Y1A1": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V1Y",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Kelowna",
+      "isUrban": true
+    },
+    "V0A1A0": {
+      "file": "provinces/british-columbia.json",
+      "fsa": "V0A",
+      "provinceCode": "BC",
+      "provinceNameEn": "British Columbia",
+      "postalCity": "Athalmer",
+      "isUrban": false
+    },
+    "Y1A2B0": {
+      "file": "territories/yukon.json",
+      "fsa": "Y1A",
+      "provinceCode": "YT",
+      "provinceNameEn": "Yukon",
+      "postalCity": "Whitehorse",
+      "isUrban": true
+    },
+    "Y1A1A1": {
+      "file": "territories/yukon.json",
+      "fsa": "Y1A",
+      "provinceCode": "YT",
+      "provinceNameEn": "Yukon",
+      "postalCity": "Whitehorse",
+      "isUrban": true
+    },
+    "Y1A1A0": {
+      "file": "territories/yukon.json",
+      "fsa": "Y1A",
+      "provinceCode": "YT",
+      "provinceNameEn": "Yukon",
+      "postalCity": "Whitehorse",
+      "isUrban": true
+    },
+    "Y0A1C0": {
+      "file": "territories/yukon.json",
+      "fsa": "Y0A",
+      "provinceCode": "YT",
+      "provinceNameEn": "Yukon",
+      "postalCity": "Carcross",
+      "isUrban": false
+    },
+    "Y0B1G0": {
+      "file": "territories/yukon.json",
+      "fsa": "Y0B",
+      "provinceCode": "YT",
+      "provinceNameEn": "Yukon",
+      "postalCity": "Dawson City",
+      "isUrban": false
+    },
+    "X1A1A1": {
+      "file": "territories/northwest-territories.json",
+      "fsa": "X1A",
+      "provinceCode": "NT",
+      "provinceNameEn": "Northwest Territories",
+      "postalCity": "Yellowknife",
+      "isUrban": true
+    },
+    "X1A2L9": {
+      "file": "territories/northwest-territories.json",
+      "fsa": "X1A",
+      "provinceCode": "NT",
+      "provinceNameEn": "Northwest Territories",
+      "postalCity": "Yellowknife",
+      "isUrban": true
+    },
+    "X1A1A0": {
+      "file": "territories/northwest-territories.json",
+      "fsa": "X1A",
+      "provinceCode": "NT",
+      "provinceNameEn": "Northwest Territories",
+      "postalCity": "Yellowknife",
+      "isUrban": true
+    },
+    "X0E0T0": {
+      "file": "territories/northwest-territories.json",
+      "fsa": "X0E",
+      "provinceCode": "NT",
+      "provinceNameEn": "Northwest Territories",
+      "postalCity": "Fort Simpson",
+      "isUrban": false
+    },
+    "X0G0A0": {
+      "file": "territories/northwest-territories.json",
+      "fsa": "X0G",
+      "provinceCode": "NT",
+      "provinceNameEn": "Northwest Territories",
+      "postalCity": "Fort Liard",
+      "isUrban": false
+    },
+    "X0A0H0": {
+      "file": "territories/nunavut.json",
+      "fsa": "X0A",
+      "provinceCode": "NU",
+      "provinceNameEn": "Nunavut",
+      "postalCity": "Iqaluit",
+      "isUrban": false
+    },
+    "X0A0A0": {
+      "file": "territories/nunavut.json",
+      "fsa": "X0A",
+      "provinceCode": "NU",
+      "provinceNameEn": "Nunavut",
+      "postalCity": "Iqaluit",
+      "isUrban": false
+    },
+    "X0B0C0": {
+      "file": "territories/nunavut.json",
+      "fsa": "X0B",
+      "provinceCode": "NU",
+      "provinceNameEn": "Nunavut",
+      "postalCity": "Cambridge Bay",
+      "isUrban": false
+    },
+    "X0C0G0": {
+      "file": "territories/nunavut.json",
+      "fsa": "X0C",
+      "provinceCode": "NU",
+      "provinceNameEn": "Nunavut",
+      "postalCity": "Rankin Inlet",
+      "isUrban": false
+    }
+  }
+}

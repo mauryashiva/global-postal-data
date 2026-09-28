@@ -1,0 +1,40 @@
+{
+  "prefix": "790",
+  "records": [
+    {
+      "postalCode": "7900000",
+      "postalCodeFormatted": "790-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "38",
+      "prefectureNameEn": "Ehime",
+      "prefectureNameJa": "愛媛県",
+      "prefectureNameKana": "エヒメケン",
+      "prefectureNameRomaji": "Ehime-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "38201",
+        "nameEn": "Matsuyama",
+        "nameJa": "松山市",
+        "nameKana": "エヒメシ",
+        "nameRomaji": "Ehime-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Ehime Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

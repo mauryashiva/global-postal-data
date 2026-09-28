@@ -1,0 +1,507 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Giza",
+    "nameNative": "الجيزة",
+    "isoCode": "EG-GZ",
+    "postalPrefix": "12",
+    "capital": "Giza",
+    "capitalNative": "الجيزة",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.0131,
+      "longitude": 31.2089
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 10,
+    "totalRecords": 10,
+    "totalPostOffices": 10,
+    "totalLocalities": 43
+  },
+  "records": [
+    {
+      "postalCode": "12511",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Giza",
+        "nameNative": "قسم الجيزة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Murad Street",
+        "nameNative": "شارع مراد",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Giza First Post Office (Murad)",
+        "nameNative": "مكتب بريد الجيزة أول (مراد)",
+        "type": "Main Post Office",
+        "code": "12511"
+      },
+      "areas": [
+        "10 Murad Street",
+        "Giza Square",
+        "Saad Zaghloul Park",
+        "Orman Gardens Area",
+        "Nile Corniche Giza"
+      ],
+      "coordinates": {
+        "latitude": 30.0131,
+        "longitude": 31.2089
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12513",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Giza",
+        "nameNative": "قسم الجيزة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Sanadily Street",
+        "nameNative": "شارع الصناديلي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Giza Second Post Office (Sanadily)",
+        "nameNative": "مكتب بريد الجيزة ثان (الصناديلي)",
+        "type": "Sub Post Office",
+        "code": "12513"
+      },
+      "areas": [
+        "Sanadily St",
+        "Old Giza Market",
+        "Al Mahata St",
+        "Giza Bridge Approach"
+      ],
+      "coordinates": {
+        "latitude": 30.0089,
+        "longitude": 31.2112
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12513",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12555",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Dokki",
+        "nameNative": "قسم الدقي",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Dokki Square",
+        "nameNative": "ميدان الدقي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Dokki Post Office",
+        "nameNative": "مكتب بريد الدقي",
+        "type": "Sub Post Office",
+        "code": "12555"
+      },
+      "areas": [
+        "Tahrir St Dokki",
+        "Dokki Square",
+        "Mosaddak St",
+        "Iran St",
+        "Ministry of Agriculture Area"
+      ],
+      "coordinates": {
+        "latitude": 30.0389,
+        "longitude": 31.2123
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12555",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12611",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Agouza",
+        "nameNative": "قسم العجوزة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Mohandessin",
+        "nameNative": "المهندسين",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Mohandessin Post Office",
+        "nameNative": "مكتب بريد المهندسين",
+        "type": "Sub Post Office",
+        "code": "12611"
+      },
+      "areas": [
+        "Gamiat El Dowal El Arabiya St",
+        "Sphinx Square",
+        "Shehab St",
+        "Batal Ahmed Abdel Aziz St",
+        "Syria St Giza"
+      ],
+      "coordinates": {
+        "latitude": 30.0567,
+        "longitude": 31.2012
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12613",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Giza",
+        "nameNative": "قسم الجيزة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Bein El Sarayat",
+        "nameNative": "بين السرايات",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Cairo University Post Office",
+        "nameNative": "مكتب بريد جامعة القاهرة",
+        "type": "Sub Post Office",
+        "code": "12613"
+      },
+      "areas": [
+        "Cairo University Campus",
+        "Faculty of Engineering",
+        "Bein El Sarayat",
+        "Tharwat St"
+      ],
+      "coordinates": {
+        "latitude": 30.0278,
+        "longitude": 31.2089
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12613",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12512",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Haram",
+        "nameNative": "قسم الهرم",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Nazlet El Semman / Pyramids",
+        "nameNative": "نزلة السمان / الأهرامات",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Haram Tourist Post Office",
+        "nameNative": "مكتب بريد الهرم السياحي",
+        "type": "Sub Post Office",
+        "code": "12512"
+      },
+      "areas": [
+        "End of Pyramids Road",
+        "Giza Plateau Access",
+        "Mena House Area",
+        "Grand Egyptian Museum (GEM) Corridor"
+      ],
+      "coordinates": {
+        "latitude": 29.9867,
+        "longitude": 31.1345
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12512",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12549",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Bolaq El Dakrour",
+        "nameNative": "قسم بولاق الدكرور",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Faisal",
+        "nameNative": "فيصل",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "El Malekah (Faisal) Post Office",
+        "nameNative": "مكتب بريد الملكة (فيصل)",
+        "type": "Sub Post Office",
+        "code": "12549"
+      },
+      "areas": [
+        "Faisal Main St",
+        "Eshrin St",
+        "Nakheel St",
+        "Haram-Faisal Connection"
+      ],
+      "coordinates": {
+        "latitude": 30.0189,
+        "longitude": 31.1823
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12549",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12566",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "6th of October City",
+        "nameNative": "مدينة السادس من أكتوبر",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "6th of October 1",
+        "nameNative": "قسم أول 6 أكتوبر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Central District",
+        "nameNative": "الحي المتميز / المحور المركزي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "6th of October Central Post Office",
+        "nameNative": "مكتب بريد 6 أكتوبر المركزي",
+        "type": "Main Post Office",
+        "code": "12566"
+      },
+      "areas": [
+        "Hosary Mosque Square",
+        "Central Axis",
+        "1st to 4th Districts",
+        "Mall of Arabia Corridor"
+      ],
+      "coordinates": {
+        "latitude": 29.9723,
+        "longitude": 30.9456
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12566",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12577",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Sheikh Zayed City",
+        "nameNative": "مدينة الشيخ زايد",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sheikh Zayed",
+        "nameNative": "قسم الشيخ زايد",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "1st District Sheikh Zayed",
+        "nameNative": "الحي الأول الشيخ زايد",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Sheikh Zayed City Post Office",
+        "nameNative": "مكتب بريد مدينة الشيخ زايد",
+        "type": "Main Post Office",
+        "code": "12577"
+      },
+      "areas": [
+        "Hyper One Corridor",
+        "District 1-16",
+        "Bustan St",
+        "Beverly Hills Axis"
+      ],
+      "coordinates": {
+        "latitude": 30.0489,
+        "longitude": 30.9856
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12577",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "12588",
+      "governorate": {
+        "nameEn": "Giza",
+        "nameNative": "الجيزة",
+        "code": "EG-GZ",
+        "postalPrefix": "12",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Sheikh Zayed / Kerdasa",
+        "nameNative": "القرية الذكية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Smart Village Tech Park",
+        "nameNative": "القرية الذكية",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Technology Park Km 28",
+        "nameNative": "المنطقة التكنولوجية ك 28",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Smart Village Post Office",
+        "nameNative": "مكتب بريد القرية الذكية",
+        "type": "Sub Post Office",
+        "code": "12588"
+      },
+      "areas": [
+        "Alexandria Desert Road Km 28",
+        "Smart Village Towers",
+        "MCIT Campus",
+        "Financial Center"
+      ],
+      "coordinates": {
+        "latitude": 30.0767,
+        "longitude": 31.0212
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GIZA-12588",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "AB",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "AB10 1AQ",
+      "postTown": "ABERDEEN",
+      "locality": "City Centre",
+      "dependentLocality": "Union Street",
+      "constituentCountry": "Scotland",
+      "constituentCountryCode": "GB-SCT",
+      "region": "Scotland",
+      "ceremonialCounty": "City of Aberdeen",
+      "localAuthority": "Aberdeen City Council",
+      "district": "Aberdeen",
+      "civilParish": null,
+      "ward": "George St/Harbour",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 57.1482,
+        "longitude": -2.0963,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "AB101AQ-01",
+          "buildingName": "Town House",
+          "buildingNumber": null,
+          "subBuildingName": "Broad Street Wing",
+          "thoroughfare": "Broad Street",
+          "postTown": "ABERDEEN",
+          "postcode": "AB10 1AQ",
+          "fullAddressText": "Town House, Broad Street, Aberdeen AB10 1AQ"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "AB10 1AQ",
+        "outwardCode": "AB10",
+        "inwardCode": "1AQ",
+        "postcodeArea": "AB",
+        "postcodeDistrict": "AB10",
+        "postcodeSector": "AB10 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-AB10-1AQ",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

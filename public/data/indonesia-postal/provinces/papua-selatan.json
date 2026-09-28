@@ -1,0 +1,63 @@
+{
+  "code": "93",
+  "nameEn": "South Papua",
+  "nameId": "Papua Selatan",
+  "nameNative": "Papua Selatan",
+  "administrativeType": "Province",
+  "specialStatus": "Special Autonomy (Otonomi Khusus)",
+  "capitalEn": "Merauke",
+  "capitalId": "Kabupaten Merauke",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "99611",
+      "province": {
+        "code": "93",
+        "nameEn": "South Papua",
+        "nameId": "Papua Selatan",
+        "nameNative": "Papua Selatan",
+        "administrativeType": "Province",
+        "specialStatus": "Special Autonomy (Otonomi Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "93.01",
+        "nameId": "Kabupaten Merauke",
+        "nameEn": "Merauke Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "93.01.01",
+        "nameId": "Kecamatan Merauke",
+        "nameEn": "Merauke District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "93.01.01.1001",
+        "nameId": "Kelurahan Maro",
+        "nameEn": "Maro",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Merauke / Tugu Titik Nol Sabang-Merauke",
+        "nameEn": "Merauke Eastern Borderland Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Merauke",
+        "nameEn": "Merauke Main Post Office",
+        "code": "99600",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-93-99611-93.01.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

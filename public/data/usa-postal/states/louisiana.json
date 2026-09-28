@@ -1,0 +1,111 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Louisiana",
+    "abbreviation": "LA",
+    "fipsCode": "22",
+    "capital": "Baton Rouge",
+    "largestCity": "New Orleans",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "225",
+      "318",
+      "337",
+      "504",
+      "985"
+    ],
+    "prefixes": [
+      "700",
+      "701",
+      "703",
+      "704",
+      "705",
+      "706",
+      "707",
+      "708",
+      "710",
+      "711",
+      "712",
+      "713",
+      "714"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-LA-70112-0",
+      "zip5": "70112",
+      "zip4": "1001",
+      "zipPlus4": "70112-1001",
+      "state": {
+        "nameEn": "Louisiana",
+        "abbreviation": "LA",
+        "fipsCode": "22",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "New Orleans",
+      "acceptableCities": [
+        "New Orleans"
+      ],
+      "postalCityNames": [
+        {
+          "name": "New Orleans",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Orleans Parish",
+          "fipsCode": "22071",
+          "geoid": "22071"
+        }
+      ],
+      "primaryCounty": "Orleans Parish",
+      "zcta": {
+        "code": "70112"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "New Orleans Main Post Office",
+        "address": "701 Loyola Ave",
+        "phone": "(504) 589-1111",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 29.9511,
+        "longitude": -90.0715,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "225",
+          "318",
+          "337",
+          "504",
+          "985"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 15200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-LA-70112",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

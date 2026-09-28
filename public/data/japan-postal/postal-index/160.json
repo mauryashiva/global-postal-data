@@ -1,0 +1,40 @@
+{
+  "prefix": "160",
+  "records": [
+    {
+      "postalCode": "1600023",
+      "postalCodeFormatted": "160-0023",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13104",
+        "nameEn": "Shinjuku",
+        "nameJa": "新宿区",
+        "nameKana": "シンジュクク",
+        "nameRomaji": "Shinjuku-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Nishishinjuku",
+        "nameJa": "西新宿",
+        "nameKana": "ニシシンジュク",
+        "nameRomaji": "Nishishinjuku",
+        "type": "NormalTownArea",
+        "landmarkEn": "Tokyo Metropolitan Government Building (東京都庁)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

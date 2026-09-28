@@ -1,0 +1,59 @@
+[
+  {
+    "postalCode": "710000",
+    "provinceRegion": {
+      "nameEn": "Taiwan",
+      "nameZh": "台湾省",
+      "namePinyin": "Táiwān Shěng",
+      "administrativeType": "Province",
+      "code": "710000",
+      "slug": "taiwan",
+      "folder": "provinces"
+    },
+    "matches": [
+      {
+        "country": "China",
+        "provinceRegion": {
+          "nameEn": "Taiwan",
+          "nameZh": "台湾省",
+          "namePinyin": "Táiwān Shěng",
+          "administrativeType": "Province",
+          "code": "710000"
+        },
+        "city": {
+          "nameEn": "Taipei",
+          "nameZh": "台北市",
+          "namePinyin": "Táiběi Shì",
+          "administrativeType": "Special Municipality",
+          "code": "710100"
+        },
+        "prefectureCounty": {
+          "nameEn": "Zhongzheng District",
+          "nameZh": "中正区",
+          "namePinyin": "Zhōngzhèng Qū",
+          "administrativeType": "District",
+          "code": "710101"
+        },
+        "locality": {
+          "nameEn": "Taipei Postal Center",
+          "nameZh": "台北邮政中心",
+          "namePinyin": "Táiběi Yóuzhèng Zhōngxīn"
+        },
+        "postOffice": {
+          "nameEn": "Taipei Central Post Office",
+          "nameZh": "台北中央邮局",
+          "namePinyin": "Táiběi Zhōngyāng Yóujú",
+          "type": "Central Post Office",
+          "code": "710000"
+        },
+        "latitude": 25.0478,
+        "longitude": 121.517,
+        "source": {
+          "name": "China Post & Chunghwa Post Routing Registry",
+          "recordId": "CN-TW-710000",
+          "retrievedAt": "2026-09-26"
+        }
+      }
+    ]
+  }
+]

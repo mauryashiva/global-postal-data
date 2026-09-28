@@ -1,0 +1,125 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Kentucky",
+    "abbreviation": "KY",
+    "fipsCode": "21",
+    "capital": "Frankfort",
+    "largestCity": "Louisville",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "270",
+      "364",
+      "502",
+      "606",
+      "859"
+    ],
+    "prefixes": [
+      "400",
+      "401",
+      "402",
+      "403",
+      "404",
+      "405",
+      "406",
+      "407",
+      "408",
+      "409",
+      "410",
+      "411",
+      "412",
+      "413",
+      "414",
+      "415",
+      "416",
+      "417",
+      "418",
+      "420",
+      "421",
+      "422",
+      "423",
+      "424",
+      "425",
+      "426",
+      "427"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-KY-40202-0",
+      "zip5": "40202",
+      "zip4": "1001",
+      "zipPlus4": "40202-1001",
+      "state": {
+        "nameEn": "Kentucky",
+        "abbreviation": "KY",
+        "fipsCode": "21",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Louisville",
+      "acceptableCities": [
+        "Louisville"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Louisville",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Jefferson County",
+          "fipsCode": "21111",
+          "geoid": "21111"
+        }
+      ],
+      "primaryCounty": "Jefferson County",
+      "zcta": {
+        "code": "40202"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Louisville Downtown Station",
+        "address": "835 S 7th St",
+        "phone": "(502) 588-1400",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 38.2527,
+        "longitude": -85.7585,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "270",
+          "364",
+          "502",
+          "606",
+          "859"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-KY-40202",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

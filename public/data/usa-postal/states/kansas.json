@@ -1,0 +1,115 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Kansas",
+    "abbreviation": "KS",
+    "fipsCode": "20",
+    "capital": "Topeka",
+    "largestCity": "Wichita",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "316",
+      "620",
+      "785",
+      "913"
+    ],
+    "prefixes": [
+      "660",
+      "661",
+      "662",
+      "664",
+      "665",
+      "666",
+      "667",
+      "668",
+      "669",
+      "670",
+      "671",
+      "672",
+      "673",
+      "674",
+      "675",
+      "676",
+      "677",
+      "678",
+      "679"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-KS-66603-0",
+      "zip5": "66603",
+      "zip4": "1001",
+      "zipPlus4": "66603-1001",
+      "state": {
+        "nameEn": "Kansas",
+        "abbreviation": "KS",
+        "fipsCode": "20",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Topeka",
+      "acceptableCities": [
+        "Topeka"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Topeka",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Shawnee County",
+          "fipsCode": "20177",
+          "geoid": "20177"
+        }
+      ],
+      "primaryCounty": "Shawnee County",
+      "zcta": {
+        "code": "66603"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Topeka Downtown Station",
+        "address": "424 S Kansas Ave",
+        "phone": "(785) 295-8100",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 39.0473,
+        "longitude": -95.6752,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "316",
+          "620",
+          "785",
+          "913"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 20,
+        "deliveryPoints": 9800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-KS-66603",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

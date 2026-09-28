@@ -1,0 +1,92 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Hawaii",
+    "abbreviation": "HI",
+    "fipsCode": "15",
+    "capital": "Honolulu",
+    "largestCity": "Honolulu",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "808"
+    ],
+    "prefixes": [
+      "967",
+      "968"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-HI-96813-0",
+      "zip5": "96813",
+      "zip4": "1001",
+      "zipPlus4": "96813-1001",
+      "state": {
+        "nameEn": "Hawaii",
+        "abbreviation": "HI",
+        "fipsCode": "15",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Honolulu",
+      "acceptableCities": [
+        "Honolulu"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Honolulu",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Honolulu County",
+          "fipsCode": "15003",
+          "geoid": "15003"
+        }
+      ],
+      "primaryCounty": "Honolulu County",
+      "zcta": {
+        "code": "96813"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Honolulu Main Post Office",
+        "address": "3600 Aolele St",
+        "phone": "(808) 423-3830",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 21.3069,
+        "longitude": -157.8583,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "808"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 32,
+        "deliveryPoints": 16400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-HI-96813",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

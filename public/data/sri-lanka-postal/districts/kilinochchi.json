@@ -1,0 +1,2032 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Kilinochchi",
+    "nameSi": "කිලිනොච්චිය",
+    "nameTa": "கிளிநொச்சி",
+    "administrativeType": "District",
+    "code": "LK-42"
+  },
+  "province": {
+    "nameEn": "Northern Province",
+    "nameSi": "උතුරු පළාත",
+    "nameTa": "வட மாகாணம்",
+    "code": "LK-4"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Kandavalai",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Karachchi",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Pachchilaipalli",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Poonakary",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 29,
+    "totalRecords": 30,
+    "dsDivisionCount": 4
+  },
+  "postcodes": [
+    {
+      "postcode": "42400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KILINOCHCHI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිළිනොච්චි",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "city": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිළිනොච්චි",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "postcode": "42400",
+          "postOffice": {
+            "nameEn": "Kilinochchi Post Office",
+            "nameSi": "කිළිනොච්චි තැපැල් කාර්යාලය",
+            "nameTa": "கிளிநொச்சி தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42400"
+          },
+          "coordinates": {
+            "latitude": 9.3802886,
+            "longitude": 80.3769999
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42405",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VADDAKACHCHI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Vaddakachchi",
+            "nameSi": "වඩ්ඩකච්චි",
+            "nameTa": "வட்டக்கச்சி"
+          },
+          "city": {
+            "nameEn": "Vaddakachchi",
+            "nameSi": "වඩ්ඩකච්චි",
+            "nameTa": "வட்டக்கச்சி"
+          },
+          "postcode": "42405",
+          "postOffice": {
+            "nameEn": "Vaddakachchi Post Office",
+            "nameSi": "වඩ්ඩකච්චි තැපැල් කාර්යාලය",
+            "nameTa": "வட்டக்கச்சி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42405"
+          },
+          "coordinates": {
+            "latitude": 9.3613906,
+            "longitude": 80.4666732
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42408",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RAMANATHAPURAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Ramanathapuram",
+            "nameSi": "රාමනාතපුරම්",
+            "nameTa": "ராமநாதபுரம்"
+          },
+          "city": {
+            "nameEn": "Ramanathapuram",
+            "nameSi": "රාමනාතපුරම්",
+            "nameTa": "ராமநாதபுரம்"
+          },
+          "postcode": "42408",
+          "postOffice": {
+            "nameEn": "Ramanathapuram Post Office",
+            "nameSi": "රාමනාතපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "ராமநாதபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42408"
+          },
+          "coordinates": {
+            "latitude": 9.3669942,
+            "longitude": 80.4938267
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PARANTHAN",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Paranthan",
+            "nameSi": "පරන්තන්",
+            "nameTa": "பரந்தன்"
+          },
+          "city": {
+            "nameEn": "Paranthan",
+            "nameSi": "පරන්තන්",
+            "nameTa": "பரந்தன்"
+          },
+          "postcode": "42500",
+          "postOffice": {
+            "nameEn": "Paranthan Post Office",
+            "nameSi": "පරන්තන් තැපැල් කාර්යාලය",
+            "nameTa": "பரந்தன் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42500"
+          },
+          "coordinates": {
+            "latitude": 9.4414152,
+            "longitude": 80.4048306
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42502",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URUTHIRAPURAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Uruthirapuram",
+            "nameSi": "උරුතිරපුරම්",
+            "nameTa": "உருத்திரபுரம்"
+          },
+          "city": {
+            "nameEn": "Uruthirapuram",
+            "nameSi": "උරුතිරපුරම්",
+            "nameTa": "உருத்திரபுரம்"
+          },
+          "postcode": "42502",
+          "postOffice": {
+            "nameEn": "Uruthirapuram Post Office",
+            "nameSi": "උරුතිරපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "உருத்திரபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42502"
+          },
+          "coordinates": {
+            "latitude": 9.3986525,
+            "longitude": 80.3463754
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42505",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MURASUMODDAI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Murasumoddai",
+            "nameSi": "මුරසුමෝඩයි",
+            "nameTa": "முரசுமோட்டை"
+          },
+          "city": {
+            "nameEn": "Murasumoddai",
+            "nameSi": "මුරසුමෝඩයි",
+            "nameTa": "முரசுமோட்டை"
+          },
+          "postcode": "42505",
+          "postOffice": {
+            "nameEn": "Murasumoddai Post Office",
+            "nameSi": "මුරසුමෝඩයි තැපැල් කාර්යාලය",
+            "nameTa": "முரசுமோட்டை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42505"
+          },
+          "coordinates": {
+            "latitude": 9.4379202,
+            "longitude": 80.4528169
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42508",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": {
+            "nameEn": "Kandavalai",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KANDAVALAI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Kandavalai",
+            "nameSi": "කණ්ඩාවලයි",
+            "nameTa": "கண்டாவளை"
+          },
+          "city": {
+            "nameEn": "Kandavalai",
+            "nameSi": "කණ්ඩාවලයි",
+            "nameTa": "கண்டாவளை"
+          },
+          "postcode": "42508",
+          "postOffice": {
+            "nameEn": "Kandavalai Post Office",
+            "nameSi": "කණ්ඩාවලයි තැපැල් කාර්යාලය",
+            "nameTa": "கண்டாவளை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42508"
+          },
+          "coordinates": {
+            "latitude": 9.4090998,
+            "longitude": 80.5218661
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42509",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PULIYAMPOKKANAI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Puliyampokkanai",
+            "nameSi": "පුලියම්පොක්කනයි",
+            "nameTa": "புளியம்பொக்கனை"
+          },
+          "city": {
+            "nameEn": "Puliyampokkanai",
+            "nameSi": "පුලියම්පොක්කනයි",
+            "nameTa": "புளியம்பொக்கனை"
+          },
+          "postcode": "42509",
+          "postOffice": {
+            "nameEn": "Puliyampokkanai Post Office",
+            "nameSi": "පුලියම්පොක්කනයි තැපැල් කාර්යාලය",
+            "nameTa": "புளியம்பொக்கனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42509"
+          },
+          "coordinates": {
+            "latitude": 9.4410449,
+            "longitude": 80.5312523
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42510",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ELEPHANT PASS",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Elephant Pass",
+            "nameSi": "අලිමංකඩ",
+            "nameTa": "ஆனையிறவு"
+          },
+          "city": {
+            "nameEn": "Elephant Pass",
+            "nameSi": "අලිමංකඩ",
+            "nameTa": "ஆனையிறவு"
+          },
+          "postcode": "42510",
+          "postOffice": {
+            "nameEn": "Elephant Pass Post Office",
+            "nameSi": "අලිමංකඩ තැපැල් කාර්යාලය",
+            "nameTa": "ஆனையிறவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42510"
+          },
+          "coordinates": {
+            "latitude": 9.5256655,
+            "longitude": 80.4062265
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42512",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THARMAPURAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Tharmapuram",
+            "nameSi": "තර්මපුරම්",
+            "nameTa": "தர்மபுரம்"
+          },
+          "city": {
+            "nameEn": "Tharmapuram",
+            "nameSi": "තර්මපුරම්",
+            "nameTa": "தர்மபுரம்"
+          },
+          "postcode": "42512",
+          "postOffice": {
+            "nameEn": "Tharmapuram Post Office",
+            "nameSi": "තර්මපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "தர்மபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42512"
+          },
+          "coordinates": {
+            "latitude": 9.4106524,
+            "longitude": 80.5233636
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42520",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IYYAKACHCHI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Iyyakachchi",
+            "nameSi": "අයියකච්චි",
+            "nameTa": "இயக்கச்சி"
+          },
+          "city": {
+            "nameEn": "Iyyakachchi",
+            "nameSi": "අයියකච්චි",
+            "nameTa": "இயக்கச்சி"
+          },
+          "postcode": "42520",
+          "postOffice": {
+            "nameEn": "Iyyakachchi Post Office",
+            "nameSi": "අයියකච්චි තැපැල් කාර්යාලය",
+            "nameTa": "இயக்கச்சி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42520"
+          },
+          "coordinates": {
+            "latitude": 9.5715235,
+            "longitude": 80.4161968
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42550",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": {
+            "nameEn": "Pachchilaipalli",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "PACHCHILAIPALLI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Pachchilaipalli",
+            "nameSi": "පච්චිලෙයිපල්ලි",
+            "nameTa": "பச்சிலைப்பள்ளி"
+          },
+          "city": {
+            "nameEn": "Pachchilaipalli",
+            "nameSi": "පච්චිලෙයිපල්ලි",
+            "nameTa": "பச்சிலைப்பள்ளி"
+          },
+          "postcode": "42550",
+          "postOffice": {
+            "nameEn": "Pachchilaipalli Post Office",
+            "nameSi": "පච්චිලෙයිපල්ලි තැපැල් කාර්යාලය",
+            "nameTa": "பச்சிலைப்பள்ளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42550"
+          },
+          "coordinates": {
+            "latitude": 9.5673228,
+            "longitude": 80.3881333
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        },
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PALLAI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Pallai",
+            "nameSi": "පලෙයි",
+            "nameTa": "பாளை"
+          },
+          "city": {
+            "nameEn": "Pallai",
+            "nameSi": "පලෙයි",
+            "nameTa": "பாளை"
+          },
+          "postcode": "42550",
+          "postOffice": {
+            "nameEn": "Pallai Post Office",
+            "nameSi": "පලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "பாளை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42550"
+          },
+          "coordinates": {
+            "latitude": 9.5673228,
+            "longitude": 80.3881333
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42560",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHEMPIYANPATTU",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Chempiyanpattu",
+            "nameSi": "චෙම්පියන්පත්තුව",
+            "nameTa": "செம்பியன்பட்டு"
+          },
+          "city": {
+            "nameEn": "Chempiyanpattu",
+            "nameSi": "චෙම්පියන්පත්තුව",
+            "nameTa": "செம்பியன்பட்டு"
+          },
+          "postcode": "42560",
+          "postOffice": {
+            "nameEn": "Chempiyanpattu Post Office",
+            "nameSi": "චෙම්පියන්පත්තුව තැපැල් කාර්යාලය",
+            "nameTa": "செம்பியன்பட்டு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42560"
+          },
+          "coordinates": {
+            "latitude": 9.3802886,
+            "longitude": 80.3769999
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42563",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THALAIYADI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Thalaiyadi",
+            "nameSi": "තලෙයියඩි",
+            "nameTa": "தாளையடி"
+          },
+          "city": {
+            "nameEn": "Thalaiyadi",
+            "nameSi": "තලෙයියඩි",
+            "nameTa": "தாளையடி"
+          },
+          "postcode": "42563",
+          "postOffice": {
+            "nameEn": "Thalaiyadi Post Office",
+            "nameSi": "තලෙයියඩි තැපැල් කාර්යාලය",
+            "nameTa": "தாளையடி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42563"
+          },
+          "coordinates": {
+            "latitude": 9.6304585,
+            "longitude": 80.4028523
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42565",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALIYAWALAI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Aliyawalai",
+            "nameSi": "අලියාවලයි",
+            "nameTa": "அலியாவளை"
+          },
+          "city": {
+            "nameEn": "Aliyawalai",
+            "nameSi": "අලියාවලයි",
+            "nameTa": "அலியாவளை"
+          },
+          "postcode": "42565",
+          "postOffice": {
+            "nameEn": "Aliyawalai Post Office",
+            "nameSi": "අලියාවලයි තැපැල් කාර්යාලය",
+            "nameTa": "அலியாவளை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42565"
+          },
+          "coordinates": {
+            "latitude": 9.5881892,
+            "longitude": 80.4465594
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42570",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULLIYAN",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Mulliyan",
+            "nameSi": "මුල්ලියන්",
+            "nameTa": "முள்ளியன்"
+          },
+          "city": {
+            "nameEn": "Mulliyan",
+            "nameSi": "මුල්ලියන්",
+            "nameTa": "முள்ளியன்"
+          },
+          "postcode": "42570",
+          "postOffice": {
+            "nameEn": "Mulliyan Post Office",
+            "nameSi": "මුල්ලියන් තැපැල් කාර්යාලය",
+            "nameTa": "முள்ளியன் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42570"
+          },
+          "coordinates": {
+            "latitude": 9.5531319,
+            "longitude": 80.4715866
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42580",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ELUTHUMADDUVAL",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Eluthumadduval",
+            "nameSi": "එළුතුමද්දුවල්",
+            "nameTa": "எழுதுமட்டுவல்"
+          },
+          "city": {
+            "nameEn": "Eluthumadduval",
+            "nameSi": "එළුතුමද්දුවල්",
+            "nameTa": "எழுதுமட்டுவல்"
+          },
+          "postcode": "42580",
+          "postOffice": {
+            "nameEn": "Eluthumadduval Post Office",
+            "nameSi": "එළුතුමද්දුවල් තැපැල් කාර්යාලය",
+            "nameTa": "எழுதுமட்டுவல் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42580"
+          },
+          "coordinates": {
+            "latitude": 9.65623,
+            "longitude": 80.2831668
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42600",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": {
+            "nameEn": "Poonakary",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "POONAKARY",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Poonakary",
+            "nameSi": "පූනකරි",
+            "nameTa": "பூநகரி"
+          },
+          "city": {
+            "nameEn": "Poonakary",
+            "nameSi": "පූනකරි",
+            "nameTa": "பூநகரி"
+          },
+          "postcode": "42600",
+          "postOffice": {
+            "nameEn": "Poonakary Post Office",
+            "nameSi": "පූනකරි තැපැල් කාර්යාලය",
+            "nameTa": "பூநகரி தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42600"
+          },
+          "coordinates": {
+            "latitude": 9.5033109,
+            "longitude": 80.2112164
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42606",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUNAKARI-NALLUR",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Punakari-Nallur",
+            "nameSi": "පුනකාරි-නල්ලූර්",
+            "nameTa": "புனகரி-நல்லூர்"
+          },
+          "city": {
+            "nameEn": "Punakari-Nallur",
+            "nameSi": "පුනකාරි-නල්ලූර්",
+            "nameTa": "புனகரி-நல்லூர்"
+          },
+          "postcode": "42606",
+          "postOffice": {
+            "nameEn": "Punakari-Nallur Post Office",
+            "nameSi": "පුනකාරි-නල්ලූර් තැපැල් කාර්යාලය",
+            "nameTa": "புனகரி-நல்லூர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42606"
+          },
+          "coordinates": {
+            "latitude": 9.4502757,
+            "longitude": 80.2781262
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42608",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAVUTHARIMUNAI",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Kavutharimunai",
+            "nameSi": "කවුතාරිමුනේ",
+            "nameTa": "கவுதாரிமுனை"
+          },
+          "city": {
+            "nameEn": "Kavutharimunai",
+            "nameSi": "කවුතාරිමුනේ",
+            "nameTa": "கவுதாரிமுனை"
+          },
+          "postcode": "42608",
+          "postOffice": {
+            "nameEn": "Kavutharimunai Post Office",
+            "nameSi": "කවුතාරිමුනේ තැපැල් කාර්යාලය",
+            "nameTa": "கவுதாரிமுனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42608"
+          },
+          "coordinates": {
+            "latitude": 9.566667,
+            "longitude": 80.116667
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42615",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PALLAVARAYANKADDU",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Pallavarayankaddu",
+            "nameSi": "පල්ලවරායන්කඩ්ඩු",
+            "nameTa": "பல்லவராயன்கட்டு"
+          },
+          "city": {
+            "nameEn": "Pallavarayankaddu",
+            "nameSi": "පල්ලවරායන්කඩ්ඩු",
+            "nameTa": "பல்லவராயன்கட்டு"
+          },
+          "postcode": "42615",
+          "postOffice": {
+            "nameEn": "Pallavarayankaddu Post Office",
+            "nameSi": "පල්ලවරායන්කඩ්ඩු තැපැල් කාර්යාලය",
+            "nameTa": "பல்லவராயன்கட்டு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42615"
+          },
+          "coordinates": {
+            "latitude": 9.314322,
+            "longitude": 80.1707662
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42618",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SIVAPURAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Sivapuram",
+            "nameSi": "සිවපුරම්",
+            "nameTa": "சிவபுரம்"
+          },
+          "city": {
+            "nameEn": "Sivapuram",
+            "nameSi": "සිවපුරම්",
+            "nameTa": "சிவபுரம்"
+          },
+          "postcode": "42618",
+          "postOffice": {
+            "nameEn": "Sivapuram Post Office",
+            "nameSi": "සිවපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "சிவபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42618"
+          },
+          "coordinates": {
+            "latitude": 9.4458753,
+            "longitude": 80.4173514
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42620",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VERAVIL",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Veravil",
+            "nameSi": "වෙරාවිල්",
+            "nameTa": "வெராவில்"
+          },
+          "city": {
+            "nameEn": "Veravil",
+            "nameSi": "වෙරාවිල්",
+            "nameTa": "வெராவில்"
+          },
+          "postcode": "42620",
+          "postOffice": {
+            "nameEn": "Veravil Post Office",
+            "nameSi": "වෙරාවිල් තැපැල් කාර්යාලය",
+            "nameTa": "வெராவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42620"
+          },
+          "coordinates": {
+            "latitude": 9.3528476,
+            "longitude": 80.0786359
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42625",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VINAYAGAPURAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Vinayagapuram",
+            "nameSi": "විනයාගපුරම්",
+            "nameTa": "விநாயகபுரம்"
+          },
+          "city": {
+            "nameEn": "Vinayagapuram",
+            "nameSi": "විනයාගපුරම්",
+            "nameTa": "விநாயகபுரம்"
+          },
+          "postcode": "42625",
+          "postOffice": {
+            "nameEn": "Vinayagapuram Post Office",
+            "nameSi": "විනයාගපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "விநாயகபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42625"
+          },
+          "coordinates": {
+            "latitude": 9.1138401,
+            "longitude": 80.2432839
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42630",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IRANAITIV",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Iranaitiv",
+            "nameSi": "ඉරණතිව්",
+            "nameTa": "இரணைதீவு"
+          },
+          "city": {
+            "nameEn": "Iranaitiv",
+            "nameSi": "ඉරණතිව්",
+            "nameTa": "இரணைதீவு"
+          },
+          "postcode": "42630",
+          "postOffice": {
+            "nameEn": "Iranaitiv Post Office",
+            "nameSi": "ඉරණතිව් තැපැල් කාර්යාලය",
+            "nameTa": "இரணைதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42630"
+          },
+          "coordinates": {
+            "latitude": 9.2899329,
+            "longitude": 79.9836108
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42635",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VANNERIKKULAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Vannerikkulam",
+            "nameSi": "වන්නෙරික්කුලම්",
+            "nameTa": "வன்னேரிக்குளம்"
+          },
+          "city": {
+            "nameEn": "Vannerikkulam",
+            "nameSi": "වන්නෙරික්කුලම්",
+            "nameTa": "வன்னேரிக்குளம்"
+          },
+          "postcode": "42635",
+          "postOffice": {
+            "nameEn": "Vannerikkulam Post Office",
+            "nameSi": "වන්නෙරික්කුලම් තැපැල් කාර්යාලය",
+            "nameTa": "வன்னேரிக்குளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42635"
+          },
+          "coordinates": {
+            "latitude": 9.3802886,
+            "longitude": 80.3769999
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42638",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SKANTHAPURAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Skanthapuram",
+            "nameSi": "ස්කන්තපුරම්",
+            "nameTa": "ஸ்கந்தபுரம்"
+          },
+          "city": {
+            "nameEn": "Skanthapuram",
+            "nameSi": "ස්කන්තපුරම්",
+            "nameTa": "ஸ்கந்தபுரம்"
+          },
+          "postcode": "42638",
+          "postOffice": {
+            "nameEn": "Skanthapuram Post Office",
+            "nameSi": "ස්කන්තපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "ஸ்கந்தபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42638"
+          },
+          "coordinates": {
+            "latitude": 9.3371078,
+            "longitude": 80.3018107
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42640",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AKKARAYANKULAM",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Akkarayankulam",
+            "nameSi": "අක්කරායන්කුලම්",
+            "nameTa": "அக்கராயன்குளம்"
+          },
+          "city": {
+            "nameEn": "Akkarayankulam",
+            "nameSi": "අක්කරායන්කුලම්",
+            "nameTa": "அக்கராயன்குளம்"
+          },
+          "postcode": "42640",
+          "postOffice": {
+            "nameEn": "Akkarayankulam Post Office",
+            "nameSi": "අක්කරායන්කුලම් තැපැල් කාර්යාලය",
+            "nameTa": "அக்கராயன்குளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42640"
+          },
+          "coordinates": {
+            "latitude": 9.3261452,
+            "longitude": 80.3018107
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42645",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Kilinochchi",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி",
+            "administrativeType": "District",
+            "code": "LK-42"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KONAVIL",
+            "nameSi": "කිලිනොච්චිය",
+            "nameTa": "கிளிநொச்சி"
+          },
+          "locality": {
+            "nameEn": "Konavil",
+            "nameSi": "කොනාවිල්",
+            "nameTa": "கோணவில்"
+          },
+          "city": {
+            "nameEn": "Konavil",
+            "nameSi": "කොනාවිල්",
+            "nameTa": "கோணவில்"
+          },
+          "postcode": "42645",
+          "postOffice": {
+            "nameEn": "Konavil Post Office",
+            "nameSi": "කොනාවිල් තැපැල් කාර්යාලය",
+            "nameTa": "கோணவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42645"
+          },
+          "coordinates": {
+            "latitude": 9.3514991,
+            "longitude": 80.3268812
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Takhar",
+    "nameNative": "تخار",
+    "isoCode": "AF-TAK",
+    "postalPrefix": "37",
+    "capital": "Taloqan",
+    "capitalNative": "طالقان",
+    "coordinates": {
+      "latitude": 36.7361,
+      "longitude": 69.5345
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 22,
+    "totalRecords": 22,
+    "urbanRecords": 6,
+    "ruralRecords": 16
+  },
+  "records": [
+    {
+      "postalCode": "370101",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Taloqan - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-TAK-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Taloqan District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-370101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "370201",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Taloqan - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-TAK-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Taloqan District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-370201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "370301",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Taloqan - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-TAK-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Taloqan District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-370301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "370401",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Taloqan - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-TAK-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Taloqan District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-370401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "370501",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Taloqan - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-TAK-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Taloqan District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-370501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "370601",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Taloqan - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-TAK-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Taloqan District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-370601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375101",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Warsaj District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-51"
+      },
+      "locality": {
+        "nameEn": "Warsaj Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Warsaj District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375201",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Farkhar District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-52"
+      },
+      "locality": {
+        "nameEn": "Farkhar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Farkhar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375301",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Kalafgan District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-53"
+      },
+      "locality": {
+        "nameEn": "Kalafgan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kalafgan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375401",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Rostaq District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-54"
+      },
+      "locality": {
+        "nameEn": "Rostaq Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Rostaq District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375501",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Chahab District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-55"
+      },
+      "locality": {
+        "nameEn": "Chahab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chahab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375601",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Bangi District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-56"
+      },
+      "locality": {
+        "nameEn": "Bangi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Bangi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375701",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Khwajabahawuddin District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-57"
+      },
+      "locality": {
+        "nameEn": "Khwajabahawuddin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwajabahawuddin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375801",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Darqad District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-58"
+      },
+      "locality": {
+        "nameEn": "Darqad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Darqad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "375901",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Dasht-e-Qala District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-59"
+      },
+      "locality": {
+        "nameEn": "Dasht-e-Qala Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dasht-e-Qala District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-375901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376001",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Khwajaghar District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-60"
+      },
+      "locality": {
+        "nameEn": "Khwajaghar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwajaghar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376101",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Hazarsumuch District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-61"
+      },
+      "locality": {
+        "nameEn": "Hazarsumuch Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Hazarsumuch District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376201",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Baharak District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-62"
+      },
+      "locality": {
+        "nameEn": "Baharak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Baharak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376301",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Chal District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-63"
+      },
+      "locality": {
+        "nameEn": "Chal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376401",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Namakab District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-64"
+      },
+      "locality": {
+        "nameEn": "Namakab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Namakab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376501",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Eshkashem District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-65"
+      },
+      "locality": {
+        "nameEn": "Eshkashem Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Eshkashem District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "376601",
+      "province": {
+        "nameEn": "Takhar",
+        "nameNative": "تخار",
+        "code": "AF-TAK",
+        "postalPrefix": "37"
+      },
+      "city": {
+        "nameEn": "Taloqan",
+        "nameNative": "طالقان"
+      },
+      "district": {
+        "nameEn": "Yangi Qala District",
+        "type": "Rural Administrative District",
+        "code": "AF-TAK-66"
+      },
+      "locality": {
+        "nameEn": "Yangi Qala Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yangi Qala District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7361,
+        "longitude": 69.5345
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-376601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

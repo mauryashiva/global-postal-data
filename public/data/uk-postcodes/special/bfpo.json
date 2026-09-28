@@ -1,0 +1,123 @@
+{
+  "type": "BFPO",
+  "description": "British Forces Post Office addresses (BF1 postcodes). Official Ministry of Defence postal system.",
+  "guidance": "BF1 postcodes identify military units worldwide. Not normal UK physical geography. Commercial carriers often cannot deliver.",
+  "totalRecords": 3,
+  "records": [
+    {
+      "postcode": "BF1 0AA",
+      "postTown": "BFPO",
+      "locality": "Northwood Headquarters",
+      "dependentLocality": "Operational Command",
+      "constituentCountry": "British Forces Post Office",
+      "constituentCountryCode": "BFPO",
+      "region": "Military",
+      "ceremonialCounty": null,
+      "localAuthority": "Ministry of Defence",
+      "district": "Defence Postal Service",
+      "civilParish": null,
+      "ward": null,
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "isBFPO": true,
+      "bfpoNumber": "BFPO 1",
+      "countryOrLocation": "Northwood HQ / Permanent Joint Headquarters (UK Base)",
+      "shippingWarning": "BFPO Address: Online shopping carriers often cannot deliver to BFPO. Military mail handling applies.",
+      "coordinates": {
+        "latitude": 51.6212,
+        "longitude": -0.4215,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "BF10AA-01",
+          "buildingName": "Permanent Joint HQ",
+          "buildingNumber": null,
+          "subBuildingName": "Allied Maritime Command",
+          "thoroughfare": "Sandy Lane",
+          "postTown": "BFPO",
+          "postcode": "BF1 0AA",
+          "fullAddressText": "Permanent Joint HQ, Sandy Lane, Northwood, BFPO 1 (BF1 0AA)"
+        }
+      ]
+    },
+    {
+      "postcode": "BF1 1AA",
+      "postTown": "BFPO",
+      "locality": "HMS Defender (Naval Operations)",
+      "dependentLocality": null,
+      "constituentCountry": "British Forces Post Office",
+      "constituentCountryCode": "BFPO",
+      "region": "Military",
+      "ceremonialCounty": null,
+      "localAuthority": "Royal Navy",
+      "district": "Naval Operations",
+      "civilParish": null,
+      "ward": null,
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "isBFPO": true,
+      "bfpoNumber": "BFPO 651",
+      "countryOrLocation": "Royal Navy Surface Fleet (At Sea / Deployable)",
+      "shippingWarning": "BFPO Address: Delivery to active naval vessel. Commercial courier delivery not supported.",
+      "coordinates": null,
+      "addresses": [
+        {
+          "addressId": "BF11AA-01",
+          "buildingName": "HMS Defender",
+          "buildingNumber": null,
+          "subBuildingName": "Mess Deck / Ship Office",
+          "thoroughfare": "BFPO Ships",
+          "postTown": "BFPO",
+          "postcode": "BF1 1AA",
+          "fullAddressText": "HMS Defender, BFPO 651 (BF1 1AA)"
+        }
+      ]
+    },
+    {
+      "postcode": "BF1 2AB",
+      "postTown": "BFPO",
+      "locality": "Episkopi Garrison",
+      "dependentLocality": "Sovereign Base Area",
+      "constituentCountry": "British Forces Post Office",
+      "constituentCountryCode": "BFPO",
+      "region": "Military Overseas",
+      "ceremonialCounty": null,
+      "localAuthority": "British Forces Cyprus",
+      "district": "Episkopi",
+      "civilParish": null,
+      "ward": null,
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "isBFPO": true,
+      "bfpoNumber": "BFPO 52",
+      "countryOrLocation": "Cyprus (Western Sovereign Base Area)",
+      "shippingWarning": "BFPO Address: Overseas military base. Use BFPO guidelines; not a domestic UK postal destination.",
+      "coordinates": {
+        "latitude": 34.6711,
+        "longitude": 32.8398,
+        "coordinateType": "representativePoint"
+      },
+      "addresses": [
+        {
+          "addressId": "BF12AB-01",
+          "buildingName": "HQ British Forces Cyprus",
+          "buildingNumber": null,
+          "subBuildingName": "Command Building",
+          "thoroughfare": "Episkopi Station",
+          "postTown": "BFPO",
+          "postcode": "BF1 2AB",
+          "fullAddressText": "HQ British Forces Cyprus, Episkopi Station, BFPO 52 (BF1 2AB)"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "sourceName": "GOV.UK Ministry of Defence BFPO Postcode List",
+    "retrievedAt": "2026-09-28",
+    "license": "Open Government Licence v3.0"
+  }
+}

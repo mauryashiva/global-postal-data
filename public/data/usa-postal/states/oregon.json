@@ -1,0 +1,173 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Oregon",
+    "abbreviation": "OR",
+    "fipsCode": "41",
+    "capital": "Salem",
+    "largestCity": "Portland",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "458",
+      "503",
+      "541",
+      "971"
+    ],
+    "prefixes": [
+      "970",
+      "971",
+      "972",
+      "973",
+      "974",
+      "975",
+      "976",
+      "977",
+      "978",
+      "979"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-OR-97201-0",
+      "zip5": "97201",
+      "zip4": "1001",
+      "zipPlus4": "97201-1001",
+      "state": {
+        "nameEn": "Oregon",
+        "abbreviation": "OR",
+        "fipsCode": "41",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Portland",
+      "acceptableCities": [
+        "Portland"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Portland",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Multnomah County",
+          "fipsCode": "41051",
+          "geoid": "41051"
+        }
+      ],
+      "primaryCounty": "Multnomah County",
+      "zcta": {
+        "code": "97201"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Portland Main Post Office",
+        "address": "715 NW Hoyt St",
+        "phone": "(503) 294-2200",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 45.5152,
+        "longitude": -122.6784,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "458",
+          "503",
+          "541",
+          "971"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 34,
+        "deliveryPoints": 17800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-OR-97201",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-OR-97301-1",
+      "zip5": "97301",
+      "zip4": "2001",
+      "zipPlus4": "97301-2001",
+      "state": {
+        "nameEn": "Oregon",
+        "abbreviation": "OR",
+        "fipsCode": "41",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Salem",
+      "acceptableCities": [
+        "Salem"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Salem",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Marion County",
+          "fipsCode": "41047",
+          "geoid": "41047"
+        }
+      ],
+      "primaryCounty": "Marion County",
+      "zcta": {
+        "code": "97301"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Salem Main Post Office",
+        "address": "1050 25th St SE",
+        "phone": "(503) 370-4600",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 44.9429,
+        "longitude": -123.0351,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "458",
+          "503",
+          "541",
+          "971"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 27,
+        "deliveryPoints": 13900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-OR-97301",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "NE",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "NE1 7RU",
+      "postTown": "NEWCASTLE UPON TYNE",
+      "locality": "Haymarket",
+      "dependentLocality": null,
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "North East",
+      "ceremonialCounty": "Tyne and Wear",
+      "localAuthority": "Newcastle City Council",
+      "district": "Newcastle upon Tyne",
+      "civilParish": null,
+      "ward": "Monument",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 54.9783,
+        "longitude": -1.6178,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "NE17RU-01",
+          "buildingName": "Newcastle University",
+          "buildingNumber": null,
+          "subBuildingName": "King's Gate Building",
+          "thoroughfare": "Barras Bridge",
+          "postTown": "NEWCASTLE UPON TYNE",
+          "postcode": "NE1 7RU",
+          "fullAddressText": "King's Gate Building, Newcastle University, Newcastle upon Tyne NE1 7RU"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "NE1 7RU",
+        "outwardCode": "NE1",
+        "inwardCode": "7RU",
+        "postcodeArea": "NE",
+        "postcodeDistrict": "NE1",
+        "postcodeSector": "NE1 7"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-NE1-7RU",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

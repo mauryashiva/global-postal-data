@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Jeollanam-do",
+    "nameOfficialEn": "South Jeolla Province",
+    "nameKo": "전라남도",
+    "category": "provinces",
+    "administrativeType": "Province",
+    "isoCode": "KR-46",
+    "prefixes": [
+      "57",
+      "58",
+      "59",
+      "60"
+    ],
+    "areaCode": "061",
+    "capitalEn": "Muan (Namak)",
+    "capitalKo": "무안 (남악신도시)",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 34.816,
+      "longitude": 126.4629
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 6
+  },
+  "records": [
+    {
+      "postalCode": "58564",
+      "roadAddress": {
+        "roadName": "Hulaudoe-ro",
+        "roadNameKo": "후광대로",
+        "roadNameCode": "468403000002",
+        "buildingNumber": "1",
+        "buildingName": "Jeollanam-do Provincial Government",
+        "buildingNameKo": "전라남도청 (남악신도시)",
+        "buildingManagementNumber": "4684025021110000000000001",
+        "fullAddressEn": "1, Hulaudoe-ro, Samhyang-eup, Jeollanam-do 58564, Republic of Korea",
+        "fullAddressKo": "전라남도 삼향읍 후광대로 1 (남악리, 전라남도청 (남악신도시))"
+      },
+      "jibunAddress": {
+        "jibun": "1000 Namak-ri, Samhyang-eup, Muan-gun, Jeollanam-do",
+        "jibunKo": "전라남도 무안군 삼향읍 남악리 1000",
+        "legalDong": "Namak-ri",
+        "legalDongKo": "남악리",
+        "adminDong": "Samhyang-eup",
+        "adminDongKo": "삼향읍"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Jeollanam-do",
+          "nameOfficialEn": "South Jeolla Province",
+          "nameKo": "전라남도",
+          "isoCode": "KR-46",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Muan-gun",
+          "nameKo": "무안군",
+          "administrativeType": "Gun"
+        },
+        "district": {
+          "nameEn": "Samhyang-eup",
+          "nameKo": "삼향읍",
+          "administrativeType": "Eup"
+        },
+        "townDong": {
+          "nameEn": "Namak-ri",
+          "nameKo": "남악리",
+          "administrativeType": "Ri"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Jeonnam Provincial Office Post Office",
+        "nameKo": "전남도청우체국",
+        "code": "53400",
+        "type": "Branch Post Office",
+        "phone": "061-280-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "061"
+      },
+      "areas": [
+        "Namak Innovation City",
+        "Jeonnam Provincial Government Square",
+        "Namak Central Lake Park"
+      ],
+      "coordinates": {
+        "latitude": 34.816,
+        "longitude": 126.4629
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SOUTH-JEOLLA-58564",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "58322",
+      "roadAddress": {
+        "roadName": "Jeollyeok-ro",
+        "roadNameKo": "전력로",
+        "roadNameCode": "461703000025",
+        "buildingNumber": "55",
+        "buildingName": "Korea Electric Power Corporation (KEPCO HQ)",
+        "buildingNameKo": "한국전력공사 본사 (빛가람 혁신도시)",
+        "buildingManagementNumber": "4617014000101200000000001",
+        "fullAddressEn": "55, Jeollyeok-ro, Bitgaram-dong, Jeollanam-do 58322, Republic of Korea",
+        "fullAddressKo": "전라남도 빛가람동 전력로 55 (빛가람동, 한국전력공사 본사 (빛가람 혁신도시))"
+      },
+      "jibunAddress": {
+        "jibun": "120 Bitgaram-dong, Naju-si, Jeollanam-do",
+        "jibunKo": "전라남도 나주시 빛가람동 120",
+        "legalDong": "Bitgaram-dong",
+        "legalDongKo": "빛가람동",
+        "adminDong": "Bitgaram-dong",
+        "adminDongKo": "빛가람동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Jeollanam-do",
+          "nameOfficialEn": "South Jeolla Province",
+          "nameKo": "전라남도",
+          "isoCode": "KR-46",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Naju-si",
+          "nameKo": "나주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Bitgaram-dong",
+          "nameKo": "빛가람동",
+          "administrativeType": "Dong"
+        },
+        "townDong": {
+          "nameEn": "Bitgaram-dong",
+          "nameKo": "빛가람동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Naju Bitgaram Post Office",
+        "nameKo": "나주빛가람우체국",
+        "code": "58200",
+        "type": "Branch Post Office",
+        "phone": "061-330-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "061"
+      },
+      "areas": [
+        "Bitgaram Energy Innovation City",
+        "KEPCO Global Headquarters",
+        "Lake Park Observatory"
+      ],
+      "coordinates": {
+        "latitude": 35.0256,
+        "longitude": 126.7823
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SOUTH-JEOLLA-58322",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

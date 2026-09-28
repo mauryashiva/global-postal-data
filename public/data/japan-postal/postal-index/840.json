@@ -1,0 +1,40 @@
+{
+  "prefix": "840",
+  "records": [
+    {
+      "postalCode": "8400000",
+      "postalCodeFormatted": "840-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "41",
+      "prefectureNameEn": "Saga",
+      "prefectureNameJa": "佐賀県",
+      "prefectureNameKana": "サガケン",
+      "prefectureNameRomaji": "Saga-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "41201",
+        "nameEn": "Saga",
+        "nameJa": "佐賀市",
+        "nameKana": "サガケシ",
+        "nameRomaji": "Saga-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Saga Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

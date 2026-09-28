@@ -1,0 +1,5438 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Dak Lak",
+    "nameVi": "Đắk Lắk",
+    "fullNameEn": "Dak Lak Province",
+    "fullNameVi": "Tỉnh Đắk Lắk",
+    "nameSearchNormalized": "dak lak",
+    "officialCode": "66",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "56, 63, 64",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 102,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "56122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tuy Hoa",
+        "nameVi": "Tuy Hoà",
+        "fullNameEn": "Tuy Hoa Ward",
+        "fullNameVi": "Phường Tuy Hoà",
+        "nameSearchNormalized": "tuy hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22015",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tuy Hoa Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tuy Hoà",
+        "type": "Ward",
+        "code": "56122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy Hoà",
+        "districtFullName": "Thành phố Tuy Hoà",
+        "districtNameEn": "Tuy Hoa",
+        "districtCode": "555",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Binh Kien",
+        "nameVi": "Bình Kiến",
+        "fullNameEn": "Binh Kien Ward",
+        "fullNameVi": "Phường Bình Kiến",
+        "nameSearchNormalized": "binh kien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22045",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Binh Kien Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bình Kiến",
+        "type": "Ward",
+        "code": "56119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy Hoà",
+        "districtFullName": "Thành phố Tuy Hoà",
+        "districtNameEn": "Tuy Hoa",
+        "districtCode": "555",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56320",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Song Cau",
+        "nameVi": "Sông Cầu",
+        "fullNameEn": "Song Cau Ward",
+        "fullNameVi": "Phường Sông Cầu",
+        "nameSearchNormalized": "song cau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22051",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Song Cau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sông Cầu",
+        "type": "Ward",
+        "code": "56320"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Cầu",
+        "districtFullName": "Thị xã Sông Cầu",
+        "districtNameEn": "Song Cau",
+        "districtCode": "557",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56318",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Xuan Loc",
+        "nameVi": "Xuân Lộc",
+        "fullNameEn": "Xuan Loc Commune",
+        "fullNameVi": "Xã Xuân Lộc",
+        "nameSearchNormalized": "xuan loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22057",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Lộc",
+        "type": "Commune",
+        "code": "56318"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Cầu",
+        "districtFullName": "Thị xã Sông Cầu",
+        "districtNameEn": "Song Cau",
+        "districtCode": "557",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56315",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Xuan Canh",
+        "nameVi": "Xuân Cảnh",
+        "fullNameEn": "Xuan Canh Commune",
+        "fullNameVi": "Xã Xuân Cảnh",
+        "nameSearchNormalized": "xuan canh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22060",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Canh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Cảnh",
+        "type": "Commune",
+        "code": "56315"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Cầu",
+        "districtFullName": "Thị xã Sông Cầu",
+        "districtNameEn": "Song Cau",
+        "districtCode": "557",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56321",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Xuan Tho",
+        "nameVi": "Xuân Thọ",
+        "fullNameEn": "Xuan Tho Commune",
+        "fullNameVi": "Xã Xuân Thọ",
+        "nameSearchNormalized": "xuan tho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22075",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Tho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Thọ",
+        "type": "Commune",
+        "code": "56321"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Cầu",
+        "districtFullName": "Thị xã Sông Cầu",
+        "districtNameEn": "Song Cau",
+        "districtCode": "557",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Xuan Dai",
+        "nameVi": "Xuân Đài",
+        "fullNameEn": "Xuan Dai Ward",
+        "fullNameVi": "Phường Xuân Đài",
+        "nameSearchNormalized": "xuan dai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22076",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Dai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Xuân Đài",
+        "type": "Ward",
+        "code": "56308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Cầu",
+        "districtFullName": "Thị xã Sông Cầu",
+        "districtNameEn": "Song Cau",
+        "districtCode": "557",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dong Xuan",
+        "nameVi": "Đồng Xuân",
+        "fullNameEn": "Dong Xuan Commune",
+        "fullNameVi": "Xã Đồng Xuân",
+        "nameSearchNormalized": "dong xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22081",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dong Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Xuân",
+        "type": "Commune",
+        "code": "56417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Xuân",
+        "districtFullName": "Huyện Đồng Xuân",
+        "districtNameEn": "Dong Xuan",
+        "districtCode": "558",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Xuan Lanh",
+        "nameVi": "Xuân Lãnh",
+        "fullNameEn": "Xuan Lanh Commune",
+        "fullNameVi": "Xã Xuân Lãnh",
+        "nameSearchNormalized": "xuan lanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22090",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Lanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Lãnh",
+        "type": "Commune",
+        "code": "56415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Xuân",
+        "districtFullName": "Huyện Đồng Xuân",
+        "districtNameEn": "Dong Xuan",
+        "districtCode": "558",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Phu Mo",
+        "nameVi": "Phú Mỡ",
+        "fullNameEn": "Phu Mo Commune",
+        "fullNameVi": "Xã Phú Mỡ",
+        "nameSearchNormalized": "phu mo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22096",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Phu Mo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Mỡ",
+        "type": "Commune",
+        "code": "56416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Xuân",
+        "districtFullName": "Huyện Đồng Xuân",
+        "districtNameEn": "Dong Xuan",
+        "districtCode": "558",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Xuan Phuoc",
+        "nameVi": "Xuân Phước",
+        "fullNameEn": "Xuan Phuoc Commune",
+        "fullNameVi": "Xã Xuân Phước",
+        "nameSearchNormalized": "xuan phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22111",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Phước",
+        "type": "Commune",
+        "code": "56410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Xuân",
+        "districtFullName": "Huyện Đồng Xuân",
+        "districtNameEn": "Dong Xuan",
+        "districtCode": "558",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56222",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tuy An Bac",
+        "nameVi": "Tuy An Bắc",
+        "fullNameEn": "Tuy An Bac Commune",
+        "fullNameVi": "Xã Tuy An Bắc",
+        "nameSearchNormalized": "tuy an bac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22114",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tuy An Bac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tuy An Bắc",
+        "type": "Commune",
+        "code": "56222"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy An",
+        "districtFullName": "Huyện Tuy An",
+        "districtNameEn": "Tuy An",
+        "districtCode": "559",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56223",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tuy An Dong",
+        "nameVi": "Tuy An Đông",
+        "fullNameEn": "Tuy An Dong Commune",
+        "fullNameVi": "Xã Tuy An Đông",
+        "nameSearchNormalized": "tuy an dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22120",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tuy An Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tuy An Đông",
+        "type": "Commune",
+        "code": "56223"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy An",
+        "districtFullName": "Huyện Tuy An",
+        "districtNameEn": "Tuy An",
+        "districtCode": "559",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56226",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tuy An Tay",
+        "nameVi": "Tuy An Tây",
+        "fullNameEn": "Tuy An Tay Commune",
+        "fullNameVi": "Xã Tuy An Tây",
+        "nameSearchNormalized": "tuy an tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22132",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tuy An Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tuy An Tây",
+        "type": "Commune",
+        "code": "56226"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy An",
+        "districtFullName": "Huyện Tuy An",
+        "districtNameEn": "Tuy An",
+        "districtCode": "559",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56224",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "O Loan",
+        "nameVi": "Ô Loan",
+        "fullNameEn": "O Loan Commune",
+        "fullNameVi": "Xã Ô Loan",
+        "nameSearchNormalized": "o loan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22147",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "O Loan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ô Loan",
+        "type": "Commune",
+        "code": "56224"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy An",
+        "districtFullName": "Huyện Tuy An",
+        "districtNameEn": "Tuy An",
+        "districtCode": "559",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56225",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tuy An Nam",
+        "nameVi": "Tuy An Nam",
+        "fullNameEn": "Tuy An Nam Commune",
+        "fullNameVi": "Xã Tuy An Nam",
+        "nameSearchNormalized": "tuy an nam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22153",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tuy An Nam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tuy An Nam",
+        "type": "Commune",
+        "code": "56225"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy An",
+        "districtFullName": "Huyện Tuy An",
+        "districtNameEn": "Tuy An",
+        "districtCode": "559",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56520",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Son Hoa",
+        "nameVi": "Sơn Hoà",
+        "fullNameEn": "Son Hoa Commune",
+        "fullNameVi": "Xã Sơn Hoà",
+        "nameSearchNormalized": "son hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22165",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Son Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Hoà",
+        "type": "Commune",
+        "code": "56520"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hòa",
+        "districtFullName": "Huyện Sơn Hòa",
+        "districtNameEn": "Son Hoa",
+        "districtCode": "560",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56522",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tay Son",
+        "nameVi": "Tây Sơn",
+        "fullNameEn": "Tay Son Commune",
+        "fullNameVi": "Xã Tây Sơn",
+        "nameSearchNormalized": "tay son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22171",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tay Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Sơn",
+        "type": "Commune",
+        "code": "56522"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hòa",
+        "districtFullName": "Huyện Sơn Hòa",
+        "districtNameEn": "Son Hoa",
+        "districtCode": "560",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56521",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Van Hoa",
+        "nameVi": "Vân Hoà",
+        "fullNameEn": "Van Hoa Commune",
+        "fullNameVi": "Xã Vân Hoà",
+        "nameSearchNormalized": "van hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22177",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Van Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vân Hoà",
+        "type": "Commune",
+        "code": "56521"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hòa",
+        "districtFullName": "Huyện Sơn Hòa",
+        "districtNameEn": "Son Hoa",
+        "districtCode": "560",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56518",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Suoi Trai",
+        "nameVi": "Suối Trai",
+        "fullNameEn": "Suoi Trai Commune",
+        "fullNameVi": "Xã Suối Trai",
+        "nameSearchNormalized": "suoi trai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22192",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Suoi Trai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Suối Trai",
+        "type": "Commune",
+        "code": "56518"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hòa",
+        "districtFullName": "Huyện Sơn Hòa",
+        "districtNameEn": "Son Hoa",
+        "districtCode": "560",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56611",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Song Hinh",
+        "nameVi": "Sông Hinh",
+        "fullNameEn": "Song Hinh Commune",
+        "fullNameVi": "Xã Sông Hinh",
+        "nameSearchNormalized": "song hinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22207",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Song Hinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sông Hinh",
+        "type": "Commune",
+        "code": "56611"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Hinh",
+        "districtFullName": "Huyện Sông Hinh",
+        "districtNameEn": "Song Hinh",
+        "districtCode": "561",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Duc Binh",
+        "nameVi": "Đức Bình",
+        "fullNameEn": "Duc Binh Commune",
+        "fullNameVi": "Xã Đức Bình",
+        "nameSearchNormalized": "duc binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22222",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Duc Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Bình",
+        "type": "Commune",
+        "code": "56618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Hinh",
+        "districtFullName": "Huyện Sông Hinh",
+        "districtNameEn": "Song Hinh",
+        "districtCode": "561",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Ba",
+        "nameVi": "Ea Bá",
+        "fullNameEn": "Ea Ba Commune",
+        "fullNameVi": "Xã Ea Bá",
+        "nameSearchNormalized": "ea ba",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22225",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Ba Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Bá",
+        "type": "Commune",
+        "code": "56615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Hinh",
+        "districtFullName": "Huyện Sông Hinh",
+        "districtNameEn": "Song Hinh",
+        "districtCode": "561",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56614",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Ly",
+        "nameVi": "Ea Ly",
+        "fullNameEn": "Ea Ly Commune",
+        "fullNameVi": "Xã Ea Ly",
+        "nameSearchNormalized": "ea ly",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22237",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Ly Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Ly",
+        "type": "Commune",
+        "code": "56614"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Hinh",
+        "districtFullName": "Huyện Sông Hinh",
+        "districtNameEn": "Song Hinh",
+        "districtCode": "561",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Phu Yen",
+        "nameVi": "Phú Yên",
+        "fullNameEn": "Phu Yen Ward",
+        "fullNameVi": "Phường Phú Yên",
+        "nameSearchNormalized": "phu yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22240",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Phu Yen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phú Yên",
+        "type": "Ward",
+        "code": "56123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuy Hoà",
+        "districtFullName": "Thành phố Tuy Hoà",
+        "districtNameEn": "Tuy Hoa",
+        "districtCode": "555",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56719",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Son Thanh",
+        "nameVi": "Sơn Thành",
+        "fullNameEn": "Son Thanh Commune",
+        "fullNameVi": "Xã Sơn Thành",
+        "nameSearchNormalized": "son thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22250",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Son Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Thành",
+        "type": "Commune",
+        "code": "56719"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Hoà",
+        "districtFullName": "Huyện Tây Hoà",
+        "districtNameEn": "Tay Hoa",
+        "districtCode": "562",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tay Hoa",
+        "nameVi": "Tây Hoà",
+        "fullNameEn": "Tay Hoa Commune",
+        "fullNameVi": "Xã Tây Hoà",
+        "nameSearchNormalized": "tay hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22255",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tay Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Hoà",
+        "type": "Commune",
+        "code": "56717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Hoà",
+        "districtFullName": "Huyện Tây Hoà",
+        "districtNameEn": "Tay Hoa",
+        "districtCode": "562",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56816",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dong Hoa",
+        "nameVi": "Đông Hoà",
+        "fullNameEn": "Dong Hoa Ward",
+        "fullNameVi": "Phường Đông Hoà",
+        "nameSearchNormalized": "dong hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22258",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dong Hoa Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đông Hoà",
+        "type": "Ward",
+        "code": "56816"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hòa",
+        "districtFullName": "Thị xã Đông Hòa",
+        "districtNameEn": "Dong Hoa",
+        "districtCode": "564",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Hoa Hiep",
+        "nameVi": "Hoà Hiệp",
+        "fullNameEn": "Hoa Hiep Ward",
+        "fullNameVi": "Phường Hoà Hiệp",
+        "nameSearchNormalized": "hoa hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "22261",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Hiep Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoà Hiệp",
+        "type": "Ward",
+        "code": "56817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hòa",
+        "districtFullName": "Thị xã Đông Hòa",
+        "districtNameEn": "Dong Hoa",
+        "districtCode": "564",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56710",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Hoa Thinh",
+        "nameVi": "Hoà Thịnh",
+        "fullNameEn": "Hoa Thinh Commune",
+        "fullNameVi": "Xã Hoà Thịnh",
+        "nameSearchNormalized": "hoa thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22276",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Thịnh",
+        "type": "Commune",
+        "code": "56710"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Hoà",
+        "districtFullName": "Huyện Tây Hoà",
+        "districtNameEn": "Tay Hoa",
+        "districtCode": "562",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Hoa My",
+        "nameVi": "Hoà Mỹ",
+        "fullNameEn": "Hoa My Commune",
+        "fullNameVi": "Xã Hoà Mỹ",
+        "nameSearchNormalized": "hoa my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22285",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Hoa My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Mỹ",
+        "type": "Commune",
+        "code": "56718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Hoà",
+        "districtFullName": "Huyện Tây Hoà",
+        "districtNameEn": "Tay Hoa",
+        "districtCode": "562",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56818",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Hoa Xuan",
+        "nameVi": "Hoà Xuân",
+        "fullNameEn": "Hoa Xuan Commune",
+        "fullNameVi": "Xã Hoà Xuân",
+        "nameSearchNormalized": "hoa xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22291",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Xuân",
+        "type": "Commune",
+        "code": "56818"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hòa",
+        "districtFullName": "Thị xã Đông Hòa",
+        "districtNameEn": "Dong Hoa",
+        "districtCode": "564",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56916",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Phu Hoa 2",
+        "nameVi": "Phú Hoà 2",
+        "fullNameEn": "Commune Phu Hoa 2",
+        "fullNameVi": "Xã Phú Hoà 2",
+        "nameSearchNormalized": "phu hoa 2",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22303",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Phu Hoa 2 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hoà 2",
+        "type": "Commune",
+        "code": "56916"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Hoà",
+        "districtFullName": "Huyện Phú Hoà",
+        "districtNameEn": "Phu Hoa",
+        "districtCode": "563",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "56915",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Phu Hoa 1",
+        "nameVi": "Phú Hoà 1",
+        "fullNameEn": "Commune Phu Hoa 1",
+        "fullNameVi": "Xã Phú Hoà 1",
+        "nameSearchNormalized": "phu hoa 1",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "22319",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Phu Hoa 1 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hoà 1",
+        "type": "Commune",
+        "code": "56915"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Hoà",
+        "districtFullName": "Huyện Phú Hoà",
+        "districtNameEn": "Phu Hoa",
+        "districtCode": "563",
+        "legacyProvinceName": "Phú Yên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63108",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tan Lap",
+        "nameVi": "Tân Lập",
+        "fullNameEn": "Tan Lap Ward",
+        "fullNameVi": "Phường Tân Lập",
+        "nameSearchNormalized": "tan lap",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24121",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tan Lap Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tân Lập",
+        "type": "Ward",
+        "code": "63108"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Ma Thuột",
+        "districtFullName": "Thành phố Buôn Ma Thuột",
+        "districtNameEn": "Buon Ma Thuot",
+        "districtCode": "643",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63127",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Buon Ma Thuot",
+        "nameVi": "Buôn Ma Thuột",
+        "fullNameEn": "Buon Ma Thuot Ward",
+        "fullNameVi": "Phường Buôn Ma Thuột",
+        "nameSearchNormalized": "buon ma thuot",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24133",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Buon Ma Thuot Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Buôn Ma Thuột",
+        "type": "Ward",
+        "code": "63127"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Ma Thuột",
+        "districtFullName": "Thành phố Buôn Ma Thuột",
+        "districtNameEn": "Buon Ma Thuot",
+        "districtCode": "643",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Thanh Nhat",
+        "nameVi": "Thành Nhất",
+        "fullNameEn": "Thanh Nhat Ward",
+        "fullNameVi": "Phường Thành Nhất",
+        "nameSearchNormalized": "thanh nhat",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24154",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Nhat Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thành Nhất",
+        "type": "Ward",
+        "code": "63116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Ma Thuột",
+        "districtFullName": "Thành phố Buôn Ma Thuột",
+        "districtNameEn": "Buon Ma Thuot",
+        "districtCode": "643",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63109",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tan An",
+        "nameVi": "Tân An",
+        "fullNameEn": "Tan An Ward",
+        "fullNameVi": "Phường Tân An",
+        "nameSearchNormalized": "tan an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24163",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tan An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tân An",
+        "type": "Ward",
+        "code": "63109"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Ma Thuột",
+        "districtFullName": "Thành phố Buôn Ma Thuột",
+        "districtNameEn": "Buon Ma Thuot",
+        "districtCode": "643",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Kao",
+        "nameVi": "Ea Kao",
+        "fullNameEn": "Ea Kao Ward",
+        "fullNameVi": "Phường Ea Kao",
+        "nameSearchNormalized": "ea kao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24169",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Kao Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Ea Kao",
+        "type": "Ward",
+        "code": "63123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Ma Thuột",
+        "districtFullName": "Thành phố Buôn Ma Thuột",
+        "districtNameEn": "Buon Ma Thuot",
+        "districtCode": "643",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63121",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Hoa Phu",
+        "nameVi": "Hoà Phú",
+        "fullNameEn": "Hoa Phu Commune",
+        "fullNameVi": "Xã Hoà Phú",
+        "nameSearchNormalized": "hoa phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24175",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Phú",
+        "type": "Commune",
+        "code": "63121"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Ma Thuột",
+        "districtFullName": "Thành phố Buôn Ma Thuột",
+        "districtNameEn": "Buon Ma Thuot",
+        "districtCode": "643",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Drang",
+        "nameVi": "Ea Drăng",
+        "fullNameEn": "Ea Drang Commune",
+        "fullNameVi": "Xã Ea Drăng",
+        "nameSearchNormalized": "ea drang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24181",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Drang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Drăng",
+        "type": "Commune",
+        "code": "63606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea H'leo",
+        "districtFullName": "Huyện Ea H'leo",
+        "districtNameEn": "Ea H'leo",
+        "districtCode": "645",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63614",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea H'Leo",
+        "nameVi": "Ea H'Leo",
+        "fullNameEn": "Ea H'Leo Commune",
+        "fullNameVi": "Xã Ea H'Leo",
+        "nameSearchNormalized": "ea h'leo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24184",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea H'Leo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea H'Leo",
+        "type": "Commune",
+        "code": "63614"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea H'leo",
+        "districtFullName": "Huyện Ea H'leo",
+        "districtNameEn": "Ea H'leo",
+        "districtCode": "645",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Hiao",
+        "nameVi": "Ea Hiao",
+        "fullNameEn": "Ea Hiao Commune",
+        "fullNameVi": "Xã Ea Hiao",
+        "nameSearchNormalized": "ea hiao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24187",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Hiao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Hiao",
+        "type": "Commune",
+        "code": "63612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea H'leo",
+        "districtFullName": "Huyện Ea H'leo",
+        "districtNameEn": "Ea H'leo",
+        "districtCode": "645",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Wy",
+        "nameVi": "Ea Wy",
+        "fullNameEn": "Ea Wy Commune",
+        "fullNameVi": "Xã Ea Wy",
+        "nameSearchNormalized": "ea wy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24193",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Wy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Wy",
+        "type": "Commune",
+        "code": "63615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea H'leo",
+        "districtFullName": "Huyện Ea H'leo",
+        "districtNameEn": "Ea H'leo",
+        "districtCode": "645",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63609",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Khal",
+        "nameVi": "Ea Khăl",
+        "fullNameEn": "Ea Khal Commune",
+        "fullNameVi": "Xã Ea Khăl",
+        "nameSearchNormalized": "ea khal",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24208",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Khal Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Khăl",
+        "type": "Commune",
+        "code": "63609"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea H'leo",
+        "districtFullName": "Huyện Ea H'leo",
+        "districtNameEn": "Ea H'leo",
+        "districtCode": "645",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Sup",
+        "nameVi": "Ea Súp",
+        "fullNameEn": "Ea Sup Commune",
+        "fullNameVi": "Xã Ea Súp",
+        "nameSearchNormalized": "ea sup",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24211",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Sup Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Súp",
+        "type": "Commune",
+        "code": "63706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Súp",
+        "districtFullName": "Huyện Ea Súp",
+        "districtNameEn": "Ea Sup",
+        "districtCode": "646",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ia Lop",
+        "nameVi": "Ia Lốp",
+        "fullNameEn": "Ia Lop Commune",
+        "fullNameVi": "Xã Ia Lốp",
+        "nameSearchNormalized": "ia lop",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24214",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ia Lop Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ia Lốp",
+        "type": "Commune",
+        "code": "63711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Súp",
+        "districtFullName": "Huyện Ea Súp",
+        "districtNameEn": "Ea Sup",
+        "districtCode": "646",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63709",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Rok",
+        "nameVi": "Ea Rốk",
+        "fullNameEn": "Ea Rok Commune",
+        "fullNameVi": "Xã Ea Rốk",
+        "nameSearchNormalized": "ea rok",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24217",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Rok Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Rốk",
+        "type": "Commune",
+        "code": "63709"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Súp",
+        "districtFullName": "Huyện Ea Súp",
+        "districtNameEn": "Ea Sup",
+        "districtCode": "646",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63713",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ia Rve",
+        "nameVi": "Ia Rvê",
+        "fullNameEn": "Ia Rve Commune",
+        "fullNameVi": "Xã Ia Rvê",
+        "nameSearchNormalized": "ia rve",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24221",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ia Rve Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ia Rvê",
+        "type": "Commune",
+        "code": "63713"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Súp",
+        "districtFullName": "Huyện Ea Súp",
+        "districtNameEn": "Ea Sup",
+        "districtCode": "646",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Bung",
+        "nameVi": "Ea Bung",
+        "fullNameEn": "Ea Bung Commune",
+        "fullNameVi": "Xã Ea Bung",
+        "nameSearchNormalized": "ea bung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24229",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Bung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Bung",
+        "type": "Commune",
+        "code": "63714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Súp",
+        "districtFullName": "Huyện Ea Súp",
+        "districtNameEn": "Ea Sup",
+        "districtCode": "646",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63812",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Buon Don",
+        "nameVi": "Buôn Đôn",
+        "fullNameEn": "Buon Don Commune",
+        "fullNameVi": "Xã Buôn Đôn",
+        "nameSearchNormalized": "buon don",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24235",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Buon Don Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Buôn Đôn",
+        "type": "Commune",
+        "code": "63812"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Đôn",
+        "districtFullName": "Huyện Buôn Đôn",
+        "districtNameEn": "Buon Don",
+        "districtCode": "647",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Wer",
+        "nameVi": "Ea Wer",
+        "fullNameEn": "Ea Wer Commune",
+        "fullNameVi": "Xã Ea Wer",
+        "nameSearchNormalized": "ea wer",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24241",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Wer Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Wer",
+        "type": "Commune",
+        "code": "63806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Đôn",
+        "districtFullName": "Huyện Buôn Đôn",
+        "districtNameEn": "Buon Don",
+        "districtCode": "647",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63808",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Nuol",
+        "nameVi": "Ea Nuôl",
+        "fullNameEn": "Ea Nuol Commune",
+        "fullNameVi": "Xã Ea Nuôl",
+        "nameSearchNormalized": "ea nuol",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24250",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Nuol Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Nuôl",
+        "type": "Commune",
+        "code": "63808"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Đôn",
+        "districtFullName": "Huyện Buôn Đôn",
+        "districtNameEn": "Buon Don",
+        "districtCode": "647",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Quang Phu",
+        "nameVi": "Quảng Phú",
+        "fullNameEn": "Quang Phu Commune",
+        "fullNameVi": "Xã Quảng Phú",
+        "nameSearchNormalized": "quang phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24259",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Quang Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quảng Phú",
+        "type": "Commune",
+        "code": "63906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư M'gar",
+        "districtFullName": "Huyện Cư M'gar",
+        "districtNameEn": "Cu M'gar",
+        "districtCode": "648",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63916",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Kiet",
+        "nameVi": "Ea Kiết",
+        "fullNameEn": "Ea Kiet Commune",
+        "fullNameVi": "Xã Ea Kiết",
+        "nameSearchNormalized": "ea kiet",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24265",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Kiet Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Kiết",
+        "type": "Commune",
+        "code": "63916"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư M'gar",
+        "districtFullName": "Huyện Cư M'gar",
+        "districtNameEn": "Cu M'gar",
+        "districtCode": "648",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63920",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Tul",
+        "nameVi": "Ea Tul",
+        "fullNameEn": "Ea Tul Commune",
+        "fullNameVi": "Xã Ea Tul",
+        "nameSearchNormalized": "ea tul",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24277",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Tul Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Tul",
+        "type": "Commune",
+        "code": "63920"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư M'gar",
+        "districtFullName": "Huyện Cư M'gar",
+        "districtNameEn": "Cu M'gar",
+        "districtCode": "648",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63912",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu M'gar",
+        "nameVi": "Cư M'gar",
+        "fullNameEn": "Cu M'gar Commune",
+        "fullNameVi": "Xã Cư M'gar",
+        "nameSearchNormalized": "cu m'gar",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24280",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu M'gar Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cư M'gar",
+        "type": "Commune",
+        "code": "63912"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư M'gar",
+        "districtFullName": "Huyện Cư M'gar",
+        "districtNameEn": "Cu M'gar",
+        "districtCode": "648",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63915",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea M'Droh",
+        "nameVi": "Ea M'Droh",
+        "fullNameEn": "Ea M'Droh Commune",
+        "fullNameVi": "Xã Ea M'Droh",
+        "nameSearchNormalized": "ea m'droh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24286",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea M'Droh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea M'Droh",
+        "type": "Commune",
+        "code": "63915"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư M'gar",
+        "districtFullName": "Huyện Cư M'gar",
+        "districtNameEn": "Cu M'gar",
+        "districtCode": "648",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63922",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cuor Dang",
+        "nameVi": "Cuôr Đăng",
+        "fullNameEn": "Cuor Dang Commune",
+        "fullNameVi": "Xã Cuôr Đăng",
+        "nameSearchNormalized": "cuor dang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24301",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cuor Dang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cuôr Đăng",
+        "type": "Commune",
+        "code": "63922"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư M'gar",
+        "districtFullName": "Huyện Cư M'gar",
+        "districtNameEn": "Cu M'gar",
+        "districtCode": "648",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64018",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Buon Ho",
+        "nameVi": "Buôn Hồ",
+        "fullNameEn": "Buon Ho Ward",
+        "fullNameVi": "Phường Buôn Hồ",
+        "nameSearchNormalized": "buon ho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24305",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Buon Ho Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Buôn Hồ",
+        "type": "Ward",
+        "code": "64018"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Hồ",
+        "districtFullName": "Thị xã Buôn Hồ",
+        "districtNameEn": "Buon Ho",
+        "districtCode": "644",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong Buk",
+        "nameVi": "Krông Búk",
+        "fullNameEn": "Krong Buk Commune",
+        "fullNameVi": "Xã Krông Búk",
+        "nameSearchNormalized": "krong buk",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24310",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong Buk Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Búk",
+        "type": "Commune",
+        "code": "63513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Búk",
+        "districtFullName": "Huyện Krông Búk",
+        "districtNameEn": "Krong Buk",
+        "districtCode": "649",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63509",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu Pong",
+        "nameVi": "Cư Pơng",
+        "fullNameEn": "Cu Pong Commune",
+        "fullNameVi": "Xã Cư Pơng",
+        "nameSearchNormalized": "cu pong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24313",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu Pong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cư Pơng",
+        "type": "Commune",
+        "code": "63509"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Búk",
+        "districtFullName": "Huyện Krông Búk",
+        "districtNameEn": "Krong Buk",
+        "districtCode": "649",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63511",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Pong Drang",
+        "nameVi": "Pơng Drang",
+        "fullNameEn": "Pong Drang Commune",
+        "fullNameVi": "Xã Pơng Drang",
+        "nameSearchNormalized": "pong drang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24316",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Pong Drang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Pơng Drang",
+        "type": "Commune",
+        "code": "63511"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Búk",
+        "districtFullName": "Huyện Krông Búk",
+        "districtNameEn": "Krong Buk",
+        "districtCode": "649",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64017",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Drong",
+        "nameVi": "Ea Drông",
+        "fullNameEn": "Ea Drong Commune",
+        "fullNameVi": "Xã Ea Drông",
+        "nameSearchNormalized": "ea drong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24328",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Drong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Drông",
+        "type": "Commune",
+        "code": "64017"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Hồ",
+        "districtFullName": "Thị xã Buôn Hồ",
+        "districtNameEn": "Buon Ho",
+        "districtCode": "644",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64014",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu Bao",
+        "nameVi": "Cư Bao",
+        "fullNameEn": "Cu Bao Ward",
+        "fullNameVi": "Phường Cư Bao",
+        "nameSearchNormalized": "cu bao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "24340",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu Bao Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cư Bao",
+        "type": "Ward",
+        "code": "64014"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Buôn Hồ",
+        "districtFullName": "Thị xã Buôn Hồ",
+        "districtNameEn": "Buon Ho",
+        "districtCode": "644",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong Nang",
+        "nameVi": "Krông Năng",
+        "fullNameEn": "Krong Nang Commune",
+        "fullNameVi": "Xã Krông Năng",
+        "nameSearchNormalized": "krong nang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24343",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong Nang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Năng",
+        "type": "Commune",
+        "code": "63406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Năng",
+        "districtFullName": "Huyện Krông Năng",
+        "districtNameEn": "Krong Nang",
+        "districtCode": "650",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dlie Ya",
+        "nameVi": "Dliê Ya",
+        "fullNameEn": "Dlie Ya Commune",
+        "fullNameVi": "Xã Dliê Ya",
+        "nameSearchNormalized": "dlie ya",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24346",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dlie Ya Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dliê Ya",
+        "type": "Commune",
+        "code": "63415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Năng",
+        "districtFullName": "Huyện Krông Năng",
+        "districtNameEn": "Krong Nang",
+        "districtCode": "650",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tam Giang",
+        "nameVi": "Tam Giang",
+        "fullNameEn": "Tam Giang Commune",
+        "fullNameVi": "Xã Tam Giang",
+        "nameSearchNormalized": "tam giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24352",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tam Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Giang",
+        "type": "Commune",
+        "code": "63410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Năng",
+        "districtFullName": "Huyện Krông Năng",
+        "districtNameEn": "Krong Nang",
+        "districtCode": "650",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63407",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Phu Xuan",
+        "nameVi": "Phú Xuân",
+        "fullNameEn": "Phu Xuan Commune",
+        "fullNameVi": "Xã Phú Xuân",
+        "nameSearchNormalized": "phu xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24364",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Phu Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Xuân",
+        "type": "Commune",
+        "code": "63407"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Năng",
+        "districtFullName": "Huyện Krông Năng",
+        "districtNameEn": "Krong Nang",
+        "districtCode": "650",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Kar",
+        "nameVi": "Ea Kar",
+        "fullNameEn": "Ea Kar Commune",
+        "fullNameVi": "Xã Ea Kar",
+        "nameSearchNormalized": "ea kar",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24373",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Kar Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Kar",
+        "type": "Commune",
+        "code": "63306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Kar",
+        "districtFullName": "Huyện Ea Kar",
+        "districtNameEn": "Ea Kar",
+        "districtCode": "651",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Knop",
+        "nameVi": "Ea Knốp",
+        "fullNameEn": "Ea Knop Commune",
+        "fullNameVi": "Xã Ea Knốp",
+        "nameSearchNormalized": "ea knop",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24376",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Knop Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Knốp",
+        "type": "Commune",
+        "code": "63313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Kar",
+        "districtFullName": "Huyện Ea Kar",
+        "districtNameEn": "Ea Kar",
+        "districtCode": "651",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Pal",
+        "nameVi": "Ea Păl",
+        "fullNameEn": "Ea Pal Commune",
+        "fullNameVi": "Xã Ea Păl",
+        "nameSearchNormalized": "ea pal",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24400",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Pal Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Păl",
+        "type": "Commune",
+        "code": "63317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Kar",
+        "districtFullName": "Huyện Ea Kar",
+        "districtNameEn": "Ea Kar",
+        "districtCode": "651",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea O",
+        "nameVi": "Ea Ô",
+        "fullNameEn": "Ea O Commune",
+        "fullNameVi": "Xã Ea Ô",
+        "nameSearchNormalized": "ea o",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24403",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea O Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Ô",
+        "type": "Commune",
+        "code": "63316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Kar",
+        "districtFullName": "Huyện Ea Kar",
+        "districtNameEn": "Ea Kar",
+        "districtCode": "651",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63319",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu Yang",
+        "nameVi": "Cư Yang",
+        "fullNameEn": "Cu Yang Commune",
+        "fullNameVi": "Xã Cư Yang",
+        "nameSearchNormalized": "cu yang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24406",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu Yang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cư Yang",
+        "type": "Commune",
+        "code": "63319"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ea Kar",
+        "districtFullName": "Huyện Ea Kar",
+        "districtNameEn": "Ea Kar",
+        "districtCode": "651",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "M'Drak",
+        "nameVi": "M'Drắk",
+        "fullNameEn": "M'Drak Commune",
+        "fullNameVi": "Xã M'Drắk",
+        "nameSearchNormalized": "m'drak",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24412",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "M'Drak Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã M'Drắk",
+        "type": "Commune",
+        "code": "64506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "M'Đrắk",
+        "districtFullName": "Huyện M'Đrắk",
+        "districtNameEn": "M'Drak",
+        "districtCode": "652",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64518",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu Prao",
+        "nameVi": "Cư Prao",
+        "fullNameEn": "Cu Prao Commune",
+        "fullNameVi": "Xã Cư Prao",
+        "nameSearchNormalized": "cu prao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24415",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu Prao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cư Prao",
+        "type": "Commune",
+        "code": "64518"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "M'Đrắk",
+        "districtFullName": "Huyện M'Đrắk",
+        "districtNameEn": "M'Drak",
+        "districtCode": "652",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Rieng",
+        "nameVi": "Ea Riêng",
+        "fullNameEn": "Ea Rieng Commune",
+        "fullNameVi": "Xã Ea Riêng",
+        "nameSearchNormalized": "ea rieng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24433",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Rieng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Riêng",
+        "type": "Commune",
+        "code": "64508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "M'Đrắk",
+        "districtFullName": "Huyện M'Đrắk",
+        "districtNameEn": "M'Drak",
+        "districtCode": "652",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64507",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu M'ta",
+        "nameVi": "Cư M'ta",
+        "fullNameEn": "Cu M'ta Commune",
+        "fullNameVi": "Xã Cư M'ta",
+        "nameSearchNormalized": "cu m'ta",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24436",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu M'ta Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cư M'ta",
+        "type": "Commune",
+        "code": "64507"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "M'Đrắk",
+        "districtFullName": "Huyện M'Đrắk",
+        "districtNameEn": "M'Drak",
+        "districtCode": "652",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong A",
+        "nameVi": "Krông Á",
+        "fullNameEn": "Krong A Commune",
+        "fullNameVi": "Xã Krông Á",
+        "nameSearchNormalized": "krong a",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24444",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong A Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Á",
+        "type": "Commune",
+        "code": "64510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "M'Đrắk",
+        "districtFullName": "Huyện M'Đrắk",
+        "districtNameEn": "M'Drak",
+        "districtCode": "652",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64512",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Trang",
+        "nameVi": "Ea Trang",
+        "fullNameEn": "Ea Trang Commune",
+        "fullNameVi": "Xã Ea Trang",
+        "nameSearchNormalized": "ea trang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24445",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Trang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Trang",
+        "type": "Commune",
+        "code": "64512"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "M'Đrắk",
+        "districtFullName": "Huyện M'Đrắk",
+        "districtNameEn": "M'Drak",
+        "districtCode": "652",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64420",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong Bong",
+        "nameVi": "Krông Bông",
+        "fullNameEn": "Krong Bong Commune",
+        "fullNameVi": "Xã Krông Bông",
+        "nameSearchNormalized": "krong bong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24448",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong Bong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Bông",
+        "type": "Commune",
+        "code": "64420"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Bông",
+        "districtFullName": "Huyện Krông Bông",
+        "districtNameEn": "Krong Bong",
+        "districtCode": "653",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dang Kang",
+        "nameVi": "Dang Kang",
+        "fullNameEn": "Dang Kang Commune",
+        "fullNameVi": "Xã Dang Kang",
+        "nameSearchNormalized": "dang kang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24454",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dang Kang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dang Kang",
+        "type": "Commune",
+        "code": "64413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Bông",
+        "districtFullName": "Huyện Krông Bông",
+        "districtNameEn": "Krong Bong",
+        "districtCode": "653",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64408",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Hoa Son",
+        "nameVi": "Hoà Sơn",
+        "fullNameEn": "Hoa Son Commune",
+        "fullNameVi": "Xã Hoà Sơn",
+        "nameSearchNormalized": "hoa son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24472",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Sơn",
+        "type": "Commune",
+        "code": "64408"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Bông",
+        "districtFullName": "Huyện Krông Bông",
+        "districtNameEn": "Krong Bong",
+        "districtCode": "653",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Cu Pui",
+        "nameVi": "Cư Pui",
+        "fullNameEn": "Cu Pui Commune",
+        "fullNameVi": "Xã Cư Pui",
+        "nameSearchNormalized": "cu pui",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24478",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Cu Pui Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cư Pui",
+        "type": "Commune",
+        "code": "64417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Bông",
+        "districtFullName": "Huyện Krông Bông",
+        "districtNameEn": "Krong Bong",
+        "districtCode": "653",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64419",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Yang Mao",
+        "nameVi": "Yang Mao",
+        "fullNameEn": "Yang Mao Commune",
+        "fullNameVi": "Xã Yang Mao",
+        "nameSearchNormalized": "yang mao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24484",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Yang Mao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yang Mao",
+        "type": "Commune",
+        "code": "64419"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Bông",
+        "districtFullName": "Huyện Krông Bông",
+        "districtNameEn": "Krong Bong",
+        "districtCode": "653",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63222",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong Pac",
+        "nameVi": "Krông Pắc",
+        "fullNameEn": "Krong Pac Commune",
+        "fullNameVi": "Xã Krông Pắc",
+        "nameSearchNormalized": "krong pac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24490",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong Pac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Pắc",
+        "type": "Commune",
+        "code": "63222"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Pắc",
+        "districtFullName": "Huyện Krông Pắc",
+        "districtNameEn": "Krong Pac",
+        "districtCode": "654",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63210",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Kly",
+        "nameVi": "Ea Kly",
+        "fullNameEn": "Ea Kly Commune",
+        "fullNameVi": "Xã Ea Kly",
+        "nameSearchNormalized": "ea kly",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24496",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Kly Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Kly",
+        "type": "Commune",
+        "code": "63210"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Pắc",
+        "districtFullName": "Huyện Krông Pắc",
+        "districtNameEn": "Krong Pac",
+        "districtCode": "654",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63208",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Phe",
+        "nameVi": "Ea Phê",
+        "fullNameEn": "Ea Phe Commune",
+        "fullNameVi": "Xã Ea Phê",
+        "nameSearchNormalized": "ea phe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24502",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Phe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Phê",
+        "type": "Commune",
+        "code": "63208"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Pắc",
+        "districtFullName": "Huyện Krông Pắc",
+        "districtNameEn": "Krong Pac",
+        "districtCode": "654",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63220",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Knuec",
+        "nameVi": "Ea Knuếc",
+        "fullNameEn": "Ea Knuec Commune",
+        "fullNameVi": "Xã Ea Knuếc",
+        "nameSearchNormalized": "ea knuec",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24505",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Knuec Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Knuếc",
+        "type": "Commune",
+        "code": "63220"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Pắc",
+        "districtFullName": "Huyện Krông Pắc",
+        "districtNameEn": "Krong Pac",
+        "districtCode": "654",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Tan Tien",
+        "nameVi": "Tân Tiến",
+        "fullNameEn": "Tan Tien Commune",
+        "fullNameVi": "Xã Tân Tiến",
+        "nameSearchNormalized": "tan tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24526",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Tan Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Tiến",
+        "type": "Commune",
+        "code": "63216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Pắc",
+        "districtFullName": "Huyện Krông Pắc",
+        "districtNameEn": "Krong Pac",
+        "districtCode": "654",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63212",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Vu Bon",
+        "nameVi": "Vụ Bổn",
+        "fullNameEn": "Vu Bon Commune",
+        "fullNameVi": "Xã Vụ Bổn",
+        "nameSearchNormalized": "vu bon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24529",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Vu Bon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vụ Bổn",
+        "type": "Commune",
+        "code": "63212"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông Pắc",
+        "districtFullName": "Huyện Krông Pắc",
+        "districtNameEn": "Krong Pac",
+        "districtCode": "654",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong Ana",
+        "nameVi": "Krông Ana",
+        "fullNameEn": "Krong Ana Commune",
+        "fullNameVi": "Xã Krông Ana",
+        "nameSearchNormalized": "krong ana",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24538",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong Ana Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Ana",
+        "type": "Commune",
+        "code": "64214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông A Na",
+        "districtFullName": "Huyện Krông A Na",
+        "districtNameEn": "Krong A Na",
+        "districtCode": "655",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Ning",
+        "nameVi": "Ea Ning",
+        "fullNameEn": "Ea Ning Commune",
+        "fullNameVi": "Xã Ea Ning",
+        "nameSearchNormalized": "ea ning",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24540",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Ning Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Ning",
+        "type": "Commune",
+        "code": "64112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư Kuin",
+        "districtFullName": "Huyện Cư Kuin",
+        "districtNameEn": "Cu Kuin",
+        "districtCode": "657",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64113",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Ktur",
+        "nameVi": "Ea Ktur",
+        "fullNameEn": "Ea Ktur Commune",
+        "fullNameVi": "Xã Ea Ktur",
+        "nameSearchNormalized": "ea ktur",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24544",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Ktur Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Ktur",
+        "type": "Commune",
+        "code": "64113"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư Kuin",
+        "districtFullName": "Huyện Cư Kuin",
+        "districtNameEn": "Cu Kuin",
+        "districtCode": "657",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64212",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Ea Na",
+        "nameVi": "Ea Na",
+        "fullNameEn": "Ea Na Commune",
+        "fullNameVi": "Xã Ea Na",
+        "nameSearchNormalized": "ea na",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24559",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Ea Na Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ea Na",
+        "type": "Commune",
+        "code": "64212"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông A Na",
+        "districtFullName": "Huyện Krông A Na",
+        "districtNameEn": "Krong A Na",
+        "districtCode": "655",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64106",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dray Bhang",
+        "nameVi": "Dray Bhăng",
+        "fullNameEn": "Dray Bhang Commune",
+        "fullNameVi": "Xã Dray Bhăng",
+        "nameSearchNormalized": "dray bhang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24561",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dray Bhang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dray Bhăng",
+        "type": "Commune",
+        "code": "64106"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cư Kuin",
+        "districtFullName": "Huyện Cư Kuin",
+        "districtNameEn": "Cu Kuin",
+        "districtCode": "657",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dur Kmal",
+        "nameVi": "Dur Kmăl",
+        "fullNameEn": "Dur Kmal Commune",
+        "fullNameVi": "Xã Dur Kmăl",
+        "nameSearchNormalized": "dur kmal",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24568",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dur Kmal Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dur Kmăl",
+        "type": "Commune",
+        "code": "64209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Krông A Na",
+        "districtFullName": "Huyện Krông A Na",
+        "districtNameEn": "Krong A Na",
+        "districtCode": "655",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Lien Son Lak",
+        "nameVi": "Liên Sơn Lắk",
+        "fullNameEn": "Lien Son Lak Commune",
+        "fullNameVi": "Xã Liên Sơn Lắk",
+        "nameSearchNormalized": "lien son lak",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24580",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Lien Son Lak Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Liên Sơn Lắk",
+        "type": "Commune",
+        "code": "64317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lắk",
+        "districtFullName": "Huyện Lắk",
+        "districtNameEn": "Lak",
+        "districtCode": "656",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64307",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dak Lieng",
+        "nameVi": "Đắk Liêng",
+        "fullNameEn": "Dak Lieng Commune",
+        "fullNameVi": "Xã Đắk Liêng",
+        "nameSearchNormalized": "dak lieng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24595",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dak Lieng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đắk Liêng",
+        "type": "Commune",
+        "code": "64307"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lắk",
+        "districtFullName": "Huyện Lắk",
+        "districtNameEn": "Lak",
+        "districtCode": "656",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Dak Phoi",
+        "nameVi": "Đắk Phơi",
+        "fullNameEn": "Dak Phoi Commune",
+        "fullNameVi": "Xã Đắk Phơi",
+        "nameSearchNormalized": "dak phoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24598",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Dak Phoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đắk Phơi",
+        "type": "Commune",
+        "code": "64313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lắk",
+        "districtFullName": "Huyện Lắk",
+        "districtNameEn": "Lak",
+        "districtCode": "656",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64314",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Krong No",
+        "nameVi": "Krông Nô",
+        "fullNameEn": "Krong No Commune",
+        "fullNameVi": "Xã Krông Nô",
+        "nameSearchNormalized": "krong no",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24604",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Krong No Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Krông Nô",
+        "type": "Commune",
+        "code": "64314"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lắk",
+        "districtFullName": "Huyện Lắk",
+        "districtNameEn": "Lak",
+        "districtCode": "656",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "64311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dak Lak",
+        "nameVi": "Đắk Lắk",
+        "fullNameEn": "Dak Lak Province",
+        "fullNameVi": "Tỉnh Đắk Lắk",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "66"
+      },
+      "commune": {
+        "nameEn": "Nam Ka",
+        "nameVi": "Nam Ka",
+        "fullNameEn": "Nam Ka Commune",
+        "fullNameVi": "Xã Nam Ka",
+        "nameSearchNormalized": "nam ka",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "24607",
+        "provinceCode": "66"
+      },
+      "postalObject": {
+        "nameEn": "Nam Ka Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Ka",
+        "type": "Commune",
+        "code": "64311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lắk",
+        "districtFullName": "Huyện Lắk",
+        "districtNameEn": "Lak",
+        "districtCode": "656",
+        "legacyProvinceName": "Đắk Lắk",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

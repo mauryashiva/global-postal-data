@@ -1,0 +1,783 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Paktia",
+    "nameNative": "پکتیا",
+    "isoCode": "AF-PIA",
+    "postalPrefix": "22",
+    "capital": "Gardez",
+    "capitalNative": "گردیز",
+    "coordinates": {
+      "latitude": 33.6062,
+      "longitude": 69.2144
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 20,
+    "totalRecords": 20,
+    "urbanRecords": 6,
+    "ruralRecords": 14
+  },
+  "records": [
+    {
+      "postalCode": "220101",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Gardez - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-PIA-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Gardez District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-220101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "220201",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Gardez - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-PIA-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Gardez District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-220201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "220301",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Gardez - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-PIA-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Gardez District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-220301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "220401",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Gardez - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-PIA-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Gardez District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-220401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "220501",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Gardez - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-PIA-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Gardez District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-220501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "220601",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Gardez - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-PIA-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Gardez District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-220601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225101",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Zurmat District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-51"
+      },
+      "locality": {
+        "nameEn": "Zurmat Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zurmat District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225201",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Shawak District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-52"
+      },
+      "locality": {
+        "nameEn": "Shawak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shawak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225301",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Lijamangal District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-53"
+      },
+      "locality": {
+        "nameEn": "Lijamangal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Lijamangal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225401",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Sayedkaram District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-54"
+      },
+      "locality": {
+        "nameEn": "Sayedkaram Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sayedkaram District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225501",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Ahmadaba District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-55"
+      },
+      "locality": {
+        "nameEn": "Ahmadaba Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ahmadaba District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225601",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Lija Ahmad Khel District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-56"
+      },
+      "locality": {
+        "nameEn": "Lija Ahmad Khel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Lija Ahmad Khel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225701",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Alikhel (Jaji) District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-57"
+      },
+      "locality": {
+        "nameEn": "Alikhel (Jaji) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Alikhel (Jaji) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225801",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Chamkani District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-58"
+      },
+      "locality": {
+        "nameEn": "Chamkani Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chamkani District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "225901",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Dand wa Patan District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-59"
+      },
+      "locality": {
+        "nameEn": "Dand wa Patan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dand wa Patan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-225901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "226001",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Janikhel District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-60"
+      },
+      "locality": {
+        "nameEn": "Janikhel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Janikhel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-226001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "226101",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Zadran District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-61"
+      },
+      "locality": {
+        "nameEn": "Zadran Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zadran District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-226101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "226201",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Merzaka District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-62"
+      },
+      "locality": {
+        "nameEn": "Merzaka Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Merzaka District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-226201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "226301",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "gadi-e-seray District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-63"
+      },
+      "locality": {
+        "nameEn": "gadi-e-seray Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "gadi-e-seray District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-226301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "226401",
+      "province": {
+        "nameEn": "Paktia",
+        "nameNative": "پکتیا",
+        "code": "AF-PIA",
+        "postalPrefix": "22"
+      },
+      "city": {
+        "nameEn": "Gardez",
+        "nameNative": "گردیز"
+      },
+      "district": {
+        "nameEn": "Rohani-baba District",
+        "type": "Rural Administrative District",
+        "code": "AF-PIA-64"
+      },
+      "locality": {
+        "nameEn": "Rohani-baba Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Rohani-baba District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6062,
+        "longitude": 69.2144
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-226401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "postcodeArea": "E",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "E1 6AN",
+      "postTown": "LONDON",
+      "locality": "Spitalfields",
+      "dependentLocality": "Shoreditch",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "London Borough of Tower Hamlets",
+      "district": "Tower Hamlets",
+      "civilParish": null,
+      "ward": "Spitalfields and Banglatown",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5205,
+        "longitude": -0.0754,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "E16AN-01",
+          "buildingName": "Old Spitalfields Market",
+          "buildingNumber": "16",
+          "subBuildingName": "Unit 4",
+          "thoroughfare": "Horner Square",
+          "postTown": "LONDON",
+          "postcode": "E1 6AN",
+          "fullAddressText": "Unit 4, Old Spitalfields Market, 16 Horner Square, London E1 6AN"
+        },
+        {
+          "addressId": "E16AN-02",
+          "buildingName": "Commercial Chambers",
+          "buildingNumber": "105",
+          "subBuildingName": "Flats 1-4",
+          "thoroughfare": "Commercial Street",
+          "postTown": "LONDON",
+          "postcode": "E1 6AN",
+          "fullAddressText": "105 Commercial Street, London E1 6AN"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "E1 6AN",
+        "outwardCode": "E1",
+        "inwardCode": "6AN",
+        "postcodeArea": "E",
+        "postcodeDistrict": "E1",
+        "postcodeSector": "E1 6"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-E1-6AN",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "E14 5AB",
+      "postTown": "LONDON",
+      "locality": "Canary Wharf",
+      "dependentLocality": "Isle of Dogs",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "London Borough of Tower Hamlets",
+      "district": "Tower Hamlets",
+      "civilParish": null,
+      "ward": "Canary Wharf",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5052,
+        "longitude": -0.0197,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "E145AB-01",
+          "buildingName": "One Canada Square",
+          "buildingNumber": "1",
+          "subBuildingName": "Level 28",
+          "thoroughfare": "Canada Square",
+          "postTown": "LONDON",
+          "postcode": "E14 5AB",
+          "fullAddressText": "Level 28, One Canada Square, Canary Wharf, London E14 5AB"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "E14 5AB",
+        "outwardCode": "E14",
+        "inwardCode": "5AB",
+        "postcodeArea": "E",
+        "postcodeDistrict": "E14",
+        "postcodeSector": "E14 5"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-E14-5AB",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

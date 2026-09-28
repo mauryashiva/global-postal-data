@@ -1,0 +1,166 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Ismailia",
+    "nameNative": "الإسماعيلية",
+    "isoCode": "EG-IS",
+    "postalPrefix": "41",
+    "capital": "Ismailia",
+    "capitalNative": "الإسماعيلية",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.6043,
+      "longitude": 32.2723
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 10
+  },
+  "records": [
+    {
+      "postalCode": "41511",
+      "governorate": {
+        "nameEn": "Ismailia",
+        "nameNative": "الإسماعيلية",
+        "code": "EG-IS",
+        "postalPrefix": "41",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Ismailia",
+        "nameNative": "الإسماعيلية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Ismailia 1",
+        "nameNative": "حي أول الإسماعيلية",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata",
+        "nameNative": "ميدان المحطة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Ismailia Main Post Office",
+        "nameNative": "مكتب بريد الإسماعيلية الرئيسي",
+        "type": "Main Post Office",
+        "code": "41511"
+      },
+      "areas": [
+        "Tahrir Square Ismailia",
+        "Suez Canal Authority HQ",
+        "Sultan Hussein St",
+        "Lake Timsah Boardwalk"
+      ],
+      "coordinates": {
+        "latitude": 30.6043,
+        "longitude": 32.2723
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ISMAILIA-41511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "41611",
+      "governorate": {
+        "nameEn": "Ismailia",
+        "nameNative": "الإسماعيلية",
+        "code": "EG-IS",
+        "postalPrefix": "41",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Fayed",
+        "nameNative": "فايد",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Fayed",
+        "nameNative": "مركز فايد",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Fayed City Center",
+        "nameNative": "وسط مدينة فايد",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Fayed Post Office",
+        "nameNative": "مكتب بريد فايد",
+        "type": "Sub Post Office",
+        "code": "41611"
+      },
+      "areas": [
+        "Great Bitter Lakes Shore",
+        "Fanara Village",
+        "Abu Sultan Agriculture"
+      ],
+      "coordinates": {
+        "latitude": 30.3245,
+        "longitude": 32.2989
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ISMAILIA-41611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "41618",
+      "governorate": {
+        "nameEn": "Ismailia",
+        "nameNative": "الإسماعيلية",
+        "code": "EG-IS",
+        "postalPrefix": "41",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Qantara Gharb",
+        "nameNative": "القنطرة غرب",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Qantara Gharb",
+        "nameNative": "مركز القنطرة غرب",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Qantara Commercial Market",
+        "nameNative": "سوق القنطرة التجاري",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Qantara Gharb Post Office",
+        "nameNative": "مكتب بريد القنطرة غرب",
+        "type": "Sub Post Office",
+        "code": "41618"
+      },
+      "areas": [
+        "Suez Canal Peace Bridge Approach",
+        "Wholesale Commercial District",
+        "Sinai Crossing Gate"
+      ],
+      "coordinates": {
+        "latitude": 30.8567,
+        "longitude": 32.3123
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ISMAILIA-41618",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

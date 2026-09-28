@@ -1,0 +1,110 @@
+{
+  "postcodeArea": "B",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "B33 8TH",
+      "postTown": "BIRMINGHAM",
+      "locality": "Stechford",
+      "dependentLocality": null,
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "West Midlands",
+      "ceremonialCounty": "West Midlands",
+      "localAuthority": "Birmingham City Council",
+      "district": "Birmingham",
+      "civilParish": null,
+      "ward": "Yardley East",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 52.4842,
+        "longitude": -1.7963,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "B338TH-01",
+          "buildingName": null,
+          "buildingNumber": "14",
+          "subBuildingName": null,
+          "thoroughfare": "Manor House Lane",
+          "postTown": "BIRMINGHAM",
+          "postcode": "B33 8TH",
+          "fullAddressText": "14 Manor House Lane, Birmingham B33 8TH"
+        },
+        {
+          "addressId": "B338TH-02",
+          "buildingName": null,
+          "buildingNumber": "16",
+          "subBuildingName": null,
+          "thoroughfare": "Manor House Lane",
+          "postTown": "BIRMINGHAM",
+          "postcode": "B33 8TH",
+          "fullAddressText": "16 Manor House Lane, Birmingham B33 8TH"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "B33 8TH",
+        "outwardCode": "B33",
+        "inwardCode": "8TH",
+        "postcodeArea": "B",
+        "postcodeDistrict": "B33",
+        "postcodeSector": "B33 8"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-B33-8TH",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "B1 1BB",
+      "postTown": "BIRMINGHAM",
+      "locality": "Victoria Square",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "West Midlands",
+      "ceremonialCounty": "West Midlands",
+      "localAuthority": "Birmingham City Council",
+      "district": "Birmingham",
+      "civilParish": null,
+      "ward": "Ladywood",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 52.4801,
+        "longitude": -1.9037,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "B11BB-01",
+          "buildingName": "Council House",
+          "buildingNumber": null,
+          "subBuildingName": "Lord Mayor's Parlour",
+          "thoroughfare": "Victoria Square",
+          "postTown": "BIRMINGHAM",
+          "postcode": "B1 1BB",
+          "fullAddressText": "Council House, Victoria Square, Birmingham B1 1BB"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "B1 1BB",
+        "outwardCode": "B1",
+        "inwardCode": "1BB",
+        "postcodeArea": "B",
+        "postcodeDistrict": "B1",
+        "postcodeSector": "B1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-B1-1BB",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "21",
+    "nameEn": "Gifu",
+    "nameJa": "岐阜県",
+    "nameKana": "ギフケン",
+    "nameRomaji": "Gifu-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Gifu",
+    "capitalJa": "岐阜市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "5000000",
+      "postalCodeFormatted": "500-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "21",
+      "prefectureNameEn": "Gifu",
+      "prefectureNameJa": "岐阜県",
+      "prefectureNameKana": "ギフケン",
+      "prefectureNameRomaji": "Gifu-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "21201",
+        "nameEn": "Gifu",
+        "nameJa": "岐阜市",
+        "nameKana": "ギフケシ",
+        "nameRomaji": "Gifu-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Gifu Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

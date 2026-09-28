@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "BS",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "BS1 5TR",
+      "postTown": "BRISTOL",
+      "locality": "College Green",
+      "dependentLocality": null,
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "South West",
+      "ceremonialCounty": "City of Bristol",
+      "localAuthority": "Bristol City Council",
+      "district": "Bristol",
+      "civilParish": null,
+      "ward": "Hotwells & Harbourside",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.4533,
+        "longitude": -2.6015,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "BS15TR-01",
+          "buildingName": "City Hall",
+          "buildingNumber": null,
+          "subBuildingName": "Lord Mayor's Office",
+          "thoroughfare": "College Green",
+          "postTown": "BRISTOL",
+          "postcode": "BS1 5TR",
+          "fullAddressText": "City Hall, College Green, Bristol BS1 5TR"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "BS1 5TR",
+        "outwardCode": "BS1",
+        "inwardCode": "5TR",
+        "postcodeArea": "BS",
+        "postcodeDistrict": "BS1",
+        "postcodeSector": "BS1 5"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-BS1-5TR",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

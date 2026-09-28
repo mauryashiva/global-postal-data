@@ -1,0 +1,199 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Missouri",
+    "abbreviation": "MO",
+    "fipsCode": "29",
+    "capital": "Jefferson City",
+    "largestCity": "Kansas City",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "314",
+      "417",
+      "573",
+      "636",
+      "660",
+      "816"
+    ],
+    "prefixes": [
+      "630",
+      "631",
+      "633",
+      "634",
+      "635",
+      "636",
+      "637",
+      "638",
+      "639",
+      "640",
+      "641",
+      "644",
+      "645",
+      "646",
+      "647",
+      "648",
+      "650",
+      "651",
+      "652",
+      "653",
+      "654",
+      "655",
+      "656",
+      "657",
+      "658"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-MO-64106-0",
+      "zip5": "64106",
+      "zip4": "1001",
+      "zipPlus4": "64106-1001",
+      "state": {
+        "nameEn": "Missouri",
+        "abbreviation": "MO",
+        "fipsCode": "29",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Kansas City",
+      "acceptableCities": [
+        "Kansas City"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Kansas City",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Jackson County",
+          "fipsCode": "29095",
+          "geoid": "29095"
+        }
+      ],
+      "primaryCounty": "Jackson County",
+      "zcta": {
+        "code": "64106"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Kansas City Main Post Office",
+        "address": "315 W Pershing Rd",
+        "phone": "(816) 374-9100",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 39.103,
+        "longitude": -94.583,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "314",
+          "417",
+          "573",
+          "636",
+          "660",
+          "816"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 15300
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MO-64106",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MO-63101-1",
+      "zip5": "63101",
+      "zip4": "1001",
+      "zipPlus4": "63101-1001",
+      "state": {
+        "nameEn": "Missouri",
+        "abbreviation": "MO",
+        "fipsCode": "29",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Saint Louis",
+      "acceptableCities": [
+        "Saint Louis",
+        "St Louis"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Saint Louis",
+          "status": "Primary"
+        },
+        {
+          "name": "St Louis",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "St. Louis City",
+          "fipsCode": "29510",
+          "geoid": "29510"
+        }
+      ],
+      "primaryCounty": "St. Louis City",
+      "zcta": {
+        "code": "63101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "St Louis Main Post Office",
+        "address": "1720 Market St",
+        "phone": "(314) 436-4114",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 38.627,
+        "longitude": -90.1994,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "314",
+          "417",
+          "573",
+          "636",
+          "660",
+          "816"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MO-63101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

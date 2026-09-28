@@ -1,0 +1,55 @@
+{
+  "prefix": "95",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "95111",
+      "province": {
+        "code": "71",
+        "nameEn": "North Sulawesi",
+        "nameId": "Sulawesi Utara",
+        "nameNative": "Sulawesi Utara",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "71.71",
+        "nameId": "Kota Manado",
+        "nameEn": "Manado",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "71.71.01",
+        "nameId": "Kecamatan Wenang",
+        "nameEn": "Wenang District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "71.71.01.1001",
+        "nameId": "Kelurahan Calaca",
+        "nameEn": "Calaca",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pasar 45 / Jembatan Soekarno Manado",
+        "nameEn": "Manado Waterfront Heritage"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Manado",
+        "nameEn": "Manado Main Post Office",
+        "code": "95000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-71-95111-71.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

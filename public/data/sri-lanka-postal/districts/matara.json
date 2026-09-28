@@ -1,0 +1,4617 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Matara",
+    "nameSi": "මාතර",
+    "nameTa": "மாத்தறை",
+    "administrativeType": "District",
+    "code": "LK-32"
+  },
+  "province": {
+    "nameEn": "Southern Province",
+    "nameSi": "දකුණු පළාත",
+    "nameTa": "தென் மாகாணம்",
+    "code": "LK-3"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Akuressa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Athuraliya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Devinuwara",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Dickwella",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Hakmana",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kamburupitiya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kirinda Puhulwella",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kotapola",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Malimbada",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Matara",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Mulatiyana",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Pasgoda",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Pitabeddara",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thihagoda",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Weligama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Welipitiya",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 68,
+    "totalRecords": 68,
+    "dsDivisionCount": 16
+  },
+  "postcodes": [
+    {
+      "postcode": "80132",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HAWPE",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Hawpe",
+            "nameSi": "හව්පෙ",
+            "nameTa": "ஹவ்பே"
+          },
+          "city": {
+            "nameEn": "Hawpe",
+            "nameSi": "හව්පෙ",
+            "nameTa": "ஹவ்பே"
+          },
+          "postcode": "80132",
+          "postOffice": {
+            "nameEn": "Hawpe Post Office",
+            "nameSi": "හව්පෙ තැපැල් කාර්යාලය",
+            "nameTa": "ஹவ்பே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80132"
+          },
+          "coordinates": {
+            "latitude": 6.1328852,
+            "longitude": 80.4896571
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Matara",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "MATARA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "city": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "postcode": "81000",
+          "postOffice": {
+            "nameEn": "Matara Post Office",
+            "nameSi": "මාතර තැපැල් කාර්යාලය",
+            "nameTa": "மாத்தறை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81000"
+          },
+          "coordinates": {
+            "latitude": 5.9495308,
+            "longitude": 80.5303931
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81017",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAIMANA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Naimana",
+            "nameSi": "නයිමන",
+            "nameTa": "நைமனா"
+          },
+          "city": {
+            "nameEn": "Naimana",
+            "nameSi": "නයිමන",
+            "nameTa": "நைமனா"
+          },
+          "postcode": "81017",
+          "postOffice": {
+            "nameEn": "Naimana Post Office",
+            "nameSi": "නයිමන තැපැල් කාර්යාලය",
+            "nameTa": "நைமனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81017"
+          },
+          "coordinates": {
+            "latitude": 5.9634458,
+            "longitude": 80.5658496
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81020",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KEKANADURA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kekanadura",
+            "nameSi": "කෙකනදුර",
+            "nameTa": "கேகனதுர"
+          },
+          "city": {
+            "nameEn": "Kekanadura",
+            "nameSi": "කෙකනදුර",
+            "nameTa": "கேகனதுர"
+          },
+          "postcode": "81020",
+          "postOffice": {
+            "nameEn": "Kekanadura Post Office",
+            "nameSi": "කෙකනදුර තැපැල් කාර්යාලය",
+            "nameTa": "கேகனதுர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81020"
+          },
+          "coordinates": {
+            "latitude": 5.9637528,
+            "longitude": 80.6132646
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81032",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "APAREKKA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Aparekka",
+            "nameSi": "අපරැක්ක",
+            "nameTa": "அபரேக்கா"
+          },
+          "city": {
+            "nameEn": "Aparekka",
+            "nameSi": "අපරැක්ක",
+            "nameTa": "அபரேக்கா"
+          },
+          "postcode": "81032",
+          "postOffice": {
+            "nameEn": "Aparekka Post Office",
+            "nameSi": "අපරැක්ක තැපැල් කාර්යාලය",
+            "nameTa": "அபரேக்கா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81032"
+          },
+          "coordinates": {
+            "latitude": 5.9925373,
+            "longitude": 80.6160402
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81034",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "YATIYANA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Yatiyana",
+            "nameSi": "යටියාන",
+            "nameTa": "யதியான"
+          },
+          "city": {
+            "nameEn": "Yatiyana",
+            "nameSi": "යටියාන",
+            "nameTa": "யதியான"
+          },
+          "postcode": "81034",
+          "postOffice": {
+            "nameEn": "Yatiyana Post Office",
+            "nameSi": "යටියාන තැපැල් කාර්යාලය",
+            "nameTa": "யதியான தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81034"
+          },
+          "coordinates": {
+            "latitude": 6.0302713,
+            "longitude": 80.6063253
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81038",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIYAGAHA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Diyagaha",
+            "nameSi": "දියගහ",
+            "nameTa": "தியாகஹா"
+          },
+          "city": {
+            "nameEn": "Diyagaha",
+            "nameSi": "දියගහ",
+            "nameTa": "தியாகஹா"
+          },
+          "postcode": "81038",
+          "postOffice": {
+            "nameEn": "Diyagaha Post Office",
+            "nameSi": "දියගහ තැපැල් කාර්යාලය",
+            "nameTa": "தியாகஹா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81038"
+          },
+          "coordinates": {
+            "latitude": 5.9855185,
+            "longitude": 80.5785601
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81050",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PALATUWA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Palatuwa",
+            "nameSi": "පලාතුව",
+            "nameTa": "பலத்துவ"
+          },
+          "city": {
+            "nameEn": "Palatuwa",
+            "nameSi": "පලාතුව",
+            "nameTa": "பலத்துவ"
+          },
+          "postcode": "81050",
+          "postOffice": {
+            "nameEn": "Palatuwa Post Office",
+            "nameSi": "පලාතුව තැපැල් කාර්යාලය",
+            "nameTa": "பலத்துவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81050"
+          },
+          "coordinates": {
+            "latitude": 5.9763124,
+            "longitude": 80.5184418
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81051",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SULTANAGODA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Sultanagoda",
+            "nameSi": "සුල්තානාගොඩ",
+            "nameTa": "சுல்தானகொடா"
+          },
+          "city": {
+            "nameEn": "Sultanagoda",
+            "nameSi": "සුල්තානාගොඩ",
+            "nameTa": "சுல்தானகொடா"
+          },
+          "postcode": "81051",
+          "postOffice": {
+            "nameEn": "Sultanagoda Post Office",
+            "nameSi": "සුල්තානාගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "சுல்தானகொடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81051"
+          },
+          "coordinates": {
+            "latitude": 5.9772421,
+            "longitude": 80.5109948
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81060",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TELIJJAWILA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Telijjawila",
+            "nameSi": "තෙලිජ්ජවෙල",
+            "nameTa": "தெலிஜ்ஜாவில"
+          },
+          "city": {
+            "nameEn": "Telijjawila",
+            "nameSi": "තෙලිජ්ජවෙල",
+            "nameTa": "தெலிஜ்ஜாவில"
+          },
+          "postcode": "81060",
+          "postOffice": {
+            "nameEn": "Telijjawila Post Office",
+            "nameSi": "තෙලිජ්ජවෙල තැපැල් කාර්යාලය",
+            "nameTa": "தெலிஜ்ஜாவில தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81060"
+          },
+          "coordinates": {
+            "latitude": 6.0250846,
+            "longitude": 80.4959114
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81064",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANSEGODA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Ransegoda",
+            "nameSi": "රන්සෑගොඩ",
+            "nameTa": "ரன்சேகொட"
+          },
+          "city": {
+            "nameEn": "Ransegoda",
+            "nameSi": "රන්සෑගොඩ",
+            "nameTa": "ரன்சேகொட"
+          },
+          "postcode": "81064",
+          "postOffice": {
+            "nameEn": "Ransegoda Post Office",
+            "nameSi": "රන්සෑගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "ரன்சேகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81064"
+          },
+          "coordinates": {
+            "latitude": 6.1186298,
+            "longitude": 80.5641507
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81070",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAKANDURA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Makandura",
+            "nameSi": "මාකඳුර",
+            "nameTa": "மாகந்துரை"
+          },
+          "city": {
+            "nameEn": "Makandura",
+            "nameSi": "මාකඳුර",
+            "nameTa": "மாகந்துரை"
+          },
+          "postcode": "81070",
+          "postOffice": {
+            "nameEn": "Makandura Post Office",
+            "nameSi": "මාකඳුර තැපැල් කාර්යාලය",
+            "nameTa": "மாகந்துரை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81070"
+          },
+          "coordinates": {
+            "latitude": 6.1419248,
+            "longitude": 80.5563449
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81071",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Mulatiyana",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "MULATIYANA JUNCTION",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Mulatiyana Junction",
+            "nameSi": "මුලටියාන හන්දිය",
+            "nameTa": "முலட்டியான சந்தி"
+          },
+          "city": {
+            "nameEn": "Mulatiyana Junction",
+            "nameSi": "මුලටියාන හන්දිය",
+            "nameTa": "முலட்டியான சந்தி"
+          },
+          "postcode": "81071",
+          "postOffice": {
+            "nameEn": "Mulatiyana Junction Post Office",
+            "nameSi": "මුලටියාන හන්දිය තැපැල් කාර්යාලය",
+            "nameTa": "முலட்டியான சந்தி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81071"
+          },
+          "coordinates": {
+            "latitude": 6.1620886,
+            "longitude": 80.5855038
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81072",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GOMILAMAWARALA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Gomilamawarala",
+            "nameSi": "ගොමිලමවරල",
+            "nameTa": "கோமிலமவரல"
+          },
+          "city": {
+            "nameEn": "Gomilamawarala",
+            "nameSi": "ගොමිලමවරල",
+            "nameTa": "கோமிலமவரல"
+          },
+          "postcode": "81072",
+          "postOffice": {
+            "nameEn": "Gomilamawarala Post Office",
+            "nameSi": "ගොමිලමවරල තැපැල් කාර්යාලය",
+            "nameTa": "கோமிலமவரல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81072"
+          },
+          "coordinates": {
+            "latitude": 6.2100926,
+            "longitude": 80.5922881
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81074",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ROTUMBA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Rotumba",
+            "nameSi": "රොටුඹ",
+            "nameTa": "ரோடும்பா"
+          },
+          "city": {
+            "nameEn": "Rotumba",
+            "nameSi": "රොටුඹ",
+            "nameTa": "ரோடும்பா"
+          },
+          "postcode": "81074",
+          "postOffice": {
+            "nameEn": "Rotumba Post Office",
+            "nameSi": "රොටුඹ තැපැල් කාර්යාලය",
+            "nameTa": "ரோடும்பா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81074"
+          },
+          "coordinates": {
+            "latitude": 6.225788,
+            "longitude": 80.5759772
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81082",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARAGODA UYANGODA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Karagoda Uyangoda",
+            "nameSi": "කරන්ගොඩ උයන්ගොඩ",
+            "nameTa": "கரகொட உயங்கொட"
+          },
+          "city": {
+            "nameEn": "Karagoda Uyangoda",
+            "nameSi": "කරන්ගොඩ උයන්ගොඩ",
+            "nameTa": "கரகொட உயங்கொட"
+          },
+          "postcode": "81082",
+          "postOffice": {
+            "nameEn": "Karagoda Uyangoda Post Office",
+            "nameSi": "කරන්ගොඩ උයන්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "கரகொட உயங்கொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81082"
+          },
+          "coordinates": {
+            "latitude": 6.0520009,
+            "longitude": 80.5282587
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81092",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NADUGALA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Nadugala",
+            "nameSi": "නඩුගල",
+            "nameTa": "நடுகல"
+          },
+          "city": {
+            "nameEn": "Nadugala",
+            "nameSi": "නඩුගල",
+            "nameTa": "நடுகல"
+          },
+          "postcode": "81092",
+          "postOffice": {
+            "nameEn": "Nadugala Post Office",
+            "nameSi": "නඩුගල තැපැල් කාර්යාලය",
+            "nameTa": "நடுகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81092"
+          },
+          "coordinates": {
+            "latitude": 5.9813659,
+            "longitude": 80.5497101
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Kamburupitiya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KAMBURUPITIYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kamburupitiya",
+            "nameSi": "කඹුරුපිටිය",
+            "nameTa": "கம்புருபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Kamburupitiya",
+            "nameSi": "කඹුරුපිටිය",
+            "nameTa": "கம்புருபிட்டிய"
+          },
+          "postcode": "81100",
+          "postOffice": {
+            "nameEn": "Kamburupitiya Post Office",
+            "nameSi": "කඹුරුපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "கம்புருபிட்டிய தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81100"
+          },
+          "coordinates": {
+            "latitude": 6.0779107,
+            "longitude": 80.5632884
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81106",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARAPUTUGALA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Karaputugala",
+            "nameSi": "කරපුටුල",
+            "nameTa": "கரபுடுகல"
+          },
+          "city": {
+            "nameEn": "Karaputugala",
+            "nameSi": "කරපුටුල",
+            "nameTa": "கரபுடுகல"
+          },
+          "postcode": "81106",
+          "postOffice": {
+            "nameEn": "Karaputugala Post Office",
+            "nameSi": "කරපුටුල තැපැල් කාර්යාලය",
+            "nameTa": "கரபுடுகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81106"
+          },
+          "coordinates": {
+            "latitude": 6.0845296,
+            "longitude": 80.6013403
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HORAPAWITA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Horapawita",
+            "nameSi": "හොරපාවිට",
+            "nameTa": "ஹொரபவிட்ட"
+          },
+          "city": {
+            "nameEn": "Horapawita",
+            "nameSi": "හොරපාවිට",
+            "nameTa": "ஹொரபவிட்ட"
+          },
+          "postcode": "81108",
+          "postOffice": {
+            "nameEn": "Horapawita Post Office",
+            "nameSi": "හොරපාවිට තැපැල් කාර්යාලය",
+            "nameTa": "ஹொரபவிட்ட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81108"
+          },
+          "coordinates": {
+            "latitude": 6.1070399,
+            "longitude": 80.5827272
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81160",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Devinuwara",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "DEVINUWARA (DONDRA)",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Devinuwara (Dondra)",
+            "nameSi": "දෙවිනුවර (දෙවුන්දර)",
+            "nameTa": "தெவிநுவர"
+          },
+          "city": {
+            "nameEn": "Devinuwara (Dondra)",
+            "nameSi": "දෙවිනුවර (දෙවුන්දර)",
+            "nameTa": "தெவிநுவர"
+          },
+          "postcode": "81160",
+          "postOffice": {
+            "nameEn": "Devinuwara (Dondra) Post Office",
+            "nameSi": "දෙවිනුවර (දෙවුන්දර) තැපැල් කාර්යාලය",
+            "nameTa": "தெவிநுவர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81160"
+          },
+          "coordinates": {
+            "latitude": 5.9312553,
+            "longitude": 80.5914331
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81170",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GANDARA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Gandara",
+            "nameSi": "ගන්දර",
+            "nameTa": "காந்தார"
+          },
+          "city": {
+            "nameEn": "Gandara",
+            "nameSi": "ගන්දර",
+            "nameTa": "காந்தார"
+          },
+          "postcode": "81170",
+          "postOffice": {
+            "nameEn": "Gandara Post Office",
+            "nameSi": "ගන්දර තැපැල් කාර්යාලය",
+            "nameTa": "காந்தார தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81170"
+          },
+          "coordinates": {
+            "latitude": 5.9376403,
+            "longitude": 80.6132646
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIKWELLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Dikwella",
+            "nameSi": "දික්වැල්ල",
+            "nameTa": "திக்வெல்ல"
+          },
+          "city": {
+            "nameEn": "Dikwella",
+            "nameSi": "දික්වැල්ල",
+            "nameTa": "திக்வெல்ல"
+          },
+          "postcode": "81200",
+          "postOffice": {
+            "nameEn": "Dikwella Post Office",
+            "nameSi": "දික්වැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "திக்வெல்ல தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81200"
+          },
+          "coordinates": {
+            "latitude": 5.9716762,
+            "longitude": 80.6951041
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WALASGALA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Walasgala",
+            "nameSi": "වලස්ගල",
+            "nameTa": "வலஸ்கல"
+          },
+          "city": {
+            "nameEn": "Walasgala",
+            "nameSi": "වලස්ගල",
+            "nameTa": "வலஸ்கல"
+          },
+          "postcode": "81220",
+          "postOffice": {
+            "nameEn": "Walasgala Post Office",
+            "nameSi": "වලස්ගල තැපැල් කාර්යාලය",
+            "nameTa": "வலஸ்கல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81220"
+          },
+          "coordinates": {
+            "latitude": 5.9828401,
+            "longitude": 80.6985701
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81230",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URUGAMUWA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Urugamuwa",
+            "nameSi": "ඌරුගමුව",
+            "nameTa": "உருகமுவ"
+          },
+          "city": {
+            "nameEn": "Urugamuwa",
+            "nameSi": "ඌරුගමුව",
+            "nameTa": "உருகமுவ"
+          },
+          "postcode": "81230",
+          "postOffice": {
+            "nameEn": "Urugamuwa Post Office",
+            "nameSi": "ඌරුගමුව තැපැල් කාර්යාලය",
+            "nameTa": "உருகமுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81230"
+          },
+          "coordinates": {
+            "latitude": 6.010073,
+            "longitude": 80.6479524
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81280",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Thihagoda",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "THIHAGODA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Thihagoda",
+            "nameSi": "තිහාගොඩ",
+            "nameTa": "திஹகொட"
+          },
+          "city": {
+            "nameEn": "Thihagoda",
+            "nameSi": "තිහාගොඩ",
+            "nameTa": "திஹகொட"
+          },
+          "postcode": "81280",
+          "postOffice": {
+            "nameEn": "Thihagoda Post Office",
+            "nameSi": "තිහාගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "திஹகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81280"
+          },
+          "coordinates": {
+            "latitude": 6.0133387,
+            "longitude": 80.5660041
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81290",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUHULWELLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Puhulwella",
+            "nameSi": "පුහුවැල්ල",
+            "nameTa": "புஹுல்வெல்ல"
+          },
+          "city": {
+            "nameEn": "Puhulwella",
+            "nameSi": "පුහුවැල්ල",
+            "nameTa": "புஹுல்வெல்ல"
+          },
+          "postcode": "81290",
+          "postOffice": {
+            "nameEn": "Puhulwella Post Office",
+            "nameSi": "පුහුවැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "புஹுல்வெல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81290"
+          },
+          "coordinates": {
+            "latitude": 6.0515288,
+            "longitude": 80.6257539
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81294",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WALAKANDA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Walakanda",
+            "nameSi": "වලකන්ද",
+            "nameTa": "வாலகண்டா"
+          },
+          "city": {
+            "nameEn": "Walakanda",
+            "nameSi": "වලකන්ද",
+            "nameTa": "வாலகண்டா"
+          },
+          "postcode": "81294",
+          "postOffice": {
+            "nameEn": "Walakanda Post Office",
+            "nameSi": "වලකන්ද තැපැල් කාර්යාලය",
+            "nameTa": "வாலகண்டா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81294"
+          },
+          "coordinates": {
+            "latitude": 6.0230505,
+            "longitude": 80.6558658
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81308",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARATOTA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Karatota",
+            "nameSi": "කරතොට",
+            "nameTa": "கரதொட்ட"
+          },
+          "city": {
+            "nameEn": "Karatota",
+            "nameSi": "කරතොට",
+            "nameTa": "கரதொட்ட"
+          },
+          "postcode": "81308",
+          "postOffice": {
+            "nameEn": "Karatota Post Office",
+            "nameSi": "කරතොට තැපැල් කාර්යාලය",
+            "nameTa": "கரதொட்ட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81308"
+          },
+          "coordinates": {
+            "latitude": 6.0641272,
+            "longitude": 80.6660092
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81312",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIELLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Miella",
+            "nameSi": "මීඇල්ල",
+            "nameTa": "மியெல்லா"
+          },
+          "city": {
+            "nameEn": "Miella",
+            "nameSi": "මීඇල්ල",
+            "nameTa": "மியெல்லா"
+          },
+          "postcode": "81312",
+          "postOffice": {
+            "nameEn": "Miella Post Office",
+            "nameSi": "මීඇල්ල තැපැල් කාර්යාලය",
+            "nameTa": "மியெல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81312"
+          },
+          "coordinates": {
+            "latitude": 6.1179132,
+            "longitude": 80.6716111
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81314",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DENAGAMA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Denagama",
+            "nameSi": "දෙනගම",
+            "nameTa": "தெனகம"
+          },
+          "city": {
+            "nameEn": "Denagama",
+            "nameSi": "දෙනගම",
+            "nameTa": "தெனகம"
+          },
+          "postcode": "81314",
+          "postOffice": {
+            "nameEn": "Denagama Post Office",
+            "nameSi": "දෙනගම තැපැල් කාර්යාලය",
+            "nameTa": "தெனகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81314"
+          },
+          "coordinates": {
+            "latitude": 6.1142107,
+            "longitude": 80.6616445
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81316",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RADAWELA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Radawela",
+            "nameSi": "රඳාවෙල",
+            "nameTa": "ரடவெல"
+          },
+          "city": {
+            "nameEn": "Radawela",
+            "nameSi": "රඳාවෙල",
+            "nameTa": "ரடவெல"
+          },
+          "postcode": "81316",
+          "postOffice": {
+            "nameEn": "Radawela Post Office",
+            "nameSi": "රඳාවෙල තැපැල් කාර්යාලය",
+            "nameTa": "ரடவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81316"
+          },
+          "coordinates": {
+            "latitude": 7.672758,
+            "longitude": 80.709373
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81318",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARATOTA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Karatota",
+            "nameSi": "කරාතොට",
+            "nameTa": "கரதொட்ட"
+          },
+          "city": {
+            "nameEn": "Karatota",
+            "nameSi": "කරාතොට",
+            "nameTa": "கரதொட்ட"
+          },
+          "postcode": "81318",
+          "postOffice": {
+            "nameEn": "Karatota Post Office",
+            "nameSi": "කරාතොට තැපැල් කාර්යාලය",
+            "nameTa": "கரதொட்ட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81318"
+          },
+          "coordinates": {
+            "latitude": 6.0641272,
+            "longitude": 80.6660092
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81320",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEIYANDARA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Deiyandara",
+            "nameSi": "දෙයියන්දර",
+            "nameTa": "தெய்வந்தாரா"
+          },
+          "city": {
+            "nameEn": "Deiyandara",
+            "nameSi": "දෙයියන්දර",
+            "nameTa": "தெய்வந்தாரா"
+          },
+          "postcode": "81320",
+          "postOffice": {
+            "nameEn": "Deiyandara Post Office",
+            "nameSi": "දෙයියන්දර තැපැල් කාර්යාලය",
+            "nameTa": "தெய்வந்தாரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81320"
+          },
+          "coordinates": {
+            "latitude": 6.1525698,
+            "longitude": 80.6028554
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81322",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PARAPAMULLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Parapamulla",
+            "nameSi": "පරපමුල්ල",
+            "nameTa": "பரபமுல்லா"
+          },
+          "city": {
+            "nameEn": "Parapamulla",
+            "nameSi": "පරපමුල්ල",
+            "nameTa": "பரபமுல்லா"
+          },
+          "postcode": "81322",
+          "postOffice": {
+            "nameEn": "Parapamulla Post Office",
+            "nameSi": "පරපමුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "பரபமுல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81322"
+          },
+          "coordinates": {
+            "latitude": 6.1516259,
+            "longitude": 80.6218666
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Akuressa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "AKURESSA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Akuressa",
+            "nameSi": "අකුරැස්ස",
+            "nameTa": "அக்குரஸ்ஸை"
+          },
+          "city": {
+            "nameEn": "Akuressa",
+            "nameSi": "අකුරැස්ස",
+            "nameTa": "அக்குரஸ்ஸை"
+          },
+          "postcode": "81400",
+          "postOffice": {
+            "nameEn": "Akuressa Post Office",
+            "nameSi": "අකුරැස්ස තැපැල් කාර්යාලය",
+            "nameTa": "அக்குரஸ்ஸை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81400"
+          },
+          "coordinates": {
+            "latitude": 6.1001388,
+            "longitude": 80.4759567
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81402",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Athuraliya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "ATHURALIYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Athuraliya",
+            "nameSi": "අතුරලීය",
+            "nameTa": "அத்துரலிய"
+          },
+          "city": {
+            "nameEn": "Athuraliya",
+            "nameSi": "අතුරලීය",
+            "nameTa": "அத்துரலிய"
+          },
+          "postcode": "81402",
+          "postOffice": {
+            "nameEn": "Athuraliya Post Office",
+            "nameSi": "අතුරලීය තැපැල් කාර්යාලය",
+            "nameTa": "அத்துரலிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81402"
+          },
+          "coordinates": {
+            "latitude": 6.0660707,
+            "longitude": 80.5022764
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81404",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WILPITA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Wilpita",
+            "nameSi": "විල්පිට",
+            "nameTa": "வில்பிட"
+          },
+          "city": {
+            "nameEn": "Wilpita",
+            "nameSi": "විල්පිට",
+            "nameTa": "வில்பிட"
+          },
+          "postcode": "81404",
+          "postOffice": {
+            "nameEn": "Wilpita Post Office",
+            "nameSi": "විල්පිට තැපැල් කාර්යාලය",
+            "nameTa": "வில்பிட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81404"
+          },
+          "coordinates": {
+            "latitude": 5.9460327,
+            "longitude": 80.5577288
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81408",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GODAPITIYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Godapitiya",
+            "nameSi": "ගොඩපිටිය",
+            "nameTa": "கோதாபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Godapitiya",
+            "nameSi": "ගොඩපිටිය",
+            "nameTa": "கோதாபிட்டிய"
+          },
+          "postcode": "81408",
+          "postOffice": {
+            "nameEn": "Godapitiya Post Office",
+            "nameSi": "ගොඩපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "கோதாபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81408"
+          },
+          "coordinates": {
+            "latitude": 6.0886604,
+            "longitude": 80.4790866
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81412",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BOPAGODA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Bopagoda",
+            "nameSi": "බෝපගොඩ",
+            "nameTa": "போபகொட"
+          },
+          "city": {
+            "nameEn": "Bopagoda",
+            "nameSi": "බෝපගොඩ",
+            "nameTa": "போபகொட"
+          },
+          "postcode": "81412",
+          "postOffice": {
+            "nameEn": "Bopagoda Post Office",
+            "nameSi": "බෝපගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "போபகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81412"
+          },
+          "coordinates": {
+            "latitude": 6.1586616,
+            "longitude": 80.4995312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81414",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URUMUTTA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Urumutta",
+            "nameSi": "උරුමුත්ත",
+            "nameTa": "உருமுட்டா"
+          },
+          "city": {
+            "nameEn": "Urumutta",
+            "nameSi": "උරුමුත්ත",
+            "nameTa": "உருமுட்டா"
+          },
+          "postcode": "81414",
+          "postOffice": {
+            "nameEn": "Urumutta Post Office",
+            "nameSi": "උරුමුත්ත තැපැල් කාර්යාලය",
+            "nameTa": "உருமுட்டா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81414"
+          },
+          "coordinates": {
+            "latitude": 6.1619598,
+            "longitude": 80.5169252
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81416",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MARAMBA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Maramba",
+            "nameSi": "මාරඹ",
+            "nameTa": "மரம்பா"
+          },
+          "city": {
+            "nameEn": "Maramba",
+            "nameSi": "මාරඹ",
+            "nameTa": "மரம்பா"
+          },
+          "postcode": "81416",
+          "postOffice": {
+            "nameEn": "Maramba Post Office",
+            "nameSi": "මාරඹ තැපැල් කාර්යාලය",
+            "nameTa": "மரம்பா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81416"
+          },
+          "coordinates": {
+            "latitude": 6.1455208,
+            "longitude": 80.4823599
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81422",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIYALAPE",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Diyalape",
+            "nameSi": "දියලපේ",
+            "nameTa": "தியாலாபே"
+          },
+          "city": {
+            "nameEn": "Diyalape",
+            "nameSi": "දියලපේ",
+            "nameTa": "தியாலாபே"
+          },
+          "postcode": "81422",
+          "postOffice": {
+            "nameEn": "Diyalape Post Office",
+            "nameSi": "දියලපේ තැපැල් කාර්යාලය",
+            "nameTa": "தியாலாபே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81422"
+          },
+          "coordinates": {
+            "latitude": 6.1229542,
+            "longitude": 80.4465594
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81424",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MALIDUWA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Maliduwa",
+            "nameSi": "මැලිදූව",
+            "nameTa": "மலிதுவா"
+          },
+          "city": {
+            "nameEn": "Maliduwa",
+            "nameSi": "මැලිදූව",
+            "nameTa": "மலிதுவா"
+          },
+          "postcode": "81424",
+          "postOffice": {
+            "nameEn": "Maliduwa Post Office",
+            "nameSi": "මැලිදූව තැපැල් කාර්යාලය",
+            "nameTa": "மலிதுவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81424"
+          },
+          "coordinates": {
+            "latitude": 6.1354339,
+            "longitude": 80.4104743
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81450",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Pitabeddara",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "PITABEDDARA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Pitabeddara",
+            "nameSi": "පිටබැද්දර",
+            "nameTa": "பிட்டபெத்தர"
+          },
+          "city": {
+            "nameEn": "Pitabeddara",
+            "nameSi": "පිටබැද්දර",
+            "nameTa": "பிட்டபெத்தர"
+          },
+          "postcode": "81450",
+          "postOffice": {
+            "nameEn": "Pitabeddara Post Office",
+            "nameSi": "පිටබැද්දර තැපැල් කාර්යාලය",
+            "nameTa": "பிட்டபெத்தர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81450"
+          },
+          "coordinates": {
+            "latitude": 6.2070773,
+            "longitude": 80.463245
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81452",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEEGALA LENAMA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Deegala Lenama",
+            "nameSi": "දීගල ලෙනම",
+            "nameTa": "டீகல லேனமா"
+          },
+          "city": {
+            "nameEn": "Deegala Lenama",
+            "nameSi": "දීගල ලෙනම",
+            "nameTa": "டீகல லேனமா"
+          },
+          "postcode": "81452",
+          "postOffice": {
+            "nameEn": "Deegala Lenama Post Office",
+            "nameSi": "දීගල ලෙනම තැපැල් කාර්යාලය",
+            "nameTa": "டீகல லேனமா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81452"
+          },
+          "coordinates": {
+            "latitude": 6.1659804,
+            "longitude": 80.4616475
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81454",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DERANGALA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Derangala",
+            "nameSi": "දෙරණගල",
+            "nameTa": "தேரங்கலா"
+          },
+          "city": {
+            "nameEn": "Derangala",
+            "nameSi": "දෙරණගල",
+            "nameTa": "தேரங்கலா"
+          },
+          "postcode": "81454",
+          "postOffice": {
+            "nameEn": "Derangala Post Office",
+            "nameSi": "දෙරණගල තැපැල් කාර්යාලය",
+            "nameTa": "தேரங்கலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81454"
+          },
+          "coordinates": {
+            "latitude": 6.2189118,
+            "longitude": 80.4500425
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81456",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRIWELKELE",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kiriwelkele",
+            "nameSi": "කිරිවැල්කැලේ",
+            "nameTa": "கிரிவெல்கெலே"
+          },
+          "city": {
+            "nameEn": "Kiriwelkele",
+            "nameSi": "කිරිවැල්කැලේ",
+            "nameTa": "கிரிவெல்கெலே"
+          },
+          "postcode": "81456",
+          "postOffice": {
+            "nameEn": "Kiriwelkele Post Office",
+            "nameSi": "කිරිවැල්කැලේ තැපැල් කාර්යාලය",
+            "nameTa": "கிரிவெல்கெலே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81456"
+          },
+          "coordinates": {
+            "latitude": 6.2422484,
+            "longitude": 80.4507311
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81470",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MORAWAKA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Morawaka",
+            "nameSi": "මොරවක",
+            "nameTa": "மொரவக"
+          },
+          "city": {
+            "nameEn": "Morawaka",
+            "nameSi": "මොරවක",
+            "nameTa": "மொரவக"
+          },
+          "postcode": "81470",
+          "postOffice": {
+            "nameEn": "Morawaka Post Office",
+            "nameSi": "මොරවක තැපැල් කාර්යාලය",
+            "nameTa": "மொரவக தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81470"
+          },
+          "coordinates": {
+            "latitude": 6.2652802,
+            "longitude": 80.491047
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81475",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALAPALADENIYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Alapaladeniya",
+            "nameSi": "අලපලදෙණිය",
+            "nameTa": "அலபலதெனிய"
+          },
+          "city": {
+            "nameEn": "Alapaladeniya",
+            "nameSi": "අලපලදෙණිය",
+            "nameTa": "அலபலதெனிய"
+          },
+          "postcode": "81475",
+          "postOffice": {
+            "nameEn": "Alapaladeniya Post Office",
+            "nameSi": "අලපලදෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "அலபலதெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81475"
+          },
+          "coordinates": {
+            "latitude": 6.283333,
+            "longitude": 80.45
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81478",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALUBOWITIYANA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kalubowitiyana",
+            "nameSi": "කළුබෝවිටියාන",
+            "nameTa": "களுபோவிட்டியன"
+          },
+          "city": {
+            "nameEn": "Kalubowitiyana",
+            "nameSi": "කළුබෝවිටියාන",
+            "nameTa": "களுபோவிட்டியன"
+          },
+          "postcode": "81478",
+          "postOffice": {
+            "nameEn": "Kalubowitiyana Post Office",
+            "nameSi": "කළුබෝවිටියාන තැපැල් කාර්යාලය",
+            "nameTa": "களுபோவிட்டியன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81478"
+          },
+          "coordinates": {
+            "latitude": 6.3116538,
+            "longitude": 80.3937182
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81479",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WARALLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Waralla",
+            "nameSi": "වැරැල්ල",
+            "nameTa": "வாரல்லா"
+          },
+          "city": {
+            "nameEn": "Waralla",
+            "nameSi": "වැරැල්ල",
+            "nameTa": "வாரல்லா"
+          },
+          "postcode": "81479",
+          "postOffice": {
+            "nameEn": "Waralla Post Office",
+            "nameSi": "වැරැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "வாரல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81479"
+          },
+          "coordinates": {
+            "latitude": 6.2763831,
+            "longitude": 80.524397
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81480",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Kotapola",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KOTAPOLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kotapola",
+            "nameSi": "කොටපොල",
+            "nameTa": "கொட்டபொல"
+          },
+          "city": {
+            "nameEn": "Kotapola",
+            "nameSi": "කොටපොල",
+            "nameTa": "கொட்டபொல"
+          },
+          "postcode": "81480",
+          "postOffice": {
+            "nameEn": "Kotapola Post Office",
+            "nameSi": "කොටපොල තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டபொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81480"
+          },
+          "coordinates": {
+            "latitude": 6.2779725,
+            "longitude": 80.539678
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DENIYAYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Deniyaya",
+            "nameSi": "දෙණියාය",
+            "nameTa": "தெனியாய"
+          },
+          "city": {
+            "nameEn": "Deniyaya",
+            "nameSi": "දෙණියාය",
+            "nameTa": "தெனியாய"
+          },
+          "postcode": "81500",
+          "postOffice": {
+            "nameEn": "Deniyaya Post Office",
+            "nameSi": "දෙණියාය තැපැල් කාර්යාලය",
+            "nameTa": "தெனியாய தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81500"
+          },
+          "coordinates": {
+            "latitude": 6.3424847,
+            "longitude": 80.5596582
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81508",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VIHARAHENA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Viharahena",
+            "nameSi": "විහාරහේන",
+            "nameTa": "விஹாரஹேன"
+          },
+          "city": {
+            "nameEn": "Viharahena",
+            "nameSi": "විහාරහේන",
+            "nameTa": "விஹாரஹேன"
+          },
+          "postcode": "81508",
+          "postOffice": {
+            "nameEn": "Viharahena Post Office",
+            "nameSi": "විහාරහේන තැපැල් කාර්යාලය",
+            "nameTa": "விஹாரஹேன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81508"
+          },
+          "coordinates": {
+            "latitude": 6.3827697,
+            "longitude": 80.6020234
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81514",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRIWELDOLA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kiriweldola",
+            "nameSi": "කිරිවැල්ගොඩ",
+            "nameTa": "கிரிவெல்டோலா"
+          },
+          "city": {
+            "nameEn": "Kiriweldola",
+            "nameSi": "කිරිවැල්ගොඩ",
+            "nameTa": "கிரிவெல்டோலா"
+          },
+          "postcode": "81514",
+          "postOffice": {
+            "nameEn": "Kiriweldola Post Office",
+            "nameSi": "කිරිවැල්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "கிரிவெல்டோலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81514"
+          },
+          "coordinates": {
+            "latitude": 6.3711505,
+            "longitude": 80.5355107
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81522",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOLAWENIGAMA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kolawenigama",
+            "nameSi": "කොලවෙනිගම",
+            "nameTa": "கொலவெனிகம"
+          },
+          "city": {
+            "nameEn": "Kolawenigama",
+            "nameSi": "කොලවෙනිගම",
+            "nameTa": "கொலவெனிகம"
+          },
+          "postcode": "81522",
+          "postOffice": {
+            "nameEn": "Kolawenigama Post Office",
+            "nameSi": "කොලවෙනිගම තැපැල් කාර්යාලය",
+            "nameTa": "கொலவெனிகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81522"
+          },
+          "coordinates": {
+            "latitude": 6.3232398,
+            "longitude": 80.5021652
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81524",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEDIRIPITIYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Mediripitiya",
+            "nameSi": "මැදිරිපිටිය",
+            "nameTa": "மெதிரிபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Mediripitiya",
+            "nameSi": "මැදිරිපිටිය",
+            "nameTa": "மெதிரிபிட்டிய"
+          },
+          "postcode": "81524",
+          "postOffice": {
+            "nameEn": "Mediripitiya Post Office",
+            "nameSi": "මැදිරිපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "மெதிரிபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81524"
+          },
+          "coordinates": {
+            "latitude": 6.3507095,
+            "longitude": 80.4930904
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81526",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LANKAGAMA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Lankagama",
+            "nameSi": "ලංකාගම",
+            "nameTa": "லங்காகம"
+          },
+          "city": {
+            "nameEn": "Lankagama",
+            "nameSi": "ලංකාගම",
+            "nameTa": "லங்காகம"
+          },
+          "postcode": "81526",
+          "postOffice": {
+            "nameEn": "Lankagama Post Office",
+            "nameSi": "ලංකාගම තැපැල් කාර්යාලය",
+            "nameTa": "லங்காகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81526"
+          },
+          "coordinates": {
+            "latitude": 6.3671372,
+            "longitude": 80.4604643
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81600",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URUBOKKA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Urubokka",
+            "nameSi": "ඌරුබොක්ක",
+            "nameTa": "ஊர்பொக்க"
+          },
+          "city": {
+            "nameEn": "Urubokka",
+            "nameSi": "ඌරුබොක්ක",
+            "nameTa": "ஊர்பொக்க"
+          },
+          "postcode": "81600",
+          "postOffice": {
+            "nameEn": "Urubokka Post Office",
+            "nameSi": "ඌරුබොක්ක තැපැල් කාර්යාලය",
+            "nameTa": "ஊர்பொக்க தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81600"
+          },
+          "coordinates": {
+            "latitude": 6.3065297,
+            "longitude": 80.6306103
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81612",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DAMPAHALA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Dampahala",
+            "nameSi": "දම්පහල",
+            "nameTa": "தம்பஹாலா"
+          },
+          "city": {
+            "nameEn": "Dampahala",
+            "nameSi": "දම්පහල",
+            "nameTa": "தம்பஹாலா"
+          },
+          "postcode": "81612",
+          "postOffice": {
+            "nameEn": "Dampahala Post Office",
+            "nameSi": "දම්පහල තැපැල් කාර්යාලය",
+            "nameTa": "தம்பஹாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81612"
+          },
+          "coordinates": {
+            "latitude": 6.2715247,
+            "longitude": 80.6401098
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81614",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BENGAMUWA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Bengamuwa",
+            "nameSi": "බෙන්ගමුව",
+            "nameTa": "பெங்கமுவா"
+          },
+          "city": {
+            "nameEn": "Bengamuwa",
+            "nameSi": "බෙන්ගමුව",
+            "nameTa": "பெங்கமுவா"
+          },
+          "postcode": "81614",
+          "postOffice": {
+            "nameEn": "Bengamuwa Post Office",
+            "nameSi": "බෙන්ගමුව තැපැල් කාර්යාලය",
+            "nameTa": "பெங்கமுவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81614"
+          },
+          "coordinates": {
+            "latitude": 6.2786139,
+            "longitude": 80.6042639
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81615",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Pasgoda",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "PASGODA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Pasgoda",
+            "nameSi": "පස්ගොඩ",
+            "nameTa": "பஸ்கொடா"
+          },
+          "city": {
+            "nameEn": "Pasgoda",
+            "nameSi": "පස්ගොඩ",
+            "nameTa": "பஸ்கொடா"
+          },
+          "postcode": "81615",
+          "postOffice": {
+            "nameEn": "Pasgoda Post Office",
+            "nameSi": "පස්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "பஸ்கொடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81615"
+          },
+          "coordinates": {
+            "latitude": 6.2463916,
+            "longitude": 80.6077132
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81700",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": {
+            "nameEn": "Weligama",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "WELIGAMA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Weligama",
+            "nameSi": "වැලිගම",
+            "nameTa": "வெலிகம"
+          },
+          "city": {
+            "nameEn": "Weligama",
+            "nameSi": "වැලිගම",
+            "nameTa": "வெலிகம"
+          },
+          "postcode": "81700",
+          "postOffice": {
+            "nameEn": "Weligama Post Office",
+            "nameSi": "වැලිගම තැපැල් කාර්යාලය",
+            "nameTa": "வெலிகம தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81700"
+          },
+          "coordinates": {
+            "latitude": 5.9730321,
+            "longitude": 80.4228041
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81722",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PENETIYANA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Penetiyana",
+            "nameSi": "පෙනතියන",
+            "nameTa": "பெண்டியான"
+          },
+          "city": {
+            "nameEn": "Penetiyana",
+            "nameSi": "පෙනතියන",
+            "nameTa": "பெண்டியான"
+          },
+          "postcode": "81722",
+          "postOffice": {
+            "nameEn": "Penetiyana Post Office",
+            "nameSi": "පෙනතියන තැපැල් කාර්යාලය",
+            "nameTa": "பெண்டியான தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81722"
+          },
+          "coordinates": {
+            "latitude": 6.047728,
+            "longitude": 80.4499474
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81730",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DENIPITIYA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Denipitiya",
+            "nameSi": "දෙණිපිටිය",
+            "nameTa": "தெனிபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Denipitiya",
+            "nameSi": "දෙණිපිටිය",
+            "nameTa": "தெனிபிட்டிய"
+          },
+          "postcode": "81730",
+          "postOffice": {
+            "nameEn": "Denipitiya Post Office",
+            "nameSi": "දෙණිපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "தெனிபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81730"
+          },
+          "coordinates": {
+            "latitude": 5.9828773,
+            "longitude": 80.4518053
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81740",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIRISSA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Mirissa",
+            "nameSi": "මිරිස්ස",
+            "nameTa": "மிரிஸ்ஸா"
+          },
+          "city": {
+            "nameEn": "Mirissa",
+            "nameSi": "මිරිස්ස",
+            "nameTa": "மிரிஸ்ஸா"
+          },
+          "postcode": "81740",
+          "postOffice": {
+            "nameEn": "Mirissa Post Office",
+            "nameSi": "මිරිස්ස තැපැල් කාර්යාලය",
+            "nameTa": "மிரிஸ்ஸா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81740"
+          },
+          "coordinates": {
+            "latitude": 5.948262,
+            "longitude": 80.4715866
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81750",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Matara",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை",
+            "administrativeType": "District",
+            "code": "LK-32"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAMBURUGAMUWA",
+            "nameSi": "මාතර",
+            "nameTa": "மாத்தறை"
+          },
+          "locality": {
+            "nameEn": "Kamburugamuwa",
+            "nameSi": "කඹුරුගමුව",
+            "nameTa": "கம்புருகமுவ"
+          },
+          "city": {
+            "nameEn": "Kamburugamuwa",
+            "nameSi": "කඹුරුගමුව",
+            "nameTa": "கம்புருகமுவ"
+          },
+          "postcode": "81750",
+          "postOffice": {
+            "nameEn": "Kamburugamuwa Post Office",
+            "nameSi": "කඹුරුගමුව තැපැල් කාර්යාලය",
+            "nameTa": "கம்புருகமுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81750"
+          },
+          "coordinates": {
+            "latitude": 5.944587,
+            "longitude": 80.4938344
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

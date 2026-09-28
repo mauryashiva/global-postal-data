@@ -1,0 +1,40 @@
+{
+  "prefix": "700",
+  "records": [
+    {
+      "postalCode": "7000000",
+      "postalCodeFormatted": "700-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "33",
+      "prefectureNameEn": "Okayama",
+      "prefectureNameJa": "岡山県",
+      "prefectureNameKana": "オカヤマケン",
+      "prefectureNameRomaji": "Okayama-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "33201",
+        "nameEn": "Okayama",
+        "nameJa": "岡山市",
+        "nameKana": "オカヤシ",
+        "nameRomaji": "Okayama-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Okayama Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

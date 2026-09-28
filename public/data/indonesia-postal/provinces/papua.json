@@ -1,0 +1,63 @@
+{
+  "code": "91",
+  "nameEn": "Papua",
+  "nameId": "Papua",
+  "nameNative": "Papua",
+  "administrativeType": "Province",
+  "specialStatus": "Special Autonomy (Otonomi Khusus)",
+  "capitalEn": "Jayapura",
+  "capitalId": "Kota Jayapura",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "99111",
+      "province": {
+        "code": "91",
+        "nameEn": "Papua",
+        "nameId": "Papua",
+        "nameNative": "Papua",
+        "administrativeType": "Province",
+        "specialStatus": "Special Autonomy (Otonomi Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "91.71",
+        "nameId": "Kota Jayapura",
+        "nameEn": "Jayapura",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "91.71.01",
+        "nameId": "Kecamatan Jayapura Utara",
+        "nameEn": "North Jayapura District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "91.71.01.1001",
+        "nameId": "Kelurahan Gurabesi",
+        "nameEn": "Gurabesi",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Pemerintahan Provinsi Papua / Teluk Yos Sudarso",
+        "nameEn": "Jayapura Port & Provincial Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Jayapura",
+        "nameEn": "Jayapura Main Post Office",
+        "code": "99000",
+        "type": "KPRK",
+        "deliveryStatus": "Central Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-91-99111-91.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

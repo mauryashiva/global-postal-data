@@ -1,0 +1,897 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Kunar",
+    "nameNative": "کنر / کونړ",
+    "isoCode": "AF-KNR",
+    "postalPrefix": "28",
+    "capital": "Asadabad",
+    "capitalNative": "اسعدآباد",
+    "coordinates": {
+      "latitude": 34.8466,
+      "longitude": 71.0973
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 23,
+    "totalRecords": 23,
+    "urbanRecords": 7,
+    "ruralRecords": 16
+  },
+  "records": [
+    {
+      "postalCode": "280101",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "280201",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "280301",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "280401",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "280501",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "280601",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "280701",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Asadabad - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-KNR-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Asadabad District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-280701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285101",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Khaskunar District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-51"
+      },
+      "locality": {
+        "nameEn": "Khaskunar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khaskunar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285201",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Nurgal District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-52"
+      },
+      "locality": {
+        "nameEn": "Nurgal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nurgal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285301",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Chawkay District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-53"
+      },
+      "locality": {
+        "nameEn": "Chawkay Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chawkay District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285401",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Narang District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-54"
+      },
+      "locality": {
+        "nameEn": "Narang Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Narang District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285501",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Sarkani District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-55"
+      },
+      "locality": {
+        "nameEn": "Sarkani Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sarkani District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285601",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Marawara District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-56"
+      },
+      "locality": {
+        "nameEn": "Marawara Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Marawara District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285701",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Dangam District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-57"
+      },
+      "locality": {
+        "nameEn": "Dangam Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dangam District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285801",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Barkunar District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-58"
+      },
+      "locality": {
+        "nameEn": "Barkunar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Barkunar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "285901",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Nari District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-59"
+      },
+      "locality": {
+        "nameEn": "Nari Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nari District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-285901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286001",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Ghaziabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-60"
+      },
+      "locality": {
+        "nameEn": "Ghaziabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ghaziabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286101",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Shigal Wa sheltan District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-61"
+      },
+      "locality": {
+        "nameEn": "Shigal Wa sheltan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shigal Wa sheltan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286201",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Watapur District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-62"
+      },
+      "locality": {
+        "nameEn": "Watapur Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Watapur District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286301",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Dara-e-Pech District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-63"
+      },
+      "locality": {
+        "nameEn": "Dara-e-Pech Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dara-e-Pech District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286401",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Chapadara District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-64"
+      },
+      "locality": {
+        "nameEn": "Chapadara Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chapadara District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286501",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Sarhadary barikot District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-65"
+      },
+      "locality": {
+        "nameEn": "Sarhadary barikot Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sarhadary barikot District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "286601",
+      "province": {
+        "nameEn": "Kunar",
+        "nameNative": "کنر / کونړ",
+        "code": "AF-KNR",
+        "postalPrefix": "28"
+      },
+      "city": {
+        "nameEn": "Asadabad",
+        "nameNative": "اسعدآباد"
+      },
+      "district": {
+        "nameEn": "Sheltan District",
+        "type": "Rural Administrative District",
+        "code": "AF-KNR-66"
+      },
+      "locality": {
+        "nameEn": "Sheltan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sheltan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.8466,
+        "longitude": 71.0973
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-286601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

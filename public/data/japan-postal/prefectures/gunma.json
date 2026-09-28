@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "10",
+    "nameEn": "Gunma",
+    "nameJa": "群馬県",
+    "nameKana": "グンマケン",
+    "nameRomaji": "Gunma-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Maebashi",
+    "capitalJa": "前橋市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "3710000",
+      "postalCodeFormatted": "371-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "10",
+      "prefectureNameEn": "Gunma",
+      "prefectureNameJa": "群馬県",
+      "prefectureNameKana": "グンマケン",
+      "prefectureNameRomaji": "Gunma-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "10201",
+        "nameEn": "Maebashi",
+        "nameJa": "前橋市",
+        "nameKana": "グンマシ",
+        "nameRomaji": "Gunma-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Gunma Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

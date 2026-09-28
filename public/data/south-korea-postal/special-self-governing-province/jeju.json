@@ -1,0 +1,346 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Jeju",
+    "nameOfficialEn": "Jeju Special Self-Governing Province",
+    "nameKo": "제주특별자치도",
+    "category": "special-self-governing-province",
+    "administrativeType": "Special Self-Governing Province",
+    "isoCode": "KR-49",
+    "prefixes": [
+      "63"
+    ],
+    "areaCode": "064",
+    "capitalEn": "Jeju City",
+    "capitalKo": "제주시",
+    "previousNameEn": "Jeju-do",
+    "previousNameKo": "제주도",
+    "coordinates": {
+      "latitude": 33.4996,
+      "longitude": 126.5312
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 4,
+    "totalRecords": 4,
+    "totalAddresses": 4,
+    "totalPostOffices": 4,
+    "totalLocalities": 13
+  },
+  "records": [
+    {
+      "postalCode": "63122",
+      "roadAddress": {
+        "roadName": "Munyeon-ro",
+        "roadNameKo": "문연로",
+        "roadNameCode": "501103000045",
+        "buildingNumber": "6",
+        "buildingName": "Jeju Special Self-Governing Provincial Government",
+        "buildingNameKo": "제주특별자치도청",
+        "buildingManagementNumber": "5011013400103120001000001",
+        "fullAddressEn": "6, Munyeon-ro, Jeju, Jeju 63122, Republic of Korea",
+        "fullAddressKo": "제주특별자치도 제주 문연로 6 (연동, 제주특별자치도청)"
+      },
+      "jibunAddress": {
+        "jibun": "312-1 Yeon-dong, Jeju-si, Jeju-do",
+        "jibunKo": "제주특별자치도 제주시 연동 312-1",
+        "legalDong": "Yeon-dong",
+        "legalDongKo": "연동",
+        "adminDong": "Yeon-dong",
+        "adminDongKo": "연동"
+      },
+      "administrative": {
+        "category": "special-self-governing-province",
+        "firstLevel": {
+          "nameEn": "Jeju",
+          "nameOfficialEn": "Jeju Special Self-Governing Province",
+          "nameKo": "제주특별자치도",
+          "isoCode": "KR-49",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Jeju-do",
+          "previousNameKo": "제주도",
+          "transitionDate": "2006-07-01"
+        },
+        "cityCounty": {
+          "nameEn": "Jeju-si",
+          "nameKo": "제주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Jeju",
+          "nameKo": "제주",
+          "administrativeType": "Si"
+        },
+        "townDong": {
+          "nameEn": "Yeon-dong",
+          "nameKo": "연동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Jeju Post Office",
+        "nameKo": "제주우체국",
+        "code": "69000",
+        "type": "Head Post Office",
+        "phone": "064-710-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "064"
+      },
+      "areas": [
+        "Jeju Provincial Government Square",
+        "New Jeju Baozen Commercial St",
+        "Sammu Park",
+        "Sinchang-ro Hub"
+      ],
+      "coordinates": {
+        "latitude": 33.489,
+        "longitude": 126.4983
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-JEJU-63122",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63115",
+      "roadAddress": {
+        "roadName": "Gonghang-ro",
+        "roadNameKo": "공항로",
+        "roadNameCode": "501102000001",
+        "buildingNumber": "2",
+        "buildingName": "Jeju International Airport",
+        "buildingNameKo": "제주국제공항",
+        "buildingManagementNumber": "5011010800120020000000001",
+        "fullAddressEn": "2, Gonghang-ro, Jeju, Jeju 63115, Republic of Korea",
+        "fullAddressKo": "제주특별자치도 제주 공항로 2 (용담2동, 제주국제공항)"
+      },
+      "jibunAddress": {
+        "jibun": "2002 Yongdam 2-dong, Jeju-si, Jeju-do",
+        "jibunKo": "제주특별자치도 제주시 용담2동 2002",
+        "legalDong": "Yongdam 2-dong",
+        "legalDongKo": "용담2동",
+        "adminDong": "Yongdam 2-dong",
+        "adminDongKo": "용담2동"
+      },
+      "administrative": {
+        "category": "special-self-governing-province",
+        "firstLevel": {
+          "nameEn": "Jeju",
+          "nameOfficialEn": "Jeju Special Self-Governing Province",
+          "nameKo": "제주특별자치도",
+          "isoCode": "KR-49",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Jeju-do",
+          "previousNameKo": "제주도",
+          "transitionDate": "2006-07-01"
+        },
+        "cityCounty": {
+          "nameEn": "Jeju-si",
+          "nameKo": "제주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Jeju",
+          "nameKo": "제주",
+          "administrativeType": "Si"
+        },
+        "townDong": {
+          "nameEn": "Yongdam 2-dong",
+          "nameKo": "용담2동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Jeju Airport Post Office",
+        "nameKo": "제주공항우체국",
+        "code": "69003",
+        "type": "Branch Post Office",
+        "phone": "064-742-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "064"
+      },
+      "areas": [
+        "Jeju International Airport Domestic & International Terminals",
+        "Yongduam Rock Coastal Promenade"
+      ],
+      "coordinates": {
+        "latitude": 33.5104,
+        "longitude": 126.4913
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-JEJU-63115",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63535",
+      "roadAddress": {
+        "roadName": "Jungmungwangwang-ro",
+        "roadNameKo": "중문관광로",
+        "roadNameCode": "501302000005",
+        "buildingNumber": "224",
+        "buildingName": "International Convention Center Jeju (ICC Jeju)",
+        "buildingNameKo": "제주국제컨벤션센터 (ICC JEJU)",
+        "buildingManagementNumber": "5013012300102700000000001",
+        "fullAddressEn": "224, Jungmungwangwang-ro, Seogwipo, Jeju 63535, Republic of Korea",
+        "fullAddressKo": "제주특별자치도 서귀포 중문관광로 224 (색달동, 제주국제컨벤션센터 (ICC JEJU))"
+      },
+      "jibunAddress": {
+        "jibun": "270 Saekdal-dong, Seogwipo-si, Jeju-do",
+        "jibunKo": "제주특별자치도 서귀포시 색달동 270",
+        "legalDong": "Saekdal-dong",
+        "legalDongKo": "색달동",
+        "adminDong": "Yerae-dong",
+        "adminDongKo": "예래동"
+      },
+      "administrative": {
+        "category": "special-self-governing-province",
+        "firstLevel": {
+          "nameEn": "Jeju",
+          "nameOfficialEn": "Jeju Special Self-Governing Province",
+          "nameKo": "제주특별자치도",
+          "isoCode": "KR-49",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Jeju-do",
+          "previousNameKo": "제주도",
+          "transitionDate": "2006-07-01"
+        },
+        "cityCounty": {
+          "nameEn": "Seogwipo-si",
+          "nameKo": "서귀포시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Seogwipo",
+          "nameKo": "서귀포",
+          "administrativeType": "Si"
+        },
+        "townDong": {
+          "nameEn": "Saekdal-dong",
+          "nameKo": "색달동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seogwipo Jungmun Post Office",
+        "nameKo": "서귀포중문우체국",
+        "code": "69701",
+        "type": "Branch Post Office",
+        "phone": "064-738-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "064"
+      },
+      "areas": [
+        "Jungmun Tourist Resort Complex",
+        "Jusangjeolli Hexagonal Cliff Park",
+        "Cheonjeyeon Waterfall",
+        "Shilla & Lotte Resorts"
+      ],
+      "coordinates": {
+        "latitude": 33.2404,
+        "longitude": 126.4256
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-JEJU-63535",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "63640",
+      "roadAddress": {
+        "roadName": "Ilchul-ro",
+        "roadNameKo": "일출로",
+        "roadNameCode": "501303000032",
+        "buildingNumber": "284-12",
+        "buildingName": "Seongsan Ilchulbong Sunrise Peak Ticket Office",
+        "buildingNameKo": "성산일출봉 매표소",
+        "buildingManagementNumber": "5013025921100780000000001",
+        "fullAddressEn": "284-12, Ilchul-ro, Seongsan-eup, Jeju 63640, Republic of Korea",
+        "fullAddressKo": "제주특별자치도 성산읍 일출로 284-12 (성산리, 성산일출봉 매표소)"
+      },
+      "jibunAddress": {
+        "jibun": "78 Seongsan-ri, Seongsan-eup, Seogwipo-si, Jeju-do",
+        "jibunKo": "제주특별자치도 서귀포시 성산읍 성산리 78",
+        "legalDong": "Seongsan-ri",
+        "legalDongKo": "성산리",
+        "adminDong": "Seongsan-eup",
+        "adminDongKo": "성산읍"
+      },
+      "administrative": {
+        "category": "special-self-governing-province",
+        "firstLevel": {
+          "nameEn": "Jeju",
+          "nameOfficialEn": "Jeju Special Self-Governing Province",
+          "nameKo": "제주특별자치도",
+          "isoCode": "KR-49",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Jeju-do",
+          "previousNameKo": "제주도",
+          "transitionDate": "2006-07-01"
+        },
+        "cityCounty": {
+          "nameEn": "Seogwipo-si",
+          "nameKo": "서귀포시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Seongsan-eup",
+          "nameKo": "성산읍",
+          "administrativeType": "Eup"
+        },
+        "townDong": {
+          "nameEn": "Seongsan-ri",
+          "nameKo": "성산리",
+          "administrativeType": "Ri"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seogwipo Seongsan Post Office",
+        "nameKo": "성산우체국",
+        "code": "69703",
+        "type": "Branch Post Office",
+        "phone": "064-782-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "064"
+      },
+      "areas": [
+        "Seongsan Ilchulbong Volcanic Tuff Cone",
+        "Udo Island Ferry Port",
+        "Gwangchigi Beach"
+      ],
+      "coordinates": {
+        "latitude": 33.4589,
+        "longitude": 126.9389
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-JEJU-63640",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

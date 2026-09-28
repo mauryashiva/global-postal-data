@@ -1,0 +1,63 @@
+{
+  "code": "81",
+  "nameEn": "Maluku",
+  "nameId": "Maluku",
+  "nameNative": "Maluku",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Ambon",
+  "capitalId": "Kota Ambon",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "97111",
+      "province": {
+        "code": "81",
+        "nameEn": "Maluku",
+        "nameId": "Maluku",
+        "nameNative": "Maluku",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "81.71",
+        "nameId": "Kota Ambon",
+        "nameEn": "Ambon",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "81.71.01",
+        "nameId": "Kecamatan Sirimau",
+        "nameEn": "Sirimau District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "81.71.01.1001",
+        "nameId": "Kelurahan Honipopu",
+        "nameEn": "Honipopu",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Lapangan Merdeka Ambon / Gong Perdamaian",
+        "nameEn": "Ambon Bay Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Ambon",
+        "nameEn": "Ambon Main Post Office",
+        "code": "97000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-81-97111-81.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

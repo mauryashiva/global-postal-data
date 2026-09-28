@@ -1,0 +1,2860 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Batticaloa",
+    "nameSi": "මඩකලපුව",
+    "nameTa": "மட்டக்களப்பு",
+    "administrativeType": "District",
+    "code": "LK-51"
+  },
+  "province": {
+    "nameEn": "Eastern Province",
+    "nameSi": "නැගෙනහිර පළාත",
+    "nameTa": "கிழக்கு மாகாணம்",
+    "code": "LK-5"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Eravur Pattu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Eravur Town",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kattankudy",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Koralai Pattu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Koralai Pattu Central",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Koralai Pattu North",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Koralai Pattu South",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Koralai Pattu West",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manmunai North",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manmunai Pattu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manmunai South and Eruvil Pattu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manmunai South West",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manmunai West",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Porativu Pattu",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 42,
+    "totalRecords": 42,
+    "dsDivisionCount": 14
+  },
+  "postcodes": [
+    {
+      "postcode": "30000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BATTICALOA",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "city": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "postcode": "30000",
+          "postOffice": {
+            "nameEn": "Batticaloa Post Office",
+            "nameSi": "මඩකලපුව තැපැල් කාර්යාලය",
+            "nameTa": "மட்டக்களப்பு தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30000"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30016",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANNANKUDAH",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kannankudah",
+            "nameSi": "කන්නන්කුඩා",
+            "nameTa": "கன்னங்குடா"
+          },
+          "city": {
+            "nameEn": "Kannankudah",
+            "nameSi": "කන්නන්කුඩා",
+            "nameTa": "கன்னங்குடா"
+          },
+          "postcode": "30016",
+          "postOffice": {
+            "nameEn": "Kannankudah Post Office",
+            "nameSi": "කන්නන්කුඩා තැපැල් කාර්යාලය",
+            "nameTa": "கன்னங்குடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30016"
+          },
+          "coordinates": {
+            "latitude": 7.6788698,
+            "longitude": 81.6725022
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30018",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAVATKADU",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Navatkadu",
+            "nameSi": "නවත්කදු",
+            "nameTa": "நாவற்குடா"
+          },
+          "city": {
+            "nameEn": "Navatkadu",
+            "nameSi": "නවත්කදු",
+            "nameTa": "நாவற்குடா"
+          },
+          "postcode": "30018",
+          "postOffice": {
+            "nameEn": "Navatkadu Post Office",
+            "nameSi": "නවත්කදු තැපැල් කාර්යාලය",
+            "nameTa": "நாவற்குடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30018"
+          },
+          "coordinates": {
+            "latitude": 7.2045267,
+            "longitude": 81.8401957
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30022",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PILLAIYARADI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Pillaiyaradi",
+            "nameSi": "පිල්ලියරදී",
+            "nameTa": "பிள்ளையாரடி"
+          },
+          "city": {
+            "nameEn": "Pillaiyaradi",
+            "nameSi": "පිල්ලියරදී",
+            "nameTa": "பிள்ளையாரடி"
+          },
+          "postcode": "30022",
+          "postOffice": {
+            "nameEn": "Pillaiyaradi Post Office",
+            "nameSi": "පිල්ලියරදී තැපැල් කාර්යාලය",
+            "nameTa": "பிள்ளையாரடி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30022"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30024",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THANNAMUNAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Thannamunai",
+            "nameSi": "තන්නමුනෛ",
+            "nameTa": "தன்னாமுனை"
+          },
+          "city": {
+            "nameEn": "Thannamunai",
+            "nameSi": "තන්නමුනෛ",
+            "nameTa": "தன்னாமுனை"
+          },
+          "postcode": "30024",
+          "postOffice": {
+            "nameEn": "Thannamunai Post Office",
+            "nameSi": "තන්නමුනෛ තැපැල් කාර්යාලය",
+            "nameTa": "தன்னாமுனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30024"
+          },
+          "coordinates": {
+            "latitude": 7.753103,
+            "longitude": 81.6378019
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KATTANKUDI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kattankudi",
+            "nameSi": "කාත්තන්කුඩි",
+            "nameTa": "காத்தான்குடி"
+          },
+          "city": {
+            "nameEn": "Kattankudi",
+            "nameSi": "කාත්තන්කුඩි",
+            "nameTa": "காத்தான்குடி"
+          },
+          "postcode": "30100",
+          "postOffice": {
+            "nameEn": "Kattankudi Post Office",
+            "nameSi": "කාත්තන්කුඩි තැපැල් කාර්යාලය",
+            "nameTa": "காத்தான்குடி தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30100"
+          },
+          "coordinates": {
+            "latitude": 7.6853695,
+            "longitude": 81.7260123
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30150",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ARAIPATTAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Araipattai",
+            "nameSi": "අරෙයිපට්ටායි",
+            "nameTa": "அரைப்பட்டை"
+          },
+          "city": {
+            "nameEn": "Araipattai",
+            "nameSi": "අරෙයිපට්ටායි",
+            "nameTa": "அரைப்பட்டை"
+          },
+          "postcode": "30150",
+          "postOffice": {
+            "nameEn": "Araipattai Post Office",
+            "nameSi": "අරෙයිපට්ටායි තැපැල් කාර්යාලය",
+            "nameTa": "அரைப்பட்டை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30150"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30159",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRANKULAM",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kirankulam",
+            "nameSi": "කිරාන්කුලම්",
+            "nameTa": "கிரான்குளம்"
+          },
+          "city": {
+            "nameEn": "Kirankulam",
+            "nameSi": "කිරාන්කුලම්",
+            "nameTa": "கிரான்குளம்"
+          },
+          "postcode": "30159",
+          "postOffice": {
+            "nameEn": "Kirankulam Post Office",
+            "nameSi": "කිරාන්කුලම් තැපැල් කාර්යාලය",
+            "nameTa": "கிரான்குளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30159"
+          },
+          "coordinates": {
+            "latitude": 7.6053206,
+            "longitude": 81.7683828
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30160",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOKKADDICHOLAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kokkaddicholai",
+            "nameSi": "කොක්කඩිචෝලෙයි",
+            "nameTa": "கொக்கட்டிச்சோலை"
+          },
+          "city": {
+            "nameEn": "Kokkaddicholai",
+            "nameSi": "කොක්කඩිචෝලෙයි",
+            "nameTa": "கொக்கட்டிச்சோலை"
+          },
+          "postcode": "30160",
+          "postOffice": {
+            "nameEn": "Kokkaddicholai Post Office",
+            "nameSi": "කොක්කඩිචෝලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "கொக்கட்டிச்சோலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30160"
+          },
+          "coordinates": {
+            "latitude": 7.616057,
+            "longitude": 81.7103155
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30162",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMPILANTHURAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Ampilanthurai",
+            "nameSi": "අම්පිලන්තුරෙයි",
+            "nameTa": "அம்பிளாந்துறை"
+          },
+          "city": {
+            "nameEn": "Ampilanthurai",
+            "nameSi": "අම්පිලන්තුරෙයි",
+            "nameTa": "அம்பிளாந்துறை"
+          },
+          "postcode": "30162",
+          "postOffice": {
+            "nameEn": "Ampilanthurai Post Office",
+            "nameSi": "අම්පිලන්තුරෙයි තැපැල් කාර්යාලය",
+            "nameTa": "அம்பிளாந்துறை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30162"
+          },
+          "coordinates": {
+            "latitude": 7.7165561,
+            "longitude": 81.6988172
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30192",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KURUKKALMADAM",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kurukkalmadam",
+            "nameSi": "කුරුක්කල්මඩම්",
+            "nameTa": "குருக்கள்மடம்"
+          },
+          "city": {
+            "nameEn": "Kurukkalmadam",
+            "nameSi": "කුරුක්කල්මඩම්",
+            "nameTa": "குருக்கள்மடம்"
+          },
+          "postcode": "30192",
+          "postOffice": {
+            "nameEn": "Kurukkalmadam Post Office",
+            "nameSi": "කුරුක්කල්මඩම් තැපැල් කාර්යාලය",
+            "nameTa": "குருக்கள்மடம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30192"
+          },
+          "coordinates": {
+            "latitude": 7.587995,
+            "longitude": 81.780415
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30194",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHEDDIPALAYAM",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Cheddipalayam",
+            "nameSi": "චෙඩ්ඩිපලයම්",
+            "nameTa": "செட்டிபாளையம்"
+          },
+          "city": {
+            "nameEn": "Cheddipalayam",
+            "nameSi": "චෙඩ්ඩිපලයම්",
+            "nameTa": "செட்டிபாளையம்"
+          },
+          "postcode": "30194",
+          "postOffice": {
+            "nameEn": "Cheddipalayam Post Office",
+            "nameSi": "චෙඩ්ඩිපලයම් තැපැල් කාර්යාලය",
+            "nameTa": "செட்டிபாளையம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30194"
+          },
+          "coordinates": {
+            "latitude": 7.5795708,
+            "longitude": 81.7849301
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30196",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THETTATIVU",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Thettativu",
+            "nameSi": "තෙටිටතිවු",
+            "nameTa": "தேத்தாத்தீவு"
+          },
+          "city": {
+            "nameEn": "Thettativu",
+            "nameSi": "තෙටිටතිවු",
+            "nameTa": "தேத்தாத்தீவு"
+          },
+          "postcode": "30196",
+          "postOffice": {
+            "nameEn": "Thettativu Post Office",
+            "nameSi": "තෙටිටතිවු තැපැල් කාර්යාලය",
+            "nameTa": "தேத்தாத்தீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30196"
+          },
+          "coordinates": {
+            "latitude": 7.5558103,
+            "longitude": 81.7967011
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALUWANCHIKUDI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kaluwanchikudi",
+            "nameSi": "කළුවංචිකුඩි",
+            "nameTa": "களுவாஞ்சிக்குடி"
+          },
+          "city": {
+            "nameEn": "Kaluwanchikudi",
+            "nameSi": "කළුවංචිකුඩි",
+            "nameTa": "களுவாஞ்சிக்குடி"
+          },
+          "postcode": "30200",
+          "postOffice": {
+            "nameEn": "Kaluwanchikudi Post Office",
+            "nameSi": "කළුවංචිකුඩි තැපැල් කාර්යාලය",
+            "nameTa": "களுவாஞ்சிக்குடி தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30200"
+          },
+          "coordinates": {
+            "latitude": 7.5293725,
+            "longitude": 81.7946092
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30204",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VELLAVELY",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Vellavely",
+            "nameSi": "වේල්ලාවෙලි",
+            "nameTa": "வெல்லாவெளி"
+          },
+          "city": {
+            "nameEn": "Vellavely",
+            "nameSi": "වේල්ලාවෙලි",
+            "nameTa": "வெல்லாவெளி"
+          },
+          "postcode": "30204",
+          "postOffice": {
+            "nameEn": "Vellavely Post Office",
+            "nameSi": "වේල්ලාවෙලි තැපැල් කාර්යාලය",
+            "nameTa": "வெல்லாவெளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30204"
+          },
+          "coordinates": {
+            "latitude": 7.4956136,
+            "longitude": 81.7294702
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30206",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BAKIELLA",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Bakiella",
+            "nameSi": "බකිඇල්ල",
+            "nameTa": "பாக்கியெல்லா"
+          },
+          "city": {
+            "nameEn": "Bakiella",
+            "nameSi": "බකිඇල්ල",
+            "nameTa": "பாக்கியெல்லா"
+          },
+          "postcode": "30206",
+          "postOffice": {
+            "nameEn": "Bakiella Post Office",
+            "nameSi": "බකිඇල්ල තැපැල් කාර්යාලය",
+            "nameTa": "பாக்கியெல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30206"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANDUR",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Mandur",
+            "nameSi": "මන්දූර්",
+            "nameTa": "மண்டூர்"
+          },
+          "city": {
+            "nameEn": "Mandur",
+            "nameSi": "මන්දූර්",
+            "nameTa": "மண்டூர்"
+          },
+          "postcode": "30220",
+          "postOffice": {
+            "nameEn": "Mandur Post Office",
+            "nameSi": "මන්දූර් තැපැල් කාර්යාලය",
+            "nameTa": "மண்டூர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30220"
+          },
+          "coordinates": {
+            "latitude": 7.4826649,
+            "longitude": 81.7540902
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30230",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PERIYAPORATIVU",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Periyaporativu",
+            "nameSi": "පෙරියපෝරතිවු",
+            "nameTa": "பெரியபோரைதீவு"
+          },
+          "city": {
+            "nameEn": "Periyaporativu",
+            "nameSi": "පෙරියපෝරතිවු",
+            "nameTa": "பெரியபோரைதீவு"
+          },
+          "postcode": "30230",
+          "postOffice": {
+            "nameEn": "Periyaporativu Post Office",
+            "nameSi": "පෙරියපෝරතිවු තැපැල් කාර්යාලය",
+            "nameTa": "பெரியபோரைதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30230"
+          },
+          "coordinates": {
+            "latitude": 7.519163,
+            "longitude": 81.7691318
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30234",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THIRUPALUGAMAM",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Thirupalugamam",
+            "nameSi": "තිරුපලුගාමම්",
+            "nameTa": "திருப்பழுகாமம்"
+          },
+          "city": {
+            "nameEn": "Thirupalugamam",
+            "nameSi": "තිරුපලුගාමම්",
+            "nameTa": "திருப்பழுகாமம்"
+          },
+          "postcode": "30234",
+          "postOffice": {
+            "nameEn": "Thirupalugamam Post Office",
+            "nameSi": "තිරුපලුගාමම් තැපැල් කාර්යාලය",
+            "nameTa": "திருப்பழுகாமம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30234"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30236",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THIKKODAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Thikkodai",
+            "nameSi": "තික්කොඞයි",
+            "nameTa": "திக்கோடை"
+          },
+          "city": {
+            "nameEn": "Thikkodai",
+            "nameSi": "තික්කොඞයි",
+            "nameTa": "திக்கோடை"
+          },
+          "postcode": "30236",
+          "postOffice": {
+            "nameEn": "Thikkodai Post Office",
+            "nameSi": "තික්කොඞයි තැපැල් කාර්යාලය",
+            "nameTa": "திக்கோடை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30236"
+          },
+          "coordinates": {
+            "latitude": 7.5243486,
+            "longitude": 81.6884184
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30238",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAVAGIRINAGAR",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Navagirinagar",
+            "nameSi": "නවගිරිනගර්",
+            "nameTa": "நவகிரிநகர்"
+          },
+          "city": {
+            "nameEn": "Navagirinagar",
+            "nameSi": "නවගිරිනගර්",
+            "nameTa": "நவகிரிநகர்"
+          },
+          "postcode": "30238",
+          "postOffice": {
+            "nameEn": "Navagirinagar Post Office",
+            "nameSi": "නවගිරිනගර් තැපැල් කාර්යාලය",
+            "nameTa": "நவகிரிநகர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30238"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30249",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KODDAIKALLAR",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Koddaikallar",
+            "nameSi": "කොඩ්ඩෙයිකල්ලාර්",
+            "nameTa": "கோட்டைக்கல்லாறு"
+          },
+          "city": {
+            "nameEn": "Koddaikallar",
+            "nameSi": "කොඩ්ඩෙයිකල්ලාර්",
+            "nameTa": "கோட்டைக்கல்லாறு"
+          },
+          "postcode": "30249",
+          "postOffice": {
+            "nameEn": "Koddaikallar Post Office",
+            "nameSi": "කොඩ්ඩෙයිකල්ලාර් තැපැල් කාර්යාලය",
+            "nameTa": "கோட்டைக்கல்லாறு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30249"
+          },
+          "coordinates": {
+            "latitude": 7.483879,
+            "longitude": 81.8079853
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ERAVUR",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Eravur",
+            "nameSi": "එරාවූර්",
+            "nameTa": "ஏறாவூர்"
+          },
+          "city": {
+            "nameEn": "Eravur",
+            "nameSi": "එරාවූර්",
+            "nameTa": "ஏறாவூர்"
+          },
+          "postcode": "30300",
+          "postOffice": {
+            "nameEn": "Eravur Post Office",
+            "nameSi": "එරාවූර් තැපැල් කාර්යාලය",
+            "nameTa": "ஏறாவூர் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30300"
+          },
+          "coordinates": {
+            "latitude": 7.7768972,
+            "longitude": 81.6042028
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30350",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHENKALADI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Chenkaladi",
+            "nameSi": "චෙන්කලඩි",
+            "nameTa": "செங்கலடி"
+          },
+          "city": {
+            "nameEn": "Chenkaladi",
+            "nameSi": "චෙන්කලඩි",
+            "nameTa": "செங்கலடி"
+          },
+          "postcode": "30350",
+          "postOffice": {
+            "nameEn": "Chenkaladi Post Office",
+            "nameSi": "චෙන්කලඩි තැපැල් කාර්යාලය",
+            "nameTa": "செங்கலடி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30350"
+          },
+          "coordinates": {
+            "latitude": 7.7858571,
+            "longitude": 81.5898016
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30352",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANKUDAVELY",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Pankudavely",
+            "nameSi": "පාන්කුඩාවේලි",
+            "nameTa": "பான்குடாவெளி"
+          },
+          "city": {
+            "nameEn": "Pankudavely",
+            "nameSi": "පාන්කුඩාවේලි",
+            "nameTa": "பான்குடாவெளி"
+          },
+          "postcode": "30352",
+          "postOffice": {
+            "nameEn": "Pankudavely Post Office",
+            "nameSi": "පාන්කුඩාවේලි තැපැල් කාර්යාලය",
+            "nameTa": "பான்குடாவெளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30352"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30354",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARADIYANARU",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Karadiyanaru",
+            "nameSi": "කරදියනාරු",
+            "nameTa": "கரடியனாறு"
+          },
+          "city": {
+            "nameEn": "Karadiyanaru",
+            "nameSi": "කරදියනාරු",
+            "nameTa": "கரடியனாறு"
+          },
+          "postcode": "30354",
+          "postOffice": {
+            "nameEn": "Karadiyanaru Post Office",
+            "nameSi": "කරදියනාරු තැපැල් කාර්යාලය",
+            "nameTa": "கரடியனாறு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30354"
+          },
+          "coordinates": {
+            "latitude": 7.7007466,
+            "longitude": 81.538387
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30358",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PERIYAPULLUMALAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Periyapullumalai",
+            "nameSi": "පෙරියපුල්ලුමලෙයි",
+            "nameTa": "பெரியபுல்லுமலை"
+          },
+          "city": {
+            "nameEn": "Periyapullumalai",
+            "nameSi": "පෙරියපුල්ලුමලෙයි",
+            "nameTa": "பெரியபுல்லுமலை"
+          },
+          "postcode": "30358",
+          "postOffice": {
+            "nameEn": "Periyapullumalai Post Office",
+            "nameSi": "පෙරියපුල්ලුමලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "பெரியபுல்லுமலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30358"
+          },
+          "coordinates": {
+            "latitude": 7.5816799,
+            "longitude": 81.460856
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30362",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AYITHIYAMALAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Ayithiyamalai",
+            "nameSi": "අයිතියමලෙයි",
+            "nameTa": "ஆயித்தியமலை"
+          },
+          "city": {
+            "nameEn": "Ayithiyamalai",
+            "nameSi": "අයිතියමලෙයි",
+            "nameTa": "ஆயித்தியமலை"
+          },
+          "postcode": "30362",
+          "postOffice": {
+            "nameEn": "Ayithiyamalai Post Office",
+            "nameSi": "අයිතියමලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "ஆயித்தியமலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30362"
+          },
+          "coordinates": {
+            "latitude": 7.6736198,
+            "longitude": 81.5703065
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30364",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UNNICHCHAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Unnichchai",
+            "nameSi": "උන්නිච්චේ",
+            "nameTa": "உன்னிச்சை"
+          },
+          "city": {
+            "nameEn": "Unnichchai",
+            "nameSi": "උන්නිච්චේ",
+            "nameTa": "உன்னிச்சை"
+          },
+          "postcode": "30364",
+          "postOffice": {
+            "nameEn": "Unnichchai Post Office",
+            "nameSi": "උන්නිච්චේ තැපැල් කාර්යාලය",
+            "nameTa": "உன்னிச்சை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30364"
+          },
+          "coordinates": {
+            "latitude": 7.618288,
+            "longitude": 81.5488207
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30372",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALUWANKEMY",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kaluwankemy",
+            "nameSi": "කළුවන්කෙමි",
+            "nameTa": "களுவங்கேணி"
+          },
+          "city": {
+            "nameEn": "Kaluwankemy",
+            "nameSi": "කළුවන්කෙමි",
+            "nameTa": "களுவங்கேணி"
+          },
+          "postcode": "30372",
+          "postOffice": {
+            "nameEn": "Kaluwankemy Post Office",
+            "nameSi": "කළුවන්කෙමි තැපැල් කාර්යාලය",
+            "nameTa": "களுவங்கேணி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30372"
+          },
+          "coordinates": {
+            "latitude": 7.5293725,
+            "longitude": 81.7946092
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30376",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VANTHARUMOOLAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Vantharumoolai",
+            "nameSi": "වන්තරුමූලෙයි",
+            "nameTa": "வந்தாறுமூலை"
+          },
+          "city": {
+            "nameEn": "Vantharumoolai",
+            "nameSi": "වන්තරුමූලෙයි",
+            "nameTa": "வந்தாறுமூலை"
+          },
+          "postcode": "30376",
+          "postOffice": {
+            "nameEn": "Vantharumoolai Post Office",
+            "nameSi": "වන්තරුමූලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "வந்தாறுமூலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30376"
+          },
+          "coordinates": {
+            "latitude": 7.7905882,
+            "longitude": 81.5569003
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30392",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MURAKOTTANCHANAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Murakottanchanai",
+            "nameSi": "මුරකොට්ටන්චනෛ",
+            "nameTa": "முருகண்டிச்சேனை"
+          },
+          "city": {
+            "nameEn": "Murakottanchanai",
+            "nameSi": "මුරකොට්ටන්චනෛ",
+            "nameTa": "முருகண்டிச்சேனை"
+          },
+          "postcode": "30392",
+          "postOffice": {
+            "nameEn": "Murakottanchanai Post Office",
+            "nameSi": "මුරකොට්ටන්චනෛ තැපැල් කාර්යාලය",
+            "nameTa": "முருகண்டிச்சேனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30392"
+          },
+          "coordinates": {
+            "latitude": 7.7309971,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30394",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRAN",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kiran",
+            "nameSi": "කිරාන්",
+            "nameTa": "கிரான்"
+          },
+          "city": {
+            "nameEn": "Kiran",
+            "nameSi": "කිරාන්",
+            "nameTa": "கிரான்"
+          },
+          "postcode": "30394",
+          "postOffice": {
+            "nameEn": "Kiran Post Office",
+            "nameSi": "කිරාන් තැපැල් කාර්යාලය",
+            "nameTa": "கிரான் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30394"
+          },
+          "coordinates": {
+            "latitude": 7.8677797,
+            "longitude": 81.5102655
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VALAICHENAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Valaichenai",
+            "nameSi": "වාලච්චේන",
+            "nameTa": "வாழைச்சேனை"
+          },
+          "city": {
+            "nameEn": "Valaichenai",
+            "nameSi": "වාලච්චේන",
+            "nameTa": "வாழைச்சேனை"
+          },
+          "postcode": "30400",
+          "postOffice": {
+            "nameEn": "Valaichenai Post Office",
+            "nameSi": "වාලච්චේන තැපැල් කාර්යාලය",
+            "nameTa": "வாழைச்சேனை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30400"
+          },
+          "coordinates": {
+            "latitude": 7.9213276,
+            "longitude": 81.5246705
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30420",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ODDAMAVADI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Oddamavadi",
+            "nameSi": "ඔට්ටමාවඩ්",
+            "nameTa": "ஓட்டமாவடி"
+          },
+          "city": {
+            "nameEn": "Oddamavadi",
+            "nameSi": "ඔට්ටමාවඩ්",
+            "nameTa": "ஓட்டமாவடி"
+          },
+          "postcode": "30420",
+          "postOffice": {
+            "nameEn": "Oddamavadi Post Office",
+            "nameSi": "ඔට්ටමාවඩ් තැපැල් කාර්යාලය",
+            "nameTa": "ஓட்டமாவடி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30420"
+          },
+          "coordinates": {
+            "latitude": 7.9031076,
+            "longitude": 81.5239846
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30424",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VAKANERI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Vakaneri",
+            "nameSi": "වාගනේරි",
+            "nameTa": "வாகனேரி"
+          },
+          "city": {
+            "nameEn": "Vakaneri",
+            "nameSi": "වාගනේරි",
+            "nameTa": "வாகனேரி"
+          },
+          "postcode": "30424",
+          "postOffice": {
+            "nameEn": "Vakaneri Post Office",
+            "nameSi": "වාගනේරි තැපැල් කාර්යාලය",
+            "nameTa": "வாகனேரி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30424"
+          },
+          "coordinates": {
+            "latitude": 7.9265434,
+            "longitude": 81.4828198
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30426",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIRAVODAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Miravodai",
+            "nameSi": "මිරවෝඞායි",
+            "nameTa": "மீராவோடை"
+          },
+          "city": {
+            "nameEn": "Miravodai",
+            "nameSi": "මිරවෝඞායි",
+            "nameTa": "மீராவோடை"
+          },
+          "postcode": "30426",
+          "postOffice": {
+            "nameEn": "Miravodai Post Office",
+            "nameSi": "මිරවෝඞායි තැපැල් කාර්යාලය",
+            "nameTa": "மீராவோடை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30426"
+          },
+          "coordinates": {
+            "latitude": 7.8893464,
+            "longitude": 81.5102655
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30428",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUNANAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Punanai",
+            "nameSi": "පූනානයි",
+            "nameTa": "புணாணை"
+          },
+          "city": {
+            "nameEn": "Punanai",
+            "nameSi": "පූනානයි",
+            "nameTa": "புணாணை"
+          },
+          "postcode": "30428",
+          "postOffice": {
+            "nameEn": "Punanai Post Office",
+            "nameSi": "පූනානයි තැපැල් කාර්යාලය",
+            "nameTa": "புணாணை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30428"
+          },
+          "coordinates": {
+            "latitude": 7.9650074,
+            "longitude": 81.3889748
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30450",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VAKARAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Vakarai",
+            "nameSi": "වාකරෙයි",
+            "nameTa": "வாகரை"
+          },
+          "city": {
+            "nameEn": "Vakarai",
+            "nameSi": "වාකරෙයි",
+            "nameTa": "வாகரை"
+          },
+          "postcode": "30450",
+          "postOffice": {
+            "nameEn": "Vakarai Post Office",
+            "nameSi": "වාකරෙයි තැපැල් කාර්යාලය",
+            "nameTa": "வாகரை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30450"
+          },
+          "coordinates": {
+            "latitude": 8.1369099,
+            "longitude": 81.434079
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30456",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KATHIRAVELI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Kathiraveli",
+            "nameSi": "කදිරවේලි",
+            "nameTa": "கதிரவெளி"
+          },
+          "city": {
+            "nameEn": "Kathiraveli",
+            "nameSi": "කදිරවේලි",
+            "nameTa": "கதிரவெளி"
+          },
+          "postcode": "30456",
+          "postOffice": {
+            "nameEn": "Kathiraveli Post Office",
+            "nameSi": "කදිරවේලි තැපැල් කාර්යාලය",
+            "nameTa": "கதிரவெளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30456"
+          },
+          "coordinates": {
+            "latitude": 8.222881,
+            "longitude": 81.4038577
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32350",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ADDALAICHENAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Addalaichenai",
+            "nameSi": "අඩ්ඩාලච්චේන",
+            "nameTa": "அட்டாளைச்சேனை"
+          },
+          "city": {
+            "nameEn": "Addalaichenai",
+            "nameSi": "අඩ්ඩාලච්චේන",
+            "nameTa": "அட்டாளைச்சேனை"
+          },
+          "postcode": "32350",
+          "postOffice": {
+            "nameEn": "Addalaichenai Post Office",
+            "nameSi": "අඩ්ඩාලච්චේන තැපැල් කාර්යාලය",
+            "nameTa": "அட்டாளைச்சேனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32350"
+          },
+          "coordinates": {
+            "latitude": 7.2442579,
+            "longitude": 81.8548071
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32354",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Batticaloa",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு",
+            "administrativeType": "District",
+            "code": "LK-51"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PALAMUNAI",
+            "nameSi": "මඩකලපුව",
+            "nameTa": "மட்டக்களப்பு"
+          },
+          "locality": {
+            "nameEn": "Palamunai",
+            "nameSi": "පාලමුන",
+            "nameTa": "பாலமுனை"
+          },
+          "city": {
+            "nameEn": "Palamunai",
+            "nameSi": "පාලමුන",
+            "nameTa": "பாலமுனை"
+          },
+          "postcode": "32354",
+          "postOffice": {
+            "nameEn": "Palamunai Post Office",
+            "nameSi": "පාලමුන තැපැල් කාර්යාලය",
+            "nameTa": "பாலமுனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32354"
+          },
+          "coordinates": {
+            "latitude": 7.6611143,
+            "longitude": 81.7472522
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

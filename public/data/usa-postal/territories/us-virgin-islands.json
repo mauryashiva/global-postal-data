@@ -1,0 +1,163 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "U.S. Virgin Islands",
+    "abbreviation": "VI",
+    "fipsCode": "78",
+    "capital": "Charlotte Amalie",
+    "largestCity": "Charlotte Amalie",
+    "category": "territories",
+    "administrativeType": "Territory",
+    "areaCodes": [
+      "340"
+    ],
+    "prefixes": [
+      "008"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-VI-00801-0",
+      "zip5": "00801",
+      "zip4": "0001",
+      "zipPlus4": "00801-0001",
+      "state": {
+        "nameEn": "U.S. Virgin Islands",
+        "abbreviation": "VI",
+        "fipsCode": "78",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Saint Thomas",
+      "acceptableCities": [
+        "St Thomas",
+        "Charlotte Amalie"
+      ],
+      "postalCityNames": [
+        {
+          "name": "St Thomas",
+          "status": "Acceptable"
+        },
+        {
+          "name": "Charlotte Amalie",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "St. Thomas Island",
+          "fipsCode": "78030",
+          "geoid": "78030"
+        }
+      ],
+      "primaryCounty": "St. Thomas Island",
+      "zcta": null,
+      "zipType": "PO BOX",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Charlotte Amalie Post Office",
+        "address": "9800 Oswald Harris Ct",
+        "phone": "(340) 774-1950",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 18.3419,
+        "longitude": -64.9307,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "340"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 0,
+        "deliveryPoints": 3400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VI-00801",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-VI-00802-1",
+      "zip5": "00802",
+      "zip4": "1001",
+      "zipPlus4": "00802-1001",
+      "state": {
+        "nameEn": "U.S. Virgin Islands",
+        "abbreviation": "VI",
+        "fipsCode": "78",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Saint Thomas",
+      "acceptableCities": [
+        "St Thomas",
+        "Charlotte Amalie"
+      ],
+      "postalCityNames": [
+        {
+          "name": "St Thomas",
+          "status": "Acceptable"
+        },
+        {
+          "name": "Charlotte Amalie",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "St. Thomas Island",
+          "fipsCode": "78030",
+          "geoid": "78030"
+        }
+      ],
+      "primaryCounty": "St. Thomas Island",
+      "zcta": {
+        "code": "00802"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Sugar Estate Station",
+        "address": "1 Sugar Estate",
+        "phone": "(340) 774-3750",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 18.3381,
+        "longitude": -64.9197,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "340"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 20,
+        "deliveryPoints": 9800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VI-00802",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

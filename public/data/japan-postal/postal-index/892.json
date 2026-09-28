@@ -1,0 +1,40 @@
+{
+  "prefix": "892",
+  "records": [
+    {
+      "postalCode": "8920000",
+      "postalCodeFormatted": "892-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "46",
+      "prefectureNameEn": "Kagoshima",
+      "prefectureNameJa": "鹿児島県",
+      "prefectureNameKana": "カゴシマケン",
+      "prefectureNameRomaji": "Kagoshima-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "46201",
+        "nameEn": "Kagoshima",
+        "nameJa": "鹿児島市",
+        "nameKana": "カゴシシ",
+        "nameRomaji": "Kagoshima-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Kagoshima Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

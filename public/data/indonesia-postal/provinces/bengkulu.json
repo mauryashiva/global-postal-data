@@ -1,0 +1,63 @@
+{
+  "code": "17",
+  "nameEn": "Bengkulu",
+  "nameId": "Bengkulu",
+  "nameNative": "Bengkulu",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Bengkulu",
+  "capitalId": "Kota Bengkulu",
+  "zone": "3",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "38111",
+      "province": {
+        "code": "17",
+        "nameEn": "Bengkulu",
+        "nameId": "Bengkulu",
+        "nameNative": "Bengkulu",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "17.71",
+        "nameId": "Kota Bengkulu",
+        "nameEn": "Bengkulu",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "17.71.01",
+        "nameId": "Kecamatan Ratu Samban",
+        "nameEn": "Ratu Samban District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "17.71.01.1001",
+        "nameId": "Kelurahan Belakang Pondok",
+        "nameEn": "Belakang Pondok",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Benteng Marlborough / Rumah Pengasingan Bung Karno",
+        "nameEn": "Fort Marlborough Heritage Area"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bengkulu",
+        "nameEn": "Bengkulu Main Post Office",
+        "code": "38000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-17-38111-17.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

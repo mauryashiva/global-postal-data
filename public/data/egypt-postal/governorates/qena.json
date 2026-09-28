@@ -1,0 +1,118 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Qena",
+    "nameNative": "قنا",
+    "isoCode": "EG-KN",
+    "postalPrefix": "83",
+    "capital": "Qena",
+    "capitalNative": "قنا",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 26.1551,
+      "longitude": 32.716
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 6
+  },
+  "records": [
+    {
+      "postalCode": "83511",
+      "governorate": {
+        "nameEn": "Qena",
+        "nameNative": "قنا",
+        "code": "EG-KN",
+        "postalPrefix": "83",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Qena",
+        "nameNative": "قنا",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Qena",
+        "nameNative": "قسم قنا",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata / Sidi Abdel Rahim",
+        "nameNative": "ميدان المحطة / سيدي عبد الرحيم القنائي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Qena Main Post Office",
+        "nameNative": "مكتب بريد قنا الرئيسي",
+        "type": "Main Post Office",
+        "code": "83511"
+      },
+      "areas": [
+        "Station Square Qena",
+        "Sidi Abdel Rahim El Qenawi Mosque Square",
+        "Nile Corniche Qena"
+      ],
+      "coordinates": {
+        "latitude": 26.1551,
+        "longitude": 32.716
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-QENA-83511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "83611",
+      "governorate": {
+        "nameEn": "Qena",
+        "nameNative": "قنا",
+        "code": "EG-KN",
+        "postalPrefix": "83",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Nag Hammadi",
+        "nameNative": "نجع حمادي",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Nag Hammadi",
+        "nameNative": "مركز نجع حمادي",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Nag Hammadi Downtown / Aluminum City",
+        "nameNative": "وسط نجع حمادي / مجمع الألومنيوم",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Nag Hammadi Post Office",
+        "nameNative": "مكتب بريد نجع حمادي",
+        "type": "Sub Post Office",
+        "code": "83611"
+      },
+      "areas": [
+        "Nag Hammadi Aluminum Smelter Complex",
+        "Nile Barrages Nag Hammadi",
+        "Station St"
+      ],
+      "coordinates": {
+        "latitude": 26.0489,
+        "longitude": 32.2412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-QENA-83611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

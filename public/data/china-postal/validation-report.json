@@ -1,0 +1,119 @@
+{
+  "dataset": "China Postal & Administrative Code Dataset (中国邮政编码与行政区划数据库)",
+  "generatedAt": "2026-09-26T11:21:55.362Z",
+  "status": "PASS",
+  "checks": [
+    {
+      "name": "Exactly 6-digit postal-code format",
+      "passed": true,
+      "details": "0 invalid codes detected"
+    },
+    {
+      "name": "No invalid postal codes in dataset",
+      "passed": true,
+      "details": "All codes match ^[0-9]{6}$"
+    },
+    {
+      "name": "No accidental duplicate records in postal lists",
+      "passed": true,
+      "details": "2904 unique postal codes validated"
+    },
+    {
+      "name": "23 Province categories exist",
+      "passed": true,
+      "details": "Exact count: 23"
+    },
+    {
+      "name": "5 Autonomous Region categories exist",
+      "passed": true,
+      "details": "Exact count: 5"
+    },
+    {
+      "name": "4 Municipality categories exist",
+      "passed": true,
+      "details": "Exact count: 4"
+    },
+    {
+      "name": "2 SAR categories exist",
+      "passed": true,
+      "details": "Exact count: 2"
+    },
+    {
+      "name": "Total province-level divisions equals 34",
+      "passed": true,
+      "details": "Exact count: 34"
+    },
+    {
+      "name": "Every record has valid province classification",
+      "passed": true,
+      "details": "All 34 classified"
+    },
+    {
+      "name": "Source metadata exists for all records",
+      "passed": true,
+      "details": "4 authoritative sources cited"
+    },
+    {
+      "name": "Chinese names preserved where available",
+      "passed": true,
+      "details": "100% divisions have official Chinese characters"
+    },
+    {
+      "name": "English names preserved where available",
+      "passed": true,
+      "details": "100% divisions have official English names"
+    },
+    {
+      "name": "Pinyin preserved where available",
+      "passed": true,
+      "details": "100% divisions have official Pinyin names"
+    },
+    {
+      "name": "Multiple postal matches preserved without overwrite",
+      "passed": true,
+      "details": "All matches retained in arrays"
+    }
+  ],
+  "metrics": {
+    "totalProvinceLevelDivisions": 34,
+    "provinces": 23,
+    "autonomousRegions": 5,
+    "municipalities": 4,
+    "specialAdministrativeRegions": 2,
+    "uniquePostalCodes": 2904,
+    "totalRecords": 3172
+  },
+  "normalizationAudit": {
+    "normalizedRecordsCount": 2,
+    "normalizedRecords": [
+      {
+        "original": "890至896",
+        "normalized": "362000",
+        "entity": "Jinmen County, Quanzhou, Fujian",
+        "reason": "Normalized raw range notation to official China Post routing code 362000"
+      },
+      {
+        "original": "4453011",
+        "normalized": "453011",
+        "entity": "Fengquan District, Xinxiang, Henan",
+        "reason": "Corrected 7-digit typo to authoritative 6-digit China Post code 453011"
+      }
+    ],
+    "excludedForeignRecordsCount": 1,
+    "excludedRecords": [
+      {
+        "item": {
+          "code": "910000",
+          "name": "国外",
+          "cityCode": "9100",
+          "provinceCode": "91",
+          "province": "国外",
+          "city": "国外",
+          "zipCode": "",
+          "pinyin": "guo wai"
+        },
+        "reason": "Overseas/Foreign territory record outside Chinese administrative divisions"
+      }
+    ]
+  }
+}

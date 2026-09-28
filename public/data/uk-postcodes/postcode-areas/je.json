@@ -1,0 +1,55 @@
+{
+  "postcodeArea": "JE",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "JE2 3RP",
+      "postTown": "JERSEY",
+      "locality": "Saint Helier",
+      "dependentLocality": "Broad Street",
+      "constituentCountry": "Jersey (Crown Dependency)",
+      "constituentCountryCode": "JE",
+      "region": "Channel Islands",
+      "ceremonialCounty": "Bailiwick of Jersey",
+      "localAuthority": "Parish of St Helier",
+      "district": "St Helier",
+      "civilParish": "St Helier",
+      "ward": "St Helier No 1",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "isCrownDependency": true,
+      "crownDependencyName": "Jersey",
+      "coordinates": {
+        "latitude": 49.1837,
+        "longitude": -2.1066,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "JE23RP-01",
+          "buildingName": "Jersey Post HQ",
+          "buildingNumber": "1",
+          "subBuildingName": "Main Sorting Office",
+          "thoroughfare": "Broad Street",
+          "postTown": "JERSEY",
+          "postcode": "JE2 3RP",
+          "fullAddressText": "Jersey Post HQ, 1 Broad Street, St Helier, Jersey JE2 3RP"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "JE2 3RP",
+        "outwardCode": "JE2",
+        "inwardCode": "3RP",
+        "postcodeArea": "JE",
+        "postcodeDistrict": "JE2",
+        "postcodeSector": "JE2 3"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-JE2-3RP",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

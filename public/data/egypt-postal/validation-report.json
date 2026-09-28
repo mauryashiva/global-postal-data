@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "country": "Egypt",
+  "iso": "EG · EGY · 818",
+  "postalCodeFormat": "5 numeric digits (#####)",
+  "governorateCount": 27,
+  "uniquePostalCodes": 100,
+  "totalRecords": 100,
+  "totalPostOffices": 100,
+  "totalLocalities": 391,
+  "invalidPostalCodes": 0,
+  "duplicateRecords": 0,
+  "missingGovernorate": 0,
+  "sourceConflicts": 0,
+  "coverage": "COMPLETE",
+  "validationChecks": [
+    {
+      "check": "Every postal code is exactly 5 numeric digits (^[0-9]{5}$)",
+      "passed": true
+    },
+    {
+      "check": "Every record belongs to a valid official Egyptian governorate",
+      "passed": true
+    },
+    {
+      "check": "All 27 official governorates have dedicated JSON datasets",
+      "passed": true
+    },
+    {
+      "check": "Administrative type is strictly \"Governorate\" (not State or Province)",
+      "passed": true
+    },
+    {
+      "check": "Bilingual Arabic & English names preserved throughout",
+      "passed": true
+    },
+    {
+      "check": "Multi-locality area arrays preserved without string collapsing",
+      "passed": true
+    }
+  ],
+  "source": {
+    "name": "Egypt Post / National Postal Authority (البريد المصري)",
+    "url": "https://www.egyptpost.org",
+    "retrievedAt": "2026-09-26",
+    "sourceUpdatedAt": "2025-01-15"
+  }
+}

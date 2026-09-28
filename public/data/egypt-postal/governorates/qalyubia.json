@@ -1,0 +1,215 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Qalyubia",
+    "nameNative": "القليوبية",
+    "isoCode": "EG-KB",
+    "postalPrefix": "13",
+    "capital": "Banha",
+    "capitalNative": "بنها",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.466,
+      "longitude": 31.1853
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 4,
+    "totalRecords": 4,
+    "totalPostOffices": 4,
+    "totalLocalities": 15
+  },
+  "records": [
+    {
+      "postalCode": "13511",
+      "governorate": {
+        "nameEn": "Qalyubia",
+        "nameNative": "القليوبية",
+        "code": "EG-KB",
+        "postalPrefix": "13",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Banha",
+        "nameNative": "بنها",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Banha",
+        "nameNative": "قسم بنها",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Banha Downtown / Saad Zaghloul",
+        "nameNative": "وسط بنها / شارع سعد زغلول",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Banha Main Post Office",
+        "nameNative": "مكتب بريد بنها الرئيسي",
+        "type": "Main Post Office",
+        "code": "13511"
+      },
+      "areas": [
+        "Governorate Building Area",
+        "Saad Zaghloul St",
+        "Banha University",
+        "Nile Corniche Banha"
+      ],
+      "coordinates": {
+        "latitude": 30.466,
+        "longitude": 31.1853
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-QALYUBIA-13511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "13711",
+      "governorate": {
+        "nameEn": "Qalyubia",
+        "nameNative": "القليوبية",
+        "code": "EG-KB",
+        "postalPrefix": "13",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Shubra El Kheima",
+        "nameNative": "شبرا الخيمة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Shubra El Kheima 1",
+        "nameNative": "قسم أول شبرا الخيمة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Damanhur Shubra",
+        "nameNative": "دمنهور شبرا",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Shubra El Kheima First Post Office",
+        "nameNative": "مكتب بريد شبرا الخيمة أول",
+        "type": "Main Post Office",
+        "code": "13711"
+      },
+      "areas": [
+        "15 May St Shubra",
+        "Metro Station Area",
+        "Industrial Spinning Complex",
+        "Ismailia Canal Road"
+      ],
+      "coordinates": {
+        "latitude": 30.1289,
+        "longitude": 31.2456
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-QALYUBIA-13711",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "13612",
+      "governorate": {
+        "nameEn": "Qalyubia",
+        "nameNative": "القليوبية",
+        "code": "EG-KB",
+        "postalPrefix": "13",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Qalioub",
+        "nameNative": "قليوب",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Qalioub",
+        "nameNative": "مركز قليوب",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Qalioub El Mahata",
+        "nameNative": "قليوب المحطة",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Qalioub Post Office",
+        "nameNative": "مكتب بريد قليوب",
+        "type": "Sub Post Office",
+        "code": "13612"
+      },
+      "areas": [
+        "Qalioub Railway Station",
+        "Agricultural Road Km 14",
+        "Nawa Village Connection"
+      ],
+      "coordinates": {
+        "latitude": 30.1789,
+        "longitude": 31.2056
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-QALYUBIA-13612",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "13621",
+      "governorate": {
+        "nameEn": "Qalyubia",
+        "nameNative": "القليوبية",
+        "code": "EG-KB",
+        "postalPrefix": "13",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Obour",
+        "nameNative": "مدينة العبور",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Obour",
+        "nameNative": "قسم العبور",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "District 1 / Industrial Area",
+        "nameNative": "الحي الأول / المنطقة الصناعية",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Obour City Post Office",
+        "nameNative": "مكتب بريد مدينة العبور",
+        "type": "Main Post Office",
+        "code": "13621"
+      },
+      "areas": [
+        "Obour Market (Souq El Obour)",
+        "Districts 1-9",
+        "Industrial Area B & C",
+        "Golf City"
+      ],
+      "coordinates": {
+        "latitude": 30.2289,
+        "longitude": 31.4789
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-QALYUBIA-13621",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

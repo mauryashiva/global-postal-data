@@ -1,0 +1,167 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Aswan",
+    "nameNative": "أسوان",
+    "isoCode": "EG-ASN",
+    "postalPrefix": "81",
+    "capital": "Aswan",
+    "capitalNative": "أسوان",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 24.0889,
+      "longitude": 32.8998
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 11
+  },
+  "records": [
+    {
+      "postalCode": "81511",
+      "governorate": {
+        "nameEn": "Aswan",
+        "nameNative": "أسوان",
+        "code": "EG-ASN",
+        "postalPrefix": "81",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Aswan",
+        "nameNative": "أسوان",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Aswan 1",
+        "nameNative": "قسم أول أسوان",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata / Corniche",
+        "nameNative": "ميدان المحطة / كورنيش النيل",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Aswan Main Post Office",
+        "nameNative": "مكتب بريد أسوان الرئيسي",
+        "type": "Main Post Office",
+        "code": "81511"
+      },
+      "areas": [
+        "Aswan Railway Square",
+        "Abtal El Tahrir St",
+        "Corniche El Nil Aswan",
+        "Tourist Souq Aswan"
+      ],
+      "coordinates": {
+        "latitude": 24.0889,
+        "longitude": 32.8998
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ASWAN-81511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "81513",
+      "governorate": {
+        "nameEn": "Aswan",
+        "nameNative": "أسوان",
+        "code": "EG-ASN",
+        "postalPrefix": "81",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Aswan",
+        "nameNative": "أسوان",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Aswan 2",
+        "nameNative": "قسم ثان أسوان",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Aswan High Dam Complex",
+        "nameNative": "موقع السد العالي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "High Dam (Sadd El Aali) Post Office",
+        "nameNative": "مكتب بريد السد العالي",
+        "type": "Sub Post Office",
+        "code": "81513"
+      },
+      "areas": [
+        "Aswan High Dam Crest",
+        "Lake Nasser Port",
+        "Hydroelectric Power Station",
+        "Russian-Egyptian Monument"
+      ],
+      "coordinates": {
+        "latitude": 23.9712,
+        "longitude": 32.8789
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ASWAN-81513",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "81718",
+      "governorate": {
+        "nameEn": "Aswan",
+        "nameNative": "أسوان",
+        "code": "EG-ASN",
+        "postalPrefix": "81",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Abu Simbel",
+        "nameNative": "أبو سمبل",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Abu Simbel",
+        "nameNative": "مدينة أبو سمبل السياحية",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Ramses II Temples Enclave",
+        "nameNative": "مجمع معابد رمسيس الثاني",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Abu Simbel Post Office",
+        "nameNative": "مكتب بريد أبو سمبل",
+        "type": "Sub Post Office",
+        "code": "81718"
+      },
+      "areas": [
+        "Great Temple of Abu Simbel",
+        "Lake Nasser Cruise Pier",
+        "Abu Simbel Airport Road"
+      ],
+      "coordinates": {
+        "latitude": 22.3489,
+        "longitude": 31.6289
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ASWAN-81718",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

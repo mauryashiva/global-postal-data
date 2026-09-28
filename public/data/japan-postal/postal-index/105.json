@@ -1,0 +1,40 @@
+{
+  "prefix": "105",
+  "records": [
+    {
+      "postalCode": "1050011",
+      "postalCodeFormatted": "105-0011",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13103",
+        "nameEn": "Minato",
+        "nameJa": "港区",
+        "nameKana": "ミナトク",
+        "nameRomaji": "Minato-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Shibakoen",
+        "nameJa": "芝公園",
+        "nameKana": "シバコウエン",
+        "nameRomaji": "Shibakoen",
+        "type": "NormalTownArea",
+        "landmarkEn": "Tokyo Tower (東京タワー) & Zojoji Temple"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

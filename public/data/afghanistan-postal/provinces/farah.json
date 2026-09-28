@@ -1,0 +1,669 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Farah",
+    "nameNative": "فراه",
+    "isoCode": "AF-FRA",
+    "postalPrefix": "31",
+    "capital": "Farah",
+    "capitalNative": "فراه",
+    "coordinates": {
+      "latitude": 32.4953,
+      "longitude": 62.2627
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 17,
+    "totalRecords": 17,
+    "urbanRecords": 6,
+    "ruralRecords": 11
+  },
+  "records": [
+    {
+      "postalCode": "310101",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Farah - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-FRA-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Farah District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-310101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "310201",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Farah - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-FRA-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Farah District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-310201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "310301",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Farah - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-FRA-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Farah District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-310301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "310401",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Farah - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-FRA-04"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Farah District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-310401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "310501",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Farah - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-FRA-05"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Farah District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-310501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "310601",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Farah - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-FRA-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Farah District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-310601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315101",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Lash-e-Juwayn District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-51"
+      },
+      "locality": {
+        "nameEn": "Lash-e-Juwayn Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Lash-e-Juwayn District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315201",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Shibkoh District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-52"
+      },
+      "locality": {
+        "nameEn": "Shibkoh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shibkoh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315301",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Qala-e-Kah District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-53"
+      },
+      "locality": {
+        "nameEn": "Qala-e-Kah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qala-e-Kah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315401",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Anardara District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-54"
+      },
+      "locality": {
+        "nameEn": "Anardara Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Anardara District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315501",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Khak-e-Safed District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-55"
+      },
+      "locality": {
+        "nameEn": "Khak-e-Safed Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khak-e-Safed District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315601",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Pushtrod District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-56"
+      },
+      "locality": {
+        "nameEn": "Pushtrod Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Pushtrod District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315701",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Bakwa District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-57"
+      },
+      "locality": {
+        "nameEn": "Bakwa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Bakwa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315801",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Balabuluk District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-58"
+      },
+      "locality": {
+        "nameEn": "Balabuluk Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Balabuluk District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "315901",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Gulestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-59"
+      },
+      "locality": {
+        "nameEn": "Gulestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gulestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-315901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "316001",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Purchaman District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-60"
+      },
+      "locality": {
+        "nameEn": "Purchaman Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Purchaman District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-316001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "316101",
+      "province": {
+        "nameEn": "Farah",
+        "nameNative": "فراه",
+        "code": "AF-FRA",
+        "postalPrefix": "31"
+      },
+      "city": {
+        "nameEn": "Farah",
+        "nameNative": "فراه"
+      },
+      "district": {
+        "nameEn": "Fara Rood District",
+        "type": "Rural Administrative District",
+        "code": "AF-FRA-61"
+      },
+      "locality": {
+        "nameEn": "Fara Rood Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Fara Rood District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.4953,
+        "longitude": 62.2627
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-316101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

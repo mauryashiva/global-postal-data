@@ -1,0 +1,42 @@
+{
+  "prefix": "460",
+  "records": [
+    {
+      "postalCode": "4600001",
+      "postalCodeFormatted": "460-0001",
+      "postalCodeType": "AREA",
+      "prefectureCode": "23",
+      "prefectureNameEn": "Aichi",
+      "prefectureNameJa": "愛知県",
+      "prefectureNameKana": "アイチケン",
+      "prefectureNameRomaji": "Aichi-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "23106",
+        "nameEn": "Nagoya Naka Ward",
+        "nameJa": "名古屋市中区",
+        "nameKana": "ナゴヤシナカク",
+        "nameRomaji": "Nagoya-shi Naka-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "名古屋市",
+        "parentCityEn": "Nagoya City"
+      },
+      "townArea": {
+        "nameEn": "Sannomaru",
+        "nameJa": "三の丸",
+        "nameKana": "サンノマル",
+        "nameRomaji": "Sannomaru",
+        "type": "NormalTownArea",
+        "landmarkEn": "Nagoya City Hall & Aichi Prefectural Government"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

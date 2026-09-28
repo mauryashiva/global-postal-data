@@ -1,0 +1,162 @@
+{
+  "prefecture": {
+    "code": "26",
+    "nameEn": "Kyoto",
+    "nameJa": "京都府",
+    "nameKana": "キョウトフ",
+    "nameRomaji": "Kyoto-fu",
+    "administrativeType": "Fu",
+    "capitalEn": "Kyoto",
+    "capitalJa": "京都市"
+  },
+  "totalRecords": 4,
+  "records": [
+    {
+      "postalCode": "6048571",
+      "postalCodeFormatted": "604-8571",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26104",
+        "nameEn": "Kyoto Nakagyo Ward",
+        "nameJa": "京都市中京区",
+        "nameKana": "キョウトシナカギョウク",
+        "nameRomaji": "Kyoto-shi Nakagyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "Teramachi-dori Oike-agaru Kaminocho",
+        "nameJa": "寺町通御池上る上本能寺前町",
+        "nameKana": "テラマチドオリオイケアガルカミホンノウジマエチョウ",
+        "nameRomaji": "Teramachidori Oikeagaru Kamihonnojimaecho",
+        "type": "NormalTownArea",
+        "landmarkEn": "Kyoto City Hall (京都市役所)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "6008216",
+      "postalCodeFormatted": "600-8216",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26106",
+        "nameEn": "Kyoto Shimogyo Ward",
+        "nameJa": "京都市下京区",
+        "nameKana": "キョウトシシモギョウク",
+        "nameRomaji": "Kyoto-shi Shimogyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "Higashishiokojicho",
+        "nameJa": "東塩小路町",
+        "nameKana": "ヒガシシオコウジチョウ",
+        "nameRomaji": "Higashishiokojicho",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Kyoto Station & Kyoto Tower"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "6020000",
+      "postalCodeFormatted": "602-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26102",
+        "nameEn": "Kyoto Kamigyo Ward",
+        "nameJa": "京都市上京区",
+        "nameKana": "キョウトシカミギョウク",
+        "nameRomaji": "Kyoto-shi Kamigyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": true
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "6020000",
+      "postalCodeFormatted": "602-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26102",
+        "nameEn": "Kyoto Kamigyo Ward",
+        "nameJa": "京都市上京区",
+        "nameKana": "キョウトシカミギョウク",
+        "nameRomaji": "Kyoto-shi Kamigyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "Kyoto Gyoen National Garden",
+        "nameJa": "京都御苑",
+        "nameKana": "キョウトギョエン",
+        "nameRomaji": "Kyoto Gyoen",
+        "type": "NormalTownArea",
+        "landmarkEn": "Kyoto Imperial Palace Grounds (京都御所)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": true
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "21",
+  "nameEn": "Riau Islands",
+  "nameId": "Kepulauan Riau",
+  "nameNative": "Kepulauan Riau",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Tanjung Pinang",
+  "capitalId": "Kota Tanjung Pinang",
+  "zone": "2",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "29432",
+      "province": {
+        "code": "21",
+        "nameEn": "Riau Islands",
+        "nameId": "Kepulauan Riau",
+        "nameNative": "Kepulauan Riau",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "21.71",
+        "nameId": "Kota Batam",
+        "nameEn": "Batam",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "21.71.02",
+        "nameId": "Kecamatan Batam Kota",
+        "nameEn": "Batam Kota District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "21.71.02.1001",
+        "nameId": "Kelurahan Teluk Tering",
+        "nameEn": "Teluk Tering",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Batam Centre / Mega Mall / International Ferry",
+        "nameEn": "Batam Centre Government & Commerce"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Batam",
+        "nameEn": "Batam Main Post Office",
+        "code": "29400",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-21-29432-21.71.02.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

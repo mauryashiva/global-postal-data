@@ -1,0 +1,511 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "New York",
+    "abbreviation": "NY",
+    "fipsCode": "36",
+    "capital": "Albany",
+    "largestCity": "New York",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "212",
+      "315",
+      "332",
+      "347",
+      "516",
+      "518",
+      "585",
+      "607",
+      "631",
+      "646",
+      "716",
+      "718",
+      "845",
+      "914",
+      "917",
+      "929",
+      "934"
+    ],
+    "prefixes": [
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "113",
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "131",
+      "132",
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "145",
+      "146",
+      "147",
+      "148",
+      "149",
+      "005"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 5,
+    "uniqueZipPlus4": 5,
+    "totalRecords": 5,
+    "countiesCount": 5
+  },
+  "records": [
+    {
+      "id": "US-NY-10001-0",
+      "zip5": "10001",
+      "zip4": "3838",
+      "zipPlus4": "10001-3838",
+      "state": {
+        "nameEn": "New York",
+        "abbreviation": "NY",
+        "fipsCode": "36",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "New York",
+      "acceptableCities": [
+        "New York",
+        "Manhattan",
+        "NY"
+      ],
+      "postalCityNames": [
+        {
+          "name": "New York",
+          "status": "Primary"
+        },
+        {
+          "name": "Manhattan",
+          "status": "Acceptable"
+        },
+        {
+          "name": "NY",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "New York County",
+          "fipsCode": "36061",
+          "geoid": "36061"
+        }
+      ],
+      "primaryCounty": "New York County",
+      "zcta": {
+        "code": "10001"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "James A. Farley Post Office (Midtown)",
+        "address": "421 8th Ave",
+        "phone": "(212) 330-3296",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 40.7505,
+        "longitude": -73.9934,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "212",
+          "315",
+          "332",
+          "347",
+          "516",
+          "518",
+          "585",
+          "607",
+          "631",
+          "646",
+          "716",
+          "718",
+          "845",
+          "914",
+          "917",
+          "929",
+          "934"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 44,
+        "deliveryPoints": 22800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NY-10001",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NY-10022-1",
+      "zip5": "10022",
+      "zip4": "1234",
+      "zipPlus4": "10022-1234",
+      "state": {
+        "nameEn": "New York",
+        "abbreviation": "NY",
+        "fipsCode": "36",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "New York",
+      "acceptableCities": [
+        "New York",
+        "Manhattan"
+      ],
+      "postalCityNames": [
+        {
+          "name": "New York",
+          "status": "Primary"
+        },
+        {
+          "name": "Manhattan",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "New York County",
+          "fipsCode": "36061",
+          "geoid": "36061"
+        }
+      ],
+      "primaryCounty": "New York County",
+      "zcta": {
+        "code": "10022"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "FDR Station Post Office",
+        "address": "909 3rd Ave",
+        "phone": "(212) 330-5573",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 40.7589,
+        "longitude": -73.968,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "212",
+          "315",
+          "332",
+          "347",
+          "516",
+          "518",
+          "585",
+          "607",
+          "631",
+          "646",
+          "716",
+          "718",
+          "845",
+          "914",
+          "917",
+          "929",
+          "934"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 40,
+        "deliveryPoints": 20600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NY-10022",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NY-11201-2",
+      "zip5": "11201",
+      "zip4": "2001",
+      "zipPlus4": "11201-2001",
+      "state": {
+        "nameEn": "New York",
+        "abbreviation": "NY",
+        "fipsCode": "36",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Brooklyn",
+      "acceptableCities": [
+        "Brooklyn",
+        "New York"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Brooklyn",
+          "status": "Primary"
+        },
+        {
+          "name": "New York",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Kings County",
+          "fipsCode": "36047",
+          "geoid": "36047"
+        }
+      ],
+      "primaryCounty": "Kings County",
+      "zcta": {
+        "code": "11201"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Brooklyn Cadman Plaza Post Office",
+        "address": "271 Cadman Plz E",
+        "phone": "(718) 348-3000",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 40.6958,
+        "longitude": -73.9926,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "212",
+          "315",
+          "332",
+          "347",
+          "516",
+          "518",
+          "585",
+          "607",
+          "631",
+          "646",
+          "716",
+          "718",
+          "845",
+          "914",
+          "917",
+          "929",
+          "934"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 38,
+        "deliveryPoints": 19500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NY-11201",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NY-12207-3",
+      "zip5": "12207",
+      "zip4": "1501",
+      "zipPlus4": "12207-1501",
+      "state": {
+        "nameEn": "New York",
+        "abbreviation": "NY",
+        "fipsCode": "36",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Albany",
+      "acceptableCities": [
+        "Albany"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Albany",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Albany County",
+          "fipsCode": "36001",
+          "geoid": "36001"
+        }
+      ],
+      "primaryCounty": "Albany County",
+      "zcta": {
+        "code": "12207"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Albany Main Post Office",
+        "address": "450 Delaware Ave",
+        "phone": "(518) 452-2600",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 42.6526,
+        "longitude": -73.7562,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "212",
+          "315",
+          "332",
+          "347",
+          "516",
+          "518",
+          "585",
+          "607",
+          "631",
+          "646",
+          "716",
+          "718",
+          "845",
+          "914",
+          "917",
+          "929",
+          "934"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NY-12207",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NY-00501-4",
+      "zip5": "00501",
+      "zip4": "0001",
+      "zipPlus4": "00501-0001",
+      "state": {
+        "nameEn": "New York",
+        "abbreviation": "NY",
+        "fipsCode": "36",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Holtsville",
+      "acceptableCities": [
+        "Internal Revenue Service"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Internal Revenue Service",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Suffolk County",
+          "fipsCode": "36103",
+          "geoid": "36103"
+        }
+      ],
+      "primaryCounty": "Suffolk County",
+      "zcta": null,
+      "zipType": "UNIQUE",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Holtsville IRS Processing Center",
+        "address": "1040 Waverly Ave",
+        "phone": "(631) 654-6000",
+        "type": "Unique Federal Facility"
+      },
+      "coordinates": {
+        "latitude": 40.8112,
+        "longitude": -73.0456,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "212",
+          "315",
+          "332",
+          "347",
+          "516",
+          "518",
+          "585",
+          "607",
+          "631",
+          "646",
+          "716",
+          "718",
+          "845",
+          "914",
+          "917",
+          "929",
+          "934"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 1,
+        "deliveryPoints": 1
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NY-00501",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

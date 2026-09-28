@@ -1,0 +1,1452 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Polonnaruwa",
+    "nameSi": "පොළොන්නරුව",
+    "nameTa": "பொலன்னறுவை",
+    "administrativeType": "District",
+    "code": "LK-72"
+  },
+  "province": {
+    "nameEn": "North Central Province",
+    "nameSi": "උතුරු මැද පළාත",
+    "nameTa": "வட மத்திய மாகாணம்",
+    "code": "LK-7"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Dimbulagala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Elahera",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Hingurakgoda",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Lankapura",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Medirigiriya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thamankaduwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Welikanda",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 21,
+    "totalRecords": 21,
+    "dsDivisionCount": 7
+  },
+  "postcodes": [
+    {
+      "postcode": "30442",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANKEMI",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Mankemi",
+            "nameSi": "මන්කෙමි",
+            "nameTa": "மான்கெமி"
+          },
+          "city": {
+            "nameEn": "Mankemi",
+            "nameSi": "මන්කෙමි",
+            "nameTa": "மான்கெமி"
+          },
+          "postcode": "30442",
+          "postOffice": {
+            "nameEn": "Mankemi Post Office",
+            "nameSi": "මන්කෙමි තැපැල් කාර්යාලය",
+            "nameTa": "மான்கெமி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30442"
+          },
+          "coordinates": {
+            "latitude": 7.9403384,
+            "longitude": 81.0187984
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30444",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANICHANKEMI",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Panichankemi",
+            "nameSi": "පනිචංකෙමි",
+            "nameTa": "பனிசங்கேமி"
+          },
+          "city": {
+            "nameEn": "Panichankemi",
+            "nameSi": "පනිචංකෙමි",
+            "nameTa": "பனிசங்கேமி"
+          },
+          "postcode": "30444",
+          "postOffice": {
+            "nameEn": "Panichankemi Post Office",
+            "nameSi": "පනිචංකෙමි තැපැල් කාර්යාලය",
+            "nameTa": "பனிசங்கேமி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30444"
+          },
+          "coordinates": {
+            "latitude": 7.9403384,
+            "longitude": 81.0187984
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "POLONNARUWA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலநறுவை"
+          },
+          "city": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலநறுவை"
+          },
+          "postcode": "51000",
+          "postOffice": {
+            "nameEn": "Polonnaruwa Post Office",
+            "nameSi": "පොළොන්නරුව තැපැල් කාර්යාලය",
+            "nameTa": "பொலநறுவை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51000"
+          },
+          "coordinates": {
+            "latitude": 7.9619141,
+            "longitude": 80.9952353
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51002",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALINGAELA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Kalingaela",
+            "nameSi": "කාලිංගඇල",
+            "nameTa": "கலிங்கேலா"
+          },
+          "city": {
+            "nameEn": "Kalingaela",
+            "nameSi": "කාලිංගඇල",
+            "nameTa": "கலிங்கேலா"
+          },
+          "postcode": "51002",
+          "postOffice": {
+            "nameEn": "Kalingaela Post Office",
+            "nameSi": "කාලිංගඇල තැපැල් කාර්යාලය",
+            "nameTa": "கலிங்கேலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51002"
+          },
+          "coordinates": {
+            "latitude": 7.9403384,
+            "longitude": 81.0187984
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51004",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ONEGAMA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Onegama",
+            "nameSi": "ඕනගම",
+            "nameTa": "ஒன்கம"
+          },
+          "city": {
+            "nameEn": "Onegama",
+            "nameSi": "ඕනගම",
+            "nameTa": "ஒன்கம"
+          },
+          "postcode": "51004",
+          "postOffice": {
+            "nameEn": "Onegama Post Office",
+            "nameSi": "ඕනගම තැපැල් කාර්යාලය",
+            "nameTa": "ஒன்கம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51004"
+          },
+          "coordinates": {
+            "latitude": 7.9776777,
+            "longitude": 81.0920218
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51006",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LAKSHAUYANA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Lakshauyana",
+            "nameSi": "ලක්ෂඋයන",
+            "nameTa": "லக்ஷௌயன"
+          },
+          "city": {
+            "nameEn": "Lakshauyana",
+            "nameSi": "ලක්ෂඋයන",
+            "nameTa": "லக்ஷௌயன"
+          },
+          "postcode": "51006",
+          "postOffice": {
+            "nameEn": "Lakshauyana Post Office",
+            "nameSi": "ලක්ෂඋයන තැපැල් කාර්යාලය",
+            "nameTa": "லக்ஷௌயன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51006"
+          },
+          "coordinates": {
+            "latitude": 7.9905068,
+            "longitude": 80.9995387
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51008",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UNAGALAVEHERA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Unagalavehera",
+            "nameSi": "උණගලවෙහෙර",
+            "nameTa": "உனகலவெஹர"
+          },
+          "city": {
+            "nameEn": "Unagalavehera",
+            "nameSi": "උණගලවෙහෙර",
+            "nameTa": "உனகலவெஹர"
+          },
+          "postcode": "51008",
+          "postOffice": {
+            "nameEn": "Unagalavehera Post Office",
+            "nameSi": "උණගලවෙහෙර තැපැල් කාර්යාලය",
+            "nameTa": "உனகலவெஹர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51008"
+          },
+          "coordinates": {
+            "latitude": 8.0119043,
+            "longitude": 80.9912514
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51024",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "JAYANTHIPURA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Jayanthipura",
+            "nameSi": "ජයන්තිපුර",
+            "nameTa": "ஜெயந்திபுரா"
+          },
+          "city": {
+            "nameEn": "Jayanthipura",
+            "nameSi": "ජයන්තිපුර",
+            "nameTa": "ஜெயந்திபுரா"
+          },
+          "postcode": "51024",
+          "postOffice": {
+            "nameEn": "Jayanthipura Post Office",
+            "nameSi": "ජයන්තිපුර තැපැල් කාර්යාලය",
+            "nameTa": "ஜெயந்திபுரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51024"
+          },
+          "coordinates": {
+            "latitude": 7.9483156,
+            "longitude": 81.0017827
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51026",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GIRITALE",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Giritale",
+            "nameSi": "ගිරිතලේ",
+            "nameTa": "கிரிதலே"
+          },
+          "city": {
+            "nameEn": "Giritale",
+            "nameSi": "ගිරිතලේ",
+            "nameTa": "கிரிதலே"
+          },
+          "postcode": "51026",
+          "postOffice": {
+            "nameEn": "Giritale Post Office",
+            "nameSi": "ගිරිතලේ තැපැල් කාර්යාලය",
+            "nameTa": "கிரிதலே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51026"
+          },
+          "coordinates": {
+            "latitude": 8.0023564,
+            "longitude": 80.9249212
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51042",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WIJAYABAPURA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Wijayabapura",
+            "nameSi": "විජයබාපුර",
+            "nameTa": "விஜயபாபுரா"
+          },
+          "city": {
+            "nameEn": "Wijayabapura",
+            "nameSi": "විජයබාපුර",
+            "nameTa": "விஜயபாபுரா"
+          },
+          "postcode": "51042",
+          "postOffice": {
+            "nameEn": "Wijayabapura Post Office",
+            "nameSi": "විජයබාපුර තැපැල් කාර්යාලය",
+            "nameTa": "விஜயபாபுரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51042"
+          },
+          "coordinates": {
+            "latitude": 7.8227119,
+            "longitude": 81.1856994
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51044",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALPOTHA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Talpotha",
+            "nameSi": "තල්පොත",
+            "nameTa": "தல்போத"
+          },
+          "city": {
+            "nameEn": "Talpotha",
+            "nameSi": "තල්පොත",
+            "nameTa": "தல்போத"
+          },
+          "postcode": "51044",
+          "postOffice": {
+            "nameEn": "Talpotha Post Office",
+            "nameSi": "තල්පොත තැපැල් කාර්යාලය",
+            "nameTa": "தல்போத தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51044"
+          },
+          "coordinates": {
+            "latitude": 8.0314571,
+            "longitude": 81.0340151
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51046",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PALUGASDAMANA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Palugasdamana",
+            "nameSi": "පලුගස්දමන",
+            "nameTa": "பலுகஸ்தமன"
+          },
+          "city": {
+            "nameEn": "Palugasdamana",
+            "nameSi": "පලුගස්දමන",
+            "nameTa": "பலுகஸ்தமன"
+          },
+          "postcode": "51046",
+          "postOffice": {
+            "nameEn": "Palugasdamana Post Office",
+            "nameSi": "පලුගස්දමන තැපැල් කාර්යාලය",
+            "nameTa": "பலுகஸ்தமன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51046"
+          },
+          "coordinates": {
+            "latitude": 7.9654599,
+            "longitude": 81.0257763
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51049",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TAMBALA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Tambala",
+            "nameSi": "තඹල",
+            "nameTa": "தம்பாலா"
+          },
+          "city": {
+            "nameEn": "Tambala",
+            "nameSi": "තඹල",
+            "nameTa": "தம்பாலா"
+          },
+          "postcode": "51049",
+          "postOffice": {
+            "nameEn": "Tambala Post Office",
+            "nameSi": "තඹල තැපැල් කාර්යාලය",
+            "nameTa": "தம்பாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51049"
+          },
+          "coordinates": {
+            "latitude": 8.0093977,
+            "longitude": 81.0697053
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51225",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIYABEDUMA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Diyabeduma",
+            "nameSi": "දියබෙදුම",
+            "nameTa": "தியபெடும"
+          },
+          "city": {
+            "nameEn": "Diyabeduma",
+            "nameSi": "දියබෙදුම",
+            "nameTa": "தியபெடும"
+          },
+          "postcode": "51225",
+          "postOffice": {
+            "nameEn": "Diyabeduma Post Office",
+            "nameSi": "දියබෙදුම තැපැල් කාර්යාලය",
+            "nameTa": "தியபெடும தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51225"
+          },
+          "coordinates": {
+            "latitude": 7.9297432,
+            "longitude": 80.8709872
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51235",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ATTANAKADAWALA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Attanakadawala",
+            "nameSi": "අත්තනගඩවල",
+            "nameTa": "அத்தனகடவல"
+          },
+          "city": {
+            "nameEn": "Attanakadawala",
+            "nameSi": "අත්තනගඩවල",
+            "nameTa": "அத்தனகடவல"
+          },
+          "postcode": "51235",
+          "postOffice": {
+            "nameEn": "Attanakadawala Post Office",
+            "nameSi": "අත්තනගඩවල තැපැල් කාර්යාලය",
+            "nameTa": "அத்தனகடவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51235"
+          },
+          "coordinates": {
+            "latitude": 7.9330954,
+            "longitude": 80.8702955
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BAKAMUNA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Bakamuna",
+            "nameSi": "බකමූණ",
+            "nameTa": "பகமுனா"
+          },
+          "city": {
+            "nameEn": "Bakamuna",
+            "nameSi": "බකමූණ",
+            "nameTa": "பகமுனா"
+          },
+          "postcode": "51250",
+          "postOffice": {
+            "nameEn": "Bakamuna Post Office",
+            "nameSi": "බකමූණ තැපැල් කාර්යාලය",
+            "nameTa": "பகமுனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51250"
+          },
+          "coordinates": {
+            "latitude": 7.780602,
+            "longitude": 80.818401
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51256",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ORUBENDI SIYAMBALAWA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Orubendi Siyambalawa",
+            "nameSi": "ඔරුබැඳි සියඹලාව",
+            "nameTa": "ஒருபெண்டி சியம்பலாவா"
+          },
+          "city": {
+            "nameEn": "Orubendi Siyambalawa",
+            "nameSi": "ඔරුබැඳි සියඹලාව",
+            "nameTa": "ஒருபெண்டி சியம்பலாவா"
+          },
+          "postcode": "51256",
+          "postOffice": {
+            "nameEn": "Orubendi Siyambalawa Post Office",
+            "nameSi": "ඔරුබැඳි සියඹලාව තැපැල් කාර්යාලය",
+            "nameTa": "ஒருபெண்டி சியம்பலாவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51256"
+          },
+          "coordinates": {
+            "latitude": 7.7536098,
+            "longitude": 80.8128636
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51258",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": {
+            "nameEn": "Elahera",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "ELAHERA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Elahera",
+            "nameSi": "ඇලහැර",
+            "nameTa": "எலஹெரா"
+          },
+          "city": {
+            "nameEn": "Elahera",
+            "nameSi": "ඇලහැර",
+            "nameTa": "எலஹெரா"
+          },
+          "postcode": "51258",
+          "postOffice": {
+            "nameEn": "Elahera Post Office",
+            "nameSi": "ඇලහැර තැපැල් කාර්යාලය",
+            "nameTa": "எலஹெரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51258"
+          },
+          "coordinates": {
+            "latitude": 7.734387,
+            "longitude": 80.7934798
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": {
+            "nameEn": "Hingurakgoda",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "HINGURAKGODA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Hingurakgoda",
+            "nameSi": "හිඟුරක්ගොඩ",
+            "nameTa": "இங்குராகொடை"
+          },
+          "city": {
+            "nameEn": "Hingurakgoda",
+            "nameSi": "හිඟුරක්ගොඩ",
+            "nameTa": "இங்குராகொடை"
+          },
+          "postcode": "51400",
+          "postOffice": {
+            "nameEn": "Hingurakgoda Post Office",
+            "nameSi": "හිඟුරක්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "இங்குராகொடை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51400"
+          },
+          "coordinates": {
+            "latitude": 8.0415888,
+            "longitude": 80.9532359
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51408",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HINGURAKDAMANA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Hingurakdamana",
+            "nameSi": "හිඟුරක්දමන",
+            "nameTa": "ஹிங்குரக்டமன"
+          },
+          "city": {
+            "nameEn": "Hingurakdamana",
+            "nameSi": "හිඟුරක්දමන",
+            "nameTa": "ஹிங்குரக்டமன"
+          },
+          "postcode": "51408",
+          "postOffice": {
+            "nameEn": "Hingurakdamana Post Office",
+            "nameSi": "හිඟුරක්දමන තැපැල් කාර්යාලය",
+            "nameTa": "ஹிங்குரக்டமன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51408"
+          },
+          "coordinates": {
+            "latitude": 8.0415888,
+            "longitude": 80.9532359
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51410",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "North Central Province",
+            "nameSi": "උතුරු මැද පළාත",
+            "nameTa": "வட மத்திய மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-7",
+            "capital": "Anuradhapura"
+          },
+          "district": {
+            "nameEn": "Polonnaruwa",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை",
+            "administrativeType": "District",
+            "code": "LK-72"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MINNERIYA",
+            "nameSi": "පොළොන්නරුව",
+            "nameTa": "பொலன்னறுவை"
+          },
+          "locality": {
+            "nameEn": "Minneriya",
+            "nameSi": "මින්නේරිය",
+            "nameTa": "மின்னேரியா"
+          },
+          "city": {
+            "nameEn": "Minneriya",
+            "nameSi": "මින්නේරිය",
+            "nameTa": "மின்னேரியா"
+          },
+          "postcode": "51410",
+          "postOffice": {
+            "nameEn": "Minneriya Post Office",
+            "nameSi": "මින්නේරිය තැපැල් කාර්යාලය",
+            "nameTa": "மின்னேரியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51410"
+          },
+          "coordinates": {
+            "latitude": 8.0386709,
+            "longitude": 80.9063922
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

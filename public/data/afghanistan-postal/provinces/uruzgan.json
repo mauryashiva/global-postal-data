@@ -1,0 +1,251 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Uruzgan",
+    "nameNative": "اروزگان",
+    "isoCode": "AF-URU",
+    "postalPrefix": "41",
+    "capital": "Tarinkot",
+    "capitalNative": "ترین‌کوت",
+    "coordinates": {
+      "latitude": 32.9272,
+      "longitude": 66
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 6,
+    "totalRecords": 6,
+    "urbanRecords": 1,
+    "ruralRecords": 5
+  },
+  "records": [
+    {
+      "postalCode": "410101",
+      "province": {
+        "nameEn": "Uruzgan",
+        "nameNative": "اروزگان",
+        "code": "AF-URU",
+        "postalPrefix": "41"
+      },
+      "city": {
+        "nameEn": "Tarinkot",
+        "nameNative": "ترین‌کوت"
+      },
+      "district": {
+        "nameEn": "Tarinkot - Tirinkot",
+        "type": "Urban Municipal District",
+        "code": "AF-URU-01"
+      },
+      "locality": {
+        "nameEn": "Tirinkot (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Tarinkot Tirinkot Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.9272,
+        "longitude": 66
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-410101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "415101",
+      "province": {
+        "nameEn": "Uruzgan",
+        "nameNative": "اروزگان",
+        "code": "AF-URU",
+        "postalPrefix": "41"
+      },
+      "city": {
+        "nameEn": "Tarinkot",
+        "nameNative": "ترین‌کوت"
+      },
+      "district": {
+        "nameEn": "Khasuruzgan District",
+        "type": "Rural Administrative District",
+        "code": "AF-URU-51"
+      },
+      "locality": {
+        "nameEn": "Khasuruzgan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khasuruzgan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.9272,
+        "longitude": 66
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-415101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "415201",
+      "province": {
+        "nameEn": "Uruzgan",
+        "nameNative": "اروزگان",
+        "code": "AF-URU",
+        "postalPrefix": "41"
+      },
+      "city": {
+        "nameEn": "Tarinkot",
+        "nameNative": "ترین‌کوت"
+      },
+      "district": {
+        "nameEn": "Chora District",
+        "type": "Rural Administrative District",
+        "code": "AF-URU-52"
+      },
+      "locality": {
+        "nameEn": "Chora Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chora District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.9272,
+        "longitude": 66
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-415201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "415301",
+      "province": {
+        "nameEn": "Uruzgan",
+        "nameNative": "اروزگان",
+        "code": "AF-URU",
+        "postalPrefix": "41"
+      },
+      "city": {
+        "nameEn": "Tarinkot",
+        "nameNative": "ترین‌کوت"
+      },
+      "district": {
+        "nameEn": "ShahiDistrict e-Hassas District",
+        "type": "Rural Administrative District",
+        "code": "AF-URU-53"
+      },
+      "locality": {
+        "nameEn": "ShahiDistrict e-Hassas Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "ShahiDistrict e-Hassas District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.9272,
+        "longitude": 66
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-415301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "415401",
+      "province": {
+        "nameEn": "Uruzgan",
+        "nameNative": "اروزگان",
+        "code": "AF-URU",
+        "postalPrefix": "41"
+      },
+      "city": {
+        "nameEn": "Tarinkot",
+        "nameNative": "ترین‌کوت"
+      },
+      "district": {
+        "nameEn": "Dehrawud District",
+        "type": "Rural Administrative District",
+        "code": "AF-URU-54"
+      },
+      "locality": {
+        "nameEn": "Dehrawud Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dehrawud District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.9272,
+        "longitude": 66
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-415401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "415501",
+      "province": {
+        "nameEn": "Uruzgan",
+        "nameNative": "اروزگان",
+        "code": "AF-URU",
+        "postalPrefix": "41"
+      },
+      "city": {
+        "nameEn": "Tarinkot",
+        "nameNative": "ترین‌کوت"
+      },
+      "district": {
+        "nameEn": "Chinarto District",
+        "type": "Rural Administrative District",
+        "code": "AF-URU-55"
+      },
+      "locality": {
+        "nameEn": "Chinarto Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chinarto District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.9272,
+        "longitude": 66
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-415501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

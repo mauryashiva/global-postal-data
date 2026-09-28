@@ -1,0 +1,173 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "South Carolina",
+    "abbreviation": "SC",
+    "fipsCode": "45",
+    "capital": "Columbia",
+    "largestCity": "Charleston",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "803",
+      "843",
+      "854",
+      "864"
+    ],
+    "prefixes": [
+      "290",
+      "291",
+      "292",
+      "293",
+      "294",
+      "295",
+      "296",
+      "297",
+      "298",
+      "299"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-SC-29401-0",
+      "zip5": "29401",
+      "zip4": "1001",
+      "zipPlus4": "29401-1001",
+      "state": {
+        "nameEn": "South Carolina",
+        "abbreviation": "SC",
+        "fipsCode": "45",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Charleston",
+      "acceptableCities": [
+        "Charleston"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Charleston",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Charleston County",
+          "fipsCode": "45019",
+          "geoid": "45019"
+        }
+      ],
+      "primaryCounty": "Charleston County",
+      "zcta": {
+        "code": "29401"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Charleston Downtown Post Office",
+        "address": "83 Broad St",
+        "phone": "(843) 577-0690",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 32.7765,
+        "longitude": -79.9311,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "803",
+          "843",
+          "854",
+          "864"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 27,
+        "deliveryPoints": 13900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-SC-29401",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-SC-29201-1",
+      "zip5": "29201",
+      "zip4": "2001",
+      "zipPlus4": "29201-2001",
+      "state": {
+        "nameEn": "South Carolina",
+        "abbreviation": "SC",
+        "fipsCode": "45",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Columbia",
+      "acceptableCities": [
+        "Columbia"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Columbia",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Richland County",
+          "fipsCode": "45079",
+          "geoid": "45079"
+        }
+      ],
+      "primaryCounty": "Richland County",
+      "zcta": {
+        "code": "29201"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Columbia Main Post Office",
+        "address": "1601 Assembly St",
+        "phone": "(803) 733-4600",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 34.0007,
+        "longitude": -81.0348,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "803",
+          "843",
+          "854",
+          "864"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 26,
+        "deliveryPoints": 13200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-SC-29201",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

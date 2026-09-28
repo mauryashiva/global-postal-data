@@ -1,0 +1,101 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "American Samoa",
+    "abbreviation": "AS",
+    "fipsCode": "60",
+    "capital": "Pago Pago",
+    "largestCity": "Tafuna",
+    "category": "territories",
+    "administrativeType": "Territory",
+    "areaCodes": [
+      "684"
+    ],
+    "prefixes": [
+      "967"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-AS-96799-0",
+      "zip5": "96799",
+      "zip4": "1001",
+      "zipPlus4": "96799-1001",
+      "state": {
+        "nameEn": "American Samoa",
+        "abbreviation": "AS",
+        "fipsCode": "60",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Pago Pago",
+      "acceptableCities": [
+        "Pago Pago",
+        "Tafuna",
+        "Fagatogo"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Pago Pago",
+          "status": "Primary"
+        },
+        {
+          "name": "Tafuna",
+          "status": "Acceptable"
+        },
+        {
+          "name": "Fagatogo",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Eastern District",
+          "fipsCode": "60010",
+          "geoid": "60010"
+        }
+      ],
+      "primaryCounty": "Eastern District",
+      "zcta": {
+        "code": "96799"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Pago Pago Main Post Office",
+        "address": "1 Lumana'i Bldg",
+        "phone": "(684) 633-4112",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": -14.2756,
+        "longitude": -170.702,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "684"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 14,
+        "deliveryPoints": 6800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AS-96799",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

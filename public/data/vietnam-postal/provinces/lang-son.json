@@ -1,0 +1,3477 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Lang Son",
+    "nameVi": "Lạng Sơn",
+    "fullNameEn": "Lang Son Province",
+    "fullNameVi": "Tỉnh Lạng Sơn",
+    "nameSearchNormalized": "lang son",
+    "officialCode": "20",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "25",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 65,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "25107",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Dong Kinh",
+        "nameVi": "Đông Kinh",
+        "fullNameEn": "Dong Kinh Ward",
+        "fullNameVi": "Phường Đông Kinh",
+        "nameSearchNormalized": "dong kinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05977",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Dong Kinh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đông Kinh",
+        "type": "Ward",
+        "code": "25107"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lạng Sơn",
+        "districtFullName": "Thành phố Lạng Sơn",
+        "districtNameEn": "Lang Son",
+        "districtCode": "178",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25114",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Luong Van Tri",
+        "nameVi": "Lương Văn Tri",
+        "fullNameEn": "Luong Van Tri Ward",
+        "fullNameVi": "Phường Lương Văn Tri",
+        "nameSearchNormalized": "luong van tri",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05983",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Luong Van Tri Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Lương Văn Tri",
+        "type": "Ward",
+        "code": "25114"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lạng Sơn",
+        "districtFullName": "Thành phố Lạng Sơn",
+        "districtNameEn": "Lang Son",
+        "districtCode": "178",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25110",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tam Thanh",
+        "nameVi": "Tam Thanh",
+        "fullNameEn": "Tam Thanh Ward",
+        "fullNameVi": "Phường Tam Thanh",
+        "nameSearchNormalized": "tam thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05986",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tam Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tam Thanh",
+        "type": "Ward",
+        "code": "25110"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lạng Sơn",
+        "districtFullName": "Thành phố Lạng Sơn",
+        "districtNameEn": "Lang Son",
+        "districtCode": "178",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25314",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Doan Ket",
+        "nameVi": "Đoàn Kết",
+        "fullNameEn": "Doan Ket Commune",
+        "fullNameVi": "Xã Đoàn Kết",
+        "nameSearchNormalized": "doan ket",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06001",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Doan Ket Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đoàn Kết",
+        "type": "Commune",
+        "code": "25314"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Quoc Khanh",
+        "nameVi": "Quốc Khánh",
+        "fullNameEn": "Quoc Khanh Commune",
+        "fullNameVi": "Xã Quốc Khánh",
+        "nameSearchNormalized": "quoc khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06004",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Quoc Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quốc Khánh",
+        "type": "Commune",
+        "code": "25309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tan Tien",
+        "nameVi": "Tân Tiến",
+        "fullNameEn": "Tan Tien Commune",
+        "fullNameVi": "Xã Tân Tiến",
+        "nameSearchNormalized": "tan tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06019",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tan Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Tiến",
+        "type": "Commune",
+        "code": "25317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25323",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Khang Chien",
+        "nameVi": "Kháng Chiến",
+        "fullNameEn": "Khang Chien Commune",
+        "fullNameVi": "Xã Kháng Chiến",
+        "nameSearchNormalized": "khang chien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06037",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Khang Chien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kháng Chiến",
+        "type": "Commune",
+        "code": "25323"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "That Khe",
+        "nameVi": "Thất Khê",
+        "fullNameEn": "That Khe Commune",
+        "fullNameVi": "Xã Thất Khê",
+        "nameSearchNormalized": "that khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06040",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "That Khe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thất Khê",
+        "type": "Commune",
+        "code": "25306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25329",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Trang Dinh",
+        "nameVi": "Tràng Định",
+        "fullNameEn": "Trang Dinh Commune",
+        "fullNameVi": "Xã Tràng Định",
+        "nameSearchNormalized": "trang dinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06046",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Trang Dinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tràng Định",
+        "type": "Commune",
+        "code": "25329"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25325",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Quoc Viet",
+        "nameVi": "Quốc Việt",
+        "fullNameEn": "Quoc Viet Commune",
+        "fullNameVi": "Xã Quốc Việt",
+        "nameSearchNormalized": "quoc viet",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06058",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Quoc Viet Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quốc Việt",
+        "type": "Commune",
+        "code": "25325"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tràng Định",
+        "districtFullName": "Huyện Tràng Định",
+        "districtNameEn": "Trang Dinh",
+        "districtCode": "180",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Hoa Tham",
+        "nameVi": "Hoa Thám",
+        "fullNameEn": "Hoa Tham Commune",
+        "fullNameVi": "Xã Hoa Thám",
+        "nameSearchNormalized": "hoa tham",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06073",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Tham Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoa Thám",
+        "type": "Commune",
+        "code": "25410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Quy Hoa",
+        "nameVi": "Quý Hoà",
+        "fullNameEn": "Quy Hoa Commune",
+        "fullNameVi": "Xã Quý Hoà",
+        "nameSearchNormalized": "quy hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06076",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Quy Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quý Hoà",
+        "type": "Commune",
+        "code": "25413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Hong Phong",
+        "nameVi": "Hồng Phong",
+        "fullNameEn": "Hong Phong Commune",
+        "fullNameVi": "Xã Hồng Phong",
+        "nameSearchNormalized": "hong phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06079",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Hong Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hồng Phong",
+        "type": "Commune",
+        "code": "25409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thien Hoa",
+        "nameVi": "Thiện Hoà",
+        "fullNameEn": "Thien Hoa Commune",
+        "fullNameVi": "Xã Thiện Hoà",
+        "nameSearchNormalized": "thien hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06085",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thien Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thiện Hoà",
+        "type": "Commune",
+        "code": "25417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thien Thuat",
+        "nameVi": "Thiện Thuật",
+        "fullNameEn": "Thien Thuat Commune",
+        "fullNameVi": "Xã Thiện Thuật",
+        "nameSearchNormalized": "thien thuat",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06091",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thien Thuat Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thiện Thuật",
+        "type": "Commune",
+        "code": "25416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25418",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thien Long",
+        "nameVi": "Thiện Long",
+        "fullNameEn": "Thien Long Commune",
+        "fullNameVi": "Xã Thiện Long",
+        "nameSearchNormalized": "thien long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06103",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thien Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thiện Long",
+        "type": "Commune",
+        "code": "25418"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Binh Gia",
+        "nameVi": "Bình Gia",
+        "fullNameEn": "Binh Gia Commune",
+        "fullNameVi": "Xã Bình Gia",
+        "nameSearchNormalized": "binh gia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06112",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Binh Gia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Gia",
+        "type": "Commune",
+        "code": "25406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25423",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tan Van",
+        "nameVi": "Tân Văn",
+        "fullNameEn": "Tan Van Commune",
+        "fullNameVi": "Xã Tân Văn",
+        "nameSearchNormalized": "tan van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06115",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tan Van Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Văn",
+        "type": "Commune",
+        "code": "25423"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Gia",
+        "districtFullName": "Huyện Bình Gia",
+        "districtNameEn": "Binh Gia",
+        "districtCode": "181",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Na Sam",
+        "nameVi": "Na Sầm",
+        "fullNameEn": "Na Sam Commune",
+        "fullNameVi": "Xã Na Sầm",
+        "nameSearchNormalized": "na sam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06124",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Na Sam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Na Sầm",
+        "type": "Commune",
+        "code": "25206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Lãng",
+        "districtFullName": "Huyện Văn Lãng",
+        "districtNameEn": "Van Lang",
+        "districtCode": "182",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thuy Hung",
+        "nameVi": "Thuỵ Hùng",
+        "fullNameEn": "Thuy Hung Commune",
+        "fullNameVi": "Xã Thuỵ Hùng",
+        "nameSearchNormalized": "thuy hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06148",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thuy Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thuỵ Hùng",
+        "type": "Commune",
+        "code": "25209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Lãng",
+        "districtFullName": "Huyện Văn Lãng",
+        "districtNameEn": "Van Lang",
+        "districtCode": "182",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Hoi Hoan",
+        "nameVi": "Hội Hoan",
+        "fullNameEn": "Hoi Hoan Commune",
+        "fullNameVi": "Xã Hội Hoan",
+        "nameSearchNormalized": "hoi hoan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06151",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Hoi Hoan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hội Hoan",
+        "type": "Commune",
+        "code": "25214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Lãng",
+        "districtFullName": "Huyện Văn Lãng",
+        "districtNameEn": "Van Lang",
+        "districtCode": "182",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25226",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Van Lang",
+        "nameVi": "Văn Lãng",
+        "fullNameEn": "Van Lang Commune",
+        "fullNameVi": "Xã Văn Lãng",
+        "nameSearchNormalized": "van lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06154",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Van Lang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Lãng",
+        "type": "Commune",
+        "code": "25226"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Lãng",
+        "districtFullName": "Huyện Văn Lãng",
+        "districtNameEn": "Van Lang",
+        "districtCode": "182",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25223",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Hoang Van Thu",
+        "nameVi": "Hoàng Văn Thụ",
+        "fullNameEn": "Hoang Van Thu Commune",
+        "fullNameVi": "Xã Hoàng Văn Thụ",
+        "nameSearchNormalized": "hoang van thu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06172",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Hoang Van Thu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoàng Văn Thụ",
+        "type": "Commune",
+        "code": "25223"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Lãng",
+        "districtFullName": "Huyện Văn Lãng",
+        "districtNameEn": "Van Lang",
+        "districtCode": "182",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25164",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Dong Dang",
+        "nameVi": "Đồng Đăng",
+        "fullNameEn": "Dong Dang Commune",
+        "fullNameVi": "Xã Đồng Đăng",
+        "nameSearchNormalized": "dong dang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06184",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Dong Dang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Đăng",
+        "type": "Commune",
+        "code": "25164"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lộc",
+        "districtFullName": "Huyện Cao Lộc",
+        "districtNameEn": "Cao Loc",
+        "districtCode": "183",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25115",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Ky Lua",
+        "nameVi": "Kỳ Lừa",
+        "fullNameEn": "Ky Lua Ward",
+        "fullNameVi": "Phường Kỳ Lừa",
+        "nameSearchNormalized": "ky lua",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "06187",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Ky Lua Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Kỳ Lừa",
+        "type": "Ward",
+        "code": "25115"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lộc",
+        "districtFullName": "Huyện Cao Lộc",
+        "districtNameEn": "Cao Loc",
+        "districtCode": "183",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25181",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Ba Son",
+        "nameVi": "Ba Sơn",
+        "fullNameEn": "Ba Son Commune",
+        "fullNameVi": "Xã Ba Sơn",
+        "nameSearchNormalized": "ba son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06196",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Ba Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Sơn",
+        "type": "Commune",
+        "code": "25181"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lộc",
+        "districtFullName": "Huyện Cao Lộc",
+        "districtNameEn": "Cao Loc",
+        "districtCode": "183",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25179",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Cao Loc",
+        "nameVi": "Cao Lộc",
+        "fullNameEn": "Cao Loc Commune",
+        "fullNameVi": "Xã Cao Lộc",
+        "nameSearchNormalized": "cao loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06211",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Cao Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cao Lộc",
+        "type": "Commune",
+        "code": "25179"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lộc",
+        "districtFullName": "Huyện Cao Lộc",
+        "districtNameEn": "Cao Loc",
+        "districtCode": "183",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25176",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Cong Son",
+        "nameVi": "Công Sơn",
+        "fullNameEn": "Cong Son Commune",
+        "fullNameVi": "Xã Công Sơn",
+        "nameSearchNormalized": "cong son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06220",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Cong Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Công Sơn",
+        "type": "Commune",
+        "code": "25176"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cao Lộc",
+        "districtFullName": "Huyện Cao Lộc",
+        "districtNameEn": "Cao Loc",
+        "districtCode": "183",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Van Quan",
+        "nameVi": "Văn Quan",
+        "fullNameEn": "Van Quan Commune",
+        "fullNameVi": "Xã Văn Quan",
+        "nameSearchNormalized": "van quan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06253",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Van Quan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Quan",
+        "type": "Commune",
+        "code": "25506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Quan",
+        "districtFullName": "Huyện Văn Quan",
+        "districtNameEn": "Van Quan",
+        "districtCode": "184",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Diem He",
+        "nameVi": "Điềm He",
+        "fullNameEn": "Diem He Commune",
+        "fullNameVi": "Xã Điềm He",
+        "nameSearchNormalized": "diem he",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06280",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Diem He Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Điềm He",
+        "type": "Commune",
+        "code": "25508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Quan",
+        "districtFullName": "Huyện Văn Quan",
+        "districtNameEn": "Van Quan",
+        "districtCode": "184",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25526",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Khanh Khe",
+        "nameVi": "Khánh Khê",
+        "fullNameEn": "Khanh Khe Commune",
+        "fullNameVi": "Xã Khánh Khê",
+        "nameSearchNormalized": "khanh khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06286",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Khe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Khê",
+        "type": "Commune",
+        "code": "25526"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Quan",
+        "districtFullName": "Huyện Văn Quan",
+        "districtNameEn": "Van Quan",
+        "districtCode": "184",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25518",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Yen Phuc",
+        "nameVi": "Yên Phúc",
+        "fullNameEn": "Yen Phuc Commune",
+        "fullNameVi": "Xã Yên Phúc",
+        "nameSearchNormalized": "yen phuc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06298",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Yen Phuc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Phúc",
+        "type": "Commune",
+        "code": "25518"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Quan",
+        "districtFullName": "Huyện Văn Quan",
+        "districtNameEn": "Van Quan",
+        "districtCode": "184",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tri Le",
+        "nameVi": "Tri Lễ",
+        "fullNameEn": "Tri Le Commune",
+        "fullNameVi": "Xã Tri Lễ",
+        "nameSearchNormalized": "tri le",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06313",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tri Le Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tri Lễ",
+        "type": "Commune",
+        "code": "25516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Quan",
+        "districtFullName": "Huyện Văn Quan",
+        "districtNameEn": "Van Quan",
+        "districtCode": "184",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25523",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tan Doan",
+        "nameVi": "Tân Đoàn",
+        "fullNameEn": "Tan Doan Commune",
+        "fullNameVi": "Xã Tân Đoàn",
+        "nameSearchNormalized": "tan doan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06316",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tan Doan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Đoàn",
+        "type": "Commune",
+        "code": "25523"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Quan",
+        "districtFullName": "Huyện Văn Quan",
+        "districtNameEn": "Van Quan",
+        "districtCode": "184",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25456",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Bac Son",
+        "nameVi": "Bắc Sơn",
+        "fullNameEn": "Bac Son Commune",
+        "fullNameVi": "xã Bắc Sơn",
+        "nameSearchNormalized": "bac son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06325",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Bac Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính xã Bắc Sơn",
+        "type": "Commune",
+        "code": "25456"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Sơn",
+        "districtFullName": "Huyện Bắc Sơn",
+        "districtNameEn": "Bac Son",
+        "districtCode": "185",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25463",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tan Tri",
+        "nameVi": "Tân Tri",
+        "fullNameEn": "Tan Tri Commune",
+        "fullNameVi": "Xã Tân Tri",
+        "nameSearchNormalized": "tan tri",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06337",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tan Tri Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Tri",
+        "type": "Commune",
+        "code": "25463"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Sơn",
+        "districtFullName": "Huyện Bắc Sơn",
+        "districtNameEn": "Bac Son",
+        "districtCode": "185",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25474",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Hung Vu",
+        "nameVi": "Hưng Vũ",
+        "fullNameEn": "Hung Vu Commune",
+        "fullNameVi": "Xã Hưng Vũ",
+        "nameSearchNormalized": "hung vu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06349",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Hung Vu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hưng Vũ",
+        "type": "Commune",
+        "code": "25474"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Sơn",
+        "districtFullName": "Huyện Bắc Sơn",
+        "districtNameEn": "Bac Son",
+        "districtCode": "185",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25465",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Vu Le",
+        "nameVi": "Vũ Lễ",
+        "fullNameEn": "Vu Le Commune",
+        "fullNameVi": "Xã Vũ Lễ",
+        "nameSearchNormalized": "vu le",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06364",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Vu Le Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vũ Lễ",
+        "type": "Commune",
+        "code": "25465"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Sơn",
+        "districtFullName": "Huyện Bắc Sơn",
+        "districtNameEn": "Bac Son",
+        "districtCode": "185",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25470",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Vu Lang",
+        "nameVi": "Vũ Lăng",
+        "fullNameEn": "Vu Lang Commune",
+        "fullNameVi": "Xã Vũ Lăng",
+        "nameSearchNormalized": "vu lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06367",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Vu Lang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vũ Lăng",
+        "type": "Commune",
+        "code": "25470"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Sơn",
+        "districtFullName": "Huyện Bắc Sơn",
+        "districtNameEn": "Bac Son",
+        "districtCode": "185",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25468",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Nhat Hoa",
+        "nameVi": "Nhất Hoà",
+        "fullNameEn": "Nhat Hoa Commune",
+        "fullNameVi": "Xã Nhất Hoà",
+        "nameSearchNormalized": "nhat hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06376",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Nhat Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhất Hoà",
+        "type": "Commune",
+        "code": "25468"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Sơn",
+        "districtFullName": "Huyện Bắc Sơn",
+        "districtNameEn": "Bac Son",
+        "districtCode": "185",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Huu Lung",
+        "nameVi": "Hữu Lũng",
+        "fullNameEn": "Huu Lung Commune",
+        "fullNameVi": "Xã Hữu Lũng",
+        "nameSearchNormalized": "huu lung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06385",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Huu Lung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hữu Lũng",
+        "type": "Commune",
+        "code": "25606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Yen Binh",
+        "nameVi": "Yên Bình",
+        "fullNameEn": "Yen Binh Commune",
+        "fullNameVi": "Xã Yên Bình",
+        "nameSearchNormalized": "yen binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06391",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Yen Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Bình",
+        "type": "Commune",
+        "code": "25613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25610",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Huu Lien",
+        "nameVi": "Hữu Liên",
+        "fullNameEn": "Huu Lien Commune",
+        "fullNameVi": "Xã Hữu Liên",
+        "nameSearchNormalized": "huu lien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06400",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Huu Lien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hữu Liên",
+        "type": "Commune",
+        "code": "25610"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25619",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Van Nham",
+        "nameVi": "Vân Nham",
+        "fullNameEn": "Van Nham Commune",
+        "fullNameVi": "Xã Vân Nham",
+        "nameSearchNormalized": "van nham",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06415",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Van Nham Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vân Nham",
+        "type": "Commune",
+        "code": "25619"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25608",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Cai Kinh",
+        "nameVi": "Cai Kinh",
+        "fullNameEn": "Cai Kinh Commune",
+        "fullNameVi": "Xã Cai Kinh",
+        "nameSearchNormalized": "cai kinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06427",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Cai Kinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cai Kinh",
+        "type": "Commune",
+        "code": "25608"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thien Tan",
+        "nameVi": "Thiện Tân",
+        "fullNameEn": "Thien Tan Commune",
+        "fullNameVi": "Xã Thiện Tân",
+        "nameSearchNormalized": "thien tan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06436",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thien Tan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thiện Tân",
+        "type": "Commune",
+        "code": "25615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25629",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thành",
+        "fullNameEn": "Tan Thanh Commune",
+        "fullNameVi": "Xã Tân Thành",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06445",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thành",
+        "type": "Commune",
+        "code": "25629"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25632",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Tuan Son",
+        "nameVi": "Tuấn Sơn",
+        "fullNameEn": "Tuan Son Commune",
+        "fullNameVi": "Xã Tuấn Sơn",
+        "nameSearchNormalized": "tuan son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06457",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Tuan Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tuấn Sơn",
+        "type": "Commune",
+        "code": "25632"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hữu Lũng",
+        "districtFullName": "Huyện Hữu Lũng",
+        "districtNameEn": "Huu Lung",
+        "districtCode": "186",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Chi Lang",
+        "nameVi": "Chi Lăng",
+        "fullNameEn": "Chi Lang Commune",
+        "fullNameVi": "Xã Chi Lăng",
+        "nameSearchNormalized": "chi lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06463",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Chi Lang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chi Lăng",
+        "type": "Commune",
+        "code": "25715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chi Lăng",
+        "districtFullName": "Huyện Chi Lăng",
+        "districtNameEn": "Chi Lang",
+        "districtCode": "187",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Bang Mac",
+        "nameVi": "Bằng Mạc",
+        "fullNameEn": "Bang Mac Commune",
+        "fullNameVi": "Xã Bằng Mạc",
+        "nameSearchNormalized": "bang mac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06475",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Bang Mac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bằng Mạc",
+        "type": "Commune",
+        "code": "25711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chi Lăng",
+        "districtFullName": "Huyện Chi Lăng",
+        "districtNameEn": "Chi Lang",
+        "districtCode": "187",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25725",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Chien Thang",
+        "nameVi": "Chiến Thắng",
+        "fullNameEn": "Chien Thang Commune",
+        "fullNameVi": "Xã Chiến Thắng",
+        "nameSearchNormalized": "chien thang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06481",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Chien Thang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiến Thắng",
+        "type": "Commune",
+        "code": "25725"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chi Lăng",
+        "districtFullName": "Huyện Chi Lăng",
+        "districtNameEn": "Chi Lang",
+        "districtCode": "187",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25719",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Nhan Ly",
+        "nameVi": "Nhân Lý",
+        "fullNameEn": "Nhan Ly Commune",
+        "fullNameVi": "Xã Nhân Lý",
+        "nameSearchNormalized": "nhan ly",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06496",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Nhan Ly Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhân Lý",
+        "type": "Commune",
+        "code": "25719"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chi Lăng",
+        "districtFullName": "Huyện Chi Lăng",
+        "districtNameEn": "Chi Lang",
+        "districtCode": "187",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Van Linh",
+        "nameVi": "Vạn Linh",
+        "fullNameEn": "Van Linh Commune",
+        "fullNameVi": "Xã Vạn Linh",
+        "nameSearchNormalized": "van linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06505",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Van Linh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vạn Linh",
+        "type": "Commune",
+        "code": "25712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chi Lăng",
+        "districtFullName": "Huyện Chi Lăng",
+        "districtNameEn": "Chi Lang",
+        "districtCode": "187",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Quan Son",
+        "nameVi": "Quan Sơn",
+        "fullNameEn": "Quan Son Commune",
+        "fullNameVi": "Xã Quan Sơn",
+        "nameSearchNormalized": "quan son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06517",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Quan Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quan Sơn",
+        "type": "Commune",
+        "code": "25718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chi Lăng",
+        "districtFullName": "Huyện Chi Lăng",
+        "districtNameEn": "Chi Lang",
+        "districtCode": "187",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25827",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Na Duong",
+        "nameVi": "Na Dương",
+        "fullNameEn": "Na Duong Commune",
+        "fullNameVi": "Xã Na Dương",
+        "nameSearchNormalized": "na duong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06526",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Na Duong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Na Dương",
+        "type": "Commune",
+        "code": "25827"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Loc Binh",
+        "nameVi": "Lộc Bình",
+        "fullNameEn": "Loc Binh Commune",
+        "fullNameVi": "Xã Lộc Bình",
+        "nameSearchNormalized": "loc binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06529",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Loc Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lộc Bình",
+        "type": "Commune",
+        "code": "25806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25809",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Mau Son",
+        "nameVi": "Mẫu Sơn",
+        "fullNameEn": "Mau Son Commune",
+        "fullNameVi": "Xã Mẫu Sơn",
+        "nameSearchNormalized": "mau son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06541",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Mau Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mẫu Sơn",
+        "type": "Commune",
+        "code": "25809"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25831",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Khuat Xa",
+        "nameVi": "Khuất Xá",
+        "fullNameEn": "Khuat Xa Commune",
+        "fullNameVi": "Xã Khuất Xá",
+        "nameSearchNormalized": "khuat xa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06565",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Khuat Xa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khuất Xá",
+        "type": "Commune",
+        "code": "25831"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thong Nhat",
+        "nameVi": "Thống Nhất",
+        "fullNameEn": "Thong Nhat Commune",
+        "fullNameVi": "Xã Thống Nhất",
+        "nameSearchNormalized": "thong nhat",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06577",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thong Nhat Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thống Nhất",
+        "type": "Commune",
+        "code": "25815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25828",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Loi Bac",
+        "nameVi": "Lợi Bác",
+        "fullNameEn": "Loi Bac Commune",
+        "fullNameVi": "Xã Lợi Bác",
+        "nameSearchNormalized": "loi bac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06601",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Loi Bac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lợi Bác",
+        "type": "Commune",
+        "code": "25828"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25821",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Xuan Duong",
+        "nameVi": "Xuân Dương",
+        "fullNameEn": "Xuan Duong Commune",
+        "fullNameVi": "Xã Xuân Dương",
+        "nameSearchNormalized": "xuan duong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06607",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Duong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Dương",
+        "type": "Commune",
+        "code": "25821"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lộc Bình",
+        "districtFullName": "Huyện Lộc Bình",
+        "districtNameEn": "Loc Binh",
+        "districtCode": "188",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25910",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Dinh Lap",
+        "nameVi": "Đình Lập",
+        "fullNameEn": "Dinh Lap Commune",
+        "fullNameVi": "Xã Đình Lập",
+        "nameSearchNormalized": "dinh lap",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06613",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Dinh Lap Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đình Lập",
+        "type": "Commune",
+        "code": "25910"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đình Lập",
+        "districtFullName": "Huyện Đình Lập",
+        "districtNameEn": "Dinh Lap",
+        "districtCode": "189",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25911",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Thai Binh",
+        "nameVi": "Thái Bình",
+        "fullNameEn": "Thai Binh Commune",
+        "fullNameVi": "Xã Thái Bình",
+        "nameSearchNormalized": "thai binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06616",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Thai Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thái Bình",
+        "type": "Commune",
+        "code": "25911"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đình Lập",
+        "districtFullName": "Huyện Đình Lập",
+        "districtNameEn": "Dinh Lap",
+        "districtCode": "189",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25907",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Kien Moc",
+        "nameVi": "Kiên Mộc",
+        "fullNameEn": "Kien Moc Commune",
+        "fullNameVi": "Xã Kiên Mộc",
+        "nameSearchNormalized": "kien moc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06625",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Kien Moc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kiên Mộc",
+        "type": "Commune",
+        "code": "25907"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đình Lập",
+        "districtFullName": "Huyện Đình Lập",
+        "districtNameEn": "Dinh Lap",
+        "districtCode": "189",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25917",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lang Son",
+        "nameVi": "Lạng Sơn",
+        "fullNameEn": "Lang Son Province",
+        "fullNameVi": "Tỉnh Lạng Sơn",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "20"
+      },
+      "commune": {
+        "nameEn": "Chau Son",
+        "nameVi": "Châu Sơn",
+        "fullNameEn": "Chau Son Commune",
+        "fullNameVi": "Xã Châu Sơn",
+        "nameSearchNormalized": "chau son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "06637",
+        "provinceCode": "20"
+      },
+      "postalObject": {
+        "nameEn": "Chau Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Sơn",
+        "type": "Commune",
+        "code": "25917"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đình Lập",
+        "districtFullName": "Huyện Đình Lập",
+        "districtNameEn": "Dinh Lap",
+        "districtCode": "189",
+        "legacyProvinceName": "Lạng Sơn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

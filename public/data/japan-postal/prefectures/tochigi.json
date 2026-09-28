@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "09",
+    "nameEn": "Tochigi",
+    "nameJa": "栃木県",
+    "nameKana": "トチギケン",
+    "nameRomaji": "Tochigi-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Utsunomiya",
+    "capitalJa": "宇都宮市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "3200000",
+      "postalCodeFormatted": "320-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "09",
+      "prefectureNameEn": "Tochigi",
+      "prefectureNameJa": "栃木県",
+      "prefectureNameKana": "トチギケン",
+      "prefectureNameRomaji": "Tochigi-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "09201",
+        "nameEn": "Utsunomiya",
+        "nameJa": "宇都宮市",
+        "nameKana": "トチギシ",
+        "nameRomaji": "Tochigi-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Tochigi Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

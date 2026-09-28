@@ -1,0 +1,99 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "North Dakota",
+    "abbreviation": "ND",
+    "fipsCode": "38",
+    "capital": "Bismarck",
+    "largestCity": "Fargo",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "701"
+    ],
+    "prefixes": [
+      "580",
+      "581",
+      "582",
+      "583",
+      "584",
+      "585",
+      "586",
+      "587",
+      "588"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-ND-58102-0",
+      "zip5": "58102",
+      "zip4": "1001",
+      "zipPlus4": "58102-1001",
+      "state": {
+        "nameEn": "North Dakota",
+        "abbreviation": "ND",
+        "fipsCode": "38",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Fargo",
+      "acceptableCities": [
+        "Fargo"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Fargo",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Cass County",
+          "fipsCode": "38017",
+          "geoid": "38017"
+        }
+      ],
+      "primaryCounty": "Cass County",
+      "zcta": {
+        "code": "58102"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Fargo Main Post Office",
+        "address": "657 2nd Ave N",
+        "phone": "(701) 241-6100",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 46.8772,
+        "longitude": -96.7898,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "701"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-ND-58102",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

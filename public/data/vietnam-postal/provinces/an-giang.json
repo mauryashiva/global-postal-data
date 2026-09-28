@@ -1,0 +1,5438 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "An Giang",
+    "nameVi": "An Giang",
+    "fullNameEn": "An Giang Province",
+    "fullNameVi": "Tỉnh An Giang",
+    "nameSearchNormalized": "an giang",
+    "officialCode": "91",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "90, 91, 92",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 102,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "90112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh Duc",
+        "nameVi": "Bình Đức",
+        "fullNameEn": "Binh Duc Ward",
+        "fullNameVi": "Phường Bình Đức",
+        "nameSearchNormalized": "binh duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30292",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh Duc Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bình Đức",
+        "type": "Ward",
+        "code": "90112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Xuyên",
+        "districtFullName": "Thành phố Long Xuyên",
+        "districtNameEn": "Long Xuyen",
+        "districtCode": "883",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90117",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "My Thoi",
+        "nameVi": "Mỹ Thới",
+        "fullNameEn": "My Thoi Ward",
+        "fullNameVi": "Phường Mỹ Thới",
+        "nameSearchNormalized": "my thoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30301",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "My Thoi Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Thới",
+        "type": "Ward",
+        "code": "90117"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Xuyên",
+        "districtFullName": "Thành phố Long Xuyên",
+        "districtNameEn": "Long Xuyen",
+        "districtCode": "883",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Long Xuyen",
+        "nameVi": "Long Xuyên",
+        "fullNameEn": "Long Xuyen Ward",
+        "fullNameVi": "Phường Long Xuyên",
+        "nameSearchNormalized": "long xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30307",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Long Xuyen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Xuyên",
+        "type": "Ward",
+        "code": "90119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Xuyên",
+        "districtFullName": "Thành phố Long Xuyên",
+        "districtNameEn": "Long Xuyen",
+        "districtCode": "883",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90111",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "My Hoa Hung",
+        "nameVi": "Mỹ Hoà Hưng",
+        "fullNameEn": "My Hoa Hung Commune",
+        "fullNameVi": "Xã Mỹ Hoà Hưng",
+        "nameSearchNormalized": "my hoa hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30313",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "My Hoa Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Hoà Hưng",
+        "type": "Commune",
+        "code": "90111"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Xuyên",
+        "districtFullName": "Thành phố Long Xuyên",
+        "districtNameEn": "Long Xuyen",
+        "districtCode": "883",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Chau Doc",
+        "nameVi": "Châu Đốc",
+        "fullNameEn": "Chau Doc Ward",
+        "fullNameVi": "Phường Châu Đốc",
+        "nameSearchNormalized": "chau doc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30316",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Chau Doc Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Châu Đốc",
+        "type": "Ward",
+        "code": "90513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Đốc",
+        "districtFullName": "Thành phố Châu Đốc",
+        "districtNameEn": "Chau Doc",
+        "districtCode": "884",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90509",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Te",
+        "nameVi": "Vĩnh Tế",
+        "fullNameEn": "Vinh Te Ward",
+        "fullNameVi": "Phường Vĩnh Tế",
+        "nameSearchNormalized": "vinh te",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30325",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Te Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vĩnh Tế",
+        "type": "Ward",
+        "code": "90509"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Đốc",
+        "districtFullName": "Thành phố Châu Đốc",
+        "districtNameEn": "Chau Doc",
+        "districtCode": "884",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90456",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "An Phu",
+        "nameVi": "An Phú",
+        "fullNameEn": "An Phu Commune",
+        "fullNameVi": "Xã An Phú",
+        "nameSearchNormalized": "an phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30337",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "An Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Phú",
+        "type": "Commune",
+        "code": "90456"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Phú",
+        "districtFullName": "Huyện An Phú",
+        "districtNameEn": "An Phu",
+        "districtCode": "886",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90461",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Khanh Binh",
+        "nameVi": "Khánh Bình",
+        "fullNameEn": "Khanh Binh Commune",
+        "fullNameVi": "Xã Khánh Bình",
+        "nameSearchNormalized": "khanh binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30341",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Bình",
+        "type": "Commune",
+        "code": "90461"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Phú",
+        "districtFullName": "Huyện An Phú",
+        "districtNameEn": "An Phu",
+        "districtCode": "886",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90462",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Nhon Hoi",
+        "nameVi": "Nhơn Hội",
+        "fullNameEn": "Nhon Hoi Commune",
+        "fullNameVi": "Xã Nhơn Hội",
+        "nameSearchNormalized": "nhon hoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30346",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Nhon Hoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhơn Hội",
+        "type": "Commune",
+        "code": "90462"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Phú",
+        "districtFullName": "Huyện An Phú",
+        "districtNameEn": "An Phu",
+        "districtCode": "886",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90458",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Phu Huu",
+        "nameVi": "Phú Hữu",
+        "fullNameEn": "Phu Huu Commune",
+        "fullNameVi": "Xã Phú Hữu",
+        "nameSearchNormalized": "phu huu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30352",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Phu Huu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hữu",
+        "type": "Commune",
+        "code": "90458"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Phú",
+        "districtFullName": "Huyện An Phú",
+        "districtNameEn": "An Phu",
+        "districtCode": "886",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90469",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Hau",
+        "nameVi": "Vĩnh Hậu",
+        "fullNameEn": "Vinh Hau Commune",
+        "fullNameVi": "Xã Vĩnh Hậu",
+        "nameSearchNormalized": "vinh hau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30367",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Hau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hậu",
+        "type": "Commune",
+        "code": "90469"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Phú",
+        "districtFullName": "Huyện An Phú",
+        "districtNameEn": "An Phu",
+        "districtCode": "886",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90420",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tan Chau",
+        "nameVi": "Tân Châu",
+        "fullNameEn": "Tan Chau Ward",
+        "fullNameVi": "Phường Tân Châu",
+        "nameSearchNormalized": "tan chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30376",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tan Chau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tân Châu",
+        "type": "Ward",
+        "code": "90420"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Châu",
+        "districtFullName": "Thị xã Tân Châu",
+        "districtNameEn": "Tan Chau",
+        "districtCode": "887",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90418",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Long Phu",
+        "nameVi": "Long Phú",
+        "fullNameEn": "Long Phu Ward",
+        "fullNameVi": "Phường Long Phú",
+        "nameSearchNormalized": "long phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30377",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Long Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Phú",
+        "type": "Ward",
+        "code": "90418"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Châu",
+        "districtFullName": "Thị xã Tân Châu",
+        "districtNameEn": "Tan Chau",
+        "districtCode": "887",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Xuong",
+        "nameVi": "Vĩnh Xương",
+        "fullNameEn": "Vinh Xuong Commune",
+        "fullNameVi": "Xã Vĩnh Xương",
+        "nameSearchNormalized": "vinh xuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30385",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Xuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Xương",
+        "type": "Commune",
+        "code": "90410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Châu",
+        "districtFullName": "Thị xã Tân Châu",
+        "districtNameEn": "Tan Chau",
+        "districtCode": "887",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tan An",
+        "nameVi": "Tân An",
+        "fullNameEn": "Tan An Commune",
+        "fullNameVi": "Xã Tân An",
+        "nameSearchNormalized": "tan an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30388",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tan An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân An",
+        "type": "Commune",
+        "code": "90413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Châu",
+        "districtFullName": "Thị xã Tân Châu",
+        "districtNameEn": "Tan Chau",
+        "districtCode": "887",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Chau Phong",
+        "nameVi": "Châu Phong",
+        "fullNameEn": "Chau Phong Commune",
+        "fullNameVi": "Xã Châu Phong",
+        "nameSearchNormalized": "chau phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30403",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Chau Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Phong",
+        "type": "Commune",
+        "code": "90415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Châu",
+        "districtFullName": "Thị xã Tân Châu",
+        "districtNameEn": "Tan Chau",
+        "districtCode": "887",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90324",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Phu Tan",
+        "nameVi": "Phú Tân",
+        "fullNameEn": "Phu Tan Commune",
+        "fullNameVi": "Xã Phú Tân",
+        "nameSearchNormalized": "phu tan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30406",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Phu Tan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Tân",
+        "type": "Commune",
+        "code": "90324"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "888",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Cho Vam",
+        "nameVi": "Chợ Vàm",
+        "fullNameEn": "Cho Vam Commune",
+        "fullNameVi": "Xã Chợ Vàm",
+        "nameSearchNormalized": "cho vam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30409",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Cho Vam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chợ Vàm",
+        "type": "Commune",
+        "code": "90310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "888",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Phu Lam",
+        "nameVi": "Phú Lâm",
+        "fullNameEn": "Phu Lam Commune",
+        "fullNameVi": "Xã Phú Lâm",
+        "nameSearchNormalized": "phu lam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30421",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Phu Lam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Lâm",
+        "type": "Commune",
+        "code": "90311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "888",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90315",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hoa Lac",
+        "nameVi": "Hoà Lạc",
+        "fullNameEn": "Hoa Lac Commune",
+        "fullNameVi": "Xã Hoà Lạc",
+        "nameSearchNormalized": "hoa lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30430",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Lac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Lạc",
+        "type": "Commune",
+        "code": "90315"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "888",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Phu An",
+        "nameVi": "Phú An",
+        "fullNameEn": "Phu An Commune",
+        "fullNameVi": "Xã Phú An",
+        "nameSearchNormalized": "phu an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30436",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Phu An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú An",
+        "type": "Commune",
+        "code": "90308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "888",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90320",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh Thanh Dong",
+        "nameVi": "Bình Thạnh Đông",
+        "fullNameEn": "Binh Thanh Dong Commune",
+        "fullNameVi": "Xã Bình Thạnh Đông",
+        "nameSearchNormalized": "binh thanh dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30445",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh Thanh Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Thạnh Đông",
+        "type": "Commune",
+        "code": "90320"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "888",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90619",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Chau Phu",
+        "nameVi": "Châu Phú",
+        "fullNameEn": "Chau Phu Commune",
+        "fullNameVi": "Xã Châu Phú",
+        "nameSearchNormalized": "chau phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30463",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Chau Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Phú",
+        "type": "Commune",
+        "code": "90619"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Phú",
+        "districtFullName": "Huyện Châu Phú",
+        "districtNameEn": "Chau Phu",
+        "districtCode": "889",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90610",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "My Duc",
+        "nameVi": "Mỹ Đức",
+        "fullNameEn": "My Duc Commune",
+        "fullNameVi": "Xã Mỹ Đức",
+        "nameSearchNormalized": "my duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30469",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "My Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Đức",
+        "type": "Commune",
+        "code": "90610"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Phú",
+        "districtFullName": "Huyện Châu Phú",
+        "districtNameEn": "Chau Phu",
+        "districtCode": "889",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90607",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Thanh Trung",
+        "nameVi": "Vĩnh Thạnh Trung",
+        "fullNameEn": "Vinh Thanh Trung Commune",
+        "fullNameVi": "Xã Vĩnh Thạnh Trung",
+        "nameSearchNormalized": "vinh thanh trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30478",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thanh Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Thạnh Trung",
+        "type": "Commune",
+        "code": "90607"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Phú",
+        "districtFullName": "Huyện Châu Phú",
+        "districtNameEn": "Chau Phu",
+        "districtCode": "889",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Thanh My Tay",
+        "nameVi": "Thạnh Mỹ Tây",
+        "fullNameEn": "Thanh My Tay Commune",
+        "fullNameVi": "Xã Thạnh Mỹ Tây",
+        "nameSearchNormalized": "thanh my tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30481",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Thanh My Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Mỹ Tây",
+        "type": "Commune",
+        "code": "90613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Phú",
+        "districtFullName": "Huyện Châu Phú",
+        "districtNameEn": "Chau Phu",
+        "districtCode": "889",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90617",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh My",
+        "nameVi": "Bình Mỹ",
+        "fullNameEn": "Binh My Commune",
+        "fullNameVi": "Xã Bình Mỹ",
+        "nameSearchNormalized": "binh my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30487",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Mỹ",
+        "type": "Commune",
+        "code": "90617"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Phú",
+        "districtFullName": "Huyện Châu Phú",
+        "districtNameEn": "Chau Phu",
+        "districtCode": "889",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Thoi Son",
+        "nameVi": "Thới Sơn",
+        "fullNameEn": "Thoi Son Ward",
+        "fullNameVi": "Phường Thới Sơn",
+        "nameSearchNormalized": "thoi son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30502",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Thoi Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thới Sơn",
+        "type": "Ward",
+        "code": "90712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tịnh Biên",
+        "districtFullName": "Thị xã Tịnh Biên",
+        "districtNameEn": "Tinh Bien",
+        "districtCode": "890",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Chi Lang",
+        "nameVi": "Chi Lăng",
+        "fullNameEn": "Chi Lang Ward",
+        "fullNameVi": "Phường Chi Lăng",
+        "nameSearchNormalized": "chi lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30505",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Chi Lang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Chi Lăng",
+        "type": "Ward",
+        "code": "90715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tịnh Biên",
+        "districtFullName": "Thị xã Tịnh Biên",
+        "districtNameEn": "Tinh Bien",
+        "districtCode": "890",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tinh Bien",
+        "nameVi": "Tịnh Biên",
+        "fullNameEn": "Tinh Bien Ward",
+        "fullNameVi": "Phường Tịnh Biên",
+        "nameSearchNormalized": "tinh bien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30520",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tinh Bien Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tịnh Biên",
+        "type": "Ward",
+        "code": "90706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tịnh Biên",
+        "districtFullName": "Thị xã Tịnh Biên",
+        "districtNameEn": "Tinh Bien",
+        "districtCode": "890",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90708",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "An Cu",
+        "nameVi": "An Cư",
+        "fullNameEn": "An Cu Commune",
+        "fullNameVi": "Xã An Cư",
+        "nameSearchNormalized": "an cu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30526",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "An Cu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Cư",
+        "type": "Commune",
+        "code": "90708"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tịnh Biên",
+        "districtFullName": "Thị xã Tịnh Biên",
+        "districtNameEn": "Tinh Bien",
+        "districtCode": "890",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90720",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Nui Cam",
+        "nameVi": "Núi Cấm",
+        "fullNameEn": "Nui Cam Commune",
+        "fullNameVi": "Xã Núi Cấm",
+        "nameSearchNormalized": "nui cam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30538",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Nui Cam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Núi Cấm",
+        "type": "Commune",
+        "code": "90720"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tịnh Biên",
+        "districtFullName": "Thị xã Tịnh Biên",
+        "districtNameEn": "Tinh Bien",
+        "districtCode": "890",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tri Ton",
+        "nameVi": "Tri Tôn",
+        "fullNameEn": "Tri Ton Commune",
+        "fullNameVi": "Xã Tri Tôn",
+        "nameSearchNormalized": "tri ton",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30544",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tri Ton Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tri Tôn",
+        "type": "Commune",
+        "code": "90806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tri Tôn",
+        "districtFullName": "Huyện Tri Tôn",
+        "districtNameEn": "Tri Ton",
+        "districtCode": "891",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90809",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Ba Chuc",
+        "nameVi": "Ba Chúc",
+        "fullNameEn": "Ba Chuc Commune",
+        "fullNameVi": "Xã Ba Chúc",
+        "nameSearchNormalized": "ba chuc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30547",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Ba Chuc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Chúc",
+        "type": "Commune",
+        "code": "90809"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tri Tôn",
+        "districtFullName": "Huyện Tri Tôn",
+        "districtNameEn": "Tri Ton",
+        "districtCode": "891",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90811",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Gia",
+        "nameVi": "Vĩnh Gia",
+        "fullNameEn": "Vinh Gia Commune",
+        "fullNameVi": "Xã Vĩnh Gia",
+        "nameSearchNormalized": "vinh gia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30568",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Gia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Gia",
+        "type": "Commune",
+        "code": "90811"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tri Tôn",
+        "districtFullName": "Huyện Tri Tôn",
+        "districtNameEn": "Tri Ton",
+        "districtCode": "891",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "O Lam",
+        "nameVi": "Ô Lâm",
+        "fullNameEn": "O Lam Commune",
+        "fullNameVi": "Xã Ô Lâm",
+        "nameSearchNormalized": "o lam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30577",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "O Lam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ô Lâm",
+        "type": "Commune",
+        "code": "90817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tri Tôn",
+        "districtFullName": "Huyện Tri Tôn",
+        "districtNameEn": "Tri Ton",
+        "districtCode": "891",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90818",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Co To",
+        "nameVi": "Cô Tô",
+        "fullNameEn": "Co To Commune",
+        "fullNameVi": "Xã Cô Tô",
+        "nameSearchNormalized": "co to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30580",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Co To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cô Tô",
+        "type": "Commune",
+        "code": "90818"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tri Tôn",
+        "districtFullName": "Huyện Tri Tôn",
+        "districtNameEn": "Tri Ton",
+        "districtCode": "891",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "An Chau",
+        "nameVi": "An Châu",
+        "fullNameEn": "An Chau Commune",
+        "fullNameVi": "Xã An Châu",
+        "nameSearchNormalized": "an chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30589",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "An Chau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Châu",
+        "type": "Commune",
+        "code": "90906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "892",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90910",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Can Dang",
+        "nameVi": "Cần Đăng",
+        "fullNameEn": "Can Dang Commune",
+        "fullNameVi": "Xã Cần Đăng",
+        "nameSearchNormalized": "can dang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30595",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Can Dang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cần Đăng",
+        "type": "Commune",
+        "code": "90910"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "892",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh An",
+        "nameVi": "Vĩnh An",
+        "fullNameEn": "Vinh An Commune",
+        "fullNameVi": "Xã Vĩnh An",
+        "nameSearchNormalized": "vinh an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30604",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh An",
+        "type": "Commune",
+        "code": "90913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "892",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90908",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh Hoa",
+        "nameVi": "Bình Hoà",
+        "fullNameEn": "Binh Hoa Commune",
+        "fullNameVi": "Xã Bình Hoà",
+        "nameSearchNormalized": "binh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30607",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Hoà",
+        "type": "Commune",
+        "code": "90908"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "892",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90911",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Hanh",
+        "nameVi": "Vĩnh Hanh",
+        "fullNameEn": "Vinh Hanh Commune",
+        "fullNameVi": "Xã Vĩnh Hanh",
+        "nameSearchNormalized": "vinh hanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30619",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Hanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hanh",
+        "type": "Commune",
+        "code": "90911"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "892",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Cho Moi",
+        "nameVi": "Chợ Mới",
+        "fullNameEn": "Cho Moi Commune",
+        "fullNameVi": "Xã Chợ Mới",
+        "nameSearchNormalized": "cho moi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30628",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Cho Moi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chợ Mới",
+        "type": "Commune",
+        "code": "90206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "893",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90225",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Long Dien",
+        "nameVi": "Long Điền",
+        "fullNameEn": "Long Dien Commune",
+        "fullNameVi": "Xã Long Điền",
+        "nameSearchNormalized": "long dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30631",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Long Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Điền",
+        "type": "Commune",
+        "code": "90225"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "893",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90224",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Cu Lao Gieng",
+        "nameVi": "Cù Lao Giêng",
+        "fullNameEn": "Cu Lao Gieng Commune",
+        "fullNameVi": "Xã Cù Lao Giêng",
+        "nameSearchNormalized": "cu lao gieng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30643",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Cu Lao Gieng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cù Lao Giêng",
+        "type": "Commune",
+        "code": "90224"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "893",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Nhon My",
+        "nameVi": "Nhơn Mỹ",
+        "fullNameEn": "Nhon My Commune",
+        "fullNameVi": "Xã Nhơn Mỹ",
+        "nameSearchNormalized": "nhon my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30658",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Nhon My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhơn Mỹ",
+        "type": "Commune",
+        "code": "90209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "893",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Long Kien",
+        "nameVi": "Long Kiến",
+        "fullNameEn": "Long Kien Commune",
+        "fullNameVi": "Xã Long Kiến",
+        "nameSearchNormalized": "long kien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30664",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Long Kien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Kiến",
+        "type": "Commune",
+        "code": "90217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "893",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90221",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hoi An",
+        "nameVi": "Hội An",
+        "fullNameEn": "Hoi An Commune",
+        "fullNameVi": "Xã Hội An",
+        "nameSearchNormalized": "hoi an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30673",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hoi An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hội An",
+        "type": "Commune",
+        "code": "90221"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "893",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90973",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Thoai Son",
+        "nameVi": "Thoại Sơn",
+        "fullNameEn": "Thoai Son Commune",
+        "fullNameVi": "Xã Thoại Sơn",
+        "nameSearchNormalized": "thoai son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30682",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Thoai Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thoại Sơn",
+        "type": "Commune",
+        "code": "90973"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thoại Sơn",
+        "districtFullName": "Huyện Thoại Sơn",
+        "districtNameEn": "Thoai Son",
+        "districtCode": "894",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90961",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Phu Hoa",
+        "nameVi": "Phú Hoà",
+        "fullNameEn": "Phu Hoa Commune",
+        "fullNameVi": "Xã Phú Hoà",
+        "nameSearchNormalized": "phu hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30685",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Phu Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hoà",
+        "type": "Commune",
+        "code": "90961"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thoại Sơn",
+        "districtFullName": "Huyện Thoại Sơn",
+        "districtNameEn": "Thoai Son",
+        "districtCode": "894",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90969",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Oc Eo",
+        "nameVi": "Óc Eo",
+        "fullNameEn": "Oc Eo Commune",
+        "fullNameVi": "Xã Óc Eo",
+        "nameSearchNormalized": "oc eo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30688",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Oc Eo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Óc Eo",
+        "type": "Commune",
+        "code": "90969"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thoại Sơn",
+        "districtFullName": "Huyện Thoại Sơn",
+        "districtNameEn": "Thoai Son",
+        "districtCode": "894",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90966",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tay Phu",
+        "nameVi": "Tây Phú",
+        "fullNameEn": "Tay Phu Commune",
+        "fullNameVi": "Xã Tây Phú",
+        "nameSearchNormalized": "tay phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30691",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tay Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Phú",
+        "type": "Commune",
+        "code": "90966"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thoại Sơn",
+        "districtFullName": "Huyện Thoại Sơn",
+        "districtNameEn": "Thoai Son",
+        "districtCode": "894",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90962",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Trach",
+        "nameVi": "Vĩnh Trạch",
+        "fullNameEn": "Vinh Trach Commune",
+        "fullNameVi": "Xã Vĩnh Trạch",
+        "nameSearchNormalized": "vinh trach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30697",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Trach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Trạch",
+        "type": "Commune",
+        "code": "90962"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thoại Sơn",
+        "districtFullName": "Huyện Thoại Sơn",
+        "districtNameEn": "Thoai Son",
+        "districtCode": "894",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90963",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Dinh My",
+        "nameVi": "Định Mỹ",
+        "fullNameEn": "Dinh My Commune",
+        "fullNameVi": "Xã Định Mỹ",
+        "nameSearchNormalized": "dinh my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30709",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Dinh My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Định Mỹ",
+        "type": "Commune",
+        "code": "90963"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thoại Sơn",
+        "districtFullName": "Huyện Thoại Sơn",
+        "districtNameEn": "Thoai Son",
+        "districtCode": "894",
+        "legacyProvinceName": "An Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Rach Gia",
+        "nameVi": "Rạch Giá",
+        "fullNameEn": "Rach Gia Ward",
+        "fullNameVi": "Phường Rạch Giá",
+        "nameSearchNormalized": "rach gia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30742",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Rach Gia Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Rạch Giá",
+        "type": "Ward",
+        "code": "91118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Rạch Giá",
+        "districtFullName": "Thành phố Rạch Giá",
+        "districtNameEn": "Rach Gia",
+        "districtCode": "899",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91110",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Thong",
+        "nameVi": "Vĩnh Thông",
+        "fullNameEn": "Vinh Thong Ward",
+        "fullNameVi": "Phường Vĩnh Thông",
+        "nameSearchNormalized": "vinh thong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30760",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vĩnh Thông",
+        "type": "Ward",
+        "code": "91110"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Rạch Giá",
+        "districtFullName": "Thành phố Rạch Giá",
+        "districtNameEn": "Rach Gia",
+        "districtCode": "899",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "To Chau",
+        "nameVi": "Tô Châu",
+        "fullNameEn": "To Chau Ward",
+        "fullNameVi": "Phường Tô Châu",
+        "nameSearchNormalized": "to chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30766",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "To Chau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tô Châu",
+        "type": "Ward",
+        "code": "91510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tiên",
+        "districtFullName": "Thành phố Hà Tiên",
+        "districtNameEn": "Ha Tien",
+        "districtCode": "900",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Ha Tien",
+        "nameVi": "Hà Tiên",
+        "fullNameEn": "Ha Tien Ward",
+        "fullNameVi": "Phường Hà Tiên",
+        "nameSearchNormalized": "ha tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "30769",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Ha Tien Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hà Tiên",
+        "type": "Ward",
+        "code": "91513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tiên",
+        "districtFullName": "Thành phố Hà Tiên",
+        "districtNameEn": "Ha Tien",
+        "districtCode": "900",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91511",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tien Hai",
+        "nameVi": "Tiên Hải",
+        "fullNameEn": "Tien Hai Commune",
+        "fullNameVi": "Xã Tiên Hải",
+        "nameSearchNormalized": "tien hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30781",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tien Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tiên Hải",
+        "type": "Commune",
+        "code": "91511"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tiên",
+        "districtFullName": "Thành phố Hà Tiên",
+        "districtNameEn": "Ha Tien",
+        "districtCode": "900",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Kien Luong",
+        "nameVi": "Kiên Lương",
+        "fullNameEn": "Kien Luong Commune",
+        "fullNameVi": "Xã Kiên Lương",
+        "nameSearchNormalized": "kien luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30787",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Kien Luong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kiên Lương",
+        "type": "Commune",
+        "code": "91606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kiên Lương",
+        "districtFullName": "Huyện Kiên Lương",
+        "districtNameEn": "Kien Luong",
+        "districtCode": "902",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91608",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hoa Dien",
+        "nameVi": "Hoà Điền",
+        "fullNameEn": "Hoa Dien Commune",
+        "fullNameVi": "Xã Hoà Điền",
+        "nameSearchNormalized": "hoa dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30790",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Điền",
+        "type": "Commune",
+        "code": "91608"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kiên Lương",
+        "districtFullName": "Huyện Kiên Lương",
+        "districtNameEn": "Kien Luong",
+        "districtCode": "902",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91408",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Dieu",
+        "nameVi": "Vĩnh Điều",
+        "fullNameEn": "Vinh Dieu Commune",
+        "fullNameVi": "Xã Vĩnh Điều",
+        "nameSearchNormalized": "vinh dieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30793",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Dieu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Điều",
+        "type": "Commune",
+        "code": "91408"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giang Thành",
+        "districtFullName": "Huyện Giang Thành",
+        "districtNameEn": "Giang Thanh",
+        "districtCode": "914",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Giang Thanh",
+        "nameVi": "Giang Thành",
+        "fullNameEn": "Giang Thanh Commune",
+        "fullNameVi": "Xã Giang Thành",
+        "nameSearchNormalized": "giang thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30796",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Giang Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Giang Thành",
+        "type": "Commune",
+        "code": "91411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giang Thành",
+        "districtFullName": "Huyện Giang Thành",
+        "districtNameEn": "Giang Thanh",
+        "districtCode": "914",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Son Hai",
+        "nameVi": "Sơn Hải",
+        "fullNameEn": "Son Hai Commune",
+        "fullNameVi": "Xã Sơn Hải",
+        "nameSearchNormalized": "son hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30811",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Son Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Hải",
+        "type": "Commune",
+        "code": "91612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kiên Lương",
+        "districtFullName": "Huyện Kiên Lương",
+        "districtNameEn": "Kien Luong",
+        "districtCode": "902",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hon Nghe",
+        "nameVi": "Hòn Nghệ",
+        "fullNameEn": "Hon Nghe Commune",
+        "fullNameVi": "Xã Hòn Nghệ",
+        "nameSearchNormalized": "hon nghe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30814",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hon Nghe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hòn Nghệ",
+        "type": "Commune",
+        "code": "91613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kiên Lương",
+        "districtFullName": "Huyện Kiên Lương",
+        "districtNameEn": "Kien Luong",
+        "districtCode": "902",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hon Dat",
+        "nameVi": "Hòn Đất",
+        "fullNameEn": "Hon Dat Commune",
+        "fullNameVi": "Xã Hòn Đất",
+        "nameSearchNormalized": "hon dat",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30817",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hon Dat Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hòn Đất",
+        "type": "Commune",
+        "code": "91306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòn Đất",
+        "districtFullName": "Huyện Hòn Đất",
+        "districtNameEn": "Hon Dat",
+        "districtCode": "903",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh Son",
+        "nameVi": "Bình Sơn",
+        "fullNameEn": "Binh Son Commune",
+        "fullNameVi": "Xã Bình Sơn",
+        "nameSearchNormalized": "binh son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30823",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Sơn",
+        "type": "Commune",
+        "code": "91309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòn Đất",
+        "districtFullName": "Huyện Hòn Đất",
+        "districtNameEn": "Hon Dat",
+        "districtCode": "903",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh Giang",
+        "nameVi": "Bình Giang",
+        "fullNameEn": "Binh Giang Commune",
+        "fullNameVi": "Xã Bình Giang",
+        "nameSearchNormalized": "binh giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30826",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Giang",
+        "type": "Commune",
+        "code": "91310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòn Đất",
+        "districtFullName": "Huyện Hòn Đất",
+        "districtNameEn": "Hon Dat",
+        "districtCode": "903",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Son Kien",
+        "nameVi": "Sơn Kiên",
+        "fullNameEn": "Son Kien Commune",
+        "fullNameVi": "Xã Sơn Kiên",
+        "nameSearchNormalized": "son kien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30835",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Son Kien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Kiên",
+        "type": "Commune",
+        "code": "91313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòn Đất",
+        "districtFullName": "Huyện Hòn Đất",
+        "districtNameEn": "Hon Dat",
+        "districtCode": "903",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91319",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "My Thuan",
+        "nameVi": "Mỹ Thuận",
+        "fullNameEn": "My Thuan Commune",
+        "fullNameVi": "Xã Mỹ Thuận",
+        "nameSearchNormalized": "my thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30838",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "My Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Thuận",
+        "type": "Commune",
+        "code": "91319"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòn Đất",
+        "districtFullName": "Huyện Hòn Đất",
+        "districtNameEn": "Hon Dat",
+        "districtCode": "903",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tan Hiep",
+        "nameVi": "Tân Hiệp",
+        "fullNameEn": "Tan Hiep Commune",
+        "fullNameVi": "Xã Tân Hiệp",
+        "nameSearchNormalized": "tan hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30850",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hiệp",
+        "type": "Commune",
+        "code": "91206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hiệp",
+        "districtFullName": "Huyện Tân Hiệp",
+        "districtNameEn": "Tan Hiep",
+        "districtCode": "904",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91210",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tan Hoi",
+        "nameVi": "Tân Hội",
+        "fullNameEn": "Tan Hoi Commune",
+        "fullNameVi": "Xã Tân Hội",
+        "nameSearchNormalized": "tan hoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30856",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hội",
+        "type": "Commune",
+        "code": "91210"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hiệp",
+        "districtFullName": "Huyện Tân Hiệp",
+        "districtNameEn": "Tan Hiep",
+        "districtCode": "904",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Thanh Dong",
+        "nameVi": "Thạnh Đông",
+        "fullNameEn": "Thanh Dong Commune",
+        "fullNameVi": "Xã Thạnh Đông",
+        "nameSearchNormalized": "thanh dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30874",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Đông",
+        "type": "Commune",
+        "code": "91217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tân Hiệp",
+        "districtFullName": "Huyện Tân Hiệp",
+        "districtNameEn": "Tan Hiep",
+        "districtCode": "904",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Chau Thanh",
+        "nameVi": "Châu Thành",
+        "fullNameEn": "Chau Thanh Commune",
+        "fullNameVi": "Xã Châu Thành",
+        "nameSearchNormalized": "chau thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30880",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Chau Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Thành",
+        "type": "Commune",
+        "code": "91717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "905",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Thanh Loc",
+        "nameVi": "Thạnh Lộc",
+        "fullNameEn": "Thanh Loc Commune",
+        "fullNameVi": "Xã Thạnh Lộc",
+        "nameSearchNormalized": "thanh loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30886",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Lộc",
+        "type": "Commune",
+        "code": "91711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "905",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Binh An",
+        "nameVi": "Bình An",
+        "fullNameEn": "Binh An Commune",
+        "fullNameVi": "Xã Bình An",
+        "nameSearchNormalized": "binh an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30898",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Binh An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình An",
+        "type": "Commune",
+        "code": "91714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "905",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Giong Rieng",
+        "nameVi": "Giồng Riềng",
+        "fullNameEn": "Giong Rieng Commune",
+        "fullNameVi": "Xã Giồng Riềng",
+        "nameSearchNormalized": "giong rieng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30904",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Giong Rieng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Giồng Riềng",
+        "type": "Commune",
+        "code": "92306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giồng Riềng",
+        "districtFullName": "Huyện Giồng Riềng",
+        "districtNameEn": "Giong Rieng",
+        "districtCode": "906",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Thanh Hung",
+        "nameVi": "Thạnh Hưng",
+        "fullNameEn": "Thanh Hung Commune",
+        "fullNameVi": "Xã Thạnh Hưng",
+        "nameSearchNormalized": "thanh hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30910",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Hưng",
+        "type": "Commune",
+        "code": "92308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giồng Riềng",
+        "districtFullName": "Huyện Giồng Riềng",
+        "districtNameEn": "Giong Rieng",
+        "districtCode": "906",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Ngoc Chuc",
+        "nameVi": "Ngọc Chúc",
+        "fullNameEn": "Ngoc Chuc Commune",
+        "fullNameVi": "Xã Ngọc Chúc",
+        "nameSearchNormalized": "ngoc chuc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30928",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Ngoc Chuc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọc Chúc",
+        "type": "Commune",
+        "code": "92317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giồng Riềng",
+        "districtFullName": "Huyện Giồng Riềng",
+        "districtNameEn": "Giong Rieng",
+        "districtCode": "906",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92320",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hoa Hung",
+        "nameVi": "Hoà Hưng",
+        "fullNameEn": "Hoa Hung Commune",
+        "fullNameVi": "Xã Hoà Hưng",
+        "nameSearchNormalized": "hoa hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30934",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Hưng",
+        "type": "Commune",
+        "code": "92320"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giồng Riềng",
+        "districtFullName": "Huyện Giồng Riềng",
+        "districtNameEn": "Giong Rieng",
+        "districtCode": "906",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Long Thanh",
+        "nameVi": "Long Thạnh",
+        "fullNameEn": "Long Thanh Commune",
+        "fullNameVi": "Xã Long Thạnh",
+        "nameSearchNormalized": "long thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30943",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Long Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Thạnh",
+        "type": "Commune",
+        "code": "92313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giồng Riềng",
+        "districtFullName": "Huyện Giồng Riềng",
+        "districtNameEn": "Giong Rieng",
+        "districtCode": "906",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Hoa Thuan",
+        "nameVi": "Hoà Thuận",
+        "fullNameEn": "Hoa Thuan Commune",
+        "fullNameVi": "Xã Hoà Thuận",
+        "nameSearchNormalized": "hoa thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30949",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Thuận",
+        "type": "Commune",
+        "code": "92316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giồng Riềng",
+        "districtFullName": "Huyện Giồng Riềng",
+        "districtNameEn": "Giong Rieng",
+        "districtCode": "906",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Go Quao",
+        "nameVi": "Gò Quao",
+        "fullNameEn": "Go Quao Commune",
+        "fullNameVi": "Xã Gò Quao",
+        "nameSearchNormalized": "go quao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30952",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Go Quao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gò Quao",
+        "type": "Commune",
+        "code": "92206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Quao",
+        "districtFullName": "Huyện Gò Quao",
+        "districtNameEn": "Go Quao",
+        "districtCode": "907",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92210",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Dinh Hoa",
+        "nameVi": "Định Hoà",
+        "fullNameEn": "Dinh Hoa Commune",
+        "fullNameVi": "Xã Định Hoà",
+        "nameSearchNormalized": "dinh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30958",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Dinh Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Định Hoà",
+        "type": "Commune",
+        "code": "92210"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Quao",
+        "districtFullName": "Huyện Gò Quao",
+        "districtNameEn": "Go Quao",
+        "districtCode": "907",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Hoa Hung",
+        "nameVi": "Vĩnh Hoà Hưng",
+        "fullNameEn": "Vinh Hoa Hung Commune",
+        "fullNameVi": "Xã Vĩnh Hoà Hưng",
+        "nameSearchNormalized": "vinh hoa hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30970",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Hoa Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hoà Hưng",
+        "type": "Commune",
+        "code": "92217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Quao",
+        "districtFullName": "Huyện Gò Quao",
+        "districtNameEn": "Go Quao",
+        "districtCode": "907",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Tuy",
+        "nameVi": "Vĩnh Tuy",
+        "fullNameEn": "Vinh Tuy Commune",
+        "fullNameVi": "Xã Vĩnh Tuy",
+        "nameSearchNormalized": "vinh tuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30982",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Tuy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Tuy",
+        "type": "Commune",
+        "code": "92216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Gò Quao",
+        "districtFullName": "Huyện Gò Quao",
+        "districtNameEn": "Go Quao",
+        "districtCode": "907",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "An Bien",
+        "nameVi": "An Biên",
+        "fullNameEn": "An Bien Commune",
+        "fullNameVi": "Xã An Biên",
+        "nameSearchNormalized": "an bien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30985",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "An Bien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Biên",
+        "type": "Commune",
+        "code": "91815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Biên",
+        "districtFullName": "Huyện An Biên",
+        "districtNameEn": "An Bien",
+        "districtCode": "908",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91809",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tay Yen",
+        "nameVi": "Tây Yên",
+        "fullNameEn": "Tay Yen Commune",
+        "fullNameVi": "Xã Tây Yên",
+        "nameSearchNormalized": "tay yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "30988",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tay Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Yên",
+        "type": "Commune",
+        "code": "91809"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Biên",
+        "districtFullName": "Huyện An Biên",
+        "districtNameEn": "An Bien",
+        "districtCode": "908",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91813",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Dong Thai",
+        "nameVi": "Đông Thái",
+        "fullNameEn": "Dong Thai Commune",
+        "fullNameVi": "Xã Đông Thái",
+        "nameSearchNormalized": "dong thai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31006",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Dong Thai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Thái",
+        "type": "Commune",
+        "code": "91813"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Biên",
+        "districtFullName": "Huyện An Biên",
+        "districtNameEn": "An Bien",
+        "districtCode": "908",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92008",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Hoa",
+        "nameVi": "Vĩnh Hoà",
+        "fullNameEn": "Vinh Hoa Commune",
+        "fullNameVi": "Xã Vĩnh Hoà",
+        "nameSearchNormalized": "vinh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31012",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hoà",
+        "type": "Commune",
+        "code": "92008"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "U Minh Thượng",
+        "districtFullName": "Huyện U Minh Thượng",
+        "districtNameEn": "U Minh Thuong",
+        "districtCode": "913",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91917",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "An Minh",
+        "nameVi": "An Minh",
+        "fullNameEn": "An Minh Commune",
+        "fullNameVi": "Xã An Minh",
+        "nameSearchNormalized": "an minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31018",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "An Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Minh",
+        "type": "Commune",
+        "code": "91917"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Minh",
+        "districtFullName": "Huyện An Minh",
+        "districtNameEn": "An Minh",
+        "districtCode": "909",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91908",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Dong Hoa",
+        "nameVi": "Đông Hoà",
+        "fullNameEn": "Dong Hoa Commune",
+        "fullNameVi": "Xã Đông Hoà",
+        "nameSearchNormalized": "dong hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31024",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Dong Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Hoà",
+        "type": "Commune",
+        "code": "91908"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Minh",
+        "districtFullName": "Huyện An Minh",
+        "districtNameEn": "An Minh",
+        "districtCode": "909",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92012",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "U Minh Thuong",
+        "nameVi": "U Minh Thượng",
+        "fullNameEn": "U Minh Thuong Commune",
+        "fullNameVi": "Xã U Minh Thượng",
+        "nameSearchNormalized": "u minh thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31027",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "U Minh Thuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã U Minh Thượng",
+        "type": "Commune",
+        "code": "92012"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "U Minh Thượng",
+        "districtFullName": "Huyện U Minh Thượng",
+        "districtNameEn": "U Minh Thuong",
+        "districtCode": "913",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91910",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thạnh",
+        "fullNameEn": "Tan Thanh Commune",
+        "fullNameVi": "Xã Tân Thạnh",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31031",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thạnh",
+        "type": "Commune",
+        "code": "91910"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Minh",
+        "districtFullName": "Huyện An Minh",
+        "districtNameEn": "An Minh",
+        "districtCode": "909",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91918",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Dong Hung",
+        "nameVi": "Đông Hưng",
+        "fullNameEn": "Dong Hung Commune",
+        "fullNameVi": "Xã Đông Hưng",
+        "nameSearchNormalized": "dong hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31036",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Dong Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Hưng",
+        "type": "Commune",
+        "code": "91918"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Minh",
+        "districtFullName": "Huyện An Minh",
+        "districtNameEn": "An Minh",
+        "districtCode": "909",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "91913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Van Khanh",
+        "nameVi": "Vân Khánh",
+        "fullNameEn": "Van Khanh Commune",
+        "fullNameVi": "Xã Vân Khánh",
+        "nameSearchNormalized": "van khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31042",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Van Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vân Khánh",
+        "type": "Commune",
+        "code": "91913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "An Minh",
+        "districtFullName": "Huyện An Minh",
+        "districtNameEn": "An Minh",
+        "districtCode": "909",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92113",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Phong",
+        "nameVi": "Vĩnh Phong",
+        "fullNameEn": "Vinh Phong Commune",
+        "fullNameVi": "Xã Vĩnh Phong",
+        "nameSearchNormalized": "vinh phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31051",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Phong",
+        "type": "Commune",
+        "code": "92113"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thuận",
+        "districtFullName": "Huyện Vĩnh Thuận",
+        "districtNameEn": "Vinh Thuan",
+        "districtCode": "910",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92114",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Binh",
+        "nameVi": "Vĩnh Bình",
+        "fullNameEn": "Vinh Binh Commune",
+        "fullNameVi": "Xã Vĩnh Bình",
+        "nameSearchNormalized": "vinh binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31064",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Bình",
+        "type": "Commune",
+        "code": "92114"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thuận",
+        "districtFullName": "Huyện Vĩnh Thuận",
+        "districtNameEn": "Vinh Thuan",
+        "districtCode": "910",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Vinh Thuan",
+        "nameVi": "Vĩnh Thuận",
+        "fullNameEn": "Vinh Thuan Commune",
+        "fullNameVi": "Xã Vĩnh Thuận",
+        "nameSearchNormalized": "vinh thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31069",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Thuận",
+        "type": "Commune",
+        "code": "92112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thuận",
+        "districtFullName": "Huyện Vĩnh Thuận",
+        "districtNameEn": "Vinh Thuan",
+        "districtCode": "910",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Phu Quoc",
+        "nameVi": "Phú Quốc",
+        "fullNameEn": "Phu Quoc Special administrative region",
+        "fullNameVi": "Đặc khu Phú Quốc",
+        "nameSearchNormalized": "phu quoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Special Administrative Zone",
+        "officialCode": "31078",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Phu Quoc Special Administrative Zone Postal Area",
+        "nameVi": "Khu vực bưu chính Đặc khu Phú Quốc",
+        "type": "Special Administrative Zone",
+        "code": "92516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Quốc",
+        "districtFullName": "Thành phố Phú Quốc",
+        "districtNameEn": "Phu Quoc",
+        "districtCode": "911",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92515",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Tho Chau",
+        "nameVi": "Thổ Châu",
+        "fullNameEn": "Tho Chau Special administrative region",
+        "fullNameVi": "Đặc khu Thổ Châu",
+        "nameSearchNormalized": "tho chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Special Administrative Zone",
+        "officialCode": "31105",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Tho Chau Special Administrative Zone Postal Area",
+        "nameVi": "Khu vực bưu chính Đặc khu Thổ Châu",
+        "type": "Special Administrative Zone",
+        "code": "92515"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Quốc",
+        "districtFullName": "Thành phố Phú Quốc",
+        "districtNameEn": "Phu Quoc",
+        "districtCode": "911",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "92410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "An Giang",
+        "nameVi": "An Giang",
+        "fullNameEn": "An Giang Province",
+        "fullNameVi": "Tỉnh An Giang",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "91"
+      },
+      "commune": {
+        "nameEn": "Kien Hai",
+        "nameVi": "Kiên Hải",
+        "fullNameEn": "Kien Hai Special administrative region",
+        "fullNameVi": "Đặc khu Kiên Hải",
+        "nameSearchNormalized": "kien hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Special Administrative Zone",
+        "officialCode": "31108",
+        "provinceCode": "91"
+      },
+      "postalObject": {
+        "nameEn": "Kien Hai Special Administrative Zone Postal Area",
+        "nameVi": "Khu vực bưu chính Đặc khu Kiên Hải",
+        "type": "Special Administrative Zone",
+        "code": "92410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kiên Hải",
+        "districtFullName": "Huyện Kiên Hải",
+        "districtNameEn": "Kien Hai",
+        "districtCode": "912",
+        "legacyProvinceName": "Kiên Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

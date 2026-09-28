@@ -1,0 +1,382 @@
+{
+  "provinceTerritory": {
+    "nameEn": "British Columbia",
+    "nameFr": "Colombie-Britannique",
+    "code": "BC",
+    "isoCode": "CA-BC",
+    "sgcCode": "59",
+    "category": "province"
+  },
+  "recordCount": 7,
+  "postalRecords": [
+    {
+      "postalCode": "V6B 1A1",
+      "postalCodeNormalized": "V6B1A1",
+      "fsa": "V6B",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Vancouver",
+        "postalMunicipality": "City of Vancouver"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Metro Vancouver Regional District",
+          "code": "5915",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "Vancouver",
+          "code": "5915022",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Vancouver Central Post Office / Downtown",
+        "nameFr": "Bureau de poste central de Vancouver",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "BC-VAN-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V6B1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "V6B 1A0",
+      "postalCodeNormalized": "V6B1A0",
+      "fsa": "V6B",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Vancouver",
+        "postalMunicipality": "City of Vancouver"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Metro Vancouver Regional District",
+          "code": "5915",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "Vancouver",
+          "code": "5915022",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "General Delivery",
+        "deliveryMode": "General delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": {
+          "isGeneralDelivery": true,
+          "identifier": "General Delivery",
+          "station": "Vancouver Main Station"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Vancouver General Delivery Service Point",
+        "nameFr": "Point de service de poste restante de Vancouver",
+        "station": "Stn Main GD",
+        "type": "General Delivery Facility",
+        "identifier": "BC-VAN-GD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V6B1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "V6B 3P7",
+      "postalCodeNormalized": "V6B3P7",
+      "fsa": "V6B",
+      "ldu": "3P7",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Vancouver",
+        "postalMunicipality": "City of Vancouver"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Metro Vancouver Regional District",
+          "code": "5915",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "Vancouver",
+          "code": "5915022",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "PO Box 1000-4000",
+          "station": "Station Main"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Vancouver Station Main Box Facility",
+        "nameFr": "Installation de cases postales Station Main de Vancouver",
+        "station": "Stn Main Boxes",
+        "type": "Box Delivery Facility",
+        "identifier": "BC-VAN-BOX"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V6B3P7-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "V8W 1P5",
+      "postalCodeNormalized": "V8W1P5",
+      "fsa": "V8W",
+      "ldu": "1P5",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Victoria",
+        "postalMunicipality": "City of Victoria"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Capital Regional District",
+          "code": "5917",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "Victoria",
+          "code": "5917034",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "British Columbia Parliament Buildings",
+        "nameFr": "Édifices du Parlement de la Colombie-Britannique",
+        "station": "Legislative Assembly Stn",
+        "type": "Government Facility",
+        "identifier": "BC-VIC-LEG"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V8W1P5-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "V9A 7N2",
+      "postalCodeNormalized": "V9A7N2",
+      "fsa": "V9A",
+      "ldu": "7N2",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Victoria",
+        "postalMunicipality": "Township of Esquimalt"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Capital Regional District",
+          "code": "5917",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "Esquimalt",
+          "code": "5917030",
+          "type": "District Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Military Mail",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Military",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canadian Forces Base Esquimalt (Maritime Forces Pacific)",
+        "nameFr": "Base des Forces canadiennes Esquimalt (Forces maritimes du Pacifique)",
+        "station": "CFPO Esquimalt",
+        "type": "Military Post Office",
+        "identifier": "BC-ESQ-MIL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V9A7N2-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "V1Y 1A1",
+      "postalCodeNormalized": "V1Y1A1",
+      "fsa": "V1Y",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Kelowna",
+        "postalMunicipality": "City of Kelowna"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Central Okanagan Regional District",
+          "code": "5935",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "Kelowna",
+          "code": "5935010",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Kelowna Downtown Post Office",
+        "nameFr": "Bureau de poste du centre-ville de Kelowna",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "BC-KEL-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V1Y1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "V0A 1A0",
+      "postalCodeNormalized": "V0A1A0",
+      "fsa": "V0A",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "British Columbia",
+        "nameFr": "Colombie-Britannique",
+        "code": "BC",
+        "isoCode": "CA-BC",
+        "sgcCode": "59"
+      },
+      "postalGeography": {
+        "postalCity": "Athalmer",
+        "postalMunicipality": "Regional District of East Kootenay"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "East Kootenay Regional District",
+          "code": "5901",
+          "type": "Regional District"
+        },
+        "censusSubdivision": {
+          "name": "East Kootenay Area F",
+          "code": "5901035",
+          "type": "Regional District Electoral Area"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Athalmer Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Athalmer Post Office",
+        "nameFr": "Bureau de poste d’Athalmer",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "BC-ATH-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-BC-V0A1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

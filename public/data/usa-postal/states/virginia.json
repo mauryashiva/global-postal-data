@@ -1,0 +1,275 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Virginia",
+    "abbreviation": "VA",
+    "fipsCode": "51",
+    "capital": "Richmond",
+    "largestCity": "Virginia Beach",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "276",
+      "434",
+      "540",
+      "571",
+      "703",
+      "757",
+      "804"
+    ],
+    "prefixes": [
+      "201",
+      "220",
+      "221",
+      "222",
+      "223",
+      "224",
+      "225",
+      "226",
+      "227",
+      "228",
+      "229",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245",
+      "246"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-VA-23219-0",
+      "zip5": "23219",
+      "zip4": "1001",
+      "zipPlus4": "23219-1001",
+      "state": {
+        "nameEn": "Virginia",
+        "abbreviation": "VA",
+        "fipsCode": "51",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Richmond",
+      "acceptableCities": [
+        "Richmond"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Richmond",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Richmond City",
+          "fipsCode": "51760",
+          "geoid": "51760"
+        }
+      ],
+      "primaryCounty": "Richmond City",
+      "zcta": {
+        "code": "23219"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Richmond Main Post Office",
+        "address": "1801 Brook Rd",
+        "phone": "(804) 775-6200",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 37.5407,
+        "longitude": -77.436,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "276",
+          "434",
+          "540",
+          "571",
+          "703",
+          "757",
+          "804"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 15400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VA-23219",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-VA-22202-1",
+      "zip5": "22202",
+      "zip4": "1501",
+      "zipPlus4": "22202-1501",
+      "state": {
+        "nameEn": "Virginia",
+        "abbreviation": "VA",
+        "fipsCode": "51",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Arlington",
+      "acceptableCities": [
+        "Arlington",
+        "Crystal City"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Arlington",
+          "status": "Primary"
+        },
+        {
+          "name": "Crystal City",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Arlington County",
+          "fipsCode": "51013",
+          "geoid": "51013"
+        }
+      ],
+      "primaryCounty": "Arlington County",
+      "zcta": {
+        "code": "22202"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Crystal City Post Office",
+        "address": "2000 S Eads St",
+        "phone": "(703) 920-1188",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 38.8569,
+        "longitude": -77.0519,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "276",
+          "434",
+          "540",
+          "571",
+          "703",
+          "757",
+          "804"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 33,
+        "deliveryPoints": 16900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VA-22202",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-VA-23451-2",
+      "zip5": "23451",
+      "zip4": "2001",
+      "zipPlus4": "23451-2001",
+      "state": {
+        "nameEn": "Virginia",
+        "abbreviation": "VA",
+        "fipsCode": "51",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Virginia Beach",
+      "acceptableCities": [
+        "Virginia Beach"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Virginia Beach",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Virginia Beach City",
+          "fipsCode": "51810",
+          "geoid": "51810"
+        }
+      ],
+      "primaryCounty": "Virginia Beach City",
+      "zcta": {
+        "code": "23451"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Virginia Beach Oceanfront Station",
+        "address": "501 24th St",
+        "phone": "(757) 428-1188",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 36.8529,
+        "longitude": -75.978,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "276",
+          "434",
+          "540",
+          "571",
+          "703",
+          "757",
+          "804"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 32,
+        "deliveryPoints": 16200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VA-23451",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "prefix": "520",
+  "records": [
+    {
+      "postalCode": "5200000",
+      "postalCodeFormatted": "520-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "25",
+      "prefectureNameEn": "Shiga",
+      "prefectureNameJa": "滋賀県",
+      "prefectureNameKana": "シガケン",
+      "prefectureNameRomaji": "Shiga-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "25201",
+        "nameEn": "Otsu",
+        "nameJa": "大津市",
+        "nameKana": "シガケシ",
+        "nameRomaji": "Shiga-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Shiga Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

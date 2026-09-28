@@ -1,0 +1,441 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Daykundi",
+    "nameNative": "دایکندی",
+    "isoCode": "AF-DAY",
+    "postalPrefix": "42",
+    "capital": "Nili",
+    "capitalNative": "نیلی",
+    "coordinates": {
+      "latitude": 33.6695,
+      "longitude": 66.0464
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 11,
+    "totalRecords": 11,
+    "urbanRecords": 2,
+    "ruralRecords": 9
+  },
+  "records": [
+    {
+      "postalCode": "420101",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Nili - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-DAY-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Nili District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-420101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "420201",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Nili - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-DAY-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Nili District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-420201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425101",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Kajran District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-51"
+      },
+      "locality": {
+        "nameEn": "Kajran Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kajran District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425201",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Gizab District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-52"
+      },
+      "locality": {
+        "nameEn": "Gizab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gizab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425301",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Shahrestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-53"
+      },
+      "locality": {
+        "nameEn": "Shahrestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shahrestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425401",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Miramor District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-54"
+      },
+      "locality": {
+        "nameEn": "Miramor Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Miramor District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425501",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Ashtarlay District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-55"
+      },
+      "locality": {
+        "nameEn": "Ashtarlay Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ashtarlay District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425601",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Sang-e-Takht District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-56"
+      },
+      "locality": {
+        "nameEn": "Sang-e-Takht Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sang-e-Takht District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425701",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "Khadir District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-57"
+      },
+      "locality": {
+        "nameEn": "Khadir Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khadir District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425801",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "kiti District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-58"
+      },
+      "locality": {
+        "nameEn": "kiti Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "kiti District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "425901",
+      "province": {
+        "nameEn": "Daykundi",
+        "nameNative": "دایکندی",
+        "code": "AF-DAY",
+        "postalPrefix": "42"
+      },
+      "city": {
+        "nameEn": "Nili",
+        "nameNative": "نیلی"
+      },
+      "district": {
+        "nameEn": "pato District",
+        "type": "Rural Administrative District",
+        "code": "AF-DAY-59"
+      },
+      "locality": {
+        "nameEn": "pato Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "pato District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.6695,
+        "longitude": 66.0464
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-425901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

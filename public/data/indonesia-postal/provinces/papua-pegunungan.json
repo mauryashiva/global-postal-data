@@ -1,0 +1,63 @@
+{
+  "code": "95",
+  "nameEn": "Highland Papua",
+  "nameId": "Papua Pegunungan",
+  "nameNative": "Papua Pegunungan",
+  "administrativeType": "Province",
+  "specialStatus": "Special Autonomy (Otonomi Khusus)",
+  "capitalEn": "Wamena",
+  "capitalId": "Kabupaten Jayawijaya",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "99511",
+      "province": {
+        "code": "95",
+        "nameEn": "Highland Papua",
+        "nameId": "Papua Pegunungan",
+        "nameNative": "Papua Pegunungan",
+        "administrativeType": "Province",
+        "specialStatus": "Special Autonomy (Otonomi Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "95.01",
+        "nameId": "Kabupaten Jayawijaya",
+        "nameEn": "Jayawijaya Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "95.01.01",
+        "nameId": "Kecamatan Wamena",
+        "nameEn": "Wamena District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "95.01.01.1001",
+        "nameId": "Kelurahan Wamena Kota",
+        "nameEn": "Wamena Kota",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Ibukota Provinsi Papua Pegunungan / Lembah Baliem",
+        "nameEn": "Wamena Baliem Valley Highland Capital"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Wamena",
+        "nameEn": "Wamena Post Office",
+        "code": "99511",
+        "type": "KPC",
+        "deliveryStatus": "Highland Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-95-99511-95.01.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Colorado",
+    "abbreviation": "CO",
+    "fipsCode": "08",
+    "capital": "Denver",
+    "largestCity": "Denver",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "303",
+      "719",
+      "720",
+      "970"
+    ],
+    "prefixes": [
+      "800",
+      "801",
+      "802",
+      "803",
+      "804",
+      "805",
+      "806",
+      "807",
+      "808",
+      "809",
+      "810",
+      "811",
+      "812",
+      "813",
+      "814",
+      "815",
+      "816"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-CO-80202-0",
+      "zip5": "80202",
+      "zip4": "1001",
+      "zipPlus4": "80202-1001",
+      "state": {
+        "nameEn": "Colorado",
+        "abbreviation": "CO",
+        "fipsCode": "08",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Denver",
+      "acceptableCities": [
+        "Denver"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Denver",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Denver County",
+          "fipsCode": "08031",
+          "geoid": "08031"
+        }
+      ],
+      "primaryCounty": "Denver County",
+      "zcta": {
+        "code": "80202"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Denver Downtown Station",
+        "address": "951 20th St",
+        "phone": "(303) 297-1526",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 39.7525,
+        "longitude": -104.9995,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "303",
+          "719",
+          "720",
+          "970"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CO-80202",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-CO-80302-1",
+      "zip5": "80302",
+      "zip4": "2001",
+      "zipPlus4": "80302-2001",
+      "state": {
+        "nameEn": "Colorado",
+        "abbreviation": "CO",
+        "fipsCode": "08",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Boulder",
+      "acceptableCities": [
+        "Boulder"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Boulder",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Boulder County",
+          "fipsCode": "08013",
+          "geoid": "08013"
+        }
+      ],
+      "primaryCounty": "Boulder County",
+      "zcta": {
+        "code": "80302"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Boulder Main Post Office",
+        "address": "1905 15th St",
+        "phone": "(303) 938-1100",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 40.015,
+        "longitude": -105.2705,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "303",
+          "719",
+          "720",
+          "970"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CO-80302",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

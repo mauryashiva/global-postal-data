@@ -1,0 +1,548 @@
+{
+  "country": {
+    "nameEn": "Japan",
+    "nameJa": "日本",
+    "nameJaOfficial": "日本国",
+    "isoAlpha2": "JP",
+    "isoAlpha3": "JPN",
+    "isoNumeric": "392",
+    "phoneCode": "+81",
+    "currency": "JPY",
+    "currencyName": "Japanese Yen",
+    "flag": "🇯🇵"
+  },
+  "postalCode": {
+    "digits": 7,
+    "displayFormat": "XXX-XXXX",
+    "normalizedFormat": "XXXXXXX",
+    "numeric": true,
+    "standardRegex": "^[0-9]{7}$",
+    "displayRegex": "^[0-9]{3}-[0-9]{4}$",
+    "normalizationRule": "Trim whitespace, remove spaces and hyphens, verify exactly 7 numeric digits."
+  },
+  "administrativeSummary": {
+    "prefectureCount": 47,
+    "categories": {
+      "toCount": 1,
+      "doCount": 1,
+      "fuCount": 2,
+      "kenCount": 43
+    }
+  },
+  "prefectures": [
+    {
+      "code": "01",
+      "nameEn": "Hokkaido",
+      "nameJa": "北海道",
+      "nameKana": "ホッカイドウ",
+      "nameRomaji": "Hokkaido",
+      "administrativeType": "Do",
+      "capitalEn": "Sapporo",
+      "capitalJa": "札幌市"
+    },
+    {
+      "code": "02",
+      "nameEn": "Aomori",
+      "nameJa": "青森県",
+      "nameKana": "アオモリケン",
+      "nameRomaji": "Aomori-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Aomori",
+      "capitalJa": "青森市"
+    },
+    {
+      "code": "03",
+      "nameEn": "Iwate",
+      "nameJa": "岩手県",
+      "nameKana": "イワテケン",
+      "nameRomaji": "Iwate-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Morioka",
+      "capitalJa": "盛岡市"
+    },
+    {
+      "code": "04",
+      "nameEn": "Miyagi",
+      "nameJa": "宮城県",
+      "nameKana": "ミヤギケン",
+      "nameRomaji": "Miyagi-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Sendai",
+      "capitalJa": "仙台市"
+    },
+    {
+      "code": "05",
+      "nameEn": "Akita",
+      "nameJa": "秋田県",
+      "nameKana": "アキタケン",
+      "nameRomaji": "Akita-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Akita",
+      "capitalJa": "秋田市"
+    },
+    {
+      "code": "06",
+      "nameEn": "Yamagata",
+      "nameJa": "山形県",
+      "nameKana": "ヤマガタケン",
+      "nameRomaji": "Yamagata-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Yamagata",
+      "capitalJa": "山形市"
+    },
+    {
+      "code": "07",
+      "nameEn": "Fukushima",
+      "nameJa": "福島県",
+      "nameKana": "フクシマケン",
+      "nameRomaji": "Fukushima-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Fukushima",
+      "capitalJa": "福島市"
+    },
+    {
+      "code": "08",
+      "nameEn": "Ibaraki",
+      "nameJa": "Ibaraki",
+      "nameJaOfficial": "茨城県",
+      "nameKana": "イバラキケン",
+      "nameRomaji": "Ibaraki-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Mito",
+      "capitalJa": "水戸市"
+    },
+    {
+      "code": "09",
+      "nameEn": "Tochigi",
+      "nameJa": "栃木県",
+      "nameKana": "トチギケン",
+      "nameRomaji": "Tochigi-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Utsunomiya",
+      "capitalJa": "宇都宮市"
+    },
+    {
+      "code": "10",
+      "nameEn": "Gunma",
+      "nameJa": "群馬県",
+      "nameKana": "グンマケン",
+      "nameRomaji": "Gunma-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Maebashi",
+      "capitalJa": "前橋市"
+    },
+    {
+      "code": "11",
+      "nameEn": "Saitama",
+      "nameJa": "埼玉県",
+      "nameKana": "サイタマケン",
+      "nameRomaji": "Saitama-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Saitama",
+      "capitalJa": "さいたま市"
+    },
+    {
+      "code": "12",
+      "nameEn": "Chiba",
+      "nameJa": "千葉県",
+      "nameKana": "チバケン",
+      "nameRomaji": "Chiba-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Chiba",
+      "capitalJa": "千葉市"
+    },
+    {
+      "code": "13",
+      "nameEn": "Tokyo",
+      "nameJa": "東京都",
+      "nameKana": "トウキョウト",
+      "nameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "capitalEn": "Shinjuku",
+      "capitalJa": "新宿区"
+    },
+    {
+      "code": "14",
+      "nameEn": "Kanagawa",
+      "nameJa": "神奈川県",
+      "nameKana": "カナガワケン",
+      "nameRomaji": "Kanagawa-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Yokohama",
+      "capitalJa": "横浜市"
+    },
+    {
+      "code": "15",
+      "nameEn": "Niigata",
+      "nameJa": "新潟県",
+      "nameKana": "ニイガタケン",
+      "nameRomaji": "Niigata-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Niigata",
+      "capitalJa": "新潟市"
+    },
+    {
+      "code": "16",
+      "nameEn": "Toyama",
+      "nameJa": "富山県",
+      "nameKana": "トヤマケン",
+      "nameRomaji": "Toyama-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Toyama",
+      "capitalJa": "富山市"
+    },
+    {
+      "code": "17",
+      "nameEn": "Ishikawa",
+      "nameJa": "石川県",
+      "nameKana": "イシカワケン",
+      "nameRomaji": "Ishikawa-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Kanazawa",
+      "capitalJa": "金沢市"
+    },
+    {
+      "code": "18",
+      "nameEn": "Fukui",
+      "nameJa": "福井県",
+      "nameKana": "フクイケン",
+      "nameRomaji": "Fukui-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Fukui",
+      "capitalJa": "福井市"
+    },
+    {
+      "code": "19",
+      "nameEn": "Yamanashi",
+      "nameJa": "山梨県",
+      "nameKana": "ヤマナシケン",
+      "nameRomaji": "Yamanashi-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Kofu",
+      "capitalJa": "甲府市"
+    },
+    {
+      "code": "20",
+      "nameEn": "Nagano",
+      "nameJa": "長野県",
+      "nameKana": "ナガノケン",
+      "nameRomaji": "Nagano-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Nagano",
+      "capitalJa": "長野市"
+    },
+    {
+      "code": "21",
+      "nameEn": "Gifu",
+      "nameJa": "岐阜県",
+      "nameKana": "ギフケン",
+      "nameRomaji": "Gifu-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Gifu",
+      "capitalJa": "岐阜市"
+    },
+    {
+      "code": "22",
+      "nameEn": "Shizuoka",
+      "nameJa": "静岡県",
+      "nameKana": "シズオカケン",
+      "nameRomaji": "Shizuoka-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Shizuoka",
+      "capitalJa": "静岡市"
+    },
+    {
+      "code": "23",
+      "nameEn": "Aichi",
+      "nameJa": "愛知県",
+      "nameKana": "アイチケン",
+      "nameRomaji": "Aichi-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Nagoya",
+      "capitalJa": "名古屋市"
+    },
+    {
+      "code": "24",
+      "nameEn": "Mie",
+      "nameJa": "三重県",
+      "nameKana": "ミエケン",
+      "nameRomaji": "Mie-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Tsu",
+      "capitalJa": "津市"
+    },
+    {
+      "code": "25",
+      "nameEn": "Shiga",
+      "nameJa": "滋賀県",
+      "nameKana": "シガケン",
+      "nameRomaji": "Shiga-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Otsu",
+      "capitalJa": "大津市"
+    },
+    {
+      "code": "26",
+      "nameEn": "Kyoto",
+      "nameJa": "京都府",
+      "nameKana": "キョウトフ",
+      "nameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "capitalEn": "Kyoto",
+      "capitalJa": "京都市"
+    },
+    {
+      "code": "27",
+      "nameEn": "Osaka",
+      "nameJa": "大阪府",
+      "nameKana": "オオサカフ",
+      "nameRomaji": "Osaka-fu",
+      "administrativeType": "Fu",
+      "capitalEn": "Osaka",
+      "capitalJa": "大阪市"
+    },
+    {
+      "code": "28",
+      "nameEn": "Hyogo",
+      "nameJa": "兵庫県",
+      "nameKana": "ヒョウゴケン",
+      "nameRomaji": "Hyogo-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Kobe",
+      "capitalJa": "神戸市"
+    },
+    {
+      "code": "29",
+      "nameEn": "Nara",
+      "nameJa": "奈良県",
+      "nameKana": "ナラケン",
+      "nameRomaji": "Nara-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Nara",
+      "capitalJa": "奈良市"
+    },
+    {
+      "code": "30",
+      "nameEn": "Wakayama",
+      "nameJa": "和歌山県",
+      "nameKana": "ワカヤマケン",
+      "nameRomaji": "Wakayama-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Wakayama",
+      "capitalJa": "和歌山市"
+    },
+    {
+      "code": "31",
+      "nameEn": "Tottori",
+      "nameJa": "鳥取県",
+      "nameKana": "トットリケン",
+      "nameRomaji": "Tottori-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Tottori",
+      "capitalJa": "鳥取市"
+    },
+    {
+      "code": "32",
+      "nameEn": "Shimane",
+      "nameJa": "島根県",
+      "nameKana": "シマネケン",
+      "nameRomaji": "Shimane-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Matsue",
+      "capitalJa": "松江市"
+    },
+    {
+      "code": "33",
+      "nameEn": "Okayama",
+      "nameJa": "岡山県",
+      "nameKana": "オカヤマケン",
+      "nameRomaji": "Okayama-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Okayama",
+      "capitalJa": "岡山市"
+    },
+    {
+      "code": "34",
+      "nameEn": "Hiroshima",
+      "nameJa": "広島県",
+      "nameKana": "ヒロシマケン",
+      "nameRomaji": "Hiroshima-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Hiroshima",
+      "capitalJa": "広島市"
+    },
+    {
+      "code": "35",
+      "nameEn": "Yamaguchi",
+      "nameJa": "山口県",
+      "nameKana": "ヤマグチケン",
+      "nameRomaji": "Yamaguchi-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Yamaguchi",
+      "capitalJa": "山口市"
+    },
+    {
+      "code": "36",
+      "nameEn": "Tokushima",
+      "nameJa": "徳島県",
+      "nameKana": "トクシマケン",
+      "nameRomaji": "Tokushima-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Tokushima",
+      "capitalJa": "徳島市"
+    },
+    {
+      "code": "37",
+      "nameEn": "Kagawa",
+      "nameJa": "香川県",
+      "nameKana": "カガワケン",
+      "nameRomaji": "Kagawa-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Takamatsu",
+      "capitalJa": "高松市"
+    },
+    {
+      "code": "38",
+      "nameEn": "Ehime",
+      "nameJa": "愛媛県",
+      "nameKana": "エヒメケン",
+      "nameRomaji": "Ehime-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Matsuyama",
+      "capitalJa": "松山市"
+    },
+    {
+      "code": "39",
+      "nameEn": "Kochi",
+      "nameJa": "高知県",
+      "nameKana": "コウチケン",
+      "nameRomaji": "Kochi-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Kochi",
+      "capitalJa": "高知市"
+    },
+    {
+      "code": "40",
+      "nameEn": "Fukuoka",
+      "nameJa": "福岡県",
+      "nameKana": "フクオカケン",
+      "nameRomaji": "Fukuoka-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Fukuoka",
+      "capitalJa": "福岡市"
+    },
+    {
+      "code": "41",
+      "nameEn": "Saga",
+      "nameJa": "佐賀県",
+      "nameKana": "サガケン",
+      "nameRomaji": "Saga-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Saga",
+      "capitalJa": "佐賀市"
+    },
+    {
+      "code": "42",
+      "nameEn": "Nagasaki",
+      "nameJa": "長崎県",
+      "nameKana": "ナガサキケン",
+      "nameRomaji": "Nagasaki-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Nagasaki",
+      "capitalJa": "長崎市"
+    },
+    {
+      "code": "43",
+      "nameEn": "Kumamoto",
+      "nameJa": "熊本県",
+      "nameKana": "クマモトケン",
+      "nameRomaji": "Kumamoto-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Kumamoto",
+      "capitalJa": "熊本市"
+    },
+    {
+      "code": "44",
+      "nameEn": "Oita",
+      "nameJa": "大分県",
+      "nameKana": "オオイタケン",
+      "nameRomaji": "Oita-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Oita",
+      "capitalJa": "大分市"
+    },
+    {
+      "code": "45",
+      "nameEn": "Miyazaki",
+      "nameJa": "宮崎県",
+      "nameKana": "ミヤザキケン",
+      "nameRomaji": "Miyazaki-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Miyazaki",
+      "capitalJa": "宮崎市"
+    },
+    {
+      "code": "46",
+      "nameEn": "Kagoshima",
+      "nameJa": "鹿児島県",
+      "nameKana": "カゴシマケン",
+      "nameRomaji": "Kagoshima-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Kagoshima",
+      "capitalJa": "鹿児島市"
+    },
+    {
+      "code": "47",
+      "nameEn": "Okinawa",
+      "nameJa": "沖縄県",
+      "nameKana": "オキナワケン",
+      "nameRomaji": "Okinawa-ken",
+      "administrativeType": "Ken",
+      "capitalEn": "Naha",
+      "capitalJa": "那覇市"
+    }
+  ],
+  "datasets": {
+    "areaPostalCodes": true,
+    "businessPostalCodes": true,
+    "historicalData": false
+  },
+  "statistics": {
+    "uniquePostalCodes": 69,
+    "uniqueAreaPostalCodes": 63,
+    "uniqueBusinessPostalCodes": 6,
+    "areaRecords": 64,
+    "businessRecords": 6,
+    "totalRecords": 70,
+    "postalIndexPrefixesCount": 59
+  },
+  "sources": [
+    {
+      "sourceName": "Japan Post Co., Ltd. (日本郵便株式会社)",
+      "sourceType": "Official Postal Code Directory (住所の郵便番号)",
+      "sourceURL": "https://www.post.japanpost.jp/zipcode/download.html",
+      "retrievedAt": "2026-09-28",
+      "sourceUpdatedAt": "2026-08-31",
+      "license": "Official Japan Post Data Service (Public Domain / Public Service)"
+    },
+    {
+      "sourceName": "Japan Post Individual Business Postal Codes (大口事業所個別番号データ)",
+      "sourceType": "Official Large-User Business Directory",
+      "sourceURL": "https://www.post.japanpost.jp/zipcode/dl/jigyosyo/index-utf.html",
+      "retrievedAt": "2026-09-28",
+      "sourceUpdatedAt": "2026-08-31",
+      "license": "Official Japan Post Data Service"
+    },
+    {
+      "sourceName": "Ministry of Internal Affairs and Communications (総務省)",
+      "sourceType": "Local Government Administrative Hierarchy & JIS X 0401/0402",
+      "sourceURL": "https://www.soumu.go.jp/",
+      "retrievedAt": "2026-09-28",
+      "sourceUpdatedAt": "2026-08-31",
+      "license": "Government of Japan Open Data"
+    }
+  ],
+  "generatedAt": "2026-09-28T05:58:11.890Z",
+  "datasetVersion": "2026-08-31",
+  "sourceUpdatedAt": "2026-08-31"
+}

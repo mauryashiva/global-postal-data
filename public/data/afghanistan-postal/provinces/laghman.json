@@ -1,0 +1,593 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Laghman",
+    "nameNative": "لغمان",
+    "isoCode": "AF-LAG",
+    "postalPrefix": "27",
+    "capital": "Mihtarlam",
+    "capitalNative": "مهترلام",
+    "coordinates": {
+      "latitude": 34.6898,
+      "longitude": 70.1887
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 15,
+    "totalRecords": 15,
+    "urbanRecords": 10,
+    "ruralRecords": 5
+  },
+  "records": [
+    {
+      "postalCode": "270101",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270201",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270301",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270401",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270501",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270601",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270701",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270801",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "270901",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-270901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "271001",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Mihtarlam - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-LAG-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mihtarlam District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-271001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "275101",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Qarghayi District",
+        "type": "Rural Administrative District",
+        "code": "AF-LAG-51"
+      },
+      "locality": {
+        "nameEn": "Qarghayi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qarghayi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-275101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "275201",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Alingar District",
+        "type": "Rural Administrative District",
+        "code": "AF-LAG-52"
+      },
+      "locality": {
+        "nameEn": "Alingar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Alingar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-275201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "275301",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Alishang District",
+        "type": "Rural Administrative District",
+        "code": "AF-LAG-53"
+      },
+      "locality": {
+        "nameEn": "Alishang Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Alishang District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-275301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "275401",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Dawlatshah District",
+        "type": "Rural Administrative District",
+        "code": "AF-LAG-54"
+      },
+      "locality": {
+        "nameEn": "Dawlatshah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dawlatshah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-275401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "275501",
+      "province": {
+        "nameEn": "Laghman",
+        "nameNative": "لغمان",
+        "code": "AF-LAG",
+        "postalPrefix": "27"
+      },
+      "city": {
+        "nameEn": "Mihtarlam",
+        "nameNative": "مهترلام"
+      },
+      "district": {
+        "nameEn": "Badpakh District",
+        "type": "Rural Administrative District",
+        "code": "AF-LAG-55"
+      },
+      "locality": {
+        "nameEn": "Badpakh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Badpakh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.6898,
+        "longitude": 70.1887
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-275501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

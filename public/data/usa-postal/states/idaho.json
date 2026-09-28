@@ -1,0 +1,99 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Idaho",
+    "abbreviation": "ID",
+    "fipsCode": "16",
+    "capital": "Boise",
+    "largestCity": "Boise",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "208",
+      "986"
+    ],
+    "prefixes": [
+      "832",
+      "833",
+      "834",
+      "835",
+      "836",
+      "837",
+      "838"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-ID-83702-0",
+      "zip5": "83702",
+      "zip4": "1001",
+      "zipPlus4": "83702-1001",
+      "state": {
+        "nameEn": "Idaho",
+        "abbreviation": "ID",
+        "fipsCode": "16",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Boise",
+      "acceptableCities": [
+        "Boise"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Boise",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Ada County",
+          "fipsCode": "16001",
+          "geoid": "16001"
+        }
+      ],
+      "primaryCounty": "Ada County",
+      "zcta": {
+        "code": "83702"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Boise Main Post Office",
+        "address": "750 W Bannock St",
+        "phone": "(208) 383-4211",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 43.615,
+        "longitude": -116.2023,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "208",
+          "986"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-ID-83702",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

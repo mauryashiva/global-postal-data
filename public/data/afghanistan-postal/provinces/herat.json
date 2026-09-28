@@ -1,0 +1,5077 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Herat",
+    "nameNative": "هرات",
+    "isoCode": "AF-HER",
+    "postalPrefix": "30",
+    "capital": "Herat",
+    "capitalNative": "هرات",
+    "coordinates": {
+      "latitude": 34.3419,
+      "longitude": 62.2031
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 133,
+    "totalRecords": 133,
+    "urbanRecords": 112,
+    "ruralRecords": 21
+  },
+  "records": [
+    {
+      "postalCode": "300101",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300102",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300102",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300103",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300103",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300104",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300104",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300201",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300202",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300202",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300203",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300203",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300301",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300302",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300302",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300303",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300303",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300304",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300304",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300401",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300402",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300402",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300403",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300403",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300404",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300404",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300501",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300502",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300502",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300503",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300503",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300504",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300504",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300505",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300505",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300506",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300506",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300507",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300507",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300508",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300508",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300601",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300602",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300602",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300603",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300603",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300604",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300604",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300605",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300605",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300606",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300606",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300607",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300607",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300608",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300608",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300609",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 09)",
+        "deliveryZone": "09",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300609",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300610",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 10)",
+        "deliveryZone": "10",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300610",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300611",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 11)",
+        "deliveryZone": "11",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300611",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300612",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 12)",
+        "deliveryZone": "12",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300612",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300613",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 13)",
+        "deliveryZone": "13",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300613",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300614",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 14)",
+        "deliveryZone": "14",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300614",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300701",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300702",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300702",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300703",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300703",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300704",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300704",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300705",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300705",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300706",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300706",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300801",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300802",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300802",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300803",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300803",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300804",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300804",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300805",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300805",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300806",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300806",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300901",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300902",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300902",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300903",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300903",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300904",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300904",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300905",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300905",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300906",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300906",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300907",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300907",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300908",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300908",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300909",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 09)",
+        "deliveryZone": "09",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300909",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "300910",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 10)",
+        "deliveryZone": "10",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-300910",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301001",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301002",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301002",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301003",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301003",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301004",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301004",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301005",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301005",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301006",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301006",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301007",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301007",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301008",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301008",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301009",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 09)",
+        "deliveryZone": "09",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301009",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301101",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301102",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301102",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301103",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301103",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301104",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301104",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301105",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301105",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301106",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301106",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301107",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301107",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301108",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301108",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301109",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 09)",
+        "deliveryZone": "09",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301109",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301110",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 10)",
+        "deliveryZone": "10",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301110",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301111",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 11)",
+        "deliveryZone": "11",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301111",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301112",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 11",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-11"
+      },
+      "locality": {
+        "nameEn": "District 11 (Zone 12)",
+        "deliveryZone": "12",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 11 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301112",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301201",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301202",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301202",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301203",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301203",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301204",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301204",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301205",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301205",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301206",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301206",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301207",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301207",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301208",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301208",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301209",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 12",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-12"
+      },
+      "locality": {
+        "nameEn": "District 12 (Zone 09)",
+        "deliveryZone": "09",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 12 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301209",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301301",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301302",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301302",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301303",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301303",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301304",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301304",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301305",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301305",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301306",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301306",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301307",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301307",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301308",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301308",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301309",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 09)",
+        "deliveryZone": "09",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301309",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301310",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 13",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-13"
+      },
+      "locality": {
+        "nameEn": "District 13 (Zone 10)",
+        "deliveryZone": "10",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 13 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301310",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301401",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301402",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301402",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301403",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301403",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301404",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301404",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301405",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301405",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301406",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 06)",
+        "deliveryZone": "06",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301406",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301407",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 07)",
+        "deliveryZone": "07",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301407",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301408",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 14",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-14"
+      },
+      "locality": {
+        "nameEn": "District 14 (Zone 08)",
+        "deliveryZone": "08",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 14 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301408",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301501",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 15",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-15"
+      },
+      "locality": {
+        "nameEn": "District 15 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 15 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301502",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 15",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-15"
+      },
+      "locality": {
+        "nameEn": "District 15 (Zone 02)",
+        "deliveryZone": "02",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 15 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301502",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301503",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 15",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-15"
+      },
+      "locality": {
+        "nameEn": "District 15 (Zone 03)",
+        "deliveryZone": "03",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 15 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301503",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301504",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 15",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-15"
+      },
+      "locality": {
+        "nameEn": "District 15 (Zone 04)",
+        "deliveryZone": "04",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 15 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301504",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "301505",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Herat - District 15",
+        "type": "Urban Municipal District",
+        "code": "AF-HER-15"
+      },
+      "locality": {
+        "nameEn": "District 15 (Zone 05)",
+        "deliveryZone": "05",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Herat District 15 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-301505",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305101",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Ghoryan District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-51"
+      },
+      "locality": {
+        "nameEn": "Ghoryan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ghoryan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305201",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Kohsan District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-52"
+      },
+      "locality": {
+        "nameEn": "Kohsan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohsan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305202",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Kohsan District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-52"
+      },
+      "locality": {
+        "nameEn": "Kohsan Central",
+        "deliveryZone": "02",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohsan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305202",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305301",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Gulran District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-53"
+      },
+      "locality": {
+        "nameEn": "Gulran Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gulran District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305401",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Kushk Rabat Sangy District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-54"
+      },
+      "locality": {
+        "nameEn": "Kushk Rabat Sangy Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kushk Rabat Sangy District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305402",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Kushk Rabat Sangy District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-54"
+      },
+      "locality": {
+        "nameEn": "Kushk Rabat Sangy Central",
+        "deliveryZone": "02",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kushk Rabat Sangy District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305402",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305501",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Kushk-e-Kohna District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-55"
+      },
+      "locality": {
+        "nameEn": "Kushk-e-Kohna Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kushk-e-Kohna District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305601",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Pashtunzarghun District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-56"
+      },
+      "locality": {
+        "nameEn": "Pashtunzarghun Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Pashtunzarghun District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305701",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Karukh District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-57"
+      },
+      "locality": {
+        "nameEn": "Karukh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Karukh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305801",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Obe District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-58"
+      },
+      "locality": {
+        "nameEn": "Obe Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Obe District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "305901",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Chisht-e-Sharif District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-59"
+      },
+      "locality": {
+        "nameEn": "Chisht-e-Sharif Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chisht-e-Sharif District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-305901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306001",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Farsi District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-60"
+      },
+      "locality": {
+        "nameEn": "Farsi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Farsi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306101",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Injil District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-61"
+      },
+      "locality": {
+        "nameEn": "Injil Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Injil District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306201",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Adraskan District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-62"
+      },
+      "locality": {
+        "nameEn": "Adraskan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Adraskan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306301",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "shendand District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-63"
+      },
+      "locality": {
+        "nameEn": "shendand Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "shendand District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306401",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Zindajan District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-64"
+      },
+      "locality": {
+        "nameEn": "Zindajan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zindajan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306501",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Guzara District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-65"
+      },
+      "locality": {
+        "nameEn": "Guzara Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Guzara District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306601",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Zer-i- Koh District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-66"
+      },
+      "locality": {
+        "nameEn": "Zer-i- Koh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zer-i- Koh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306701",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Pusht-i- Koh District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-67"
+      },
+      "locality": {
+        "nameEn": "Pusht-i- Koh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Pusht-i- Koh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306801",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Zawol District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-68"
+      },
+      "locality": {
+        "nameEn": "Zawol Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zawol District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "306901",
+      "province": {
+        "nameEn": "Herat",
+        "nameNative": "هرات",
+        "code": "AF-HER",
+        "postalPrefix": "30"
+      },
+      "city": {
+        "nameEn": "Herat",
+        "nameNative": "هرات"
+      },
+      "district": {
+        "nameEn": "Koh-i- Zor District",
+        "type": "Rural Administrative District",
+        "code": "AF-HER-69"
+      },
+      "locality": {
+        "nameEn": "Koh-i- Zor Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Koh-i- Zor District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.3419,
+        "longitude": 62.2031
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-306901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

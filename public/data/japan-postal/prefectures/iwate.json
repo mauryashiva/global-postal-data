@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "03",
+    "nameEn": "Iwate",
+    "nameJa": "岩手県",
+    "nameKana": "イワテケン",
+    "nameRomaji": "Iwate-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Morioka",
+    "capitalJa": "盛岡市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "0200000",
+      "postalCodeFormatted": "020-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "03",
+      "prefectureNameEn": "Iwate",
+      "prefectureNameJa": "岩手県",
+      "prefectureNameKana": "イワテケン",
+      "prefectureNameRomaji": "Iwate-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "03201",
+        "nameEn": "Morioka",
+        "nameJa": "盛岡市",
+        "nameKana": "イワテシ",
+        "nameRomaji": "Iwate-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Iwate Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

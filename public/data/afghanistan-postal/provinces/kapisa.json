@@ -1,0 +1,403 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Kapisa",
+    "nameNative": "کاپیسا",
+    "isoCode": "AF-KAP",
+    "postalPrefix": "12",
+    "capital": "Mahmud-i-Raqi",
+    "capitalNative": "محمود راقی",
+    "coordinates": {
+      "latitude": 34.9811,
+      "longitude": 69.3807
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 10,
+    "totalRecords": 10,
+    "urbanRecords": 4,
+    "ruralRecords": 6
+  },
+  "records": [
+    {
+      "postalCode": "120101",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Mahmud-i-Raqi - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-KAP-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mahmud-i-Raqi District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-120101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "120201",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Mahmud-i-Raqi - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-KAP-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mahmud-i-Raqi District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-120201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "120301",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Mahmud-i-Raqi - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-KAP-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mahmud-i-Raqi District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-120301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "120401",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Mahmud-i-Raqi - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-KAP-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mahmud-i-Raqi District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-120401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "125101",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Kohband District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAP-51"
+      },
+      "locality": {
+        "nameEn": "Kohband Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohband District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-125101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "125201",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Alasay District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAP-52"
+      },
+      "locality": {
+        "nameEn": "Alasay Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Alasay District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-125201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "125301",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Hisa-e-Awal-e-Kohestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAP-53"
+      },
+      "locality": {
+        "nameEn": "Hisa-e-Awal-e-Kohestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Hisa-e-Awal-e-Kohestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-125301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "125401",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Hisa-e-Duwum-e-Kohestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAP-54"
+      },
+      "locality": {
+        "nameEn": "Hisa-e-Duwum-e-Kohestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Hisa-e-Duwum-e-Kohestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-125401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "125501",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Nejrab District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAP-55"
+      },
+      "locality": {
+        "nameEn": "Nejrab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nejrab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-125501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "125601",
+      "province": {
+        "nameEn": "Kapisa",
+        "nameNative": "کاپیسا",
+        "code": "AF-KAP",
+        "postalPrefix": "12"
+      },
+      "city": {
+        "nameEn": "Mahmud-i-Raqi",
+        "nameNative": "محمود راقی"
+      },
+      "district": {
+        "nameEn": "Tagab District",
+        "type": "Rural Administrative District",
+        "code": "AF-KAP-56"
+      },
+      "locality": {
+        "nameEn": "Tagab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tagab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.9811,
+        "longitude": 69.3807
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-125601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Maryland",
+    "abbreviation": "MD",
+    "fipsCode": "24",
+    "capital": "Annapolis",
+    "largestCity": "Baltimore",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "240",
+      "301",
+      "410",
+      "443",
+      "667"
+    ],
+    "prefixes": [
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-MD-21201-0",
+      "zip5": "21201",
+      "zip4": "1001",
+      "zipPlus4": "21201-1001",
+      "state": {
+        "nameEn": "Maryland",
+        "abbreviation": "MD",
+        "fipsCode": "24",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Baltimore",
+      "acceptableCities": [
+        "Baltimore"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Baltimore",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Baltimore City",
+          "fipsCode": "24510",
+          "geoid": "24510"
+        }
+      ],
+      "primaryCounty": "Baltimore City",
+      "zcta": {
+        "code": "21201"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Baltimore Main Post Office",
+        "address": "900 E Fayette St",
+        "phone": "(410) 347-4400",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 39.2904,
+        "longitude": -76.6122,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "240",
+          "301",
+          "410",
+          "443",
+          "667"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 31,
+        "deliveryPoints": 15900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MD-21201",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MD-21401-1",
+      "zip5": "21401",
+      "zip4": "2001",
+      "zipPlus4": "21401-2001",
+      "state": {
+        "nameEn": "Maryland",
+        "abbreviation": "MD",
+        "fipsCode": "24",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Annapolis",
+      "acceptableCities": [
+        "Annapolis"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Annapolis",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Anne Arundel County",
+          "fipsCode": "24003",
+          "geoid": "24003"
+        }
+      ],
+      "primaryCounty": "Anne Arundel County",
+      "zcta": {
+        "code": "21401"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Annapolis Main Post Office",
+        "address": "1 Church Cir",
+        "phone": "(410) 263-4411",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 38.9784,
+        "longitude": -76.4922,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "240",
+          "301",
+          "410",
+          "443",
+          "667"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MD-21401",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

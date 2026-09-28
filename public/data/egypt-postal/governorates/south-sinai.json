@@ -1,0 +1,263 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "South Sinai",
+    "nameNative": "جنوب سيناء",
+    "isoCode": "EG-JS",
+    "postalPrefix": "46",
+    "capital": "El Tor",
+    "capitalNative": "الطور",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 28.2364,
+      "longitude": 33.6254
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 5,
+    "totalRecords": 5,
+    "totalPostOffices": 5,
+    "totalLocalities": 19
+  },
+  "records": [
+    {
+      "postalCode": "46511",
+      "governorate": {
+        "nameEn": "South Sinai",
+        "nameNative": "جنوب سيناء",
+        "code": "EG-JS",
+        "postalPrefix": "46",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Tor",
+        "nameNative": "الطور",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Tor",
+        "nameNative": "قسم الطور",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Governorate Cabinet Square",
+        "nameNative": "ميدان ديوان عام المحافظة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "El Tor Main Post Office",
+        "nameNative": "مكتب بريد الطور عاصمة جنوب سيناء",
+        "type": "Main Post Office",
+        "code": "46511"
+      },
+      "areas": [
+        "South Sinai Governorate HQ",
+        "Hammamat Moses (Moses Hot Springs)",
+        "Tor Seaport",
+        "Naveh Valley"
+      ],
+      "coordinates": {
+        "latitude": 28.2364,
+        "longitude": 33.6254
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOUTH-SINAI-46511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "46619",
+      "governorate": {
+        "nameEn": "South Sinai",
+        "nameNative": "جنوب سيناء",
+        "code": "EG-JS",
+        "postalPrefix": "46",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Sharm El Sheikh",
+        "nameNative": "شرم الشيخ",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sharm El Sheikh 1",
+        "nameNative": "قسم أول شرم الشيخ",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Om El Sid Hill / Hadaba",
+        "nameNative": "هضبة أم السيد",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Sharm El Sheikh Main Post Office (Hadaba)",
+        "nameNative": "مكتب بريد شرم الشيخ الرئيسي (الهضبة)",
+        "type": "Main Post Office",
+        "code": "46619"
+      },
+      "areas": [
+        "Om El Sid Plateau",
+        "City Council Headquarters",
+        "Ras Mohamed National Park Corridor",
+        "Al Fanar Lighthouse"
+      ],
+      "coordinates": {
+        "latitude": 27.8689,
+        "longitude": 34.3123
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOUTH-SINAI-46619",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "46628",
+      "governorate": {
+        "nameEn": "South Sinai",
+        "nameNative": "جنوب سيناء",
+        "code": "EG-JS",
+        "postalPrefix": "46",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Sharm El Sheikh",
+        "nameNative": "شرم الشيخ",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sharm El Sheikh 2",
+        "nameNative": "قسم ثان شرم الشيخ",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Naama Bay Tourist Strip",
+        "nameNative": "خليج نعمة السياحي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Sharm El Sheikh (Naama Bay) Post Office",
+        "nameNative": "مكتب بريد خليج نعمة (شرم الشيخ)",
+        "type": "Sub Post Office",
+        "code": "46628"
+      },
+      "areas": [
+        "Naama Bay Pedestrian Promenade",
+        "Peace Road (Tariq El Salam)",
+        "International Congress Center",
+        "Diving Hubs"
+      ],
+      "coordinates": {
+        "latitude": 27.9156,
+        "longitude": 34.3289
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOUTH-SINAI-46628",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "46617",
+      "governorate": {
+        "nameEn": "South Sinai",
+        "nameNative": "جنوب سيناء",
+        "code": "EG-JS",
+        "postalPrefix": "46",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Dahab",
+        "nameNative": "دهب",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Dahab",
+        "nameNative": "قسم دهب",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Mashraba & Lighthouse Bay",
+        "nameNative": "المشربة واللايت هاوس",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Dahab Post Office",
+        "nameNative": "مكتب بريد دهب",
+        "type": "Sub Post Office",
+        "code": "46617"
+      },
+      "areas": [
+        "Lighthouse Bay",
+        "Mashraba Promenade",
+        "Blue Hole Marine Sanctuary Approach",
+        "Assalah Bedouin Village"
+      ],
+      "coordinates": {
+        "latitude": 28.5089,
+        "longitude": 34.5189
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOUTH-SINAI-46617",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "46624",
+      "governorate": {
+        "nameEn": "South Sinai",
+        "nameNative": "جنوب سيناء",
+        "code": "EG-JS",
+        "postalPrefix": "46",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Saint Catherine",
+        "nameNative": "سانت كاترين",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Saint Catherine",
+        "nameNative": "قسم سانت كاترين",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Mount Sinai Foothills",
+        "nameNative": "سفح جبل موسى ودير سانت كاترين",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Saint Catherine Post Office",
+        "nameNative": "مكتب بريد سانت كاترين",
+        "type": "Sub Post Office",
+        "code": "46624"
+      },
+      "areas": [
+        "Saint Catherine Monastery Sacred Precinct",
+        "Mount Sinai (Gabal Mousa) Base",
+        "Protected High Mountain Heritage"
+      ],
+      "coordinates": {
+        "latitude": 28.5589,
+        "longitude": 33.9745
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOUTH-SINAI-46624",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

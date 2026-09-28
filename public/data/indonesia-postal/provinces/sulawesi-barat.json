@@ -1,0 +1,63 @@
+{
+  "code": "76",
+  "nameEn": "West Sulawesi",
+  "nameId": "Sulawesi Barat",
+  "nameNative": "Sulawesi Barat",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Mamuju",
+  "capitalId": "Kabupaten Mamuju",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "91511",
+      "province": {
+        "code": "76",
+        "nameEn": "West Sulawesi",
+        "nameId": "Sulawesi Barat",
+        "nameNative": "Sulawesi Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "76.02",
+        "nameId": "Kabupaten Mamuju",
+        "nameEn": "Mamuju Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "76.02.01",
+        "nameId": "Kecamatan Mamuju",
+        "nameEn": "Mamuju District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "76.02.01.1001",
+        "nameId": "Kelurahan Binanga",
+        "nameEn": "Binanga",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kantor Gubernur Sulawesi Barat / Pantai Manakarra",
+        "nameEn": "West Sulawesi Provincial Capital"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Mamuju",
+        "nameEn": "Mamuju Post Office",
+        "code": "91511",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-76-91511-76.02.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

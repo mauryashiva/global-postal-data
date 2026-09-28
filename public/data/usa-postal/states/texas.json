@@ -1,0 +1,449 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Texas",
+    "abbreviation": "TX",
+    "fipsCode": "48",
+    "capital": "Austin",
+    "largestCity": "Houston",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "210",
+      "214",
+      "254",
+      "281",
+      "325",
+      "361",
+      "409",
+      "432",
+      "469",
+      "512",
+      "713",
+      "737",
+      "806",
+      "817",
+      "830",
+      "832",
+      "903",
+      "915",
+      "936",
+      "940",
+      "956",
+      "972",
+      "979"
+    ],
+    "prefixes": [
+      "750",
+      "751",
+      "752",
+      "753",
+      "754",
+      "755",
+      "756",
+      "757",
+      "758",
+      "759",
+      "760",
+      "761",
+      "762",
+      "763",
+      "764",
+      "765",
+      "766",
+      "767",
+      "768",
+      "769",
+      "770",
+      "771",
+      "772",
+      "773",
+      "774",
+      "775",
+      "776",
+      "777",
+      "778",
+      "779",
+      "780",
+      "781",
+      "782",
+      "783",
+      "784",
+      "785",
+      "786",
+      "787",
+      "788",
+      "789",
+      "790",
+      "791",
+      "792",
+      "793",
+      "794",
+      "795",
+      "796",
+      "797",
+      "798",
+      "799",
+      "733",
+      "885"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 4,
+    "uniqueZipPlus4": 4,
+    "totalRecords": 4,
+    "countiesCount": 4
+  },
+  "records": [
+    {
+      "id": "US-TX-75001-0",
+      "zip5": "75001",
+      "zip4": "1234",
+      "zipPlus4": "75001-1234",
+      "state": {
+        "nameEn": "Texas",
+        "abbreviation": "TX",
+        "fipsCode": "48",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Addison",
+      "acceptableCities": [
+        "Addison",
+        "Dallas"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Addison",
+          "status": "Primary"
+        },
+        {
+          "name": "Dallas",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Dallas County",
+          "fipsCode": "48113",
+          "geoid": "48113"
+        }
+      ],
+      "primaryCounty": "Dallas County",
+      "zcta": {
+        "code": "75001"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Addison Post Office",
+        "address": "4985 Addison Rd",
+        "phone": "(972) 239-1144",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 32.9618,
+        "longitude": -96.8292,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "210",
+          "214",
+          "254",
+          "281",
+          "325",
+          "361",
+          "409",
+          "432",
+          "469",
+          "512",
+          "713",
+          "737",
+          "806",
+          "817",
+          "830",
+          "832",
+          "903",
+          "915",
+          "936",
+          "940",
+          "956",
+          "972",
+          "979"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 35,
+        "deliveryPoints": 18200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-TX-75001",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-TX-77002-1",
+      "zip5": "77002",
+      "zip4": "1001",
+      "zipPlus4": "77002-1001",
+      "state": {
+        "nameEn": "Texas",
+        "abbreviation": "TX",
+        "fipsCode": "48",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Houston",
+      "acceptableCities": [
+        "Houston"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Houston",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Harris County",
+          "fipsCode": "48201",
+          "geoid": "48201"
+        }
+      ],
+      "primaryCounty": "Harris County",
+      "zcta": {
+        "code": "77002"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Houston Downtown Station",
+        "address": "401 Franklin St",
+        "phone": "(713) 226-3000",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 29.7589,
+        "longitude": -95.3677,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "210",
+          "214",
+          "254",
+          "281",
+          "325",
+          "361",
+          "409",
+          "432",
+          "469",
+          "512",
+          "713",
+          "737",
+          "806",
+          "817",
+          "830",
+          "832",
+          "903",
+          "915",
+          "936",
+          "940",
+          "956",
+          "972",
+          "979"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 42,
+        "deliveryPoints": 21900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-TX-77002",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-TX-78701-2",
+      "zip5": "78701",
+      "zip4": "2001",
+      "zipPlus4": "78701-2001",
+      "state": {
+        "nameEn": "Texas",
+        "abbreviation": "TX",
+        "fipsCode": "48",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Austin",
+      "acceptableCities": [
+        "Austin"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Austin",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Travis County",
+          "fipsCode": "48453",
+          "geoid": "48453"
+        }
+      ],
+      "primaryCounty": "Travis County",
+      "zcta": {
+        "code": "78701"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Austin Downtown Station",
+        "address": "510 Guadalupe St",
+        "phone": "(512) 342-1252",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 30.2672,
+        "longitude": -97.7431,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "210",
+          "214",
+          "254",
+          "281",
+          "325",
+          "361",
+          "409",
+          "432",
+          "469",
+          "512",
+          "713",
+          "737",
+          "806",
+          "817",
+          "830",
+          "832",
+          "903",
+          "915",
+          "936",
+          "940",
+          "956",
+          "972",
+          "979"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 36,
+        "deliveryPoints": 18900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-TX-78701",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-TX-78205-3",
+      "zip5": "78205",
+      "zip4": "1501",
+      "zipPlus4": "78205-1501",
+      "state": {
+        "nameEn": "Texas",
+        "abbreviation": "TX",
+        "fipsCode": "48",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "San Antonio",
+      "acceptableCities": [
+        "San Antonio"
+      ],
+      "postalCityNames": [
+        {
+          "name": "San Antonio",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Bexar County",
+          "fipsCode": "48029",
+          "geoid": "48029"
+        }
+      ],
+      "primaryCounty": "Bexar County",
+      "zcta": {
+        "code": "78205"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "San Antonio Downtown Station",
+        "address": "615 E Houston St",
+        "phone": "(210) 227-3399",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 29.4241,
+        "longitude": -98.4936,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "210",
+          "214",
+          "254",
+          "281",
+          "325",
+          "361",
+          "409",
+          "432",
+          "469",
+          "512",
+          "713",
+          "737",
+          "806",
+          "817",
+          "830",
+          "832",
+          "903",
+          "915",
+          "936",
+          "940",
+          "956",
+          "972",
+          "979"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 31,
+        "deliveryPoints": 15700
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-TX-78205",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

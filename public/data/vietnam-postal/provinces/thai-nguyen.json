@@ -1,0 +1,4908 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Thai Nguyen",
+    "nameVi": "Thái Nguyên",
+    "fullNameEn": "Thai Nguyen Province",
+    "fullNameVi": "Tỉnh Thái Nguyên",
+    "nameSearchNormalized": "thai nguyen",
+    "officialCode": "19",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "23, 24",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 92,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "23107",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Duc Xuan",
+        "nameVi": "Đức Xuân",
+        "fullNameEn": "Duc Xuan Ward",
+        "fullNameVi": "Phường Đức Xuân",
+        "nameSearchNormalized": "duc xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "01840",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Duc Xuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đức Xuân",
+        "type": "Ward",
+        "code": "23107"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Kạn",
+        "districtFullName": "Thành phố Bắc Kạn",
+        "districtNameEn": "Bac Kan",
+        "districtCode": "058",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23114",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Bac Kan",
+        "nameVi": "Bắc Kạn",
+        "fullNameEn": "Bac Kan Ward",
+        "fullNameVi": "Phường Bắc Kạn",
+        "nameSearchNormalized": "bac kan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "01843",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Bac Kan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bắc Kạn",
+        "type": "Ward",
+        "code": "23114"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Kạn",
+        "districtFullName": "Thành phố Bắc Kạn",
+        "districtNameEn": "Bac Kan",
+        "districtCode": "058",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23225",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phong Quang",
+        "nameVi": "Phong Quang",
+        "fullNameEn": "Phong Quang Commune",
+        "fullNameVi": "Xã Phong Quang",
+        "nameSearchNormalized": "phong quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01849",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phong Quang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Quang",
+        "type": "Commune",
+        "code": "23225"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Kạn",
+        "districtFullName": "Thành phố Bắc Kạn",
+        "districtNameEn": "Bac Kan",
+        "districtCode": "058",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23407",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Bang Thanh",
+        "nameVi": "Bằng Thành",
+        "fullNameEn": "Bang Thanh Commune",
+        "fullNameVi": "Xã Bằng Thành",
+        "nameSearchNormalized": "bang thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01864",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Bang Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bằng Thành",
+        "type": "Commune",
+        "code": "23407"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Pác Nặm",
+        "districtFullName": "Huyện Pác Nặm",
+        "districtNameEn": "Pac Nam",
+        "districtCode": "060",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Cao Minh",
+        "nameVi": "Cao Minh",
+        "fullNameEn": "Cao Minh Commune",
+        "fullNameVi": "Xã Cao Minh",
+        "nameSearchNormalized": "cao minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01879",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Cao Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cao Minh",
+        "type": "Commune",
+        "code": "23416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Pác Nặm",
+        "districtFullName": "Huyện Pác Nặm",
+        "districtNameEn": "Pac Nam",
+        "districtCode": "060",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Nghien Loan",
+        "nameVi": "Nghiên Loan",
+        "fullNameEn": "Nghien Loan Commune",
+        "fullNameVi": "Xã Nghiên Loan",
+        "nameSearchNormalized": "nghien loan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01882",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Nghien Loan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghiên Loan",
+        "type": "Commune",
+        "code": "23413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Pác Nặm",
+        "districtFullName": "Huyện Pác Nặm",
+        "districtNameEn": "Pac Nam",
+        "districtCode": "060",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phuc Loc",
+        "nameVi": "Phúc Lộc",
+        "fullNameEn": "Phuc Loc Commune",
+        "fullNameVi": "Xã Phúc Lộc",
+        "nameSearchNormalized": "phuc loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01894",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phuc Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phúc Lộc",
+        "type": "Commune",
+        "code": "23508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Bể",
+        "districtFullName": "Huyện Ba Bể",
+        "districtNameEn": "Ba Be",
+        "districtCode": "061",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23522",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Ba Be",
+        "nameVi": "Ba Bể",
+        "fullNameEn": "Ba Be Commune",
+        "fullNameVi": "Xã Ba Bể",
+        "nameSearchNormalized": "ba be",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01906",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Ba Be Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Bể",
+        "type": "Commune",
+        "code": "23522"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Bể",
+        "districtFullName": "Huyện Ba Bể",
+        "districtNameEn": "Ba Be",
+        "districtCode": "061",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Cho Ra",
+        "nameVi": "Chợ Rã",
+        "fullNameEn": "Cho Ra Commune",
+        "fullNameVi": "Xã Chợ Rã",
+        "nameSearchNormalized": "cho ra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01912",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Cho Ra Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chợ Rã",
+        "type": "Commune",
+        "code": "23506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Bể",
+        "districtFullName": "Huyện Ba Bể",
+        "districtNameEn": "Ba Be",
+        "districtCode": "061",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23523",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Thuong Minh",
+        "nameVi": "Thượng Minh",
+        "fullNameEn": "Thuong Minh Commune",
+        "fullNameVi": "Xã Thượng Minh",
+        "nameSearchNormalized": "thuong minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01921",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thượng Minh",
+        "type": "Commune",
+        "code": "23523"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Bể",
+        "districtFullName": "Huyện Ba Bể",
+        "districtNameEn": "Ba Be",
+        "districtCode": "061",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23521",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Dong Phuc",
+        "nameVi": "Đồng Phúc",
+        "fullNameEn": "Dong Phuc Commune",
+        "fullNameVi": "Xã Đồng Phúc",
+        "nameSearchNormalized": "dong phuc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01933",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Dong Phuc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Phúc",
+        "type": "Commune",
+        "code": "23521"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Bể",
+        "districtFullName": "Huyện Ba Bể",
+        "districtNameEn": "Ba Be",
+        "districtCode": "061",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Na Phac",
+        "nameVi": "Nà Phặc",
+        "fullNameEn": "Na Phac Commune",
+        "fullNameVi": "Xã Nà Phặc",
+        "nameSearchNormalized": "na phac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01936",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Na Phac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nà Phặc",
+        "type": "Commune",
+        "code": "23312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngân Sơn",
+        "districtFullName": "Huyện Ngân Sơn",
+        "districtNameEn": "Ngan Son",
+        "districtCode": "062",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Bang Van",
+        "nameVi": "Bằng Vân",
+        "fullNameEn": "Bang Van Commune",
+        "fullNameVi": "Xã Bằng Vân",
+        "nameSearchNormalized": "bang van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01942",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Bang Van Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bằng Vân",
+        "type": "Commune",
+        "code": "23308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngân Sơn",
+        "districtFullName": "Huyện Ngân Sơn",
+        "districtNameEn": "Ngan Son",
+        "districtCode": "062",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Ngan Son",
+        "nameVi": "Ngân Sơn",
+        "fullNameEn": "Ngan Son Commune",
+        "fullNameVi": "Xã Ngân Sơn",
+        "nameSearchNormalized": "ngan son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01954",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Ngan Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngân Sơn",
+        "type": "Commune",
+        "code": "23317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngân Sơn",
+        "districtFullName": "Huyện Ngân Sơn",
+        "districtNameEn": "Ngan Son",
+        "districtCode": "062",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Thuong Quan",
+        "nameVi": "Thượng Quan",
+        "fullNameEn": "Thuong Quan Commune",
+        "fullNameVi": "Xã Thượng Quan",
+        "nameSearchNormalized": "thuong quan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01957",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Quan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thượng Quan",
+        "type": "Commune",
+        "code": "23316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngân Sơn",
+        "districtFullName": "Huyện Ngân Sơn",
+        "districtNameEn": "Ngan Son",
+        "districtCode": "062",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Hiep Luc",
+        "nameVi": "Hiệp Lực",
+        "fullNameEn": "Hiep Luc Commune",
+        "fullNameVi": "Xã Hiệp Lực",
+        "nameSearchNormalized": "hiep luc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01960",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Hiep Luc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hiệp Lực",
+        "type": "Commune",
+        "code": "23313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngân Sơn",
+        "districtFullName": "Huyện Ngân Sơn",
+        "districtNameEn": "Ngan Son",
+        "districtCode": "062",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Thong",
+        "nameVi": "Phủ Thông",
+        "fullNameEn": "Phu Thong Commune",
+        "fullNameVi": "Xã Phủ Thông",
+        "nameSearchNormalized": "phu thong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01969",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Thong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phủ Thông",
+        "type": "Commune",
+        "code": "23206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạch Thông",
+        "districtFullName": "Huyện Bạch Thông",
+        "districtNameEn": "Bach Thong",
+        "districtCode": "063",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23223",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Vinh Thong",
+        "nameVi": "Vĩnh Thông",
+        "fullNameEn": "Vinh Thong Commune",
+        "fullNameVi": "Xã Vĩnh Thông",
+        "nameSearchNormalized": "vinh thong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "01981",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Thông",
+        "type": "Commune",
+        "code": "23223"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạch Thông",
+        "districtFullName": "Huyện Bạch Thông",
+        "districtNameEn": "Bach Thong",
+        "districtCode": "063",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Cam Giang",
+        "nameVi": "Cẩm Giàng",
+        "fullNameEn": "Cam Giang Commune",
+        "fullNameVi": "Xã Cẩm Giàng",
+        "nameSearchNormalized": "cam giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02008",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Cam Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Giàng",
+        "type": "Commune",
+        "code": "23217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạch Thông",
+        "districtFullName": "Huyện Bạch Thông",
+        "districtNameEn": "Bach Thong",
+        "districtCode": "063",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23224",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Bach Thong",
+        "nameVi": "Bạch Thông",
+        "fullNameEn": "Bach Thong Commune",
+        "fullNameVi": "Xã Bạch Thông",
+        "nameSearchNormalized": "bach thong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02014",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Bach Thong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bạch Thông",
+        "type": "Commune",
+        "code": "23224"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạch Thông",
+        "districtFullName": "Huyện Bạch Thông",
+        "districtNameEn": "Bach Thong",
+        "districtCode": "063",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23628",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Cho Don",
+        "nameVi": "Chợ Đồn",
+        "fullNameEn": "Cho Don Commune",
+        "fullNameVi": "Xã Chợ Đồn",
+        "nameSearchNormalized": "cho don",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02020",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Cho Don Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chợ Đồn",
+        "type": "Commune",
+        "code": "23628"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Đồn",
+        "districtFullName": "Huyện Chợ Đồn",
+        "districtNameEn": "Cho Don",
+        "districtCode": "064",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Nam Cuong",
+        "nameVi": "Nam Cường",
+        "fullNameEn": "Nam Cuong Commune",
+        "fullNameVi": "Xã Nam Cường",
+        "nameSearchNormalized": "nam cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02026",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Nam Cuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Cường",
+        "type": "Commune",
+        "code": "23612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Đồn",
+        "districtFullName": "Huyện Chợ Đồn",
+        "districtNameEn": "Cho Don",
+        "districtCode": "064",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Quang Bach",
+        "nameVi": "Quảng Bạch",
+        "fullNameEn": "Quang Bach Commune",
+        "fullNameVi": "Xã Quảng Bạch",
+        "nameSearchNormalized": "quang bach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02038",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Quang Bach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quảng Bạch",
+        "type": "Commune",
+        "code": "23615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Đồn",
+        "districtFullName": "Huyện Chợ Đồn",
+        "districtNameEn": "Cho Don",
+        "districtCode": "064",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Yen Thinh",
+        "nameVi": "Yên Thịnh",
+        "fullNameEn": "Yen Thinh Commune",
+        "fullNameVi": "Xã Yên Thịnh",
+        "nameSearchNormalized": "yen thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02044",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Yen Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Thịnh",
+        "type": "Commune",
+        "code": "23618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Đồn",
+        "districtFullName": "Huyện Chợ Đồn",
+        "districtNameEn": "Cho Don",
+        "districtCode": "064",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23620",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Nghia Ta",
+        "nameVi": "Nghĩa Tá",
+        "fullNameEn": "Nghia Ta Commune",
+        "fullNameVi": "Xã Nghĩa Tá",
+        "nameSearchNormalized": "nghia ta",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02071",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Ta Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghĩa Tá",
+        "type": "Commune",
+        "code": "23620"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Đồn",
+        "districtFullName": "Huyện Chợ Đồn",
+        "districtNameEn": "Cho Don",
+        "districtCode": "064",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23622",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Yen Phong",
+        "nameVi": "Yên Phong",
+        "fullNameEn": "Yen Phong Commune",
+        "fullNameVi": "Xã Yên Phong",
+        "nameSearchNormalized": "yen phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02083",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Yen Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Phong",
+        "type": "Commune",
+        "code": "23622"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Đồn",
+        "districtFullName": "Huyện Chợ Đồn",
+        "districtNameEn": "Cho Don",
+        "districtCode": "064",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23723",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Cho Moi",
+        "nameVi": "Chợ Mới",
+        "fullNameEn": "Cho Moi Commune",
+        "fullNameVi": "Xã Chợ Mới",
+        "nameSearchNormalized": "cho moi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02086",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Cho Moi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chợ Mới",
+        "type": "Commune",
+        "code": "23723"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "065",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Thanh Mai",
+        "nameVi": "Thanh Mai",
+        "fullNameEn": "Thanh Mai Commune",
+        "fullNameVi": "Xã Thanh Mai",
+        "nameSearchNormalized": "thanh mai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02101",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Mai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Mai",
+        "type": "Commune",
+        "code": "23714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "065",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23722",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Tan Ky",
+        "nameVi": "Tân Kỳ",
+        "fullNameEn": "Tan Ky Commune",
+        "fullNameVi": "Xã Tân Kỳ",
+        "nameSearchNormalized": "tan ky",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02104",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Tan Ky Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Kỳ",
+        "type": "Commune",
+        "code": "23722"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "065",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23716",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Thanh Thinh",
+        "nameVi": "Thanh Thịnh",
+        "fullNameEn": "Thanh Thinh Commune",
+        "fullNameVi": "Xã Thanh Thịnh",
+        "nameSearchNormalized": "thanh thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02107",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Thịnh",
+        "type": "Commune",
+        "code": "23716"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "065",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23724",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Yen Binh",
+        "nameVi": "Yên Bình",
+        "fullNameEn": "Yen Binh Commune",
+        "fullNameVi": "Xã Yên Bình",
+        "nameSearchNormalized": "yen binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02116",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Yen Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Bình",
+        "type": "Commune",
+        "code": "23724"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Chợ Mới",
+        "districtFullName": "Huyện Chợ Mới",
+        "districtNameEn": "Cho Moi",
+        "districtCode": "065",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23811",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Van Lang",
+        "nameVi": "Văn Lang",
+        "fullNameEn": "Van Lang Commune",
+        "fullNameVi": "Xã Văn Lang",
+        "nameSearchNormalized": "van lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02143",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Van Lang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Lang",
+        "type": "Commune",
+        "code": "23811"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Na Rì",
+        "districtFullName": "Huyện Na Rì",
+        "districtNameEn": "Na Ri",
+        "districtCode": "066",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23808",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Cuong Loi",
+        "nameVi": "Cường Lợi",
+        "fullNameEn": "Cuong Loi Commune",
+        "fullNameVi": "Xã Cường Lợi",
+        "nameSearchNormalized": "cuong loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02152",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Cuong Loi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cường Lợi",
+        "type": "Commune",
+        "code": "23808"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Na Rì",
+        "districtFullName": "Huyện Na Rì",
+        "districtNameEn": "Na Ri",
+        "districtCode": "066",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23828",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Na Ri",
+        "nameVi": "Na Rì",
+        "fullNameEn": "Na Ri Commune",
+        "fullNameVi": "Xã Na Rì",
+        "nameSearchNormalized": "na ri",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02155",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Na Ri Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Na Rì",
+        "type": "Commune",
+        "code": "23828"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Na Rì",
+        "districtFullName": "Huyện Na Rì",
+        "districtNameEn": "Na Ri",
+        "districtCode": "066",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23821",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Tran Phu",
+        "nameVi": "Trần Phú",
+        "fullNameEn": "Tran Phu Commune",
+        "fullNameVi": "Xã Trần Phú",
+        "nameSearchNormalized": "tran phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02176",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Tran Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trần Phú",
+        "type": "Commune",
+        "code": "23821"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Na Rì",
+        "districtFullName": "Huyện Na Rì",
+        "districtNameEn": "Na Ri",
+        "districtCode": "066",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Con Minh",
+        "nameVi": "Côn Minh",
+        "fullNameEn": "Con Minh Commune",
+        "fullNameVi": "Xã Côn Minh",
+        "nameSearchNormalized": "con minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02185",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Con Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Côn Minh",
+        "type": "Commune",
+        "code": "23815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Na Rì",
+        "districtFullName": "Huyện Na Rì",
+        "districtNameEn": "Na Ri",
+        "districtCode": "066",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "23819",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Xuan Duong",
+        "nameVi": "Xuân Dương",
+        "fullNameEn": "Xuan Duong Commune",
+        "fullNameVi": "Xã Xuân Dương",
+        "nameSearchNormalized": "xuan duong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02191",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Duong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Dương",
+        "type": "Commune",
+        "code": "23819"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Na Rì",
+        "districtFullName": "Huyện Na Rì",
+        "districtNameEn": "Na Ri",
+        "districtCode": "066",
+        "legacyProvinceName": "Bắc Kạn",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24124",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phan Dinh Phung",
+        "nameVi": "Phan Đình Phùng",
+        "fullNameEn": "Phan Dinh Phung Ward",
+        "fullNameVi": "Phường Phan Đình Phùng",
+        "nameSearchNormalized": "phan dinh phung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05443",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phan Dinh Phung Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phan Đình Phùng",
+        "type": "Ward",
+        "code": "24124"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Quyet Thang",
+        "nameVi": "Quyết Thắng",
+        "fullNameEn": "Quyet Thang Ward",
+        "fullNameVi": "Phường Quyết Thắng",
+        "nameSearchNormalized": "quyet thang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05455",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Quyet Thang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Quyết Thắng",
+        "type": "Ward",
+        "code": "24119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24127",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Gia Sang",
+        "nameVi": "Gia Sàng",
+        "fullNameEn": "Gia Sang Ward",
+        "fullNameVi": "Phường Gia Sàng",
+        "nameSearchNormalized": "gia sang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05467",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Gia Sang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Gia Sàng",
+        "type": "Ward",
+        "code": "24127"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24114",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Quan Trieu",
+        "nameVi": "Quan Triều",
+        "fullNameEn": "Quan Trieu Ward",
+        "fullNameVi": "Phường Quan Triều",
+        "nameSearchNormalized": "quan trieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05482",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Quan Trieu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Quan Triều",
+        "type": "Ward",
+        "code": "24114"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24138",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Dai Phuc",
+        "nameVi": "Đại Phúc",
+        "fullNameEn": "Dai Phuc Commune",
+        "fullNameVi": "Xã Đại Phúc",
+        "nameSearchNormalized": "dai phuc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05488",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Dai Phuc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đại Phúc",
+        "type": "Commune",
+        "code": "24138"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24131",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Tich Luong",
+        "nameVi": "Tích Lương",
+        "fullNameEn": "Tich Luong Ward",
+        "fullNameVi": "Phường Tích Lương",
+        "nameSearchNormalized": "tich luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05500",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Tich Luong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tích Lương",
+        "type": "Ward",
+        "code": "24131"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24129",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Tan Cuong",
+        "nameVi": "Tân Cương",
+        "fullNameEn": "Tan Cuong Commune",
+        "fullNameVi": "Xã Tân Cương",
+        "nameSearchNormalized": "tan cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05503",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Tan Cuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Cương",
+        "type": "Commune",
+        "code": "24129"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Song Cong",
+        "nameVi": "Sông Công",
+        "fullNameEn": "Song Cong Ward",
+        "fullNameVi": "Phường Sông Công",
+        "nameSearchNormalized": "song cong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05518",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Song Cong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sông Công",
+        "type": "Ward",
+        "code": "24817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Công",
+        "districtFullName": "Thành phố Sông Công",
+        "districtNameEn": "Song Cong",
+        "districtCode": "165",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Bach Quang",
+        "nameVi": "Bách Quang",
+        "fullNameEn": "Bach Quang Ward",
+        "fullNameVi": "Phường Bách Quang",
+        "nameSearchNormalized": "bach quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05528",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Bach Quang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bách Quang",
+        "type": "Ward",
+        "code": "24806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Công",
+        "districtFullName": "Thành phố Sông Công",
+        "districtNameEn": "Song Cong",
+        "districtCode": "165",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24807",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Ba Xuyen",
+        "nameVi": "Bá Xuyên",
+        "fullNameEn": "Ba Xuyen Ward",
+        "fullNameVi": "Phường Bá Xuyên",
+        "nameSearchNormalized": "ba xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05533",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Ba Xuyen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bá Xuyên",
+        "type": "Ward",
+        "code": "24807"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Công",
+        "districtFullName": "Thành phố Sông Công",
+        "districtNameEn": "Song Cong",
+        "districtCode": "165",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24509",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Lam Vy",
+        "nameVi": "Lam Vỹ",
+        "fullNameEn": "Lam Vy Commune",
+        "fullNameVi": "Xã Lam Vỹ",
+        "nameSearchNormalized": "lam vy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05542",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Lam Vy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lam Vỹ",
+        "type": "Commune",
+        "code": "24509"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24512",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Kim Phuong",
+        "nameVi": "Kim Phượng",
+        "fullNameEn": "Kim Phuong Commune",
+        "fullNameVi": "Xã Kim Phượng",
+        "nameSearchNormalized": "kim phuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05551",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Kim Phuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kim Phượng",
+        "type": "Commune",
+        "code": "24512"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24529",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phuong Tien",
+        "nameVi": "Phượng Tiến",
+        "fullNameEn": "Phuong Tien Commune",
+        "fullNameVi": "Xã Phượng Tiến",
+        "nameSearchNormalized": "phuong tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05563",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phuong Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phượng Tiến",
+        "type": "Commune",
+        "code": "24529"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24530",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Dinh Hoa",
+        "nameVi": "Định Hoá",
+        "fullNameEn": "Dinh Hoa Commune",
+        "fullNameVi": "Xã Định Hoá",
+        "nameSearchNormalized": "dinh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05569",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Dinh Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Định Hoá",
+        "type": "Commune",
+        "code": "24530"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24528",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Trung Hoi",
+        "nameVi": "Trung Hội",
+        "fullNameEn": "Trung Hoi Commune",
+        "fullNameVi": "Xã Trung Hội",
+        "nameSearchNormalized": "trung hoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05581",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Trung Hoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trung Hội",
+        "type": "Commune",
+        "code": "24528"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24524",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Binh Yen",
+        "nameVi": "Bình Yên",
+        "fullNameEn": "Binh Yen Commune",
+        "fullNameVi": "Xã Bình Yên",
+        "nameSearchNormalized": "binh yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05587",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Binh Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Yên",
+        "type": "Commune",
+        "code": "24524"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24521",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Dinh",
+        "nameVi": "Phú Đình",
+        "fullNameEn": "Phu Dinh Commune",
+        "fullNameVi": "Xã Phú Đình",
+        "nameSearchNormalized": "phu dinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05602",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Dinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Đình",
+        "type": "Commune",
+        "code": "24521"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24522",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Binh Thanh",
+        "nameVi": "Bình Thành",
+        "fullNameEn": "Binh Thanh Commune",
+        "fullNameVi": "Xã Bình Thành",
+        "nameSearchNormalized": "binh thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05605",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Binh Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Thành",
+        "type": "Commune",
+        "code": "24522"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Định Hóa",
+        "districtFullName": "Huyện Định Hóa",
+        "districtNameEn": "Dinh Hoa",
+        "districtCode": "167",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24421",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Luong",
+        "nameVi": "Phú Lương",
+        "fullNameEn": "Phu Luong Commune",
+        "fullNameVi": "Xã Phú Lương",
+        "nameSearchNormalized": "phu luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05611",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Luong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Lương",
+        "type": "Commune",
+        "code": "24421"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lương",
+        "districtFullName": "Huyện Phú Lương",
+        "districtNameEn": "Phu Luong",
+        "districtCode": "168",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Yen Trach",
+        "nameVi": "Yên Trạch",
+        "fullNameEn": "Yen Trach Commune",
+        "fullNameVi": "Xã Yên Trạch",
+        "nameSearchNormalized": "yen trach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05620",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Yen Trach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Trạch",
+        "type": "Commune",
+        "code": "24410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lương",
+        "districtFullName": "Huyện Phú Lương",
+        "districtNameEn": "Phu Luong",
+        "districtCode": "168",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Hop Thanh",
+        "nameVi": "Hợp Thành",
+        "fullNameEn": "Hop Thanh Commune",
+        "fullNameVi": "Xã Hợp Thành",
+        "nameSearchNormalized": "hop thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05632",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Hop Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hợp Thành",
+        "type": "Commune",
+        "code": "24413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lương",
+        "districtFullName": "Huyện Phú Lương",
+        "districtNameEn": "Phu Luong",
+        "districtCode": "168",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24418",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Vo Tranh",
+        "nameVi": "Vô Tranh",
+        "fullNameEn": "Vo Tranh Commune",
+        "fullNameVi": "Xã Vô Tranh",
+        "nameSearchNormalized": "vo tranh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05641",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Vo Tranh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vô Tranh",
+        "type": "Commune",
+        "code": "24418"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lương",
+        "districtFullName": "Huyện Phú Lương",
+        "districtNameEn": "Phu Luong",
+        "districtCode": "168",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Trai Cau",
+        "nameVi": "Trại Cau",
+        "fullNameEn": "Trai Cau Commune",
+        "fullNameVi": "Xã Trại Cau",
+        "nameSearchNormalized": "trai cau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05662",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Trai Cau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trại Cau",
+        "type": "Commune",
+        "code": "24216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Hỷ",
+        "districtFullName": "Huyện Đồng Hỷ",
+        "districtNameEn": "Dong Hy",
+        "districtCode": "169",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24211",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Van Lang",
+        "nameVi": "Văn Lăng",
+        "fullNameEn": "Van Lang Commune",
+        "fullNameVi": "Xã Văn Lăng",
+        "nameSearchNormalized": "van lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05665",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Van Lang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Lăng",
+        "type": "Commune",
+        "code": "24211"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Hỷ",
+        "districtFullName": "Huyện Đồng Hỷ",
+        "districtNameEn": "Dong Hy",
+        "districtCode": "169",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Quang Son",
+        "nameVi": "Quang Sơn",
+        "fullNameEn": "Quang Son Commune",
+        "fullNameVi": "Xã Quang Sơn",
+        "nameSearchNormalized": "quang son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05674",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Quang Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quang Sơn",
+        "type": "Commune",
+        "code": "24209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Hỷ",
+        "districtFullName": "Huyện Đồng Hỷ",
+        "districtNameEn": "Dong Hy",
+        "districtCode": "169",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24220",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Van Han",
+        "nameVi": "Văn Hán",
+        "fullNameEn": "Van Han Commune",
+        "fullNameVi": "Xã Văn Hán",
+        "nameSearchNormalized": "van han",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05680",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Van Han Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Hán",
+        "type": "Commune",
+        "code": "24220"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Hỷ",
+        "districtFullName": "Huyện Đồng Hỷ",
+        "districtNameEn": "Dong Hy",
+        "districtCode": "169",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24221",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Dong Hy",
+        "nameVi": "Đồng Hỷ",
+        "fullNameEn": "Dong Hy Commune",
+        "fullNameVi": "Xã Đồng Hỷ",
+        "nameSearchNormalized": "dong hy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05692",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Dong Hy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Hỷ",
+        "type": "Commune",
+        "code": "24221"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Hỷ",
+        "districtFullName": "Huyện Đồng Hỷ",
+        "districtNameEn": "Dong Hy",
+        "districtCode": "169",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24215",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Nam Hoa",
+        "nameVi": "Nam Hoà",
+        "fullNameEn": "Nam Hoa Commune",
+        "fullNameVi": "Xã Nam Hoà",
+        "nameSearchNormalized": "nam hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05707",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Nam Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Hoà",
+        "type": "Commune",
+        "code": "24215"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đồng Hỷ",
+        "districtFullName": "Huyện Đồng Hỷ",
+        "districtNameEn": "Dong Hy",
+        "districtCode": "169",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24107",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Linh Son",
+        "nameVi": "Linh Sơn",
+        "fullNameEn": "Linh Son Ward",
+        "fullNameVi": "Phường Linh Sơn",
+        "nameSearchNormalized": "linh son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05710",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Linh Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Linh Sơn",
+        "type": "Ward",
+        "code": "24107"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thái Nguyên",
+        "districtFullName": "Thành phố Thái Nguyên",
+        "districtNameEn": "Thai Nguyen",
+        "districtCode": "164",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24321",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Vo Nhai",
+        "nameVi": "Võ Nhai",
+        "fullNameEn": "Vo Nhai Commune",
+        "fullNameVi": "Xã Võ Nhai",
+        "nameSearchNormalized": "vo nhai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05716",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Vo Nhai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Võ Nhai",
+        "type": "Commune",
+        "code": "24321"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Sang Moc",
+        "nameVi": "Sảng Mộc",
+        "fullNameEn": "Sang Moc Commune",
+        "fullNameVi": "Xã Sảng Mộc",
+        "nameSearchNormalized": "sang moc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05719",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Sang Moc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sảng Mộc",
+        "type": "Commune",
+        "code": "24309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Nghinh Tuong",
+        "nameVi": "Nghinh Tường",
+        "fullNameEn": "Nghinh Tuong Commune",
+        "fullNameVi": "Xã Nghinh Tường",
+        "nameSearchNormalized": "nghinh tuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05722",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Nghinh Tuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghinh Tường",
+        "type": "Commune",
+        "code": "24308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24322",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Than Sa",
+        "nameVi": "Thần Sa",
+        "fullNameEn": "Than Sa Commune",
+        "fullNameVi": "Xã Thần Sa",
+        "nameSearchNormalized": "than sa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05725",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Than Sa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thần Sa",
+        "type": "Commune",
+        "code": "24322"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24314",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "La Hien",
+        "nameVi": "La Hiên",
+        "fullNameEn": "La Hien Commune",
+        "fullNameVi": "Xã La Hiên",
+        "nameSearchNormalized": "la hien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05740",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "La Hien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã La Hiên",
+        "type": "Commune",
+        "code": "24314"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Trang Xa",
+        "nameVi": "Tràng Xá",
+        "fullNameEn": "Trang Xa Commune",
+        "fullNameVi": "Xã Tràng Xá",
+        "nameSearchNormalized": "trang xa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05746",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Trang Xa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tràng Xá",
+        "type": "Commune",
+        "code": "24317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24318",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Dan Tien",
+        "nameVi": "Dân Tiến",
+        "fullNameEn": "Dan Tien Commune",
+        "fullNameVi": "Xã Dân Tiến",
+        "nameSearchNormalized": "dan tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05755",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Dan Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dân Tiến",
+        "type": "Commune",
+        "code": "24318"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Võ Nhai",
+        "districtFullName": "Huyện Võ Nhai",
+        "districtNameEn": "Vo Nhai",
+        "districtCode": "170",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Xuyen",
+        "nameVi": "Phú Xuyên",
+        "fullNameEn": "Phu Xuyen Commune",
+        "fullNameVi": "Xã Phú Xuyên",
+        "nameSearchNormalized": "phu xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05773",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Xuyen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Xuyên",
+        "type": "Commune",
+        "code": "24615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24609",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Duc Luong",
+        "nameVi": "Đức Lương",
+        "fullNameEn": "Duc Luong Commune",
+        "fullNameVi": "Xã Đức Lương",
+        "nameSearchNormalized": "duc luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05776",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Duc Luong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Lương",
+        "type": "Commune",
+        "code": "24609"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24608",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Lac",
+        "nameVi": "Phú Lạc",
+        "fullNameEn": "Phu Lac Commune",
+        "fullNameVi": "Xã Phú Lạc",
+        "nameSearchNormalized": "phu lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05788",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Lac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Lạc",
+        "type": "Commune",
+        "code": "24608"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Thinh",
+        "nameVi": "Phú Thịnh",
+        "fullNameEn": "Phu Thinh Commune",
+        "fullNameVi": "Xã Phú Thịnh",
+        "nameSearchNormalized": "phu thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05800",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Thịnh",
+        "type": "Commune",
+        "code": "24616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24635",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "An Khanh",
+        "nameVi": "An Khánh",
+        "fullNameEn": "An Khanh Commune",
+        "fullNameVi": "Xã An Khánh",
+        "nameSearchNormalized": "an khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05809",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "An Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Khánh",
+        "type": "Commune",
+        "code": "24635"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "La Bang",
+        "nameVi": "La Bằng",
+        "fullNameEn": "La Bang Commune",
+        "fullNameVi": "Xã La Bằng",
+        "nameSearchNormalized": "la bang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05818",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "La Bang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã La Bằng",
+        "type": "Commune",
+        "code": "24618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24636",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Dai Tu",
+        "nameVi": "Đại Từ",
+        "fullNameEn": "Dai Tu Commune",
+        "fullNameVi": "Xã Đại Từ",
+        "nameSearchNormalized": "dai tu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05830",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Dai Tu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đại Từ",
+        "type": "Commune",
+        "code": "24636"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24624",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Van Phu",
+        "nameVi": "Vạn Phú",
+        "fullNameEn": "Van Phu Commune",
+        "fullNameVi": "Xã Vạn Phú",
+        "nameSearchNormalized": "van phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05845",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Van Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vạn Phú",
+        "type": "Commune",
+        "code": "24624"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24627",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Quan Chu",
+        "nameVi": "Quân Chu",
+        "fullNameEn": "Quan Chu Commune",
+        "fullNameVi": "Xã Quân Chu",
+        "nameSearchNormalized": "quan chu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05851",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Quan Chu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quân Chu",
+        "type": "Commune",
+        "code": "24627"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Từ",
+        "districtFullName": "Huyện Đại Từ",
+        "districtNameEn": "Dai Tu",
+        "districtCode": "171",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phuc Thuan",
+        "nameVi": "Phúc Thuận",
+        "fullNameEn": "Phuc Thuan Ward",
+        "fullNameVi": "Phường Phúc Thuận",
+        "nameSearchNormalized": "phuc thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05857",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phuc Thuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phúc Thuận",
+        "type": "Ward",
+        "code": "24715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phổ Yên",
+        "districtFullName": "Thành phố Phổ Yên",
+        "districtNameEn": "Pho Yen",
+        "districtCode": "172",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24724",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Pho Yen",
+        "nameVi": "Phổ Yên",
+        "fullNameEn": "Pho Yen Ward",
+        "fullNameVi": "Phường Phổ Yên",
+        "nameSearchNormalized": "pho yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05860",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Pho Yen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phổ Yên",
+        "type": "Ward",
+        "code": "24724"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phổ Yên",
+        "districtFullName": "Thành phố Phổ Yên",
+        "districtNameEn": "Pho Yen",
+        "districtCode": "172",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Thanh Cong",
+        "nameVi": "Thành Công",
+        "fullNameEn": "Thanh Cong Commune",
+        "fullNameVi": "Xã Thành Công",
+        "nameSearchNormalized": "thanh cong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05881",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Cong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thành Công",
+        "type": "Commune",
+        "code": "24712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phổ Yên",
+        "districtFullName": "Thành phố Phổ Yên",
+        "districtNameEn": "Pho Yen",
+        "districtCode": "172",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24725",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Van Xuan",
+        "nameVi": "Vạn Xuân",
+        "fullNameEn": "Van Xuan Ward",
+        "fullNameVi": "Phường Vạn Xuân",
+        "nameSearchNormalized": "van xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05890",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Van Xuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vạn Xuân",
+        "type": "Ward",
+        "code": "24725"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phổ Yên",
+        "districtFullName": "Thành phố Phổ Yên",
+        "districtNameEn": "Pho Yen",
+        "districtCode": "172",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Trung Thanh",
+        "nameVi": "Trung Thành",
+        "fullNameEn": "Trung Thanh Ward",
+        "fullNameVi": "Phường Trung Thành",
+        "nameSearchNormalized": "trung thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "05899",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Trung Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trung Thành",
+        "type": "Ward",
+        "code": "24717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phổ Yên",
+        "districtFullName": "Thành phố Phổ Yên",
+        "districtNameEn": "Pho Yen",
+        "districtCode": "172",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24926",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Phu Binh",
+        "nameVi": "Phú Bình",
+        "fullNameEn": "Phu Binh Commune",
+        "fullNameVi": "Xã Phú Bình",
+        "nameSearchNormalized": "phu binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05908",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Phu Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Bình",
+        "type": "Commune",
+        "code": "24926"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Bình",
+        "districtFullName": "Huyện Phú Bình",
+        "districtNameEn": "Phu Binh",
+        "districtCode": "173",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24910",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Tan Khanh",
+        "nameVi": "Tân Khánh",
+        "fullNameEn": "Tan Khanh Commune",
+        "fullNameVi": "Xã Tân Khánh",
+        "nameSearchNormalized": "tan khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05917",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Tan Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Khánh",
+        "type": "Commune",
+        "code": "24910"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Bình",
+        "districtFullName": "Huyện Phú Bình",
+        "districtNameEn": "Phu Binh",
+        "districtCode": "173",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24908",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thành",
+        "fullNameEn": "Tan Thanh Commune",
+        "fullNameVi": "Xã Tân Thành",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05923",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thành",
+        "type": "Commune",
+        "code": "24908"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Bình",
+        "districtFullName": "Huyện Phú Bình",
+        "districtNameEn": "Phu Binh",
+        "districtCode": "173",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24916",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Diem Thuy",
+        "nameVi": "Điềm Thuỵ",
+        "fullNameEn": "Diem Thuy Commune",
+        "fullNameVi": "Xã Điềm Thuỵ",
+        "nameSearchNormalized": "diem thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05941",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Diem Thuy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Điềm Thuỵ",
+        "type": "Commune",
+        "code": "24916"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Bình",
+        "districtFullName": "Huyện Phú Bình",
+        "districtNameEn": "Phu Binh",
+        "districtCode": "173",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "24921",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Thai Nguyen",
+        "nameVi": "Thái Nguyên",
+        "fullNameEn": "Thai Nguyen Province",
+        "fullNameVi": "Tỉnh Thái Nguyên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "19"
+      },
+      "commune": {
+        "nameEn": "Kha Son",
+        "nameVi": "Kha Sơn",
+        "fullNameEn": "Kha Son Commune",
+        "fullNameVi": "Xã Kha Sơn",
+        "nameSearchNormalized": "kha son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "05953",
+        "provinceCode": "19"
+      },
+      "postalObject": {
+        "nameEn": "Kha Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kha Sơn",
+        "type": "Commune",
+        "code": "24921"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Bình",
+        "districtFullName": "Huyện Phú Bình",
+        "districtNameEn": "Phu Binh",
+        "districtCode": "173",
+        "legacyProvinceName": "Thái Nguyên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

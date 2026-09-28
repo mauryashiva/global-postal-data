@@ -1,0 +1,232 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "District of Columbia",
+    "abbreviation": "DC",
+    "fipsCode": "11",
+    "capital": "Washington",
+    "largestCity": "Washington",
+    "category": "district-of-columbia",
+    "administrativeType": "District",
+    "areaCodes": [
+      "202"
+    ],
+    "prefixes": [
+      "200",
+      "202",
+      "203",
+      "204",
+      "205",
+      "569"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-DC-20001-0",
+      "zip5": "20001",
+      "zip4": "1001",
+      "zipPlus4": "20001-1001",
+      "state": {
+        "nameEn": "District of Columbia",
+        "abbreviation": "DC",
+        "fipsCode": "11",
+        "administrativeType": "District",
+        "category": "district-of-columbia"
+      },
+      "primaryCity": "Washington",
+      "acceptableCities": [
+        "Washington",
+        "DC"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Washington",
+          "status": "Primary"
+        },
+        {
+          "name": "DC",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "District of Columbia",
+          "fipsCode": "11001",
+          "geoid": "11001"
+        }
+      ],
+      "primaryCounty": "District of Columbia",
+      "zcta": {
+        "code": "20001"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "National Capital Post Office",
+        "address": "2 Massachusetts Ave NE",
+        "phone": "(202) 523-2628",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 38.9101,
+        "longitude": -77.0163,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "202"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 36,
+        "deliveryPoints": 18500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-DC-20001",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-DC-20004-1",
+      "zip5": "20004",
+      "zip4": "1501",
+      "zipPlus4": "20004-1501",
+      "state": {
+        "nameEn": "District of Columbia",
+        "abbreviation": "DC",
+        "fipsCode": "11",
+        "administrativeType": "District",
+        "category": "district-of-columbia"
+      },
+      "primaryCity": "Washington",
+      "acceptableCities": [
+        "Washington",
+        "Pennsylvania Avenue"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Washington",
+          "status": "Primary"
+        },
+        {
+          "name": "Pennsylvania Avenue",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "District of Columbia",
+          "fipsCode": "11001",
+          "geoid": "11001"
+        }
+      ],
+      "primaryCounty": "District of Columbia",
+      "zcta": {
+        "code": "20004"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Federal Triangle Post Office",
+        "address": "1200 Pennsylvania Ave NW",
+        "phone": "(202) 523-2396",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 38.8935,
+        "longitude": -77.027,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "202"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-DC-20004",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-DC-20500-2",
+      "zip5": "20500",
+      "zip4": "0001",
+      "zipPlus4": "20500-0001",
+      "state": {
+        "nameEn": "District of Columbia",
+        "abbreviation": "DC",
+        "fipsCode": "11",
+        "administrativeType": "District",
+        "category": "district-of-columbia"
+      },
+      "primaryCity": "Washington",
+      "acceptableCities": [
+        "The White House"
+      ],
+      "postalCityNames": [
+        {
+          "name": "The White House",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "District of Columbia",
+          "fipsCode": "11001",
+          "geoid": "11001"
+        }
+      ],
+      "primaryCounty": "District of Columbia",
+      "zcta": null,
+      "zipType": "UNIQUE",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "White House Mail Branch",
+        "address": "1600 Pennsylvania Ave NW",
+        "phone": "(202) 456-1414",
+        "type": "Government Facility"
+      },
+      "coordinates": {
+        "latitude": 38.8977,
+        "longitude": -77.0365,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "202"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 1,
+        "deliveryPoints": 1
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-DC-20500",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

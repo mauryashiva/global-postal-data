@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "OX",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "OX1 2JD",
+      "postTown": "OXFORD",
+      "locality": "Broad Street",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "South East",
+      "ceremonialCounty": "Oxfordshire",
+      "localAuthority": "Oxford City Council",
+      "district": "Oxford",
+      "civilParish": null,
+      "ward": "Holywell",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.7547,
+        "longitude": -1.2558,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "OX12JD-01",
+          "buildingName": "Bodleian Library",
+          "buildingNumber": null,
+          "subBuildingName": "Old Library",
+          "thoroughfare": "Broad Street",
+          "postTown": "OXFORD",
+          "postcode": "OX1 2JD",
+          "fullAddressText": "Bodleian Library, Broad Street, Oxford OX1 2JD"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "OX1 2JD",
+        "outwardCode": "OX1",
+        "inwardCode": "2JD",
+        "postcodeArea": "OX",
+        "postcodeDistrict": "OX1",
+        "postcodeSector": "OX1 2"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-OX1-2JD",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

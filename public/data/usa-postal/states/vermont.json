@@ -1,0 +1,163 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Vermont",
+    "abbreviation": "VT",
+    "fipsCode": "50",
+    "capital": "Montpelier",
+    "largestCity": "Burlington",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "802"
+    ],
+    "prefixes": [
+      "050",
+      "051",
+      "052",
+      "053",
+      "054",
+      "056",
+      "057",
+      "058",
+      "059"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-VT-05401-0",
+      "zip5": "05401",
+      "zip4": "1001",
+      "zipPlus4": "05401-1001",
+      "state": {
+        "nameEn": "Vermont",
+        "abbreviation": "VT",
+        "fipsCode": "50",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Burlington",
+      "acceptableCities": [
+        "Burlington"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Burlington",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Chittenden County",
+          "fipsCode": "50007",
+          "geoid": "50007"
+        }
+      ],
+      "primaryCounty": "Chittenden County",
+      "zcta": {
+        "code": "05401"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Burlington Main Post Office",
+        "address": "11 Elmwood Ave",
+        "phone": "(802) 658-0260",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 44.4759,
+        "longitude": -73.2121,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "802"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VT-05401",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-VT-05602-1",
+      "zip5": "05602",
+      "zip4": "2001",
+      "zipPlus4": "05602-2001",
+      "state": {
+        "nameEn": "Vermont",
+        "abbreviation": "VT",
+        "fipsCode": "50",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Montpelier",
+      "acceptableCities": [
+        "Montpelier"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Montpelier",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Washington County",
+          "fipsCode": "50023",
+          "geoid": "50023"
+        }
+      ],
+      "primaryCounty": "Washington County",
+      "zcta": {
+        "code": "05602"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Montpelier Main Post Office",
+        "address": "87 State St",
+        "phone": "(802) 223-2895",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 44.2601,
+        "longitude": -72.5754,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "802"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 20,
+        "deliveryPoints": 9800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-VT-05602",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "code": "32",
+  "nameEn": "West Java",
+  "nameId": "Jawa Barat",
+  "nameNative": "Jawa Barat",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Bandung",
+  "capitalId": "Kota Bandung",
+  "zone": "4",
+  "totalRecords": 5,
+  "records": [
+    {
+      "postalCode": "40198",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.73",
+        "nameId": "Kota Bandung",
+        "nameEn": "Bandung",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "32.73.08",
+        "nameId": "Kecamatan Cibeunying Kaler",
+        "nameEn": "Cibeunying Kaler District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.73.08.1001",
+        "nameId": "Kelurahan Sukaluyu",
+        "nameEn": "Sukaluyu",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Jalan Supratman / Taman Makam Pahlawan Cikutra",
+        "nameEn": "Sukaluyu Residential & Commercial"
+      },
+      "rt": "03",
+      "rw": "07",
+      "postOffice": {
+        "nameId": "Kantor Pos Bandung Sukaluyu",
+        "nameEn": "Bandung Sukaluyu Post Office",
+        "code": "40198",
+        "type": "KPC",
+        "deliveryStatus": "Standard Area Delivery"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-40198-32.73.08.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "40115",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.73",
+        "nameId": "Kota Bandung",
+        "nameEn": "Bandung",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "32.73.09",
+        "nameId": "Kecamatan Bandung Wetan",
+        "nameEn": "Bandung Wetan District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.73.09.1001",
+        "nameId": "Kelurahan Citarum",
+        "nameEn": "Citarum",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Gedung Sate (Kantor Gubernur Jawa Barat)",
+        "nameEn": "Gedung Sate West Java Provincial HQ"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Besar Bandung",
+        "nameEn": "Bandung Main Post Office",
+        "code": "40000",
+        "type": "KPRK",
+        "deliveryStatus": "Central Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-40115-32.73.09.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "40911",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.04",
+        "nameId": "Kabupaten Bandung",
+        "nameEn": "Bandung Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "32.04.10",
+        "nameId": "Kecamatan Soreang",
+        "nameEn": "Soreang District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.04.10.2001",
+        "nameId": "Desa Pamekaran",
+        "nameEn": "Pamekaran",
+        "administrativeType": "Village"
+      },
+      "locality": {
+        "nameId": "Pusat Pemerintahan Kabupaten Bandung",
+        "nameEn": "Bandung Regency Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Soreang",
+        "nameEn": "Soreang Post Office",
+        "code": "40911",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-40911-32.04.10.2001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "16111",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.71",
+        "nameId": "Kota Bogor",
+        "nameEn": "Bogor",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "32.71.01",
+        "nameId": "Kecamatan Bogor Tengah",
+        "nameEn": "Central Bogor District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.71.01.1001",
+        "nameId": "Kelurahan Pabaton",
+        "nameEn": "Pabaton",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kebun Raya Bogor / Istana Kepresidenan Bogor",
+        "nameEn": "Bogor Botanical Gardens / Presidential Palace"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bogor",
+        "nameEn": "Bogor Main Post Office",
+        "code": "16000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-16111-32.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "17113",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.75",
+        "nameId": "Kota Bekasi",
+        "nameEn": "Bekasi",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "32.75.04",
+        "nameId": "Kecamatan Bekasi Timur",
+        "nameEn": "East Bekasi District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.75.04.1001",
+        "nameId": "Kelurahan Margahayu",
+        "nameEn": "Margahayu",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Stasiun Bekasi Timur / Sentra Bisnis",
+        "nameEn": "East Bekasi Commercial Core"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bekasi",
+        "nameEn": "Bekasi Main Post Office",
+        "code": "17000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-17113-32.75.04.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

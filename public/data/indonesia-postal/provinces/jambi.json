@@ -1,0 +1,63 @@
+{
+  "code": "15",
+  "nameEn": "Jambi",
+  "nameId": "Jambi",
+  "nameNative": "Jambi",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Jambi",
+  "capitalId": "Kota Jambi",
+  "zone": "3",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "36111",
+      "province": {
+        "code": "15",
+        "nameEn": "Jambi",
+        "nameId": "Jambi",
+        "nameNative": "Jambi",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "15.71",
+        "nameId": "Kota Jambi",
+        "nameEn": "Jambi",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "15.71.01",
+        "nameId": "Kecamatan Pasar Jambi",
+        "nameEn": "Pasar Jambi District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "15.71.01.1001",
+        "nameId": "Kelurahan Pasar Jambi",
+        "nameEn": "Pasar Jambi",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Pasar Jambi / Batanghari Riverfront",
+        "nameEn": "Jambi Commercial Waterfront"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Jambi",
+        "nameEn": "Jambi Main Post Office",
+        "code": "36000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-15-36111-15.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

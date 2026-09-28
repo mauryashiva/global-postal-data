@@ -1,0 +1,154 @@
+{
+  "prefix": "10",
+  "totalRecords": 3,
+  "records": [
+    {
+      "postalCode": "10110",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.71",
+        "nameId": "Kota Administrasi Jakarta Pusat",
+        "nameEn": "Central Jakarta",
+        "administrativeType": "Administrative City"
+      },
+      "district": {
+        "code": "31.71.01",
+        "nameId": "Kecamatan Gambir",
+        "nameEn": "Gambir District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.71.01.1001",
+        "nameId": "Kelurahan Gambir",
+        "nameEn": "Gambir",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kawasan Medan Merdeka / Istana Merdeka",
+        "nameEn": "Merdeka Square / Presidential Palace"
+      },
+      "rt": "01",
+      "rw": "02",
+      "postOffice": {
+        "nameId": "Kantor Pos Gambir",
+        "nameEn": "Gambir Post Office",
+        "code": "10110",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office",
+        "phone": "+62-21-3847701"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-10110-31.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "10110",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.71",
+        "nameId": "Kota Administrasi Jakarta Pusat",
+        "nameEn": "Central Jakarta",
+        "administrativeType": "Administrative City"
+      },
+      "district": {
+        "code": "31.71.01",
+        "nameId": "Kecamatan Gambir",
+        "nameEn": "Gambir District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.71.01.1002",
+        "nameId": "Kelurahan Kebon Kelapa",
+        "nameEn": "Kebon Kelapa",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kompleks Sekretariat Negara / Hayam Wuruk",
+        "nameEn": "State Secretariat Complex"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Gambir",
+        "nameEn": "Gambir Post Office",
+        "code": "10110",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-10110-31.71.01.1002",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "10310",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.71",
+        "nameId": "Kota Administrasi Jakarta Pusat",
+        "nameEn": "Central Jakarta",
+        "administrativeType": "Administrative City"
+      },
+      "district": {
+        "code": "31.71.06",
+        "nameId": "Kecamatan Menteng",
+        "nameEn": "Menteng District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.71.06.1001",
+        "nameId": "Kelurahan Menteng",
+        "nameEn": "Menteng",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kawasan Diplomatik Menteng / Taman Suropati",
+        "nameEn": "Menteng Diplomatic Quarter"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Cikini",
+        "nameEn": "Cikini Post Office",
+        "code": "10330",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-10310-31.71.06.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

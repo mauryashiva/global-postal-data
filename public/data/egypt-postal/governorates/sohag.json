@@ -1,0 +1,120 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Sohag",
+    "nameNative": "سوهاج",
+    "isoCode": "EG-SHG",
+    "postalPrefix": "82",
+    "capital": "Sohag",
+    "capitalNative": "سوهاج",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 26.5569,
+      "longitude": 31.6948
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "82511",
+      "governorate": {
+        "nameEn": "Sohag",
+        "nameNative": "سوهاج",
+        "code": "EG-SHG",
+        "postalPrefix": "82",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Sohag",
+        "nameNative": "سوهاج",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sohag 1",
+        "nameNative": "قسم أول سوهاج",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Orabi / Corniche El Nil",
+        "nameNative": "ميدان العرابي / كورنيش النيل",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Sohag Main Post Office",
+        "nameNative": "مكتب بريد سوهاج الرئيسي",
+        "type": "Main Post Office",
+        "code": "82511"
+      },
+      "areas": [
+        "Orabi Square Sohag",
+        "Shark Nile Corniche",
+        "Governorate Headquarters",
+        "Sohag University Old Campus"
+      ],
+      "coordinates": {
+        "latitude": 26.5569,
+        "longitude": 31.6948
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOHAG-82511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "82844",
+      "governorate": {
+        "nameEn": "Sohag",
+        "nameNative": "سوهاج",
+        "code": "EG-SHG",
+        "postalPrefix": "82",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Girga",
+        "nameNative": "جرجا",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Girga",
+        "nameNative": "مركز جرجا",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Girga Downtown / Nile Port",
+        "nameNative": "وسط جرجا / مرسى النيل",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Girga Post Office",
+        "nameNative": "مكتب بريد جرجا",
+        "type": "Sub Post Office",
+        "code": "82844"
+      },
+      "areas": [
+        "Old Girga Market",
+        "Nile Embankment Girga",
+        "Railway Crossing Corridor",
+        "Sugar Manufacturing Hub"
+      ],
+      "coordinates": {
+        "latitude": 26.3345,
+        "longitude": 31.8923
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SOHAG-82844",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

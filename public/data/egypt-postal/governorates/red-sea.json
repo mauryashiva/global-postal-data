@@ -1,0 +1,262 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Red Sea",
+    "nameNative": "البحر الأحمر",
+    "isoCode": "EG-BA",
+    "postalPrefix": "84",
+    "capital": "Hurghada",
+    "capitalNative": "الغردقة",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 27.2579,
+      "longitude": 33.8116
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 5,
+    "totalRecords": 5,
+    "totalPostOffices": 5,
+    "totalLocalities": 18
+  },
+  "records": [
+    {
+      "postalCode": "84511",
+      "governorate": {
+        "nameEn": "Red Sea",
+        "nameNative": "البحر الأحمر",
+        "code": "EG-BA",
+        "postalPrefix": "84",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Hurghada",
+        "nameNative": "الغردقة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Dahar",
+        "nameNative": "قسم أول الغردقة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "El Dahar Square / Nasr St",
+        "nameNative": "ميدان الدهار / شارع النصر",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Hurghada Main Post Office (El Dahar)",
+        "nameNative": "مكتب بريد الغردقة الرئيسي (الدهار)",
+        "type": "Main Post Office",
+        "code": "84511"
+      },
+      "areas": [
+        "El Dahar Historic Center",
+        "Nasr St Hurghada",
+        "Red Sea Governorate Cabinet",
+        "Traditional Fish Market"
+      ],
+      "coordinates": {
+        "latitude": 27.2579,
+        "longitude": 33.8116
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-RED-SEA-84511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "84512",
+      "governorate": {
+        "nameEn": "Red Sea",
+        "nameNative": "البحر الأحمر",
+        "code": "EG-BA",
+        "postalPrefix": "84",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Hurghada",
+        "nameNative": "الغردقة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sekalla",
+        "nameNative": "قسم ثان الغردقة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Hurghada Marina / Sheraton Road",
+        "nameNative": "مارينا الغردقة / شارع الشيراتون",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Hurghada Sekalla Tourist Post Office",
+        "nameNative": "مكتب بريد الغردقة السياحي (السقالة)",
+        "type": "Sub Post Office",
+        "code": "84512"
+      },
+      "areas": [
+        "Sheraton Road",
+        "Hurghada International Marina",
+        "Diving Centers Sector",
+        "Old Sheraton Pier"
+      ],
+      "coordinates": {
+        "latitude": 27.2189,
+        "longitude": 33.8412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-RED-SEA-84512",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "84515",
+      "governorate": {
+        "nameEn": "Red Sea",
+        "nameNative": "البحر الأحمر",
+        "code": "EG-BA",
+        "postalPrefix": "84",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Gouna",
+        "nameNative": "الجونة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Gouna Resort",
+        "nameNative": "الجونة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Abu Tig Marina",
+        "nameNative": "مارينا أبو تيج",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "El Gouna Post Office",
+        "nameNative": "مكتب بريد الجونة",
+        "type": "Sub Post Office",
+        "code": "84515"
+      },
+      "areas": [
+        "Abu Tig Marina",
+        "Tamr Henna Square",
+        "Downtown El Gouna",
+        "Golf Club & Lagoons"
+      ],
+      "coordinates": {
+        "latitude": 27.3945,
+        "longitude": 33.6789
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-RED-SEA-84515",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "84711",
+      "governorate": {
+        "nameEn": "Red Sea",
+        "nameNative": "البحر الأحمر",
+        "code": "EG-BA",
+        "postalPrefix": "84",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Safaga",
+        "nameNative": "سفاجا",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Safaga",
+        "nameNative": "قسم سفاجا",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Safaga Maritime Port",
+        "nameNative": "ميناء سفاجا البحري",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Safaga Port Post Office",
+        "nameNative": "مكتب بريد سفاجا",
+        "type": "Sub Post Office",
+        "code": "84711"
+      },
+      "areas": [
+        "Safaga Passenger Ferry Terminal",
+        "Phosphate & Mining Export Quays",
+        "Qena-Safaga Highway Hub"
+      ],
+      "coordinates": {
+        "latitude": 26.7345,
+        "longitude": 33.9389
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-RED-SEA-84711",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "84733",
+      "governorate": {
+        "nameEn": "Red Sea",
+        "nameNative": "البحر الأحمر",
+        "code": "EG-BA",
+        "postalPrefix": "84",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Marsa Alam",
+        "nameNative": "مرسى علم",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Marsa Alam",
+        "nameNative": "قسم مرسى علم",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Marsa Alam Downtown / Port Ghalib",
+        "nameNative": "وسط مرسى علم / بورت غالب",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Marsa Alam Post Office",
+        "nameNative": "مكتب بريد مرسى علم",
+        "type": "Sub Post Office",
+        "code": "84733"
+      },
+      "areas": [
+        "Port Ghalib International Marina",
+        "Marsa Alam Airport Corridor",
+        "Wadi El Gemal National Park Gate"
+      ],
+      "coordinates": {
+        "latitude": 25.0689,
+        "longitude": 34.8956
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-RED-SEA-84733",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

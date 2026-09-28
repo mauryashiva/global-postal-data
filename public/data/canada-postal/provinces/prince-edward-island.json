@@ -1,0 +1,272 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Prince Edward Island",
+    "nameFr": "Île-du-Prince-Édouard",
+    "code": "PE",
+    "isoCode": "CA-PE",
+    "sgcCode": "11",
+    "category": "province"
+  },
+  "recordCount": 5,
+  "postalRecords": [
+    {
+      "postalCode": "C1A 1A1",
+      "postalCodeNormalized": "C1A1A1",
+      "fsa": "C1A",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Prince Edward Island",
+        "nameFr": "Île-du-Prince-Édouard",
+        "code": "PE",
+        "isoCode": "CA-PE",
+        "sgcCode": "11"
+      },
+      "postalGeography": {
+        "postalCity": "Charlottetown",
+        "postalMunicipality": "City of Charlottetown"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Queens County",
+          "code": "1102",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Charlottetown",
+          "code": "1102025",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Charlottetown Main Post Office / Province House",
+        "nameFr": "Bureau de poste principal de Charlottetown",
+        "station": "Stn Central",
+        "type": "Retail Post Office",
+        "identifier": "PE-CHA-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-PE-C1A1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "C1A 4P3",
+      "postalCodeNormalized": "C1A4P3",
+      "fsa": "C1A",
+      "ldu": "4P3",
+      "provinceTerritory": {
+        "nameEn": "Prince Edward Island",
+        "nameFr": "Île-du-Prince-Édouard",
+        "code": "PE",
+        "isoCode": "CA-PE",
+        "sgcCode": "11"
+      },
+      "postalGeography": {
+        "postalCity": "Charlottetown",
+        "postalMunicipality": "City of Charlottetown"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Queens County",
+          "code": "1102",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Charlottetown",
+          "code": "1102025",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "University Avenue Retail Postal Outlet",
+        "nameFr": "Comptoir postal University Avenue",
+        "station": "Stn University",
+        "type": "Retail Postal Outlet",
+        "identifier": "PE-CHA-002"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-PE-C1A4P3-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "C1N 1C4",
+      "postalCodeNormalized": "C1N1C4",
+      "fsa": "C1N",
+      "ldu": "1C4",
+      "provinceTerritory": {
+        "nameEn": "Prince Edward Island",
+        "nameFr": "Île-du-Prince-Édouard",
+        "code": "PE",
+        "isoCode": "CA-PE",
+        "sgcCode": "11"
+      },
+      "postalGeography": {
+        "postalCity": "Summerside",
+        "postalMunicipality": "City of Summerside"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Prince County",
+          "code": "1103",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Summerside",
+          "code": "1103025",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Summerside Post Office",
+        "nameFr": "Bureau de poste de Summerside",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "PE-SUM-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-PE-C1N1C4-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "C0A 1B0",
+      "postalCodeNormalized": "C0A1B0",
+      "fsa": "C0A",
+      "ldu": "1B0",
+      "provinceTerritory": {
+        "nameEn": "Prince Edward Island",
+        "nameFr": "Île-du-Prince-Édouard",
+        "code": "PE",
+        "isoCode": "CA-PE",
+        "sgcCode": "11"
+      },
+      "postalGeography": {
+        "postalCity": "Breadalbane",
+        "postalMunicipality": "Rural Municipality of Breadalbane"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Queens County",
+          "code": "1102",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Breadalbane",
+          "code": "1102047",
+          "type": "Rural Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Breadalbane Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Breadalbane Post Office",
+        "nameFr": "Bureau de poste de Breadalbane",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "PE-BDB-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-PE-C0A1B0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "C0A 1R0",
+      "postalCodeNormalized": "C0A1R0",
+      "fsa": "C0A",
+      "ldu": "1R0",
+      "provinceTerritory": {
+        "nameEn": "Prince Edward Island",
+        "nameFr": "Île-du-Prince-Édouard",
+        "code": "PE",
+        "isoCode": "CA-PE",
+        "sgcCode": "11"
+      },
+      "postalGeography": {
+        "postalCity": "Montague",
+        "postalMunicipality": "Town of Three Rivers"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Kings County",
+          "code": "1101",
+          "type": "County"
+        },
+        "censusSubdivision": {
+          "name": "Three Rivers",
+          "code": "1101015",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Community Mailbox",
+        "deliveryMode": "Community mailbox",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Montague Post Office",
+        "nameFr": "Bureau de poste de Montague",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "PE-MNT-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-PE-C0A1R0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

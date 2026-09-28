@@ -1,0 +1,173 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Connecticut",
+    "abbreviation": "CT",
+    "fipsCode": "09",
+    "capital": "Hartford",
+    "largestCity": "Bridgeport",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "203",
+      "475",
+      "860",
+      "959"
+    ],
+    "prefixes": [
+      "060",
+      "061",
+      "062",
+      "063",
+      "064",
+      "065",
+      "066",
+      "067",
+      "068",
+      "069"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-CT-06103-0",
+      "zip5": "06103",
+      "zip4": "1001",
+      "zipPlus4": "06103-1001",
+      "state": {
+        "nameEn": "Connecticut",
+        "abbreviation": "CT",
+        "fipsCode": "09",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Hartford",
+      "acceptableCities": [
+        "Hartford"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Hartford",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Hartford County",
+          "fipsCode": "09003",
+          "geoid": "09003"
+        }
+      ],
+      "primaryCounty": "Hartford County",
+      "zcta": {
+        "code": "06103"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Hartford Main Post Office",
+        "address": "141 Weston St",
+        "phone": "(860) 524-6000",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 41.7658,
+        "longitude": -72.6734,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "203",
+          "475",
+          "860",
+          "959"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 10800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CT-06103",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-CT-06901-1",
+      "zip5": "06901",
+      "zip4": "2001",
+      "zipPlus4": "06901-2001",
+      "state": {
+        "nameEn": "Connecticut",
+        "abbreviation": "CT",
+        "fipsCode": "09",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Stamford",
+      "acceptableCities": [
+        "Stamford"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Stamford",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Fairfield County",
+          "fipsCode": "09001",
+          "geoid": "09001"
+        }
+      ],
+      "primaryCounty": "Fairfield County",
+      "zcta": {
+        "code": "06901"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Stamford Main Post Office",
+        "address": "317 West Ave",
+        "phone": "(203) 324-4112",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 41.0534,
+        "longitude": -73.5387,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "203",
+          "475",
+          "860",
+          "959"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 27,
+        "deliveryPoints": 13900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CT-06901",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

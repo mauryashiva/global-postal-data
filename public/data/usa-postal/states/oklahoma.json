@@ -1,0 +1,118 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Oklahoma",
+    "abbreviation": "OK",
+    "fipsCode": "40",
+    "capital": "Oklahoma City",
+    "largestCity": "Oklahoma City",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "405",
+      "539",
+      "580",
+      "918"
+    ],
+    "prefixes": [
+      "730",
+      "731",
+      "734",
+      "735",
+      "736",
+      "737",
+      "738",
+      "739",
+      "740",
+      "741",
+      "743",
+      "744",
+      "745",
+      "746",
+      "747",
+      "748",
+      "749"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-OK-73102-0",
+      "zip5": "73102",
+      "zip4": "1001",
+      "zipPlus4": "73102-1001",
+      "state": {
+        "nameEn": "Oklahoma",
+        "abbreviation": "OK",
+        "fipsCode": "40",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Oklahoma City",
+      "acceptableCities": [
+        "Oklahoma City",
+        "OKC"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Oklahoma City",
+          "status": "Primary"
+        },
+        {
+          "name": "OKC",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Oklahoma County",
+          "fipsCode": "40109",
+          "geoid": "40109"
+        }
+      ],
+      "primaryCounty": "Oklahoma County",
+      "zcta": {
+        "code": "73102"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Oklahoma City Center Station",
+        "address": "305 NW 5th St",
+        "phone": "(405) 235-8600",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 35.4676,
+        "longitude": -97.5164,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "405",
+          "539",
+          "580",
+          "918"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-OK-73102",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

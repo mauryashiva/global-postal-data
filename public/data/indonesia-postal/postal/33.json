@@ -1,0 +1,55 @@
+{
+  "prefix": "33",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "33111",
+      "province": {
+        "code": "19",
+        "nameEn": "Bangka Belitung Islands",
+        "nameId": "Kepulauan Bangka Belitung",
+        "nameNative": "Kepulauan Bangka Belitung",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "19.71",
+        "nameId": "Kota Pangkal Pinang",
+        "nameEn": "Pangkal Pinang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "19.71.01",
+        "nameId": "Kecamatan Rangkui",
+        "nameEn": "Rangkui District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "19.71.01.1001",
+        "nameId": "Kelurahan Bintang",
+        "nameEn": "Bintang",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Alun-alun Taman Merdeka Pangkal Pinang",
+        "nameEn": "Pangkal Pinang City Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Pangkal Pinang",
+        "nameEn": "Pangkal Pinang Main Post Office",
+        "code": "33100",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-19-33111-19.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

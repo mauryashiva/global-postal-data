@@ -1,0 +1,120 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Port Said",
+    "nameNative": "بورسعيد",
+    "isoCode": "EG-PTS",
+    "postalPrefix": "42",
+    "capital": "Port Said",
+    "capitalNative": "بورسعيد",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.2653,
+      "longitude": 32.3019
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "42511",
+      "governorate": {
+        "nameEn": "Port Said",
+        "nameNative": "بورسعيد",
+        "code": "EG-PTS",
+        "postalPrefix": "42",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Port Said",
+        "nameNative": "بورسعيد",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Sharq",
+        "nameNative": "حي الشرق",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "El Sharq Quarter",
+        "nameNative": "حي الشرق",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Port Said Main Post Office",
+        "nameNative": "مكتب بريد بورسعيد الرئيسي",
+        "type": "Main Post Office",
+        "code": "42511"
+      },
+      "areas": [
+        "Palestine St",
+        "Suez Canal Authority Port Said",
+        "Ferdinand de Lesseps Base",
+        "Gomhuria St"
+      ],
+      "coordinates": {
+        "latitude": 31.2653,
+        "longitude": 32.3019
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-PORT-SAID-42511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "42523",
+      "governorate": {
+        "nameEn": "Port Said",
+        "nameNative": "بورسعيد",
+        "code": "EG-PTS",
+        "postalPrefix": "42",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Port Fouad",
+        "nameNative": "بورفؤاد",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Port Fouad",
+        "nameNative": "مدينة بورفؤاد",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Ferry Terminal / Grand Mosque",
+        "nameNative": "مرسى المعدية / المسجد الكبير",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Port Fouad Post Office",
+        "nameNative": "مكتب بريد بورفؤاد",
+        "type": "Main Post Office",
+        "code": "42523"
+      },
+      "areas": [
+        "Port Fouad Ferry Quay",
+        "University of Port Said Medical",
+        "Mallahat Area",
+        "French Architecture Quarter"
+      ],
+      "coordinates": {
+        "latitude": 31.2489,
+        "longitude": 32.3189
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-PORT-SAID-42523",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

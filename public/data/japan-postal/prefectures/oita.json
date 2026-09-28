@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "44",
+    "nameEn": "Oita",
+    "nameJa": "大分県",
+    "nameKana": "オオイタケン",
+    "nameRomaji": "Oita-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Oita",
+    "capitalJa": "大分市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "8700000",
+      "postalCodeFormatted": "870-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "44",
+      "prefectureNameEn": "Oita",
+      "prefectureNameJa": "大分県",
+      "prefectureNameKana": "オオイタケン",
+      "prefectureNameRomaji": "Oita-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "44201",
+        "nameEn": "Oita",
+        "nameJa": "大分市",
+        "nameKana": "オオイシ",
+        "nameRomaji": "Oita-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Oita Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "CB",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "CB2 1TN",
+      "postTown": "CAMBRIDGE",
+      "locality": "Trumpington Street",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "East of England",
+      "ceremonialCounty": "Cambridgeshire",
+      "localAuthority": "Cambridge City Council",
+      "district": "Cambridge",
+      "civilParish": null,
+      "ward": "Market",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 52.2023,
+        "longitude": 0.1172,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "CB21TN-01",
+          "buildingName": "The Fitzwilliam Museum",
+          "buildingNumber": null,
+          "subBuildingName": null,
+          "thoroughfare": "Trumpington Street",
+          "postTown": "CAMBRIDGE",
+          "postcode": "CB2 1TN",
+          "fullAddressText": "The Fitzwilliam Museum, Trumpington Street, Cambridge CB2 1TN"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "CB2 1TN",
+        "outwardCode": "CB2",
+        "inwardCode": "1TN",
+        "postcodeArea": "CB",
+        "postcodeDistrict": "CB2",
+        "postcodeSector": "CB2 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-CB2-1TN",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

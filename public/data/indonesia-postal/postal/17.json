@@ -1,0 +1,55 @@
+{
+  "prefix": "17",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "17113",
+      "province": {
+        "code": "32",
+        "nameEn": "West Java",
+        "nameId": "Jawa Barat",
+        "nameNative": "Jawa Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "32.75",
+        "nameId": "Kota Bekasi",
+        "nameEn": "Bekasi",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "32.75.04",
+        "nameId": "Kecamatan Bekasi Timur",
+        "nameEn": "East Bekasi District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "32.75.04.1001",
+        "nameId": "Kelurahan Margahayu",
+        "nameEn": "Margahayu",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Stasiun Bekasi Timur / Sentra Bisnis",
+        "nameEn": "East Bekasi Commercial Core"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bekasi",
+        "nameEn": "Bekasi Main Post Office",
+        "code": "17000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-32-17113-32.75.04.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

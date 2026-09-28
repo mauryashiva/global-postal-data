@@ -1,0 +1,100 @@
+{
+  "postcodeArea": "EH",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "EH1 1YZ",
+      "postTown": "EDINBURGH",
+      "locality": "Old Town",
+      "dependentLocality": "Castle Rock",
+      "constituentCountry": "Scotland",
+      "constituentCountryCode": "GB-SCT",
+      "region": "Scotland",
+      "ceremonialCounty": "City of Edinburgh",
+      "localAuthority": "The City of Edinburgh Council",
+      "district": "City of Edinburgh",
+      "civilParish": null,
+      "ward": "City Centre",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 55.9486,
+        "longitude": -3.1999,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "EH11YZ-01",
+          "buildingName": "Edinburgh Castle",
+          "buildingNumber": null,
+          "subBuildingName": "Castlehill",
+          "thoroughfare": "Castlehill",
+          "postTown": "EDINBURGH",
+          "postcode": "EH1 1YZ",
+          "fullAddressText": "Edinburgh Castle, Castlehill, Edinburgh EH1 1YZ"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "EH1 1YZ",
+        "outwardCode": "EH1",
+        "inwardCode": "1YZ",
+        "postcodeArea": "EH",
+        "postcodeDistrict": "EH1",
+        "postcodeSector": "EH1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-EH1-1YZ",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "EH99 1SP",
+      "postTown": "EDINBURGH",
+      "locality": "Holyrood",
+      "dependentLocality": "Canongate",
+      "constituentCountry": "Scotland",
+      "constituentCountryCode": "GB-SCT",
+      "region": "Scotland",
+      "ceremonialCounty": "City of Edinburgh",
+      "localAuthority": "The City of Edinburgh Council",
+      "district": "City of Edinburgh",
+      "civilParish": null,
+      "ward": "City Centre",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 55.9521,
+        "longitude": -3.1751,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "EH991SP-01",
+          "buildingName": "Scottish Parliament",
+          "buildingNumber": null,
+          "subBuildingName": "Holyrood Building",
+          "thoroughfare": "Horse Wynd",
+          "postTown": "EDINBURGH",
+          "postcode": "EH99 1SP",
+          "fullAddressText": "The Scottish Parliament, Holyrood, Horse Wynd, Edinburgh EH99 1SP"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "EH99 1SP",
+        "outwardCode": "EH99",
+        "inwardCode": "1SP",
+        "postcodeArea": "EH",
+        "postcodeDistrict": "EH99",
+        "postcodeSector": "EH99 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-EH99-1SP",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

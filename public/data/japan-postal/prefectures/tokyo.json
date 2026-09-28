@@ -1,0 +1,367 @@
+{
+  "prefecture": {
+    "code": "13",
+    "nameEn": "Tokyo",
+    "nameJa": "東京都",
+    "nameKana": "トウキョウト",
+    "nameRomaji": "Tokyo-to",
+    "administrativeType": "To",
+    "capitalEn": "Shinjuku",
+    "capitalJa": "新宿区"
+  },
+  "totalRecords": 10,
+  "records": [
+    {
+      "postalCode": "1000001",
+      "postalCodeFormatted": "100-0001",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田",
+        "nameKana": "チヨダ",
+        "nameRomaji": "Chiyoda",
+        "type": "NormalTownArea",
+        "landmarkEn": "Imperial Palace (皇居)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1000005",
+      "postalCodeFormatted": "100-0005",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Marunouchi",
+        "nameJa": "丸の内",
+        "nameKana": "マルノウチ",
+        "nameRomaji": "Marunouchi",
+        "type": "NormalTownArea",
+        "landmarkEn": "Tokyo Station & Marunouchi Financial Center"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1000013",
+      "postalCodeFormatted": "100-0013",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Kasumigaseki",
+        "nameJa": "霞が関",
+        "nameKana": "カスミガセキ",
+        "nameRomaji": "Kasumigaseki",
+        "type": "NormalTownArea",
+        "landmarkEn": "Central Government Ministries Quarter (中央省庁)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1000014",
+      "postalCodeFormatted": "100-0014",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Nagatacho",
+        "nameJa": "永田町",
+        "nameKana": "ナガタチョウ",
+        "nameRomaji": "Nagatacho",
+        "type": "NormalTownArea",
+        "landmarkEn": "National Diet Building & Prime Minister's Official Residence"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1050011",
+      "postalCodeFormatted": "105-0011",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13103",
+        "nameEn": "Minato",
+        "nameJa": "港区",
+        "nameKana": "ミナトク",
+        "nameRomaji": "Minato-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Shibakoen",
+        "nameJa": "芝公園",
+        "nameKana": "シバコウエン",
+        "nameRomaji": "Shibakoen",
+        "type": "NormalTownArea",
+        "landmarkEn": "Tokyo Tower (東京タワー) & Zojoji Temple"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1060032",
+      "postalCodeFormatted": "106-0032",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13103",
+        "nameEn": "Minato",
+        "nameJa": "港区",
+        "nameKana": "ミナトク",
+        "nameRomaji": "Minato-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Roppongi",
+        "nameJa": "六本木",
+        "nameKana": "ロッポンギ",
+        "nameRomaji": "Roppongi",
+        "type": "NormalTownArea",
+        "landmarkEn": "Roppongi Hills & Tokyo Midtown"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1500002",
+      "postalCodeFormatted": "150-0002",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13113",
+        "nameEn": "Shibuya",
+        "nameJa": "渋谷区",
+        "nameKana": "シブヤク",
+        "nameRomaji": "Shibuya-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Shibuya",
+        "nameJa": "渋谷",
+        "nameKana": "シブヤ",
+        "nameRomaji": "Shibuya",
+        "type": "NormalTownArea",
+        "landmarkEn": "Shibuya Scramble Crossing & Hachiko Square"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1600023",
+      "postalCodeFormatted": "160-0023",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13104",
+        "nameEn": "Shinjuku",
+        "nameJa": "新宿区",
+        "nameKana": "シンジュクク",
+        "nameRomaji": "Shinjuku-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Nishishinjuku",
+        "nameJa": "西新宿",
+        "nameKana": "ニシシンジュク",
+        "nameRomaji": "Nishishinjuku",
+        "type": "NormalTownArea",
+        "landmarkEn": "Tokyo Metropolitan Government Building (東京都庁)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1920083",
+      "postalCodeFormatted": "192-0083",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13201",
+        "nameEn": "Hachioji",
+        "nameJa": "八王子市",
+        "nameKana": "ハチオウジシ",
+        "nameRomaji": "Hachioji-shi",
+        "administrativeType": "Core City"
+      },
+      "townArea": {
+        "nameEn": "Asahicho",
+        "nameJa": "旭町",
+        "nameKana": "アサヒチョウ",
+        "nameRomaji": "Asahicho",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Hachioji Station Center"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1900200",
+      "postalCodeFormatted": "190-0200",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13307",
+        "nameEn": "Hinohara",
+        "nameJa": "西多摩郡檜原村",
+        "nameKana": "ニシタマグンヒノハラムラ",
+        "nameRomaji": "Nishitama-gun Hinohara-mura",
+        "administrativeType": "Village",
+        "countyNameJa": "西多摩郡",
+        "countyNameEn": "Nishitama County"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "descriptionEn": "Special Japan Post source entry: When town area is not listed below"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

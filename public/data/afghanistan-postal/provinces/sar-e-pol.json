@@ -1,0 +1,593 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Sar-e Pol",
+    "nameNative": "سرپل",
+    "isoCode": "AF-SAR",
+    "postalPrefix": "21",
+    "capital": "Sar-e Pol",
+    "capitalNative": "سرپل",
+    "coordinates": {
+      "latitude": 35.8833,
+      "longitude": 65.9333
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 15,
+    "totalRecords": 15,
+    "urbanRecords": 5,
+    "ruralRecords": 10
+  },
+  "records": [
+    {
+      "postalCode": "210101",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sar-e Pol - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-SAR-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sar-e Pol District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-210101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "210201",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sar-e Pol - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-SAR-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sar-e Pol District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-210201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "210301",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sar-e Pol - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-SAR-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sar-e Pol District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-210301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "210401",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sar-e Pol - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-SAR-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sar-e Pol District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-210401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "210501",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sar-e Pol - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-SAR-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sar-e Pol District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-210501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215101",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Kohestanat District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-51"
+      },
+      "locality": {
+        "nameEn": "Kohestanat Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohestanat District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215201",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Balkhab District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-52"
+      },
+      "locality": {
+        "nameEn": "Balkhab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Balkhab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215301",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sancharak(sangchark) District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-53"
+      },
+      "locality": {
+        "nameEn": "Sancharak(sangchark) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sancharak(sangchark) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215401",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sozmaqala District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-54"
+      },
+      "locality": {
+        "nameEn": "Sozmaqala Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sozmaqala District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215501",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Gosfandi District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-55"
+      },
+      "locality": {
+        "nameEn": "Gosfandi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gosfandi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215601",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Sayad District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-56"
+      },
+      "locality": {
+        "nameEn": "Sayad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sayad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215701",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Al-Fath District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-57"
+      },
+      "locality": {
+        "nameEn": "Al-Fath Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Al-Fath District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215801",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Al-Badr District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-58"
+      },
+      "locality": {
+        "nameEn": "Al-Badr Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Al-Badr District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "215901",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Al-Jihad District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-59"
+      },
+      "locality": {
+        "nameEn": "Al-Jihad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Al-Jihad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-215901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "216001",
+      "province": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل",
+        "code": "AF-SAR",
+        "postalPrefix": "21"
+      },
+      "city": {
+        "nameEn": "Sar-e Pol",
+        "nameNative": "سرپل"
+      },
+      "district": {
+        "nameEn": "Syed Abad District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAR-60"
+      },
+      "locality": {
+        "nameEn": "Syed Abad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Syed Abad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.8833,
+        "longitude": 65.9333
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-216001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

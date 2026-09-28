@@ -1,0 +1,2899 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Ampara",
+    "nameSi": "අම්පාර",
+    "nameTa": "அம்பாறை",
+    "administrativeType": "District",
+    "code": "LK-52"
+  },
+  "province": {
+    "nameEn": "Eastern Province",
+    "nameSi": "නැගෙනහිර පළාත",
+    "nameTa": "கிழக்கு மாகாணம்",
+    "code": "LK-5"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Addalachchenai",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Akkaraipattu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Alayadiwembu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Ampara",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Damana",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Dehiattakandiya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kalmunai Muslim",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kalmunai Tamil",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Karaitivu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Lahugala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Maha Oya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Namal Oya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Nawithanveli",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Ninthavur",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Padiyathalawa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Pothuvil",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Sainthamaruthu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Sammanthurai",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thirukkovil",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Uhana",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 42,
+    "totalRecords": 42,
+    "dsDivisionCount": 20
+  },
+  "postcodes": [
+    {
+      "postcode": "32000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": {
+            "nameEn": "Ampara",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "AMPARA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "city": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "postcode": "32000",
+          "postOffice": {
+            "nameEn": "Ampara Post Office",
+            "nameSi": "අම්පාර තැපැල් කාර්යාලය",
+            "nameTa": "அம்பாறை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32000"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32006",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEEGAWAPIYA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Deegawapiya",
+            "nameSi": "දීඝවාපිය",
+            "nameTa": "தீகவாபி"
+          },
+          "city": {
+            "nameEn": "Deegawapiya",
+            "nameSi": "දීඝවාපිය",
+            "nameTa": "தீகவாபி"
+          },
+          "postcode": "32006",
+          "postOffice": {
+            "nameEn": "Deegawapiya Post Office",
+            "nameSi": "දීඝවාපිය තැපැල් කාර්යාලය",
+            "nameTa": "தீகவாபி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32006"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32008",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIGAMADULLA WEERAGODA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Digamadulla Weeragoda",
+            "nameSi": "දිගාමඩුල්ල වීරගොඩ",
+            "nameTa": "திகாமடுள்ள வீரகொட"
+          },
+          "city": {
+            "nameEn": "Digamadulla Weeragoda",
+            "nameSi": "දිගාමඩුල්ල වීරගොඩ",
+            "nameTa": "திகாமடுள்ள வீரகொட"
+          },
+          "postcode": "32008",
+          "postOffice": {
+            "nameEn": "Digamadulla Weeragoda Post Office",
+            "nameSi": "දිගාමඩුල්ල වීරගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "திகாமடுள்ள வீரகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32008"
+          },
+          "coordinates": {
+            "latitude": 7.3901254,
+            "longitude": 81.6965876
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32022",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANNALAGAMA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Pannalagama",
+            "nameSi": "පන්නලගම",
+            "nameTa": "பன்னலகம"
+          },
+          "city": {
+            "nameEn": "Pannalagama",
+            "nameSi": "පන්නලගම",
+            "nameTa": "பன்னலகம"
+          },
+          "postcode": "32022",
+          "postOffice": {
+            "nameEn": "Pannalagama Post Office",
+            "nameSi": "පන්නලගම තැපැල් කාර්යාලය",
+            "nameTa": "பன்னலகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32022"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32024",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BAKMITIYAWA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Bakmitiyawa",
+            "nameSi": "බක්මිටියාව",
+            "nameTa": "பக்மிடியாவ"
+          },
+          "city": {
+            "nameEn": "Bakmitiyawa",
+            "nameSi": "බක්මිටියාව",
+            "nameTa": "பக்மிடியாவ"
+          },
+          "postcode": "32024",
+          "postOffice": {
+            "nameEn": "Bakmitiyawa Post Office",
+            "nameSi": "බක්මිටියාව තැපැල් කාර්යාලය",
+            "nameTa": "பக்மிடியாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32024"
+          },
+          "coordinates": {
+            "latitude": 7.0296318,
+            "longitude": 81.6802054
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32031",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PARAGAHAKELE",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Paragahakele",
+            "nameSi": "පරගහකැලේ",
+            "nameTa": "பரகஹகலே"
+          },
+          "city": {
+            "nameEn": "Paragahakele",
+            "nameSi": "පරගහකැලේ",
+            "nameTa": "பரகஹகலே"
+          },
+          "postcode": "32031",
+          "postOffice": {
+            "nameEn": "Paragahakele Post Office",
+            "nameSi": "පරගහකැලේ තැපැල් කාර්යාලය",
+            "nameTa": "பரகஹகலே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32031"
+          },
+          "coordinates": {
+            "latitude": 7.2577705,
+            "longitude": 81.6089873
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32032",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "POLWAGA JANAPADAYA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Polwaga Janapadaya",
+            "nameSi": "පොල්වග ජනපදය",
+            "nameTa": "போல்வக ஜனபதய"
+          },
+          "city": {
+            "nameEn": "Polwaga Janapadaya",
+            "nameSi": "පොල්වග ජනපදය",
+            "nameTa": "போல்வக ஜனபதய"
+          },
+          "postcode": "32032",
+          "postOffice": {
+            "nameEn": "Polwaga Janapadaya Post Office",
+            "nameSi": "පොල්වග ජනපදය තැපැල් කාර්යාලය",
+            "nameTa": "போல்வக ஜனபதய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32032"
+          },
+          "coordinates": {
+            "latitude": 7.243447,
+            "longitude": 81.5569003
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32034",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PAHALALANDA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Pahalalanda",
+            "nameSi": "පහලලන්ද",
+            "nameTa": "பஹலாலண்ட"
+          },
+          "city": {
+            "nameEn": "Pahalalanda",
+            "nameSi": "පහලලන්ද",
+            "nameTa": "பஹலாலண்ட"
+          },
+          "postcode": "32034",
+          "postOffice": {
+            "nameEn": "Pahalalanda Post Office",
+            "nameSi": "පහලලන්ද තැපැල් කාර්යාලය",
+            "nameTa": "பஹலாலண்ட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32034"
+          },
+          "coordinates": {
+            "latitude": 7.2226881,
+            "longitude": 81.5898016
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32035",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOKNAHARA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Koknahara",
+            "nameSi": "කොක්නහර",
+            "nameTa": "கோக்னஹாரா"
+          },
+          "city": {
+            "nameEn": "Koknahara",
+            "nameSi": "කොක්නහර",
+            "nameTa": "கோக்னஹாரா"
+          },
+          "postcode": "32035",
+          "postOffice": {
+            "nameEn": "Koknahara Post Office",
+            "nameSi": "කොක්නහර තැපැල් කාර්යාලය",
+            "nameTa": "கோக்னஹாரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32035"
+          },
+          "coordinates": {
+            "latitude": 7.2239081,
+            "longitude": 81.5623474
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32037",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAMALOYA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Namaloya",
+            "nameSi": "නාමල්ඔය",
+            "nameTa": "நாமல் ஓய"
+          },
+          "city": {
+            "nameEn": "Namaloya",
+            "nameSi": "නාමල්ඔය",
+            "nameTa": "நாமல் ஓய"
+          },
+          "postcode": "32037",
+          "postOffice": {
+            "nameEn": "Namaloya Post Office",
+            "nameSi": "නාමල්ඔය තැපැල් කාර්යාලය",
+            "nameTa": "நாமல் ஓய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32037"
+          },
+          "coordinates": {
+            "latitude": 7.3311927,
+            "longitude": 81.5322149
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32038",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEVALAHINDA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Devalahinda",
+            "nameSi": "දෙවලහිඳ",
+            "nameTa": "தேவாலஹிந்தா"
+          },
+          "city": {
+            "nameEn": "Devalahinda",
+            "nameSi": "දෙවලහිඳ",
+            "nameTa": "தேவாலஹிந்தா"
+          },
+          "postcode": "32038",
+          "postOffice": {
+            "nameEn": "Devalahinda Post Office",
+            "nameSi": "දෙවලහිඳ තැපැල් කාර්යාලය",
+            "nameTa": "தேவாலஹிந்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32038"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32039",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WADINAGALA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Wadinagala",
+            "nameSi": "වඩිනාගල",
+            "nameTa": "வடினாகல"
+          },
+          "city": {
+            "nameEn": "Wadinagala",
+            "nameSi": "වඩිනාගල",
+            "nameTa": "வடினாகல"
+          },
+          "postcode": "32039",
+          "postOffice": {
+            "nameEn": "Wadinagala Post Office",
+            "nameSi": "වඩිනාගල තැපැල් කාර්යාලය",
+            "nameTa": "வடினாகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32039"
+          },
+          "coordinates": {
+            "latitude": 7.1263147,
+            "longitude": 81.5733528
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32060",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": {
+            "nameEn": "Uhana",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "UHANA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Uhana",
+            "nameSi": "උහන",
+            "nameTa": "உஹன"
+          },
+          "city": {
+            "nameEn": "Uhana",
+            "nameSi": "උහන",
+            "nameTa": "உஹன"
+          },
+          "postcode": "32060",
+          "postOffice": {
+            "nameEn": "Uhana Post Office",
+            "nameSi": "උහන තැපැල් කාර්යාලය",
+            "nameTa": "உஹன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32060"
+          },
+          "coordinates": {
+            "latitude": 7.363036,
+            "longitude": 81.635277
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32064",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GONAGOLLA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Gonagolla",
+            "nameSi": "ගොනගොල්ල",
+            "nameTa": "கோனாகொல்லா"
+          },
+          "city": {
+            "nameEn": "Gonagolla",
+            "nameSi": "ගොනගොල්ල",
+            "nameTa": "கோனாகொல்லா"
+          },
+          "postcode": "32064",
+          "postOffice": {
+            "nameEn": "Gonagolla Post Office",
+            "nameSi": "ගොනගොල්ල තැපැල් කාර්යාලය",
+            "nameTa": "கோனாகொல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32064"
+          },
+          "coordinates": {
+            "latitude": 7.4303735,
+            "longitude": 81.5589252
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32070",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAHAOYA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Mahaoya",
+            "nameSi": "මහඔය",
+            "nameTa": "மகா ஓயா"
+          },
+          "city": {
+            "nameEn": "Mahaoya",
+            "nameSi": "මහඔය",
+            "nameTa": "மகா ஓயா"
+          },
+          "postcode": "32070",
+          "postOffice": {
+            "nameEn": "Mahaoya Post Office",
+            "nameSi": "මහඔය තැපැල් කාර්යාලය",
+            "nameTa": "மகா ஓயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32070"
+          },
+          "coordinates": {
+            "latitude": 7.531216,
+            "longitude": 81.3560952
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32072",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TEMPITIYA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Tempitiya",
+            "nameSi": "ටැම්පිටිය",
+            "nameTa": "தெம்பிட்டிய"
+          },
+          "city": {
+            "nameEn": "Tempitiya",
+            "nameSi": "ටැම්පිටිය",
+            "nameTa": "தெம்பிட்டிய"
+          },
+          "postcode": "32072",
+          "postOffice": {
+            "nameEn": "Tempitiya Post Office",
+            "nameSi": "ටැම්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "தெம்பிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32072"
+          },
+          "coordinates": {
+            "latitude": 7.6228935,
+            "longitude": 81.3729372
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32074",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KEKIRIHENA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Kekirihena",
+            "nameSi": "කැකිරිහේන",
+            "nameTa": "கெகிரிஹேன"
+          },
+          "city": {
+            "nameEn": "Kekirihena",
+            "nameSi": "කැකිරිහේන",
+            "nameTa": "கெகிரிஹேன"
+          },
+          "postcode": "32074",
+          "postOffice": {
+            "nameEn": "Kekirihena Post Office",
+            "nameSi": "කැකිරිහේන තැපැල් කාර්යාලය",
+            "nameTa": "கெகிரிஹேன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32074"
+          },
+          "coordinates": {
+            "latitude": 7.5074545,
+            "longitude": 81.3351284
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PADIYATALAWA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Padiyatalawa",
+            "nameSi": "පදියතලාව",
+            "nameTa": "பதியதலாவ"
+          },
+          "city": {
+            "nameEn": "Padiyatalawa",
+            "nameSi": "පදියතලාව",
+            "nameTa": "பதியதலாவ"
+          },
+          "postcode": "32100",
+          "postOffice": {
+            "nameEn": "Padiyatalawa Post Office",
+            "nameSi": "පදියතලාව තැපැල් කාර්යාලය",
+            "nameTa": "பதியதலாவ தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32100"
+          },
+          "coordinates": {
+            "latitude": 7.3925126,
+            "longitude": 81.2436227
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32101",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SERANKADA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Serankada",
+            "nameSi": "සේරන්කද",
+            "nameTa": "சேரன்காடா"
+          },
+          "city": {
+            "nameEn": "Serankada",
+            "nameSi": "සේරන්කද",
+            "nameTa": "சேரன்காடா"
+          },
+          "postcode": "32101",
+          "postOffice": {
+            "nameEn": "Serankada Post Office",
+            "nameSi": "සේරන්කද තැපැල් කාර්යාලය",
+            "nameTa": "சேரன்காடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32101"
+          },
+          "coordinates": {
+            "latitude": 7.4567753,
+            "longitude": 81.2787242
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32102",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOLAMANTHALAWA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Kolamanthalawa",
+            "nameSi": "කෝලමන්තලාව",
+            "nameTa": "கொலமந்தலாவ"
+          },
+          "city": {
+            "nameEn": "Kolamanthalawa",
+            "nameSi": "කෝලමන්තලාව",
+            "nameTa": "கொலமந்தலாவ"
+          },
+          "postcode": "32102",
+          "postOffice": {
+            "nameEn": "Kolamanthalawa Post Office",
+            "nameSi": "කෝලමන්තලාව තැපැල් කාර්යාලය",
+            "nameTa": "கொலமந்தலாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32102"
+          },
+          "coordinates": {
+            "latitude": 7.2942916,
+            "longitude": 81.2794123
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32104",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DORAKUMBURA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Dorakumbura",
+            "nameSi": "දොරකුඹුර",
+            "nameTa": "டோரகும்புரா"
+          },
+          "city": {
+            "nameEn": "Dorakumbura",
+            "nameSi": "දොරකුඹුර",
+            "nameTa": "டோரகும்புரா"
+          },
+          "postcode": "32104",
+          "postOffice": {
+            "nameEn": "Dorakumbura Post Office",
+            "nameSi": "දොරකුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "டோரகும்புரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32104"
+          },
+          "coordinates": {
+            "latitude": 7.3588697,
+            "longitude": 81.3014284
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SAMANTHURAI",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Samanthurai",
+            "nameSi": "සමන්තුරේ",
+            "nameTa": "சம்மாந்துறை"
+          },
+          "city": {
+            "nameEn": "Samanthurai",
+            "nameSi": "සමන්තුරේ",
+            "nameTa": "சம்மாந்துறை"
+          },
+          "postcode": "32200",
+          "postOffice": {
+            "nameEn": "Samanthurai Post Office",
+            "nameSi": "සමන්තුරේ තැපැල් කාර්යාලය",
+            "nameTa": "சம்மாந்துறை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32200"
+          },
+          "coordinates": {
+            "latitude": 7.3574841,
+            "longitude": 81.7951054
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARATIVU",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Karativu",
+            "nameSi": "කරතිව්",
+            "nameTa": "காரைதீவு"
+          },
+          "city": {
+            "nameEn": "Karativu",
+            "nameSi": "කරතිව්",
+            "nameTa": "காரைதீவு"
+          },
+          "postcode": "32250",
+          "postOffice": {
+            "nameEn": "Karativu Post Office",
+            "nameSi": "කරතිව් තැපැල් කාර්යාලය",
+            "nameTa": "காரைதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32250"
+          },
+          "coordinates": {
+            "latitude": 7.3770282,
+            "longitude": 81.8415065
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32280",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": {
+            "nameEn": "Sainthamaruthu",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "SAINTHAMARUTHU",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Sainthamaruthu",
+            "nameSi": "සායින්දමරුදු",
+            "nameTa": "சாய்ந்தமருது"
+          },
+          "city": {
+            "nameEn": "Sainthamaruthu",
+            "nameSi": "සායින්දමරුදු",
+            "nameTa": "சாய்ந்தமருது"
+          },
+          "postcode": "32280",
+          "postOffice": {
+            "nameEn": "Sainthamaruthu Post Office",
+            "nameSi": "සායින්දමරුදු තැපැල් කාර්යාලය",
+            "nameTa": "சாய்ந்தமருது தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32280"
+          },
+          "coordinates": {
+            "latitude": 7.3930492,
+            "longitude": 81.8360977
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALMUNAI",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Kalmunai",
+            "nameSi": "කල්මුණේ",
+            "nameTa": "கல்முனை"
+          },
+          "city": {
+            "nameEn": "Kalmunai",
+            "nameSi": "කල්මුණේ",
+            "nameTa": "கல்முனை"
+          },
+          "postcode": "32300",
+          "postOffice": {
+            "nameEn": "Kalmunai Post Office",
+            "nameSi": "කල්මුණේ තැපැල් කාර්යාලය",
+            "nameTa": "கல்முனை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32300"
+          },
+          "coordinates": {
+            "latitude": 7.3956781,
+            "longitude": 81.8333656
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32308",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAVITHANVELI",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Navithanveli",
+            "nameSi": "නාවිදන්වෙලි",
+            "nameTa": "நாவிதன்வெளி"
+          },
+          "city": {
+            "nameEn": "Navithanveli",
+            "nameSi": "නාවිදන්වෙලි",
+            "nameTa": "நாவிதன்வெளி"
+          },
+          "postcode": "32308",
+          "postOffice": {
+            "nameEn": "Navithanveli Post Office",
+            "nameSi": "නාවිදන්වෙලි තැපැල් කාර්යාලය",
+            "nameTa": "நாவிதன்வெளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32308"
+          },
+          "coordinates": {
+            "latitude": 7.4257726,
+            "longitude": 81.7745699
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32314",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MARATHAMUNE",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Marathamune",
+            "nameSi": "මාරත්මුනේ",
+            "nameTa": "மருதமுனை"
+          },
+          "city": {
+            "nameEn": "Marathamune",
+            "nameSi": "මාරත්මුනේ",
+            "nameTa": "மருதமுனை"
+          },
+          "postcode": "32314",
+          "postOffice": {
+            "nameEn": "Marathamune Post Office",
+            "nameSi": "මාරත්මුනේ තැපැල් කාර්යාලය",
+            "nameTa": "மருதமுனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32314"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32316",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PERIYANEELAVANAI",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Periyaneelavanai",
+            "nameSi": "පෙරියනීලවන්නි",
+            "nameTa": "பெரியநீலாவணை"
+          },
+          "city": {
+            "nameEn": "Periyaneelavanai",
+            "nameSi": "පෙරියනීලවන්නි",
+            "nameTa": "பெரியநீலாவணை"
+          },
+          "postcode": "32316",
+          "postOffice": {
+            "nameEn": "Periyaneelavanai Post Office",
+            "nameSi": "පෙරියනීලවන්නි තැපැල් කාර්යාලය",
+            "nameTa": "பெரியநீலாவணை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32316"
+          },
+          "coordinates": {
+            "latitude": 7.451606,
+            "longitude": 81.814238
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32340",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NINTAVUR",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Nintavur",
+            "nameSi": "නින්දවූර්",
+            "nameTa": "நிந்தவூர்"
+          },
+          "city": {
+            "nameEn": "Nintavur",
+            "nameSi": "නින්දවූර්",
+            "nameTa": "நிந்தவூர்"
+          },
+          "postcode": "32340",
+          "postOffice": {
+            "nameEn": "Nintavur Post Office",
+            "nameSi": "නින්දවූර් තැපැල් කාර්යාලය",
+            "nameTa": "நிந்தவூர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32340"
+          },
+          "coordinates": {
+            "latitude": 7.321168,
+            "longitude": 81.8578523
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32360",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "OLUVIL",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Oluvil",
+            "nameSi": "ඔළුවිල",
+            "nameTa": "ஒலுவில்"
+          },
+          "city": {
+            "nameEn": "Oluvil",
+            "nameSi": "ඔළුවිල",
+            "nameTa": "ஒலுவில்"
+          },
+          "postcode": "32360",
+          "postOffice": {
+            "nameEn": "Oluvil Post Office",
+            "nameSi": "ඔළුවිල තැපැල් කාර්යාලය",
+            "nameTa": "ஒலுவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32360"
+          },
+          "coordinates": {
+            "latitude": 7.2944473,
+            "longitude": 81.8606821
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": {
+            "nameEn": "Akkaraipattu",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "AKKARAIPATTU",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Akkaraipattu",
+            "nameSi": "අක්කරපත්තුව",
+            "nameTa": "அக்கரைப்பற்று"
+          },
+          "city": {
+            "nameEn": "Akkaraipattu",
+            "nameSi": "අක්කරපත්තුව",
+            "nameTa": "அக்கரைப்பற்று"
+          },
+          "postcode": "32400",
+          "postOffice": {
+            "nameEn": "Akkaraipattu Post Office",
+            "nameSi": "අක්කරපත්තුව තැපැල් කාර්යාලය",
+            "nameTa": "அக்கரைப்பற்று தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32400"
+          },
+          "coordinates": {
+            "latitude": 7.2184279,
+            "longitude": 81.8541161
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32405",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANNAKIPURAM",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Kannakipuram",
+            "nameSi": "කන්නකිපුරම්",
+            "nameTa": "கண்ணகிபுரம்"
+          },
+          "city": {
+            "nameEn": "Kannakipuram",
+            "nameSi": "කන්නකිපුරම්",
+            "nameTa": "கண்ணகிபுரம்"
+          },
+          "postcode": "32405",
+          "postOffice": {
+            "nameEn": "Kannakipuram Post Office",
+            "nameSi": "කන්නකිපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "கண்ணகிபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32405"
+          },
+          "coordinates": {
+            "latitude": 7.4935021,
+            "longitude": 81.7957888
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32415",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THAMBILUVIL",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Thambiluvil",
+            "nameSi": "තම්බිලුවිල්",
+            "nameTa": "தம்பிலுவில்"
+          },
+          "city": {
+            "nameEn": "Thambiluvil",
+            "nameSi": "තම්බිලුවිල්",
+            "nameTa": "தம்பிலுவில்"
+          },
+          "postcode": "32415",
+          "postOffice": {
+            "nameEn": "Thambiluvil Post Office",
+            "nameSi": "තම්බිලුවිල් තැපැල් කාර්යාලය",
+            "nameTa": "தம்பிலுவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32415"
+          },
+          "coordinates": {
+            "latitude": 7.1285122,
+            "longitude": 81.8486164
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32418",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOMARI",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Komari",
+            "nameSi": "කෝමාරි",
+            "nameTa": "கோமாரி"
+          },
+          "city": {
+            "nameEn": "Komari",
+            "nameSi": "කෝමාරි",
+            "nameTa": "கோமாரி"
+          },
+          "postcode": "32418",
+          "postOffice": {
+            "nameEn": "Komari Post Office",
+            "nameSi": "කෝමාරි තැපැල් කාර්යාලය",
+            "nameTa": "கோமாரி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32418"
+          },
+          "coordinates": {
+            "latitude": 6.9862603,
+            "longitude": 81.8647787
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32420",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TIRUKOVIL",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Tirukovil",
+            "nameSi": "තිරුකෝවිල",
+            "nameTa": "திருக்கோவில்"
+          },
+          "city": {
+            "nameEn": "Tirukovil",
+            "nameSi": "තිරුකෝවිල",
+            "nameTa": "திருக்கோவில்"
+          },
+          "postcode": "32420",
+          "postOffice": {
+            "nameEn": "Tirukovil Post Office",
+            "nameSi": "තිරුකෝවිල තැපැල් කාර්යාලය",
+            "nameTa": "திருக்கோவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32420"
+          },
+          "coordinates": {
+            "latitude": 7.1153122,
+            "longitude": 81.8524882
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32450",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IRAKKAMAM",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Irakkamam",
+            "nameSi": "ඉරක්කමම්",
+            "nameTa": "இறக்காமம்"
+          },
+          "city": {
+            "nameEn": "Irakkamam",
+            "nameSi": "ඉරක්කමම්",
+            "nameTa": "இறக்காமம்"
+          },
+          "postcode": "32450",
+          "postOffice": {
+            "nameEn": "Irakkamam Post Office",
+            "nameSi": "ඉරක්කමම් තැපැල් කාර්යාලය",
+            "nameTa": "இறக்காமம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32450"
+          },
+          "coordinates": {
+            "latitude": 7.2442442,
+            "longitude": 81.7458845
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32454",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WANAGAMUWA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Wanagamuwa",
+            "nameSi": "වනගමුව",
+            "nameTa": "வணகமுவ"
+          },
+          "city": {
+            "nameEn": "Wanagamuwa",
+            "nameSi": "වනගමුව",
+            "nameTa": "வணகமுவ"
+          },
+          "postcode": "32454",
+          "postOffice": {
+            "nameEn": "Wanagamuwa Post Office",
+            "nameSi": "වනගමුව තැපැල් කාර්යාලය",
+            "nameTa": "வணகமுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32454"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "POTTUVIL",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Pottuvil",
+            "nameSi": "පොතුවිල්",
+            "nameTa": "பொத்துவில்"
+          },
+          "city": {
+            "nameEn": "Pottuvil",
+            "nameSi": "පොතුවිල්",
+            "nameTa": "பொத்துவில்"
+          },
+          "postcode": "32500",
+          "postOffice": {
+            "nameEn": "Pottuvil Post Office",
+            "nameSi": "පොතුවිල් තැපැල් කාර්යාලය",
+            "nameTa": "பொத்துவில் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32500"
+          },
+          "coordinates": {
+            "latitude": 6.8752706,
+            "longitude": 81.8306334
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32508",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANAMA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Panama",
+            "nameSi": "පානම",
+            "nameTa": "பாணம"
+          },
+          "city": {
+            "nameEn": "Panama",
+            "nameSi": "පානම",
+            "nameTa": "பாணம"
+          },
+          "postcode": "32508",
+          "postOffice": {
+            "nameEn": "Panama Post Office",
+            "nameSi": "පානම තැපැල් කාර්යාලය",
+            "nameTa": "பாணம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32508"
+          },
+          "coordinates": {
+            "latitude": 6.7580589,
+            "longitude": 81.8087721
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32512",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": {
+            "nameEn": "Lahugala",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "LAHUGALA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Lahugala",
+            "nameSi": "ලාහුගල",
+            "nameTa": "லாஹுகல"
+          },
+          "city": {
+            "nameEn": "Lahugala",
+            "nameSi": "ලාහුගල",
+            "nameTa": "லாஹுகல"
+          },
+          "postcode": "32512",
+          "postOffice": {
+            "nameEn": "Lahugala Post Office",
+            "nameSi": "ලාහුගල තැපැල් කාර්යාලය",
+            "nameTa": "லாஹுகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32512"
+          },
+          "coordinates": {
+            "latitude": 6.8720872,
+            "longitude": 81.7226298
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "32514",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HULANNUGE",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Hulannuge",
+            "nameSi": "හුලංනුගේ",
+            "nameTa": "ஹுலனுகே"
+          },
+          "city": {
+            "nameEn": "Hulannuge",
+            "nameSi": "හුලංනුගේ",
+            "nameTa": "ஹுலனுகே"
+          },
+          "postcode": "32514",
+          "postOffice": {
+            "nameEn": "Hulannuge Post Office",
+            "nameSi": "හුලංනුගේ තැපැල් කාර්යාලය",
+            "nameTa": "ஹுலனுகே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "32514"
+          },
+          "coordinates": {
+            "latitude": 6.9284717,
+            "longitude": 81.6546714
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90326",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Ampara",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை",
+            "administrativeType": "District",
+            "code": "LK-52"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMBAGAHAWATTA",
+            "nameSi": "අම්පාර",
+            "nameTa": "அம்பாறை"
+          },
+          "locality": {
+            "nameEn": "Ambagahawatta",
+            "nameSi": "අඹගහවත්ත",
+            "nameTa": "அம்பகஹவத்த"
+          },
+          "city": {
+            "nameEn": "Ambagahawatta",
+            "nameSi": "අඹගහවත්ත",
+            "nameTa": "அம்பகஹவத்த"
+          },
+          "postcode": "90326",
+          "postOffice": {
+            "nameEn": "Ambagahawatta Post Office",
+            "nameSi": "අඹගහවත්ත තැපැල් කාර්යාලය",
+            "nameTa": "அம்பகஹவத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90326"
+          },
+          "coordinates": {
+            "latitude": 7.3017563,
+            "longitude": 81.6747295
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Damietta",
+    "nameNative": "دمياط",
+    "isoCode": "EG-DT",
+    "postalPrefix": "34",
+    "capital": "Damietta",
+    "capitalNative": "دمياط",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.4175,
+      "longitude": 31.8144
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 11
+  },
+  "records": [
+    {
+      "postalCode": "34511",
+      "governorate": {
+        "nameEn": "Damietta",
+        "nameNative": "دمياط",
+        "code": "EG-DT",
+        "postalPrefix": "34",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Damietta",
+        "nameNative": "دمياط",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Damietta",
+        "nameNative": "قسم دمياط",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Nile Corniche / Harby St",
+        "nameNative": "كورنيش النيل / شارع حربي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Damietta Main Post Office",
+        "nameNative": "مكتب بريد دمياط الرئيسي",
+        "type": "Main Post Office",
+        "code": "34511"
+      },
+      "areas": [
+        "Corniche El Nil Damietta",
+        "Furniture Crafts Market",
+        "Galaa Square Damietta",
+        "Old Port"
+      ],
+      "coordinates": {
+        "latitude": 31.4175,
+        "longitude": 31.8144
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAMIETTA-34511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "34711",
+      "governorate": {
+        "nameEn": "Damietta",
+        "nameNative": "دمياط",
+        "code": "EG-DT",
+        "postalPrefix": "34",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Ras El Bar",
+        "nameNative": "رأس البر",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Ras El Bar",
+        "nameNative": "قسم رأس البر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "El Lisan / Mediterranean Shore",
+        "nameNative": "منطقة اللسان / شاطئ البحر",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Ras El Bar Post Office",
+        "nameNative": "مكتب بريد رأس البر",
+        "type": "Sub Post Office",
+        "code": "34711"
+      },
+      "areas": [
+        "El Lisan Confluence Point (Nile meets Sea)",
+        "Nile Boardwalk",
+        "Street 33-109 Resorts"
+      ],
+      "coordinates": {
+        "latitude": 31.5123,
+        "longitude": 31.8345
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAMIETTA-34711",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "34517",
+      "governorate": {
+        "nameEn": "Damietta",
+        "nameNative": "دمياط",
+        "code": "EG-DT",
+        "postalPrefix": "34",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Damietta",
+        "nameNative": "دمياط الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "New Damietta",
+        "nameNative": "قسم دمياط الجديدة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Central District / Port Zone",
+        "nameNative": "المنطقة المركزية / محيط الميناء",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "New Damietta City Post Office",
+        "nameNative": "مكتب بريد دمياط الجديدة",
+        "type": "Main Post Office",
+        "code": "34517"
+      },
+      "areas": [
+        "Damietta Seaport Hub",
+        "Damietta University",
+        "Industrial Park",
+        "Coastal Mediterranean Zone"
+      ],
+      "coordinates": {
+        "latitude": 31.4345,
+        "longitude": 31.6678
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-DAMIETTA-34517",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

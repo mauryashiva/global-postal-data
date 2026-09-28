@@ -1,0 +1,249 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "U.S. Armed Forces (Military Mail)",
+    "abbreviation": "MIL",
+    "fipsCode": "99",
+    "capital": "New York (FPO/APO Gateway)",
+    "largestCity": "APO / FPO / DPO",
+    "category": "military",
+    "administrativeType": "Military",
+    "areaCodes": [],
+    "prefixes": [
+      "090",
+      "091",
+      "092",
+      "093",
+      "094",
+      "095",
+      "096",
+      "097",
+      "098",
+      "340",
+      "962",
+      "963",
+      "964",
+      "965",
+      "966"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-MIL-09012-0",
+      "zip5": "09012",
+      "zip4": "0001",
+      "zipPlus4": "09012-0001",
+      "state": {
+        "nameEn": "U.S. Armed Forces (Military Mail)",
+        "abbreviation": "MIL",
+        "fipsCode": "99",
+        "administrativeType": "Military",
+        "category": "military"
+      },
+      "primaryCity": "APO",
+      "acceptableCities": [
+        "APO AE",
+        "Ramstein Air Base"
+      ],
+      "postalCityNames": [
+        {
+          "name": "APO AE",
+          "status": "Acceptable"
+        },
+        {
+          "name": "Ramstein Air Base",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Armed Forces Europe",
+          "fipsCode": "99001",
+          "geoid": "99001"
+        }
+      ],
+      "primaryCounty": "Armed Forces Europe",
+      "zcta": null,
+      "zipType": "MILITARY",
+      "militaryOffice": {
+        "code": "AE",
+        "region": "Europe / Middle East / Africa",
+        "baseName": "Ramstein Air Base (Germany)",
+        "postalGateway": "New York APO"
+      },
+      "postOffice": {
+        "name": "Ramstein Air Base Military Post Office",
+        "address": "Building 2106 Ramstein AB",
+        "phone": "DSN 480-7857",
+        "type": "Military Post Office (APO)"
+      },
+      "coordinates": {
+        "latitude": 49.4369,
+        "longitude": 7.6003,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": []
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 8,
+        "deliveryPoints": 12000
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MIL-09012",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MIL-96201-1",
+      "zip5": "96201",
+      "zip4": "0001",
+      "zipPlus4": "96201-0001",
+      "state": {
+        "nameEn": "U.S. Armed Forces (Military Mail)",
+        "abbreviation": "MIL",
+        "fipsCode": "99",
+        "administrativeType": "Military",
+        "category": "military"
+      },
+      "primaryCity": "APO",
+      "acceptableCities": [
+        "APO AP",
+        "Yongsan / Camp Humphreys"
+      ],
+      "postalCityNames": [
+        {
+          "name": "APO AP",
+          "status": "Acceptable"
+        },
+        {
+          "name": "Yongsan / Camp Humphreys",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Armed Forces Pacific",
+          "fipsCode": "99002",
+          "geoid": "99002"
+        }
+      ],
+      "primaryCounty": "Armed Forces Pacific",
+      "zcta": null,
+      "zipType": "MILITARY",
+      "militaryOffice": {
+        "code": "AP",
+        "region": "Pacific / Asia",
+        "baseName": "Camp Humphreys (South Korea)",
+        "postalGateway": "San Francisco APO"
+      },
+      "postOffice": {
+        "name": "Camp Humphreys Military Post Office",
+        "address": "Bldg 578 Camp Humphreys",
+        "phone": "DSN 753-7313",
+        "type": "Military Post Office (APO)"
+      },
+      "coordinates": {
+        "latitude": 36.9634,
+        "longitude": 127.0315,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": []
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 6,
+        "deliveryPoints": 8500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MIL-96201",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MIL-34011-2",
+      "zip5": "34011",
+      "zip4": "0001",
+      "zipPlus4": "34011-0001",
+      "state": {
+        "nameEn": "U.S. Armed Forces (Military Mail)",
+        "abbreviation": "MIL",
+        "fipsCode": "99",
+        "administrativeType": "Military",
+        "category": "military"
+      },
+      "primaryCity": "FPO",
+      "acceptableCities": [
+        "FPO AA",
+        "Naval Station Guantanamo"
+      ],
+      "postalCityNames": [
+        {
+          "name": "FPO AA",
+          "status": "Acceptable"
+        },
+        {
+          "name": "Naval Station Guantanamo",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Armed Forces Americas",
+          "fipsCode": "99003",
+          "geoid": "99003"
+        }
+      ],
+      "primaryCounty": "Armed Forces Americas",
+      "zcta": null,
+      "zipType": "MILITARY",
+      "militaryOffice": {
+        "code": "AA",
+        "region": "Americas (except Canada)",
+        "baseName": "Guantanamo Bay Naval Station",
+        "postalGateway": "Miami FPO"
+      },
+      "postOffice": {
+        "name": "Naval Station Fleet Post Office",
+        "address": "Bldg 760 Naval Station",
+        "phone": "DSN 660-2212",
+        "type": "Fleet Post Office (FPO)"
+      },
+      "coordinates": {
+        "latitude": 19.9078,
+        "longitude": -75.1611,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": []
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 4,
+        "deliveryPoints": 4200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MIL-34011",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

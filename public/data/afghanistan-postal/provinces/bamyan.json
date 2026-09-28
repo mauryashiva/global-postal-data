@@ -1,0 +1,441 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Bamyan",
+    "nameNative": "بامیان",
+    "isoCode": "AF-BAM",
+    "postalPrefix": "16",
+    "capital": "Bamyan",
+    "capitalNative": "بامیان",
+    "coordinates": {
+      "latitude": 34.81,
+      "longitude": 67.8212
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 11,
+    "totalRecords": 11,
+    "urbanRecords": 4,
+    "ruralRecords": 7
+  },
+  "records": [
+    {
+      "postalCode": "160101",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Bamyan - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-BAM-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bamyan District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-160101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "160201",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Bamyan - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-BAM-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bamyan District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-160201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "160301",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Bamyan - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-BAM-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bamyan District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-160301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "160401",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Bamyan - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-BAM-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bamyan District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-160401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165101",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Yakawlang District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-51"
+      },
+      "locality": {
+        "nameEn": "Yakawlang Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yakawlang District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165201",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Panjab District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-52"
+      },
+      "locality": {
+        "nameEn": "Panjab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Panjab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165301",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Waras District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-53"
+      },
+      "locality": {
+        "nameEn": "Waras Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Waras District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165401",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Sayghan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-54"
+      },
+      "locality": {
+        "nameEn": "Sayghan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sayghan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165501",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Shibar District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-55"
+      },
+      "locality": {
+        "nameEn": "Shibar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shibar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165601",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Kahmard District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-56"
+      },
+      "locality": {
+        "nameEn": "Kahmard Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kahmard District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "165701",
+      "province": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان",
+        "code": "AF-BAM",
+        "postalPrefix": "16"
+      },
+      "city": {
+        "nameEn": "Bamyan",
+        "nameNative": "بامیان"
+      },
+      "district": {
+        "nameEn": "Yakawlang-i-No2 District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAM-57"
+      },
+      "locality": {
+        "nameEn": "Yakawlang-i-No2 Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yakawlang-i-No2 District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.81,
+        "longitude": 67.8212
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-165701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

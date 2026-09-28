@@ -1,0 +1,78 @@
+{
+  "prefix": "602",
+  "records": [
+    {
+      "postalCode": "6020000",
+      "postalCodeFormatted": "602-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26102",
+        "nameEn": "Kyoto Kamigyo Ward",
+        "nameJa": "京都市上京区",
+        "nameKana": "キョウトシカミギョウク",
+        "nameRomaji": "Kyoto-shi Kamigyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": true
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "6020000",
+      "postalCodeFormatted": "602-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "26",
+      "prefectureNameEn": "Kyoto",
+      "prefectureNameJa": "京都府",
+      "prefectureNameKana": "キョウトフ",
+      "prefectureNameRomaji": "Kyoto-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "26102",
+        "nameEn": "Kyoto Kamigyo Ward",
+        "nameJa": "京都市上京区",
+        "nameKana": "キョウトシカミギョウク",
+        "nameRomaji": "Kyoto-shi Kamigyo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "京都市",
+        "parentCityEn": "Kyoto City"
+      },
+      "townArea": {
+        "nameEn": "Kyoto Gyoen National Garden",
+        "nameJa": "京都御苑",
+        "nameKana": "キョウトギョエン",
+        "nameRomaji": "Kyoto Gyoen",
+        "type": "NormalTownArea",
+        "landmarkEn": "Kyoto Imperial Palace Grounds (京都御所)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": true
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

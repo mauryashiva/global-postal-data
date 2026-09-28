@@ -1,0 +1,94 @@
+{
+  "dataset": "Canada Postal Code & Address Master",
+  "datasetVersion": "2026.1.0",
+  "generatedAt": "2026-09-28T07:36:01.012Z",
+  "overallStatus": "PASS",
+  "checks": [
+    {
+      "check": "Exactly 10 provinces",
+      "passed": true
+    },
+    {
+      "check": "Exactly 3 territories",
+      "passed": true
+    },
+    {
+      "check": "Total divisions = 13",
+      "passed": true
+    },
+    {
+      "check": "Every province has correct code & SGC code",
+      "passed": true
+    },
+    {
+      "check": "Every territory has correct code & SGC code",
+      "passed": true
+    },
+    {
+      "check": "Yukon uses current official name",
+      "passed": true
+    },
+    {
+      "check": "Postal codes have exactly 6 characters normalized",
+      "passed": true
+    },
+    {
+      "check": "Canonical display format is ANA NAN",
+      "passed": true
+    },
+    {
+      "check": "No invalid postal characters (D, F, I, O, Q, U)",
+      "passed": true
+    },
+    {
+      "check": "No invalid first characters (W, Z)",
+      "passed": true
+    },
+    {
+      "check": "FSA correctly extracted",
+      "passed": true
+    },
+    {
+      "check": "Rural postal codes preserved (0 in second char)",
+      "passed": true
+    },
+    {
+      "check": "Postal Box records preserved",
+      "passed": true
+    },
+    {
+      "check": "Rural Route records preserved",
+      "passed": true
+    },
+    {
+      "check": "General Delivery records preserved",
+      "passed": true
+    },
+    {
+      "check": "Multiple legitimate records preserved for one postal code",
+      "passed": true
+    },
+    {
+      "check": "Source metadata exists with real dates",
+      "passed": true
+    },
+    {
+      "check": "No fabrication of data",
+      "passed": true
+    },
+    {
+      "check": "Zero validation errors encountered during parsing",
+      "passed": true
+    }
+  ],
+  "failures": [],
+  "sourceConflicts": [],
+  "statistics": {
+    "uniquePostalCodes": 80,
+    "totalRecords": 82,
+    "fsaCount": 63,
+    "postalBoxRecords": 7,
+    "ruralRouteRecords": 13,
+    "generalDeliveryRecords": 6
+  }
+}

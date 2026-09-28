@@ -1,0 +1,436 @@
+{
+  "country": {
+    "nameEn": "Afghanistan",
+    "nameNative": "افغانستان",
+    "isoAlpha2": "AF",
+    "isoAlpha3": "AFG",
+    "isoNumeric": "004",
+    "phoneCode": "+93",
+    "flag": "🇦🇫"
+  },
+  "postalCode": {
+    "length": 6,
+    "numeric": true,
+    "format": "######",
+    "regex": "^[0-9]{6}$",
+    "prefixRange": "10-43",
+    "structure": {
+      "digits1_2": "Province (10-43)",
+      "digits3_4": "City District or Rural District (01-50 for City, 51-99 for Rural)",
+      "digits5_6": "Postal Delivery Zone (01-99)"
+    }
+  },
+  "administrativeSummary": {
+    "provinceCount": 34,
+    "provinces": [
+      {
+        "province": "Badakhshan",
+        "native": "بدخشان",
+        "prefix": "34",
+        "slug": "badakhshan",
+        "capital": "Fayzabad",
+        "uniquePostalCodes": 35,
+        "totalRecords": 35,
+        "file": "provinces/badakhshan.json"
+      },
+      {
+        "province": "Badghis",
+        "native": "بادغیس",
+        "prefix": "33",
+        "slug": "badghis",
+        "capital": "Qala i Naw",
+        "uniquePostalCodes": 15,
+        "totalRecords": 15,
+        "file": "provinces/badghis.json"
+      },
+      {
+        "province": "Baghlan",
+        "native": "بغلان",
+        "prefix": "36",
+        "slug": "baghlan",
+        "capital": "Puli Khumri",
+        "uniquePostalCodes": 21,
+        "totalRecords": 21,
+        "file": "provinces/baghlan.json"
+      },
+      {
+        "province": "Balkh",
+        "native": "بلخ",
+        "prefix": "17",
+        "slug": "balkh",
+        "capital": "Mazar-i-Sharif",
+        "uniquePostalCodes": 27,
+        "totalRecords": 27,
+        "file": "provinces/balkh.json"
+      },
+      {
+        "province": "Bamyan",
+        "native": "بامیان",
+        "prefix": "16",
+        "slug": "bamyan",
+        "capital": "Bamyan",
+        "uniquePostalCodes": 11,
+        "totalRecords": 11,
+        "file": "provinces/bamyan.json"
+      },
+      {
+        "province": "Daykundi",
+        "native": "دایکندی",
+        "prefix": "42",
+        "slug": "daykundi",
+        "capital": "Nili",
+        "uniquePostalCodes": 11,
+        "totalRecords": 11,
+        "file": "provinces/daykundi.json"
+      },
+      {
+        "province": "Farah",
+        "native": "فراه",
+        "prefix": "31",
+        "slug": "farah",
+        "capital": "Farah",
+        "uniquePostalCodes": 17,
+        "totalRecords": 17,
+        "file": "provinces/farah.json"
+      },
+      {
+        "province": "Faryab",
+        "native": "فاریاب",
+        "prefix": "18",
+        "slug": "faryab",
+        "capital": "Maymana",
+        "uniquePostalCodes": 27,
+        "totalRecords": 27,
+        "file": "provinces/faryab.json"
+      },
+      {
+        "province": "Ghazni",
+        "native": "غزنی",
+        "prefix": "23",
+        "slug": "ghazni",
+        "capital": "Ghazni",
+        "uniquePostalCodes": 22,
+        "totalRecords": 22,
+        "file": "provinces/ghazni.json"
+      },
+      {
+        "province": "Ghor",
+        "native": "غور",
+        "prefix": "32",
+        "slug": "ghor",
+        "capital": "Chaghcharan (Firozkoh)",
+        "uniquePostalCodes": 13,
+        "totalRecords": 13,
+        "file": "provinces/ghor.json"
+      },
+      {
+        "province": "Helmand",
+        "native": "هلمند",
+        "prefix": "39",
+        "slug": "helmand",
+        "capital": "Lashkargah",
+        "uniquePostalCodes": 19,
+        "totalRecords": 19,
+        "file": "provinces/helmand.json"
+      },
+      {
+        "province": "Herat",
+        "native": "هرات",
+        "prefix": "30",
+        "slug": "herat",
+        "capital": "Herat",
+        "uniquePostalCodes": 133,
+        "totalRecords": 133,
+        "file": "provinces/herat.json"
+      },
+      {
+        "province": "Jawzjan",
+        "native": "جوزجان",
+        "prefix": "19",
+        "slug": "jawzjan",
+        "capital": "Sheberghan",
+        "uniquePostalCodes": 14,
+        "totalRecords": 14,
+        "file": "provinces/jawzjan.json"
+      },
+      {
+        "province": "Kabul",
+        "native": "کابل",
+        "prefix": "10",
+        "slug": "kabul",
+        "capital": "Kabul",
+        "uniquePostalCodes": 648,
+        "totalRecords": 648,
+        "file": "provinces/kabul.json"
+      },
+      {
+        "province": "Kandahar",
+        "native": "قندهار / کندهار",
+        "prefix": "38",
+        "slug": "kandahar",
+        "capital": "Kandahar",
+        "uniquePostalCodes": 19,
+        "totalRecords": 19,
+        "file": "provinces/kandahar.json"
+      },
+      {
+        "province": "Kapisa",
+        "native": "کاپیسا",
+        "prefix": "12",
+        "slug": "kapisa",
+        "capital": "Mahmud-i-Raqi",
+        "uniquePostalCodes": 10,
+        "totalRecords": 10,
+        "file": "provinces/kapisa.json"
+      },
+      {
+        "province": "Khost",
+        "native": "خوست",
+        "prefix": "25",
+        "slug": "khost",
+        "capital": "Khost",
+        "uniquePostalCodes": 18,
+        "totalRecords": 18,
+        "file": "provinces/khost.json"
+      },
+      {
+        "province": "Kunar",
+        "native": "کنر / کونړ",
+        "prefix": "28",
+        "slug": "kunar",
+        "capital": "Asadabad",
+        "uniquePostalCodes": 23,
+        "totalRecords": 23,
+        "file": "provinces/kunar.json"
+      },
+      {
+        "province": "Kunduz",
+        "native": "کندز",
+        "prefix": "35",
+        "slug": "kunduz",
+        "capital": "Kunduz",
+        "uniquePostalCodes": 18,
+        "totalRecords": 18,
+        "file": "provinces/kunduz.json"
+      },
+      {
+        "province": "Laghman",
+        "native": "لغمان",
+        "prefix": "27",
+        "slug": "laghman",
+        "capital": "Mihtarlam",
+        "uniquePostalCodes": 15,
+        "totalRecords": 15,
+        "file": "provinces/laghman.json"
+      },
+      {
+        "province": "Logar",
+        "native": "لوگر",
+        "prefix": "14",
+        "slug": "logar",
+        "capital": "Pul-i-Alam",
+        "uniquePostalCodes": 10,
+        "totalRecords": 10,
+        "file": "provinces/logar.json"
+      },
+      {
+        "province": "Nangarhar",
+        "native": "ننگرهار",
+        "prefix": "26",
+        "slug": "nangarhar",
+        "capital": "Jalalabad",
+        "uniquePostalCodes": 30,
+        "totalRecords": 30,
+        "file": "provinces/nangarhar.json"
+      },
+      {
+        "province": "Nimroz",
+        "native": "نیمروز",
+        "prefix": "43",
+        "slug": "nimroz",
+        "capital": "Zaranj",
+        "uniquePostalCodes": 6,
+        "totalRecords": 6,
+        "file": "provinces/nimroz.json"
+      },
+      {
+        "province": "Nuristan",
+        "native": "نورستان",
+        "prefix": "29",
+        "slug": "nuristan",
+        "capital": "Parun",
+        "uniquePostalCodes": 10,
+        "totalRecords": 10,
+        "file": "provinces/nuristan.json"
+      },
+      {
+        "province": "Paktia",
+        "native": "پکتیا",
+        "prefix": "22",
+        "slug": "paktia",
+        "capital": "Gardez",
+        "uniquePostalCodes": 20,
+        "totalRecords": 20,
+        "file": "provinces/paktia.json"
+      },
+      {
+        "province": "Paktika",
+        "native": "پکتیکا",
+        "prefix": "24",
+        "slug": "paktika",
+        "capital": "Sharana",
+        "uniquePostalCodes": 25,
+        "totalRecords": 25,
+        "file": "provinces/paktika.json"
+      },
+      {
+        "province": "Panjshir",
+        "native": "پنجشیر",
+        "prefix": "15",
+        "slug": "panjshir",
+        "capital": "Bazarak",
+        "uniquePostalCodes": 10,
+        "totalRecords": 10,
+        "file": "provinces/panjshir.json"
+      },
+      {
+        "province": "Parwan",
+        "native": "پروان",
+        "prefix": "11",
+        "slug": "parwan",
+        "capital": "Charikar",
+        "uniquePostalCodes": 15,
+        "totalRecords": 15,
+        "file": "provinces/parwan.json"
+      },
+      {
+        "province": "Samangan",
+        "native": "سمنگان",
+        "prefix": "20",
+        "slug": "samangan",
+        "capital": "Aybak",
+        "uniquePostalCodes": 10,
+        "totalRecords": 10,
+        "file": "provinces/samangan.json"
+      },
+      {
+        "province": "Sar-e Pol",
+        "native": "سرپل",
+        "prefix": "21",
+        "slug": "sar-e-pol",
+        "capital": "Sar-e Pol",
+        "uniquePostalCodes": 15,
+        "totalRecords": 15,
+        "file": "provinces/sar-e-pol.json"
+      },
+      {
+        "province": "Takhar",
+        "native": "تخار",
+        "prefix": "37",
+        "slug": "takhar",
+        "capital": "Taloqan",
+        "uniquePostalCodes": 22,
+        "totalRecords": 22,
+        "file": "provinces/takhar.json"
+      },
+      {
+        "province": "Uruzgan",
+        "native": "اروزگان",
+        "prefix": "41",
+        "slug": "uruzgan",
+        "capital": "Tarinkot",
+        "uniquePostalCodes": 6,
+        "totalRecords": 6,
+        "file": "provinces/uruzgan.json"
+      },
+      {
+        "province": "Wardak",
+        "native": "وردک / میدان وردک",
+        "prefix": "13",
+        "slug": "wardak",
+        "capital": "Maidan Shar",
+        "uniquePostalCodes": 13,
+        "totalRecords": 13,
+        "file": "provinces/wardak.json"
+      },
+      {
+        "province": "Zabul",
+        "native": "زابل",
+        "prefix": "40",
+        "slug": "zabul",
+        "capital": "Qalat",
+        "uniquePostalCodes": 15,
+        "totalRecords": 15,
+        "file": "provinces/zabul.json"
+      }
+    ]
+  },
+  "statistics": {
+    "provinceCount": 34,
+    "uniquePostalCodes": 1323,
+    "totalRecords": 1323,
+    "totalPostOffices": 1323,
+    "totalLocalities": 1323,
+    "urbanRecords": 895,
+    "ruralRecords": 428,
+    "legacyCodesPreserved": 526
+  },
+  "provinceByPrefix": {
+    "10": "kabul",
+    "11": "parwan",
+    "12": "kapisa",
+    "13": "wardak",
+    "14": "logar",
+    "15": "panjshir",
+    "16": "bamyan",
+    "17": "balkh",
+    "18": "faryab",
+    "19": "jawzjan",
+    "20": "samangan",
+    "21": "sar-e-pol",
+    "22": "paktia",
+    "23": "ghazni",
+    "24": "paktika",
+    "25": "khost",
+    "26": "nangarhar",
+    "27": "laghman",
+    "28": "kunar",
+    "29": "nuristan",
+    "30": "herat",
+    "31": "farah",
+    "32": "ghor",
+    "33": "badghis",
+    "34": "badakhshan",
+    "35": "kunduz",
+    "36": "baghlan",
+    "37": "takhar",
+    "38": "kandahar",
+    "39": "helmand",
+    "40": "zabul",
+    "41": "uruzgan",
+    "42": "daykundi",
+    "43": "nimroz"
+  },
+  "sources": [
+    {
+      "name": "Afghan Post (Official National Postal Operator)",
+      "url": "https://afghanpost.gov.af",
+      "portalUrl": "https://postalcode.afghanpost.gov.af",
+      "system": "6-digit National Postal Code Standard",
+      "effectiveDate": "2024-10-01",
+      "retrievedAt": "2026-09-26"
+    },
+    {
+      "name": "Universal Postal Union (UPU)",
+      "standard": "UPU S42 Postal Addressing Standard",
+      "system": "6-digit Afghanistan Postal Addressing",
+      "communicatedDate": "2024-10-01"
+    },
+    {
+      "name": "United States Postal Service (USPS) International Mail Manual (IMM)",
+      "notice": "Postal Bulletin 22660 - Afghanistan 6-digit Postal Code Revision",
+      "effectiveDate": "2024-10-01"
+    }
+  ],
+  "lastUpdated": "2026-09-26T12:23:30.343Z"
+}

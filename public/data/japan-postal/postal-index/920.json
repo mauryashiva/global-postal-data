@@ -1,0 +1,40 @@
+{
+  "prefix": "920",
+  "records": [
+    {
+      "postalCode": "9200853",
+      "postalCodeFormatted": "920-0853",
+      "postalCodeType": "AREA",
+      "prefectureCode": "17",
+      "prefectureNameEn": "Ishikawa",
+      "prefectureNameJa": "石川県",
+      "prefectureNameKana": "イシカワケン",
+      "prefectureNameRomaji": "Ishikawa-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "17201",
+        "nameEn": "Kanazawa",
+        "nameJa": "金沢市",
+        "nameKana": "カナザワシ",
+        "nameRomaji": "Kanazawa-shi",
+        "administrativeType": "Core City"
+      },
+      "townArea": {
+        "nameEn": "Honmachi",
+        "nameJa": "本町",
+        "nameKana": "ホンマチ",
+        "nameRomaji": "Honmachi",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Kanazawa Station East Exit Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": true,
+        "smallAreaNumbering": true,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

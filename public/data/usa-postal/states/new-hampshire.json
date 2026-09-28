@@ -1,0 +1,163 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "New Hampshire",
+    "abbreviation": "NH",
+    "fipsCode": "33",
+    "capital": "Concord",
+    "largestCity": "Manchester",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "603"
+    ],
+    "prefixes": [
+      "030",
+      "031",
+      "032",
+      "033",
+      "034",
+      "035",
+      "036",
+      "037",
+      "038"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-NH-03101-0",
+      "zip5": "03101",
+      "zip4": "1001",
+      "zipPlus4": "03101-1001",
+      "state": {
+        "nameEn": "New Hampshire",
+        "abbreviation": "NH",
+        "fipsCode": "33",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Manchester",
+      "acceptableCities": [
+        "Manchester"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Manchester",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Hillsborough County",
+          "fipsCode": "33011",
+          "geoid": "33011"
+        }
+      ],
+      "primaryCounty": "Hillsborough County",
+      "zcta": {
+        "code": "03101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Manchester Downtown Station",
+        "address": "1000 Elm St",
+        "phone": "(603) 644-4000",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 42.9956,
+        "longitude": -71.4548,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "603"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NH-03101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NH-03301-1",
+      "zip5": "03301",
+      "zip4": "2001",
+      "zipPlus4": "03301-2001",
+      "state": {
+        "nameEn": "New Hampshire",
+        "abbreviation": "NH",
+        "fipsCode": "33",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Concord",
+      "acceptableCities": [
+        "Concord"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Concord",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Merrimack County",
+          "fipsCode": "33013",
+          "geoid": "33013"
+        }
+      ],
+      "primaryCounty": "Merrimack County",
+      "zcta": {
+        "code": "03301"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Concord Main Post Office",
+        "address": "18 Loudon Rd",
+        "phone": "(603) 225-8300",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 43.2081,
+        "longitude": -71.5376,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "603"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 11100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NH-03301",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

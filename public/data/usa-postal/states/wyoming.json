@@ -1,0 +1,171 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Wyoming",
+    "abbreviation": "WY",
+    "fipsCode": "56",
+    "capital": "Cheyenne",
+    "largestCity": "Cheyenne",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "307"
+    ],
+    "prefixes": [
+      "820",
+      "821",
+      "822",
+      "823",
+      "824",
+      "825",
+      "826",
+      "827",
+      "828",
+      "829",
+      "830",
+      "831"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-WY-82001-0",
+      "zip5": "82001",
+      "zip4": "1001",
+      "zipPlus4": "82001-1001",
+      "state": {
+        "nameEn": "Wyoming",
+        "abbreviation": "WY",
+        "fipsCode": "56",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Cheyenne",
+      "acceptableCities": [
+        "Cheyenne"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Cheyenne",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Laramie County",
+          "fipsCode": "56021",
+          "geoid": "56021"
+        }
+      ],
+      "primaryCounty": "Laramie County",
+      "zcta": {
+        "code": "82001"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Cheyenne Main Post Office",
+        "address": "4800 Converse Ave",
+        "phone": "(307) 637-2200",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 41.1399,
+        "longitude": -104.8202,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "307"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 26,
+        "deliveryPoints": 13100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WY-82001",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-WY-83001-1",
+      "zip5": "83001",
+      "zip4": "2001",
+      "zipPlus4": "83001-2001",
+      "state": {
+        "nameEn": "Wyoming",
+        "abbreviation": "WY",
+        "fipsCode": "56",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Jackson",
+      "acceptableCities": [
+        "Jackson",
+        "Jackson Hole"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Jackson",
+          "status": "Primary"
+        },
+        {
+          "name": "Jackson Hole",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Teton County",
+          "fipsCode": "56039",
+          "geoid": "56039"
+        }
+      ],
+      "primaryCounty": "Teton County",
+      "zcta": {
+        "code": "83001"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Jackson Main Post Office",
+        "address": "1070 W Broadway",
+        "phone": "(307) 733-4112",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 43.4799,
+        "longitude": -110.7624,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "307"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 11000
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WY-83001",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

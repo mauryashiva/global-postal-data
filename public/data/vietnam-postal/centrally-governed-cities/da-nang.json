@@ -1,0 +1,5070 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Centrally Governed City",
+    "nameEn": "Da Nang",
+    "nameVi": "Đà Nẵng",
+    "fullNameEn": "Da Nang City",
+    "fullNameVi": "Thành phố Đà Nẵng",
+    "nameSearchNormalized": "da nang",
+    "officialCode": "48",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "50, 51, 52",
+    "isCentrallyGovernedCity": true
+  },
+  "statistics": {
+    "totalCommunes": 95,
+    "specialPostalObjects": 1
+  },
+  "postalRecords": [
+    {
+      "postalCode": "50611",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hai Van",
+        "nameVi": "Hải Vân",
+        "fullNameEn": "Hai Van Ward",
+        "fullNameVi": "Phường Hải Vân",
+        "nameSearchNormalized": "hai van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20194",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hai Van Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hải Vân",
+        "type": "Ward",
+        "code": "50611"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Liên Chiểu",
+        "districtFullName": "Quận Liên Chiểu",
+        "districtNameEn": "Lien Chieu",
+        "districtCode": "490",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Lien Chieu",
+        "nameVi": "Liên Chiểu",
+        "fullNameEn": "Lien Chieu Ward",
+        "fullNameVi": "Phường Liên Chiểu",
+        "nameSearchNormalized": "lien chieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20197",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Lien Chieu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Liên Chiểu",
+        "type": "Ward",
+        "code": "50612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Liên Chiểu",
+        "districtFullName": "Quận Liên Chiểu",
+        "districtNameEn": "Lien Chieu",
+        "districtCode": "490",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoa Khanh",
+        "nameVi": "Hoà Khánh",
+        "fullNameEn": "Hoa Khanh Ward",
+        "fullNameVi": "Phường Hoà Khánh",
+        "nameSearchNormalized": "hoa khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20200",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Khanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoà Khánh",
+        "type": "Ward",
+        "code": "50613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Liên Chiểu",
+        "districtFullName": "Quận Liên Chiểu",
+        "districtNameEn": "Lien Chieu",
+        "districtCode": "490",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thanh Khe",
+        "nameVi": "Thanh Khê",
+        "fullNameEn": "Thanh Khe Ward",
+        "fullNameVi": "Phường Thanh Khê",
+        "nameSearchNormalized": "thanh khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20209",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Khe Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thanh Khê",
+        "type": "Ward",
+        "code": "50316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thanh Khê",
+        "districtFullName": "Quận Thanh Khê",
+        "districtNameEn": "Thanh Khe",
+        "districtCode": "491",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hai Chau",
+        "nameVi": "Hải Châu",
+        "fullNameEn": "Hai Chau Ward",
+        "fullNameVi": "Phường Hải Châu",
+        "nameSearchNormalized": "hai chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20242",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hai Chau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hải Châu",
+        "type": "Ward",
+        "code": "50206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hải Châu",
+        "districtFullName": "Quận Hải Châu",
+        "districtNameEn": "Hai Chau",
+        "districtCode": "492",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50219",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoa Cuong",
+        "nameVi": "Hoà Cường",
+        "fullNameEn": "Hoa Cuong Ward",
+        "fullNameVi": "Phường Hoà Cường",
+        "nameSearchNormalized": "hoa cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20257",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Cuong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoà Cường",
+        "type": "Ward",
+        "code": "50219"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hải Châu",
+        "districtFullName": "Quận Hải Châu",
+        "districtNameEn": "Hai Chau",
+        "districtCode": "492",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Cam Le",
+        "nameVi": "Cẩm Lệ",
+        "fullNameEn": "Cam Le Ward",
+        "fullNameVi": "Phường Cẩm Lệ",
+        "nameSearchNormalized": "cam le",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20260",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Cam Le Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cẩm Lệ",
+        "type": "Ward",
+        "code": "50712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Lệ",
+        "districtFullName": "Quận Cẩm Lệ",
+        "districtNameEn": "Cam Le",
+        "districtCode": "495",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50414",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Son Tra",
+        "nameVi": "Sơn Trà",
+        "fullNameEn": "Son Tra Ward",
+        "fullNameVi": "Phường Sơn Trà",
+        "nameSearchNormalized": "son tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20263",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Son Tra Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sơn Trà",
+        "type": "Ward",
+        "code": "50414"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Trà",
+        "districtFullName": "Quận Sơn Trà",
+        "districtNameEn": "Son Tra",
+        "districtCode": "493",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "An Hai",
+        "nameVi": "An Hải",
+        "fullNameEn": "An Hai Ward",
+        "fullNameVi": "Phường An Hải",
+        "nameSearchNormalized": "an hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20275",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "An Hai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Hải",
+        "type": "Ward",
+        "code": "50413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Trà",
+        "districtFullName": "Quận Sơn Trà",
+        "districtNameEn": "Son Tra",
+        "districtCode": "493",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Ngu Hanh Son",
+        "nameVi": "Ngũ Hành Sơn",
+        "fullNameEn": "Ngu Hanh Son Ward",
+        "fullNameVi": "Phường Ngũ Hành Sơn",
+        "nameSearchNormalized": "ngu hanh son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20285",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Ngu Hanh Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Ngũ Hành Sơn",
+        "type": "Ward",
+        "code": "50510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngũ Hành Sơn",
+        "districtFullName": "Quận Ngũ Hành Sơn",
+        "districtNameEn": "Ngu Hanh Son",
+        "districtCode": "494",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "An Khe",
+        "nameVi": "An Khê",
+        "fullNameEn": "An Khe Ward",
+        "fullNameVi": "Phường An Khê",
+        "nameSearchNormalized": "an khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20305",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "An Khe Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Khê",
+        "type": "Ward",
+        "code": "50309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Lệ",
+        "districtFullName": "Quận Cẩm Lệ",
+        "districtNameEn": "Cam Le",
+        "districtCode": "495",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50818",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Ba Na",
+        "nameVi": "Bà Nà",
+        "fullNameEn": "Ba Na Commune",
+        "fullNameVi": "Xã Bà Nà",
+        "nameSearchNormalized": "ba na",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20308",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Ba Na Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bà Nà",
+        "type": "Commune",
+        "code": "50818"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòa Vang",
+        "districtFullName": "Huyện Hòa Vang",
+        "districtNameEn": "Hoa Vang",
+        "districtCode": "497",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50707",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoa Xuan",
+        "nameVi": "Hoà Xuân",
+        "fullNameEn": "Hoa Xuan Ward",
+        "fullNameVi": "Phường Hoà Xuân",
+        "nameSearchNormalized": "hoa xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20314",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Xuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoà Xuân",
+        "type": "Ward",
+        "code": "50707"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Lệ",
+        "districtFullName": "Quận Cẩm Lệ",
+        "districtNameEn": "Cam Le",
+        "districtCode": "495",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoa Vang",
+        "nameVi": "Hoà Vang",
+        "fullNameEn": "Hoa Vang Commune",
+        "fullNameVi": "Xã Hoà Vang",
+        "nameSearchNormalized": "hoa vang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20320",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Vang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Vang",
+        "type": "Commune",
+        "code": "50817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòa Vang",
+        "districtFullName": "Huyện Hòa Vang",
+        "districtNameEn": "Hoa Vang",
+        "districtCode": "497",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50814",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoa Tien",
+        "nameVi": "Hoà Tiến",
+        "fullNameEn": "Hoa Tien Commune",
+        "fullNameVi": "Xã Hoà Tiến",
+        "nameSearchNormalized": "hoa tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20332",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Tiến",
+        "type": "Commune",
+        "code": "50814"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hòa Vang",
+        "districtFullName": "Huyện Hòa Vang",
+        "districtNameEn": "Hoa Vang",
+        "districtCode": "497",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "50906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Paracel",
+        "nameVi": "Hoàng Sa",
+        "fullNameEn": "Paracel Special administrative region",
+        "fullNameVi": "Đặc khu Hoàng Sa",
+        "nameSearchNormalized": "hoang sa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Special Administrative Zone",
+        "officialCode": "20333",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Paracel Special Administrative Zone Postal Area",
+        "nameVi": "Khu vực bưu chính Đặc khu Hoàng Sa",
+        "type": "Special Administrative Zone",
+        "code": "50906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hoàng Sa",
+        "districtFullName": "Huyện Hoàng Sa",
+        "districtNameEn": "Hoang Sa",
+        "districtCode": "497",
+        "legacyProvinceName": "Đà Nẵng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51121",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Ban Thach",
+        "nameVi": "Bàn Thạch",
+        "fullNameEn": "Ban Thach Ward",
+        "fullNameVi": "Phường Bàn Thạch",
+        "nameSearchNormalized": "ban thach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20335",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Ban Thach Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bàn Thạch",
+        "type": "Ward",
+        "code": "51121"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Kỳ",
+        "districtFullName": "Thành phố Tam Kỳ",
+        "districtNameEn": "Tam Ky",
+        "districtCode": "502",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tam Ky",
+        "nameVi": "Tam Kỳ",
+        "fullNameEn": "Tam Ky Ward",
+        "fullNameVi": "Phường Tam Kỳ",
+        "nameSearchNormalized": "tam ky",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20341",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tam Ky Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tam Kỳ",
+        "type": "Ward",
+        "code": "51119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Kỳ",
+        "districtFullName": "Thành phố Tam Kỳ",
+        "districtNameEn": "Tam Ky",
+        "districtCode": "502",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Huong Tra",
+        "nameVi": "Hương Trà",
+        "fullNameEn": "Huong Tra Ward",
+        "fullNameVi": "Phường Hương Trà",
+        "nameSearchNormalized": "huong tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20350",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Huong Tra Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hương Trà",
+        "type": "Ward",
+        "code": "51122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Kỳ",
+        "districtFullName": "Thành phố Tam Kỳ",
+        "districtNameEn": "Tam Ky",
+        "districtCode": "502",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Quang Phu",
+        "nameVi": "Quảng Phú",
+        "fullNameEn": "Quang Phu Ward",
+        "fullNameVi": "Phường Quảng Phú",
+        "nameSearchNormalized": "quang phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20356",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Quang Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Quảng Phú",
+        "type": "Ward",
+        "code": "51120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tam Kỳ",
+        "districtFullName": "Thành phố Tam Kỳ",
+        "districtNameEn": "Tam Ky",
+        "districtCode": "502",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Chien Dan",
+        "nameVi": "Chiên Đàn",
+        "fullNameEn": "Chien Dan Commune",
+        "fullNameVi": "Xã Chiên Đàn",
+        "nameSearchNormalized": "chien dan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20364",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Chien Dan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiên Đàn",
+        "type": "Commune",
+        "code": "52718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Ninh",
+        "districtFullName": "Huyện Phú Ninh",
+        "districtNameEn": "Phu Ninh",
+        "districtCode": "518",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tay Ho",
+        "nameVi": "Tây Hồ",
+        "fullNameEn": "Tay Ho Commune",
+        "fullNameVi": "Xã Tây Hồ",
+        "nameSearchNormalized": "tay ho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20380",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tay Ho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Hồ",
+        "type": "Commune",
+        "code": "52717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Ninh",
+        "districtFullName": "Huyện Phú Ninh",
+        "districtNameEn": "Phu Ninh",
+        "districtCode": "518",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52719",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phu Ninh",
+        "nameVi": "Phú Ninh",
+        "fullNameEn": "Phu Ninh Commune",
+        "fullNameVi": "Xã Phú Ninh",
+        "nameSearchNormalized": "phu ninh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20392",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phu Ninh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Ninh",
+        "type": "Commune",
+        "code": "52719"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Ninh",
+        "districtFullName": "Huyện Phú Ninh",
+        "districtNameEn": "Phu Ninh",
+        "districtCode": "518",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51321",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoi An Tay",
+        "nameVi": "Hội An Tây",
+        "fullNameEn": "Hoi An Tay Ward",
+        "fullNameVi": "Phường Hội An Tây",
+        "nameSearchNormalized": "hoi an tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20401",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoi An Tay Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hội An Tây",
+        "type": "Ward",
+        "code": "51321"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hội An",
+        "districtFullName": "Thành phố Hội An",
+        "districtNameEn": "Hoi An",
+        "districtCode": "503",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51319",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoi An",
+        "nameVi": "Hội An",
+        "fullNameEn": "Hoi An Ward",
+        "fullNameVi": "Phường Hội An",
+        "nameSearchNormalized": "hoi an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20410",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoi An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hội An",
+        "type": "Ward",
+        "code": "51319"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hội An",
+        "districtFullName": "Thành phố Hội An",
+        "districtNameEn": "Hoi An",
+        "districtCode": "503",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51320",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hoi An Dong",
+        "nameVi": "Hội An Đông",
+        "fullNameEn": "Hoi An Dong Ward",
+        "fullNameVi": "Phường Hội An Đông",
+        "nameSearchNormalized": "hoi an dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20413",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hoi An Dong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hội An Đông",
+        "type": "Ward",
+        "code": "51320"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hội An",
+        "districtFullName": "Thành phố Hội An",
+        "districtNameEn": "Hoi An",
+        "districtCode": "503",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51318",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tan Hiep",
+        "nameVi": "Tân Hiệp",
+        "fullNameEn": "Tan Hiep Commune",
+        "fullNameVi": "Xã Tân Hiệp",
+        "nameSearchNormalized": "tan hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20434",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hiệp",
+        "type": "Commune",
+        "code": "51318"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hội An",
+        "districtFullName": "Thành phố Hội An",
+        "districtNameEn": "Hoi An",
+        "districtCode": "503",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hung Son",
+        "nameVi": "Hùng Sơn",
+        "fullNameEn": "Hung Son Commune",
+        "fullNameVi": "Xã Hùng Sơn",
+        "nameSearchNormalized": "hung son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20443",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hung Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hùng Sơn",
+        "type": "Commune",
+        "code": "51817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Giang",
+        "districtFullName": "Huyện Tây Giang",
+        "districtNameEn": "Tay Giang",
+        "districtCode": "504",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51816",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tay Giang",
+        "nameVi": "Tây Giang",
+        "fullNameEn": "Tay Giang Commune",
+        "fullNameVi": "Xã Tây Giang",
+        "nameSearchNormalized": "tay giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20455",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tay Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Giang",
+        "type": "Commune",
+        "code": "51816"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Giang",
+        "districtFullName": "Huyện Tây Giang",
+        "districtNameEn": "Tay Giang",
+        "districtCode": "504",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51807",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Avuong",
+        "nameVi": "Avương",
+        "fullNameEn": "Avuong Commune",
+        "fullNameVi": "Xã Avương",
+        "nameSearchNormalized": "avuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20458",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Avuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Avương",
+        "type": "Commune",
+        "code": "51807"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tây Giang",
+        "districtFullName": "Huyện Tây Giang",
+        "districtNameEn": "Tay Giang",
+        "districtCode": "504",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dong Giang",
+        "nameVi": "Đông Giang",
+        "fullNameEn": "Dong Giang Commune",
+        "fullNameVi": "Xã Đông Giang",
+        "nameSearchNormalized": "dong giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20467",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dong Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Giang",
+        "type": "Commune",
+        "code": "51717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Giang",
+        "districtFullName": "Huyện Đông Giang",
+        "districtNameEn": "Dong Giang",
+        "districtCode": "505",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51708",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Song Kon",
+        "nameVi": "Sông Kôn",
+        "fullNameEn": "Song Kon Commune",
+        "fullNameVi": "Xã Sông Kôn",
+        "nameSearchNormalized": "song kon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20476",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Song Kon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sông Kôn",
+        "type": "Commune",
+        "code": "51708"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Giang",
+        "districtFullName": "Huyện Đông Giang",
+        "districtNameEn": "Dong Giang",
+        "districtCode": "505",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Song Vang",
+        "nameVi": "Sông Vàng",
+        "fullNameEn": "Song Vang Commune",
+        "fullNameVi": "Xã Sông Vàng",
+        "nameSearchNormalized": "song vang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20485",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Song Vang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sông Vàng",
+        "type": "Commune",
+        "code": "51718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Giang",
+        "districtFullName": "Huyện Đông Giang",
+        "districtNameEn": "Dong Giang",
+        "districtCode": "505",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51719",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Ben Hien",
+        "nameVi": "Bến Hiên",
+        "fullNameEn": "Ben Hien Commune",
+        "fullNameVi": "Xã Bến Hiên",
+        "nameSearchNormalized": "ben hien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20494",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Ben Hien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bến Hiên",
+        "type": "Commune",
+        "code": "51719"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Giang",
+        "districtFullName": "Huyện Đông Giang",
+        "districtNameEn": "Dong Giang",
+        "districtCode": "505",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51624",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dai Loc",
+        "nameVi": "Đại Lộc",
+        "fullNameEn": "Dai Loc Commune",
+        "fullNameVi": "Xã Đại Lộc",
+        "nameSearchNormalized": "dai loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20500",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dai Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đại Lộc",
+        "type": "Commune",
+        "code": "51624"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Lộc",
+        "districtFullName": "Huyện Đại Lộc",
+        "districtNameEn": "Dai Loc",
+        "districtCode": "506",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51626",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thuong Duc",
+        "nameVi": "Thượng Đức",
+        "fullNameEn": "Thuong Duc Commune",
+        "fullNameVi": "Xã Thượng Đức",
+        "nameSearchNormalized": "thuong duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20506",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thượng Đức",
+        "type": "Commune",
+        "code": "51626"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Lộc",
+        "districtFullName": "Huyện Đại Lộc",
+        "districtNameEn": "Dai Loc",
+        "districtCode": "506",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51625",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Ha Nha",
+        "nameVi": "Hà Nha",
+        "fullNameEn": "Ha Nha Commune",
+        "fullNameVi": "Xã Hà Nha",
+        "nameSearchNormalized": "ha nha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20515",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Ha Nha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hà Nha",
+        "type": "Commune",
+        "code": "51625"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Lộc",
+        "districtFullName": "Huyện Đại Lộc",
+        "districtNameEn": "Dai Loc",
+        "districtCode": "506",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51627",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Vu Gia",
+        "nameVi": "Vu Gia",
+        "fullNameEn": "Vu Gia Commune",
+        "fullNameVi": "Xã Vu Gia",
+        "nameSearchNormalized": "vu gia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20539",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Vu Gia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vu Gia",
+        "type": "Commune",
+        "code": "51627"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Lộc",
+        "districtFullName": "Huyện Đại Lộc",
+        "districtNameEn": "Dai Loc",
+        "districtCode": "506",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51628",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phu Thuan",
+        "nameVi": "Phú Thuận",
+        "fullNameEn": "Phu Thuan Commune",
+        "fullNameVi": "Xã Phú Thuận",
+        "nameSearchNormalized": "phu thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20542",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phu Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Thuận",
+        "type": "Commune",
+        "code": "51628"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đại Lộc",
+        "districtFullName": "Huyện Đại Lộc",
+        "districtNameEn": "Dai Loc",
+        "districtCode": "506",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51426",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dien Ban",
+        "nameVi": "Điện Bàn",
+        "fullNameEn": "Dien Ban Ward",
+        "fullNameVi": "Phường Điện Bàn",
+        "nameSearchNormalized": "dien ban",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20551",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dien Ban Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Điện Bàn",
+        "type": "Ward",
+        "code": "51426"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Bàn",
+        "districtFullName": "Thị xã Điện Bàn",
+        "districtNameEn": "Dien Ban",
+        "districtCode": "507",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51429",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dien Ban Bac",
+        "nameVi": "Điện Bàn Bắc",
+        "fullNameEn": "Dien Ban Bac Ward",
+        "fullNameVi": "Phường Điện Bàn Bắc",
+        "nameSearchNormalized": "dien ban bac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20557",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dien Ban Bac Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Điện Bàn Bắc",
+        "type": "Ward",
+        "code": "51429"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Bàn",
+        "districtFullName": "Thị xã Điện Bàn",
+        "districtNameEn": "Dien Ban",
+        "districtCode": "507",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51430",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dien Ban Tay",
+        "nameVi": "Điện Bàn Tây",
+        "fullNameEn": "Dien Ban Tay Commune",
+        "fullNameVi": "Xã Điện Bàn Tây",
+        "nameSearchNormalized": "dien ban tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20569",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dien Ban Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Điện Bàn Tây",
+        "type": "Commune",
+        "code": "51430"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Bàn",
+        "districtFullName": "Thị xã Điện Bàn",
+        "districtNameEn": "Dien Ban",
+        "districtCode": "507",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51428",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "An Thang",
+        "nameVi": "An Thắng",
+        "fullNameEn": "An Thang Ward",
+        "fullNameVi": "Phường An Thắng",
+        "nameSearchNormalized": "an thang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20575",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "An Thang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Thắng",
+        "type": "Ward",
+        "code": "51428"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Bàn",
+        "districtFullName": "Thị xã Điện Bàn",
+        "districtNameEn": "Dien Ban",
+        "districtCode": "507",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51427",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dien Ban Dong",
+        "nameVi": "Điện Bàn Đông",
+        "fullNameEn": "Dien Ban Dong Ward",
+        "fullNameVi": "Phường Điện Bàn Đông",
+        "nameSearchNormalized": "dien ban dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20579",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dien Ban Dong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Điện Bàn Đông",
+        "type": "Ward",
+        "code": "51427"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Bàn",
+        "districtFullName": "Thị xã Điện Bàn",
+        "districtNameEn": "Dien Ban",
+        "districtCode": "507",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51431",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Go Noi",
+        "nameVi": "Gò Nổi",
+        "fullNameEn": "Go Noi Commune",
+        "fullNameVi": "Xã Gò Nổi",
+        "nameSearchNormalized": "go noi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20587",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Go Noi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gò Nổi",
+        "type": "Commune",
+        "code": "51431"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Bàn",
+        "districtFullName": "Thị xã Điện Bàn",
+        "districtNameEn": "Dien Ban",
+        "districtCode": "507",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Nam Phuoc",
+        "nameVi": "Nam Phước",
+        "fullNameEn": "Nam Phuoc Commune",
+        "fullNameVi": "Xã Nam Phước",
+        "nameSearchNormalized": "nam phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20599",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Nam Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Phước",
+        "type": "Commune",
+        "code": "51506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Duy Xuyên",
+        "districtFullName": "Huyện Duy Xuyên",
+        "districtNameEn": "Duy Xuyen",
+        "districtCode": "508",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51521",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thu Bon",
+        "nameVi": "Thu Bồn",
+        "fullNameEn": "Thu Bon Commune",
+        "fullNameVi": "Xã Thu Bồn",
+        "nameSearchNormalized": "thu bon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20611",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thu Bon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thu Bồn",
+        "type": "Commune",
+        "code": "51521"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Duy Xuyên",
+        "districtFullName": "Huyện Duy Xuyên",
+        "districtNameEn": "Duy Xuyen",
+        "districtCode": "508",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51520",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Duy Xuyen",
+        "nameVi": "Duy Xuyên",
+        "fullNameEn": "Duy Xuyen Commune",
+        "fullNameVi": "Xã Duy Xuyên",
+        "nameSearchNormalized": "duy xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20623",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Duy Xuyen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Duy Xuyên",
+        "type": "Commune",
+        "code": "51520"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Duy Xuyên",
+        "districtFullName": "Huyện Duy Xuyên",
+        "districtNameEn": "Duy Xuyen",
+        "districtCode": "508",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Duy Nghia",
+        "nameVi": "Duy Nghĩa",
+        "fullNameEn": "Duy Nghia Commune",
+        "fullNameVi": "Xã Duy Nghĩa",
+        "nameSearchNormalized": "duy nghia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20635",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Duy Nghia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Duy Nghĩa",
+        "type": "Commune",
+        "code": "51510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Duy Xuyên",
+        "districtFullName": "Huyện Duy Xuyên",
+        "districtNameEn": "Duy Xuyen",
+        "districtCode": "508",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52121",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Que Son",
+        "nameVi": "Quế Sơn",
+        "fullNameEn": "Que Son Commune",
+        "fullNameVi": "Xã Quế Sơn",
+        "nameSearchNormalized": "que son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20641",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Que Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quế Sơn",
+        "type": "Commune",
+        "code": "52121"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quế Sơn",
+        "districtFullName": "Huyện Quế Sơn",
+        "districtNameEn": "Que Son",
+        "districtCode": "509",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Xuan Phu",
+        "nameVi": "Xuân Phú",
+        "fullNameEn": "Xuan Phu Commune",
+        "fullNameVi": "Xã Xuân Phú",
+        "nameSearchNormalized": "xuan phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20650",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Phú",
+        "type": "Commune",
+        "code": "52120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quế Sơn",
+        "districtFullName": "Huyện Quế Sơn",
+        "districtNameEn": "Que Son",
+        "districtCode": "509",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Nong Son",
+        "nameVi": "Nông Sơn",
+        "fullNameEn": "Nong Son Commune",
+        "fullNameVi": "Xã Nông Sơn",
+        "nameSearchNormalized": "nong son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20656",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Nong Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nông Sơn",
+        "type": "Commune",
+        "code": "52123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quế Sơn",
+        "districtFullName": "Huyện Quế Sơn",
+        "districtNameEn": "Que Son",
+        "districtCode": "509",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Que Son Trung",
+        "nameVi": "Quế Sơn Trung",
+        "fullNameEn": "Que Son Trung Commune",
+        "fullNameVi": "Xã Quế Sơn Trung",
+        "nameSearchNormalized": "que son trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20662",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Que Son Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quế Sơn Trung",
+        "type": "Commune",
+        "code": "52122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quế Sơn",
+        "districtFullName": "Huyện Quế Sơn",
+        "districtNameEn": "Que Son",
+        "districtCode": "509",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52124",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Que Phuoc",
+        "nameVi": "Quế Phước",
+        "fullNameEn": "Que Phuoc Commune",
+        "fullNameVi": "Xã Quế Phước",
+        "nameSearchNormalized": "que phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20669",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Que Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quế Phước",
+        "type": "Commune",
+        "code": "52124"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quế Sơn",
+        "districtFullName": "Huyện Quế Sơn",
+        "districtNameEn": "Que Son",
+        "districtCode": "509",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thanh My",
+        "nameVi": "Thạnh Mỹ",
+        "fullNameEn": "Thanh My Commune",
+        "fullNameVi": "Xã Thạnh Mỹ",
+        "nameSearchNormalized": "thanh my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20695",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thanh My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Mỹ",
+        "type": "Commune",
+        "code": "51906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Giang",
+        "districtFullName": "Huyện Nam Giang",
+        "districtNameEn": "Nam Giang",
+        "districtCode": "510",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51909",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "La Ee",
+        "nameVi": "La Êê",
+        "fullNameEn": "La Ee Commune",
+        "fullNameVi": "Xã La Êê",
+        "nameSearchNormalized": "la ee",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20698",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "La Ee Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã La Êê",
+        "type": "Commune",
+        "code": "51909"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Giang",
+        "districtFullName": "Huyện Nam Giang",
+        "districtNameEn": "Nam Giang",
+        "districtCode": "510",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51911",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "La Dee",
+        "nameVi": "La Dêê",
+        "fullNameEn": "La Dee Commune",
+        "fullNameVi": "Xã La Dêê",
+        "nameSearchNormalized": "la dee",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20704",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "La Dee Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã La Dêê",
+        "type": "Commune",
+        "code": "51911"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Giang",
+        "districtFullName": "Huyện Nam Giang",
+        "districtNameEn": "Nam Giang",
+        "districtCode": "510",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51919",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Nam Giang",
+        "nameVi": "Nam Giang",
+        "fullNameEn": "Nam Giang Commune",
+        "fullNameVi": "Xã Nam Giang",
+        "nameSearchNormalized": "nam giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20707",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Nam Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Giang",
+        "type": "Commune",
+        "code": "51919"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Giang",
+        "districtFullName": "Huyện Nam Giang",
+        "districtNameEn": "Nam Giang",
+        "districtCode": "510",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51918",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Ben Giang",
+        "nameVi": "Bến Giằng",
+        "fullNameEn": "Ben Giang Commune",
+        "fullNameVi": "Xã Bến Giằng",
+        "nameSearchNormalized": "ben giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20710",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Ben Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bến Giằng",
+        "type": "Commune",
+        "code": "51918"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Giang",
+        "districtFullName": "Huyện Nam Giang",
+        "districtNameEn": "Nam Giang",
+        "districtCode": "510",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51915",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dac Pring",
+        "nameVi": "Đắc Pring",
+        "fullNameEn": "Dac Pring Commune",
+        "fullNameVi": "Xã Đắc Pring",
+        "nameSearchNormalized": "dac pring",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20716",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dac Pring Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đắc Pring",
+        "type": "Commune",
+        "code": "51915"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Giang",
+        "districtFullName": "Huyện Nam Giang",
+        "districtNameEn": "Nam Giang",
+        "districtCode": "510",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Kham Duc",
+        "nameVi": "Khâm Đức",
+        "fullNameEn": "Kham Duc Commune",
+        "fullNameVi": "Xã Khâm Đức",
+        "nameSearchNormalized": "kham duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20722",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Kham Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khâm Đức",
+        "type": "Commune",
+        "code": "52306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Sơn",
+        "districtFullName": "Huyện Phước Sơn",
+        "districtNameEn": "Phuoc Son",
+        "districtCode": "511",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phuoc Hiep",
+        "nameVi": "Phước Hiệp",
+        "fullNameEn": "Phuoc Hiep Commune",
+        "fullNameVi": "Xã Phước Hiệp",
+        "nameSearchNormalized": "phuoc hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20728",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Hiệp",
+        "type": "Commune",
+        "code": "52317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Sơn",
+        "districtFullName": "Huyện Phước Sơn",
+        "districtNameEn": "Phuoc Son",
+        "districtCode": "511",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phuoc Nang",
+        "nameVi": "Phước Năng",
+        "fullNameEn": "Phuoc Nang Commune",
+        "fullNameVi": "Xã Phước Năng",
+        "nameSearchNormalized": "phuoc nang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20734",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Nang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Năng",
+        "type": "Commune",
+        "code": "52309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Sơn",
+        "districtFullName": "Huyện Phước Sơn",
+        "districtNameEn": "Phuoc Son",
+        "districtCode": "511",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phuoc Chanh",
+        "nameVi": "Phước Chánh",
+        "fullNameEn": "Phuoc Chanh Commune",
+        "fullNameVi": "Xã Phước Chánh",
+        "nameSearchNormalized": "phuoc chanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20740",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Chanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Chánh",
+        "type": "Commune",
+        "code": "52311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Sơn",
+        "districtFullName": "Huyện Phước Sơn",
+        "districtNameEn": "Phuoc Son",
+        "districtCode": "511",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52314",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phuoc Thanh",
+        "nameVi": "Phước Thành",
+        "fullNameEn": "Phuoc Thanh Commune",
+        "fullNameVi": "Xã Phước Thành",
+        "nameSearchNormalized": "phuoc thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20752",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Thành",
+        "type": "Commune",
+        "code": "52314"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Sơn",
+        "districtFullName": "Huyện Phước Sơn",
+        "districtNameEn": "Phuoc Son",
+        "districtCode": "511",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52219",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Viet An",
+        "nameVi": "Việt An",
+        "fullNameEn": "Viet An Commune",
+        "fullNameVi": "Xã Việt An",
+        "nameSearchNormalized": "viet an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20767",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Viet An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Việt An",
+        "type": "Commune",
+        "code": "52219"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hiệp Đức",
+        "districtFullName": "Huyện Hiệp Đức",
+        "districtNameEn": "Hiep Duc",
+        "districtCode": "512",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Phuoc Tra",
+        "nameVi": "Phước Trà",
+        "fullNameEn": "Phuoc Tra Commune",
+        "fullNameVi": "Xã Phước Trà",
+        "nameSearchNormalized": "phuoc tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20770",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Tra Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Trà",
+        "type": "Commune",
+        "code": "52214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hiệp Đức",
+        "districtFullName": "Huyện Hiệp Đức",
+        "districtNameEn": "Hiep Duc",
+        "districtCode": "512",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52218",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Hiep Duc",
+        "nameVi": "Hiệp Đức",
+        "fullNameEn": "Hiep Duc Commune",
+        "fullNameVi": "Xã Hiệp Đức",
+        "nameSearchNormalized": "hiep duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20779",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Hiep Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hiệp Đức",
+        "type": "Commune",
+        "code": "52218"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hiệp Đức",
+        "districtFullName": "Huyện Hiệp Đức",
+        "districtNameEn": "Hiep Duc",
+        "districtCode": "512",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51228",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thang Binh",
+        "nameVi": "Thăng Bình",
+        "fullNameEn": "Thang Binh Commune",
+        "fullNameVi": "Xã Thăng Bình",
+        "nameSearchNormalized": "thang binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20791",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thang Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thăng Bình",
+        "type": "Commune",
+        "code": "51228"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thăng Bình",
+        "districtFullName": "Huyện Thăng Bình",
+        "districtNameEn": "Thang Binh",
+        "districtCode": "513",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51229",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thang An",
+        "nameVi": "Thăng An",
+        "fullNameEn": "Thang An Commune",
+        "fullNameVi": "Xã Thăng An",
+        "nameSearchNormalized": "thang an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20794",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thang An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thăng An",
+        "type": "Commune",
+        "code": "51229"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thăng Bình",
+        "districtFullName": "Huyện Thăng Bình",
+        "districtNameEn": "Thang Binh",
+        "districtCode": "513",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51233",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Dong Duong",
+        "nameVi": "Đồng Dương",
+        "fullNameEn": "Dong Duong Commune",
+        "fullNameVi": "Xã Đồng Dương",
+        "nameSearchNormalized": "dong duong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20818",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Dong Duong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Dương",
+        "type": "Commune",
+        "code": "51233"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thăng Bình",
+        "districtFullName": "Huyện Thăng Bình",
+        "districtNameEn": "Thang Binh",
+        "districtCode": "513",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51232",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thang Phu",
+        "nameVi": "Thăng Phú",
+        "fullNameEn": "Thang Phu Commune",
+        "fullNameVi": "Xã Thăng Phú",
+        "nameSearchNormalized": "thang phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20827",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thang Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thăng Phú",
+        "type": "Commune",
+        "code": "51232"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thăng Bình",
+        "districtFullName": "Huyện Thăng Bình",
+        "districtNameEn": "Thang Binh",
+        "districtCode": "513",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51230",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thang Truong",
+        "nameVi": "Thăng Trường",
+        "fullNameEn": "Thang Truong Commune",
+        "fullNameVi": "Xã Thăng Trường",
+        "nameSearchNormalized": "thang truong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20836",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thang Truong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thăng Trường",
+        "type": "Commune",
+        "code": "51230"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thăng Bình",
+        "districtFullName": "Huyện Thăng Bình",
+        "districtNameEn": "Thang Binh",
+        "districtCode": "513",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "51231",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thang Dien",
+        "nameVi": "Thăng Điền",
+        "fullNameEn": "Thang Dien Commune",
+        "fullNameVi": "Xã Thăng Điền",
+        "nameSearchNormalized": "thang dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20848",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thang Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thăng Điền",
+        "type": "Commune",
+        "code": "51231"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thăng Bình",
+        "districtFullName": "Huyện Thăng Bình",
+        "districtNameEn": "Thang Binh",
+        "districtCode": "513",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52622",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tien Phuoc",
+        "nameVi": "Tiên Phước",
+        "fullNameEn": "Tien Phuoc Commune",
+        "fullNameVi": "Xã Tiên Phước",
+        "nameSearchNormalized": "tien phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20854",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tien Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tiên Phước",
+        "type": "Commune",
+        "code": "52622"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tiên Phước",
+        "districtFullName": "Huyện Tiên Phước",
+        "districtNameEn": "Tien Phuoc",
+        "districtCode": "514",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52624",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Son Cam Ha",
+        "nameVi": "Sơn Cẩm Hà",
+        "fullNameEn": "Son Cam Ha Commune",
+        "fullNameVi": "Xã Sơn Cẩm Hà",
+        "nameSearchNormalized": "son cam ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20857",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Son Cam Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Cẩm Hà",
+        "type": "Commune",
+        "code": "52624"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tiên Phước",
+        "districtFullName": "Huyện Tiên Phước",
+        "districtNameEn": "Tien Phuoc",
+        "districtCode": "514",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52621",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Lanh Ngoc",
+        "nameVi": "Lãnh Ngọc",
+        "fullNameEn": "Lanh Ngoc Commune",
+        "fullNameVi": "Xã Lãnh Ngọc",
+        "nameSearchNormalized": "lanh ngoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20875",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Lanh Ngoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lãnh Ngọc",
+        "type": "Commune",
+        "code": "52621"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tiên Phước",
+        "districtFullName": "Huyện Tiên Phước",
+        "districtNameEn": "Tien Phuoc",
+        "districtCode": "514",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52623",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Thanh Binh",
+        "nameVi": "Thạnh Bình",
+        "fullNameEn": "Thanh Binh Commune",
+        "fullNameVi": "Xã Thạnh Bình",
+        "nameSearchNormalized": "thanh binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20878",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Bình",
+        "type": "Commune",
+        "code": "52623"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tiên Phước",
+        "districtFullName": "Huyện Tiên Phước",
+        "districtNameEn": "Tien Phuoc",
+        "districtCode": "514",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra My",
+        "nameVi": "Trà My",
+        "fullNameEn": "Tra My Commune",
+        "fullNameVi": "Xã Trà My",
+        "nameSearchNormalized": "tra my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20900",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà My",
+        "type": "Commune",
+        "code": "52506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Trà My",
+        "districtFullName": "Huyện Bắc Trà My",
+        "districtNameEn": "Bac Tra My",
+        "districtCode": "515",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52519",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Lien",
+        "nameVi": "Trà Liên",
+        "fullNameEn": "Tra Lien Commune",
+        "fullNameVi": "Xã Trà Liên",
+        "nameSearchNormalized": "tra lien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20908",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Lien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Liên",
+        "type": "Commune",
+        "code": "52519"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Trà My",
+        "districtFullName": "Huyện Bắc Trà My",
+        "districtNameEn": "Bac Tra My",
+        "districtCode": "515",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52509",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Doc",
+        "nameVi": "Trà Đốc",
+        "fullNameEn": "Tra Doc Commune",
+        "fullNameVi": "Xã Trà Đốc",
+        "nameSearchNormalized": "tra doc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20920",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Doc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Đốc",
+        "type": "Commune",
+        "code": "52509"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Trà My",
+        "districtFullName": "Huyện Bắc Trà My",
+        "districtNameEn": "Bac Tra My",
+        "districtCode": "515",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52511",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Tan",
+        "nameVi": "Trà Tân",
+        "fullNameEn": "Tra Tan Commune",
+        "fullNameVi": "Xã Trà Tân",
+        "nameSearchNormalized": "tra tan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20923",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Tan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Tân",
+        "type": "Commune",
+        "code": "52511"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Trà My",
+        "districtFullName": "Huyện Bắc Trà My",
+        "districtNameEn": "Bac Tra My",
+        "districtCode": "515",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52517",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Giap",
+        "nameVi": "Trà Giáp",
+        "fullNameEn": "Tra Giap Commune",
+        "fullNameVi": "Xã Trà Giáp",
+        "nameSearchNormalized": "tra giap",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20929",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Giap Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Giáp",
+        "type": "Commune",
+        "code": "52517"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Trà My",
+        "districtFullName": "Huyện Bắc Trà My",
+        "districtNameEn": "Bac Tra My",
+        "districtCode": "515",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Leng",
+        "nameVi": "Trà Leng",
+        "fullNameEn": "Tra Leng Commune",
+        "fullNameVi": "Xã Trà Leng",
+        "nameSearchNormalized": "tra leng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20938",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Leng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Leng",
+        "type": "Commune",
+        "code": "52409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Trà My",
+        "districtFullName": "Huyện Nam Trà My",
+        "districtNameEn": "Nam Tra My",
+        "districtCode": "516",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52407",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Tap",
+        "nameVi": "Trà Tập",
+        "fullNameEn": "Tra Tap Commune",
+        "fullNameVi": "Xã Trà Tập",
+        "nameSearchNormalized": "tra tap",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20941",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Tap Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Tập",
+        "type": "Commune",
+        "code": "52407"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Trà My",
+        "districtFullName": "Huyện Nam Trà My",
+        "districtNameEn": "Nam Tra My",
+        "districtCode": "516",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Nam Tra My",
+        "nameVi": "Nam Trà My",
+        "fullNameEn": "Nam Tra My Commune",
+        "fullNameVi": "Xã Nam Trà My",
+        "nameSearchNormalized": "nam tra my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20944",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Nam Tra My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Trà My",
+        "type": "Commune",
+        "code": "52416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Trà My",
+        "districtFullName": "Huyện Nam Trà My",
+        "districtNameEn": "Nam Tra My",
+        "districtCode": "516",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Linh",
+        "nameVi": "Trà Linh",
+        "fullNameEn": "Tra Linh Commune",
+        "fullNameVi": "Xã Trà Linh",
+        "nameSearchNormalized": "tra linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20950",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Linh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Linh",
+        "type": "Commune",
+        "code": "52410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Trà My",
+        "districtFullName": "Huyện Nam Trà My",
+        "districtNameEn": "Nam Tra My",
+        "districtCode": "516",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52414",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tra Van",
+        "nameVi": "Trà Vân",
+        "fullNameEn": "Tra Van Commune",
+        "fullNameVi": "Xã Trà Vân",
+        "nameSearchNormalized": "tra van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20959",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tra Van Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Vân",
+        "type": "Commune",
+        "code": "52414"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nam Trà My",
+        "districtFullName": "Huyện Nam Trà My",
+        "districtNameEn": "Nam Tra My",
+        "districtCode": "516",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Nui Thanh",
+        "nameVi": "Núi Thành",
+        "fullNameEn": "Nui Thanh Commune",
+        "fullNameVi": "Xã Núi Thành",
+        "nameSearchNormalized": "nui thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20965",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Nui Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Núi Thành",
+        "type": "Commune",
+        "code": "52806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Núi Thành",
+        "districtFullName": "Huyện Núi Thành",
+        "districtNameEn": "Nui Thanh",
+        "districtCode": "517",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52826",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tam Xuan",
+        "nameVi": "Tam Xuân",
+        "fullNameEn": "Tam Xuan Commune",
+        "fullNameVi": "Xã Tam Xuân",
+        "nameSearchNormalized": "tam xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20971",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tam Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Xuân",
+        "type": "Commune",
+        "code": "52826"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Núi Thành",
+        "districtFullName": "Huyện Núi Thành",
+        "districtNameEn": "Nui Thanh",
+        "districtCode": "517",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52825",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Duc Phu",
+        "nameVi": "Đức Phú",
+        "fullNameEn": "Duc Phu Commune",
+        "fullNameVi": "Xã Đức Phú",
+        "nameSearchNormalized": "duc phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20977",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Duc Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Phú",
+        "type": "Commune",
+        "code": "52825"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Núi Thành",
+        "districtFullName": "Huyện Núi Thành",
+        "districtNameEn": "Nui Thanh",
+        "districtCode": "517",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52824",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tam Anh",
+        "nameVi": "Tam Anh",
+        "fullNameEn": "Tam Anh Commune",
+        "fullNameVi": "Xã Tam Anh",
+        "nameSearchNormalized": "tam anh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20984",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tam Anh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Anh",
+        "type": "Commune",
+        "code": "52824"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Núi Thành",
+        "districtFullName": "Huyện Núi Thành",
+        "districtNameEn": "Nui Thanh",
+        "districtCode": "517",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52809",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tam Hai",
+        "nameVi": "Tam Hải",
+        "fullNameEn": "Tam Hai Commune",
+        "fullNameVi": "Xã Tam Hải",
+        "nameSearchNormalized": "tam hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20992",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tam Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Hải",
+        "type": "Commune",
+        "code": "52809"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Núi Thành",
+        "districtFullName": "Huyện Núi Thành",
+        "districtNameEn": "Nui Thanh",
+        "districtCode": "517",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "52823",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "48"
+      },
+      "commune": {
+        "nameEn": "Tam My",
+        "nameVi": "Tam Mỹ",
+        "fullNameEn": "Tam My Commune",
+        "fullNameVi": "Xã Tam Mỹ",
+        "nameSearchNormalized": "tam my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21004",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Tam My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Mỹ",
+        "type": "Commune",
+        "code": "52823"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Núi Thành",
+        "districtFullName": "Huyện Núi Thành",
+        "districtNameEn": "Nui Thanh",
+        "districtCode": "517",
+        "legacyProvinceName": "Quảng Nam",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "48000",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "nameEn": "Da Nang",
+        "nameVi": "Đà Nẵng",
+        "fullNameEn": "Da Nang City",
+        "fullNameVi": "Thành phố Đà Nẵng",
+        "nameSearchNormalized": "da nang",
+        "officialCode": "48",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "postalCodePrefix": "50, 51, 52",
+        "isCentrallyGovernedCity": true
+      },
+      "commune": {
+        "nameEn": "Da Nang Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Đà Nẵng",
+        "administrativeLevel": "Postal Object",
+        "administrativeType": "Public Postal Service Point",
+        "officialCode": "48000",
+        "provinceCode": "48"
+      },
+      "postalObject": {
+        "nameEn": "Da Nang Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Đà Nẵng",
+        "type": "Public Postal Service Point",
+        "address": "Bạch Đằng, Hải Châu, Đà Nẵng",
+        "code": "48000"
+      },
+      "postOffice": {
+        "nameEn": "Da Nang Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Đà Nẵng",
+        "officeType": "Central Postal Branch",
+        "officeCode": "48000",
+        "address": "Bạch Đằng, Hải Châu, Đà Nẵng"
+      },
+      "legacyAdministrativeData": null,
+      "source": {
+        "name": "Vietnam Post (VNPost) & National Postal Code Database (mabuuchinh.vn)",
+        "organization": "Ministry of Information and Communications / Ministry of Science and Technology",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN & VNPost Official Network Directory",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

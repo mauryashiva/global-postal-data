@@ -1,0 +1,207 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Massachusetts",
+    "abbreviation": "MA",
+    "fipsCode": "25",
+    "capital": "Boston",
+    "largestCity": "Boston",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "339",
+      "351",
+      "413",
+      "508",
+      "617",
+      "774",
+      "781",
+      "857",
+      "978"
+    ],
+    "prefixes": [
+      "010",
+      "011",
+      "012",
+      "013",
+      "014",
+      "015",
+      "016",
+      "017",
+      "018",
+      "019",
+      "020",
+      "021",
+      "022",
+      "023",
+      "024",
+      "025",
+      "026",
+      "027",
+      "055"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-MA-02108-0",
+      "zip5": "02108",
+      "zip4": "1001",
+      "zipPlus4": "02108-1001",
+      "state": {
+        "nameEn": "Massachusetts",
+        "abbreviation": "MA",
+        "fipsCode": "25",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Boston",
+      "acceptableCities": [
+        "Boston",
+        "Beacon Hill"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Boston",
+          "status": "Primary"
+        },
+        {
+          "name": "Beacon Hill",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Suffolk County",
+          "fipsCode": "25025",
+          "geoid": "25025"
+        }
+      ],
+      "primaryCounty": "Suffolk County",
+      "zcta": {
+        "code": "02108"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Boston Charles Street Station",
+        "address": "136 Charles St",
+        "phone": "(617) 523-2894",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 42.3584,
+        "longitude": -71.0636,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "339",
+          "351",
+          "413",
+          "508",
+          "617",
+          "774",
+          "781",
+          "857",
+          "978"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 26,
+        "deliveryPoints": 13500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MA-02108",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MA-02138-1",
+      "zip5": "02138",
+      "zip4": "2001",
+      "zipPlus4": "02138-2001",
+      "state": {
+        "nameEn": "Massachusetts",
+        "abbreviation": "MA",
+        "fipsCode": "25",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Cambridge",
+      "acceptableCities": [
+        "Cambridge",
+        "Harvard Square"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Cambridge",
+          "status": "Primary"
+        },
+        {
+          "name": "Harvard Square",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Middlesex County",
+          "fipsCode": "25017",
+          "geoid": "25017"
+        }
+      ],
+      "primaryCounty": "Middlesex County",
+      "zcta": {
+        "code": "02138"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Cambridge Main Post Office",
+        "address": "125 Mount Auburn St",
+        "phone": "(617) 876-0620",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 42.3736,
+        "longitude": -71.1097,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "339",
+          "351",
+          "413",
+          "508",
+          "617",
+          "774",
+          "781",
+          "857",
+          "978"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 33,
+        "deliveryPoints": 17200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MA-02138",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

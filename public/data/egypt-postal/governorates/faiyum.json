@@ -1,0 +1,72 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Faiyum",
+    "nameNative": "الفيوم",
+    "isoCode": "EG-FYM",
+    "postalPrefix": "63",
+    "capital": "Faiyum",
+    "capitalNative": "الفيوم",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 29.3084,
+      "longitude": 30.8428
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 1,
+    "totalRecords": 1,
+    "totalPostOffices": 1,
+    "totalLocalities": 4
+  },
+  "records": [
+    {
+      "postalCode": "63511",
+      "governorate": {
+        "nameEn": "Faiyum",
+        "nameNative": "الفيوم",
+        "code": "EG-FYM",
+        "postalPrefix": "63",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Faiyum",
+        "nameNative": "الفيوم",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Faiyum",
+        "nameNative": "قسم أول الفيوم",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Midan El Sawaqi / Bahr Youssef",
+        "nameNative": "ميدان السواقي / بحر يوسف",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Faiyum Main Post Office",
+        "nameNative": "مكتب بريد الفيوم الرئيسي",
+        "type": "Main Post Office",
+        "code": "63511"
+      },
+      "areas": [
+        "Historic Waterwheels (El Sawaqi)",
+        "Gomhuria St Faiyum",
+        "Bahr Youssef Embankment",
+        "Faiyum University"
+      ],
+      "coordinates": {
+        "latitude": 29.3084,
+        "longitude": 30.8428
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-FAIYUM-63511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

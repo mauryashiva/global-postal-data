@@ -1,0 +1,361 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Alexandria",
+    "nameNative": "الإسكندرية",
+    "isoCode": "EG-ALX",
+    "postalPrefix": "21",
+    "capital": "Alexandria",
+    "capitalNative": "الإسكندرية",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.2001,
+      "longitude": 29.9187
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 7,
+    "totalRecords": 7,
+    "totalPostOffices": 7,
+    "totalLocalities": 29
+  },
+  "records": [
+    {
+      "postalCode": "21511",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Attarin",
+        "nameNative": "قسم العطارين",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan Mahatet El Raml",
+        "nameNative": "ميدان محطة الرمل",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Alexandria Central Sorting / Raml Station",
+        "nameNative": "مركز حركة بريد الإسكندرية (محطة الرمل)",
+        "type": "Main Post Office",
+        "code": "21511"
+      },
+      "areas": [
+        "Saad Zaghloul Square",
+        "Raml Tram Station",
+        "Sultan Hussein St",
+        "Nabi Daniel St",
+        "Chamber of Commerce"
+      ],
+      "coordinates": {
+        "latitude": 31.1989,
+        "longitude": 29.9012
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "21515",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Manshiya",
+        "nameNative": "قسم المنشية",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "El Manshiya Square",
+        "nameNative": "ميدان المنشية",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "El Manshiya Post Office",
+        "nameNative": "مكتب بريد المنشية",
+        "type": "Main Post Office",
+        "code": "21515"
+      },
+      "areas": [
+        "Sayed Mohamed Karim St",
+        "Courts Complex Area",
+        "Tahrir Square Manshiya",
+        "France St Market"
+      ],
+      "coordinates": {
+        "latitude": 31.1967,
+        "longitude": 29.8945
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21515",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "21527",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sidi Gaber",
+        "nameNative": "قسم سيدي جابر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Sidi Gaber Station",
+        "nameNative": "محطة سيدي جابر",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Sidi Gaber Post Office",
+        "nameNative": "مكتب بريد سيدي جابر",
+        "type": "Sub Post Office",
+        "code": "21527"
+      },
+      "areas": [
+        "Sidi Gaber Railway Station",
+        "Horreya Avenue",
+        "Corniche Sidi Gaber",
+        "Cleopatra Crossing"
+      ],
+      "coordinates": {
+        "latitude": 31.2189,
+        "longitude": 29.9412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21527",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "21615",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sidi Gaber",
+        "nameNative": "قسم سيدي جابر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Smouha",
+        "nameNative": "سموحة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Smouha Post Office",
+        "nameNative": "مكتب بريد سموحة",
+        "type": "Sub Post Office",
+        "code": "21615"
+      },
+      "areas": [
+        "Victor Emmanuel Square",
+        "Smouha Club Area",
+        "Fawzi Moaz St",
+        "Green Plaza Corridor"
+      ],
+      "coordinates": {
+        "latitude": 31.2056,
+        "longitude": 29.9545
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21615",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "21636",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Montaza 1",
+        "nameNative": "قسم المنتزه أول",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Sidi Bishr Bahri",
+        "nameNative": "سيدي بشر بحري",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Sidi Bishr Post Office",
+        "nameNative": "مكتب بريد سيدي بشر",
+        "type": "Sub Post Office",
+        "code": "21636"
+      },
+      "areas": [
+        "Khaled Ibn El Walid St",
+        "Sidi Bishr Tram",
+        "Gamal Abdel Nasser St",
+        "Corniche Sidi Bishr"
+      ],
+      "coordinates": {
+        "latitude": 31.2589,
+        "longitude": 29.9889
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21636",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "21645",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Montaza 2",
+        "nameNative": "قسم المنتزه ثان",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Abu Qir",
+        "nameNative": "أبو قير",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Abu Qir Post Office",
+        "nameNative": "مكتب بريد أبو قير",
+        "type": "Sub Post Office",
+        "code": "21645"
+      },
+      "areas": [
+        "Abu Qir Port",
+        "Arab Academy (AASTMT) Area",
+        "Toson",
+        "Al Maamoura Axis"
+      ],
+      "coordinates": {
+        "latitude": 31.3156,
+        "longitude": 30.0612
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21645",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "21934",
+      "governorate": {
+        "nameEn": "Alexandria",
+        "nameNative": "الإسكندرية",
+        "code": "EG-ALX",
+        "postalPrefix": "21",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Borg El Arab",
+        "nameNative": "برج العرب الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "New Borg El Arab",
+        "nameNative": "قسم برج العرب الجديدة",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "District 1 / Industrial Zone",
+        "nameNative": "الحي الأول / المنطقة الصناعية",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "New Borg El Arab City Post Office",
+        "nameNative": "مكتب بريد مدينة برج العرب الجديدة",
+        "type": "Main Post Office",
+        "code": "21934"
+      },
+      "areas": [
+        "Borg El Arab Tech Park",
+        "Industrial Zones 1-5",
+        "E-JUST University Campus",
+        "Airports Corridor"
+      ],
+      "coordinates": {
+        "latitude": 30.9156,
+        "longitude": 29.6712
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-ALEXANDRIA-21934",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

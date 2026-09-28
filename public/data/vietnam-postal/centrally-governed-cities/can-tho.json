@@ -1,0 +1,5547 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Centrally Governed City",
+    "nameEn": "Can Tho",
+    "nameVi": "Cần Thơ",
+    "fullNameEn": "Can Tho City",
+    "fullNameVi": "Thành phố Cần Thơ",
+    "nameSearchNormalized": "can tho",
+    "officialCode": "92",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "94, 95, 96",
+    "isCentrallyGovernedCity": true
+  },
+  "statistics": {
+    "totalCommunes": 104,
+    "specialPostalObjects": 1
+  },
+  "postalRecords": [
+    {
+      "postalCode": "94107",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Cai Khe",
+        "nameVi": "Cái Khế",
+        "fullNameEn": "Cai Khe Ward",
+        "fullNameVi": "Phường Cái Khế",
+        "nameSearchNormalized": "cai khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31120",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Cai Khe Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cái Khế",
+        "type": "Ward",
+        "code": "94107"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ninh Kiều",
+        "districtFullName": "Quận Ninh Kiều",
+        "districtNameEn": "Ninh Kieu",
+        "districtCode": "916",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Ninh Kieu",
+        "nameVi": "Ninh Kiều",
+        "fullNameEn": "Ninh Kieu Ward",
+        "fullNameVi": "Phường Ninh Kiều",
+        "nameSearchNormalized": "ninh kieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31135",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Ninh Kieu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Ninh Kiều",
+        "type": "Ward",
+        "code": "94119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ninh Kiều",
+        "districtFullName": "Quận Ninh Kiều",
+        "districtNameEn": "Ninh Kieu",
+        "districtCode": "916",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan An",
+        "nameVi": "Tân An",
+        "fullNameEn": "Tan An Ward",
+        "fullNameVi": "Phường Tân An",
+        "nameSearchNormalized": "tan an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31147",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tân An",
+        "type": "Ward",
+        "code": "94120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ninh Kiều",
+        "districtFullName": "Quận Ninh Kiều",
+        "districtNameEn": "Ninh Kieu",
+        "districtCode": "916",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "An Binh",
+        "nameVi": "An Bình",
+        "fullNameEn": "An Binh Ward",
+        "fullNameVi": "Phường An Bình",
+        "nameSearchNormalized": "an binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31150",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "An Binh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Bình",
+        "type": "Ward",
+        "code": "94118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ninh Kiều",
+        "districtFullName": "Quận Ninh Kiều",
+        "districtNameEn": "Ninh Kieu",
+        "districtCode": "916",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "O Mon",
+        "nameVi": "Ô Môn",
+        "fullNameEn": "O Mon Ward",
+        "fullNameVi": "Phường Ô Môn",
+        "nameSearchNormalized": "o mon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31153",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "O Mon Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Ô Môn",
+        "type": "Ward",
+        "code": "94313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ô Môn",
+        "districtFullName": "Quận Ô Môn",
+        "districtNameEn": "O Mon",
+        "districtCode": "917",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thoi Long",
+        "nameVi": "Thới Long",
+        "fullNameEn": "Thoi Long Ward",
+        "fullNameVi": "Phường Thới Long",
+        "nameSearchNormalized": "thoi long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31157",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thoi Long Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thới Long",
+        "type": "Ward",
+        "code": "94310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ô Môn",
+        "districtFullName": "Quận Ô Môn",
+        "districtNameEn": "O Mon",
+        "districtCode": "917",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phuoc Thoi",
+        "nameVi": "Phước Thới",
+        "fullNameEn": "Phuoc Thoi Ward",
+        "fullNameVi": "Phường Phước Thới",
+        "nameSearchNormalized": "phuoc thoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31162",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Thoi Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phước Thới",
+        "type": "Ward",
+        "code": "94308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ô Môn",
+        "districtFullName": "Quận Ô Môn",
+        "districtNameEn": "O Mon",
+        "districtCode": "917",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Binh Thuy",
+        "nameVi": "Bình Thuỷ",
+        "fullNameEn": "Binh Thuy Ward",
+        "fullNameVi": "Phường Bình Thuỷ",
+        "nameSearchNormalized": "binh thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31168",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Binh Thuy Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bình Thuỷ",
+        "type": "Ward",
+        "code": "94206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Thuỷ",
+        "districtFullName": "Quận Bình Thuỷ",
+        "districtNameEn": "Binh Thuy",
+        "districtCode": "918",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94210",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thoi An Dong",
+        "nameVi": "Thới An Đông",
+        "fullNameEn": "Thoi An Dong Ward",
+        "fullNameVi": "Phường Thới An Đông",
+        "nameSearchNormalized": "thoi an dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31174",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thoi An Dong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thới An Đông",
+        "type": "Ward",
+        "code": "94210"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Thuỷ",
+        "districtFullName": "Quận Bình Thuỷ",
+        "districtNameEn": "Binh Thuy",
+        "districtCode": "918",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94211",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Long Tuyen",
+        "nameVi": "Long Tuyền",
+        "fullNameEn": "Long Tuyen Ward",
+        "fullNameVi": "Phường Long Tuyền",
+        "nameSearchNormalized": "long tuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31183",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Long Tuyen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Tuyền",
+        "type": "Ward",
+        "code": "94211"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Thuỷ",
+        "districtFullName": "Quận Bình Thuỷ",
+        "districtNameEn": "Binh Thuy",
+        "districtCode": "918",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Cai Rang",
+        "nameVi": "Cái Răng",
+        "fullNameEn": "Cai Rang Ward",
+        "fullNameVi": "Phường Cái Răng",
+        "nameSearchNormalized": "cai rang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31186",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Cai Rang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cái Răng",
+        "type": "Ward",
+        "code": "94913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Răng",
+        "districtFullName": "Quận Cái Răng",
+        "districtNameEn": "Cai Rang",
+        "districtCode": "919",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94912",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Hung Phu",
+        "nameVi": "Hưng Phú",
+        "fullNameEn": "Hung Phu Ward",
+        "fullNameVi": "Phường Hưng Phú",
+        "nameSearchNormalized": "hung phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31201",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Hung Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hưng Phú",
+        "type": "Ward",
+        "code": "94912"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Răng",
+        "districtFullName": "Quận Cái Răng",
+        "districtNameEn": "Cai Rang",
+        "districtCode": "919",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thot Not",
+        "nameVi": "Thốt Nốt",
+        "fullNameEn": "Thot Not Ward",
+        "fullNameVi": "Phường Thốt Nốt",
+        "nameSearchNormalized": "thot not",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31207",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thot Not Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thốt Nốt",
+        "type": "Ward",
+        "code": "94406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thốt Nốt",
+        "districtFullName": "Quận Thốt Nốt",
+        "districtNameEn": "Thot Not",
+        "districtCode": "923",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94412",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan Loc",
+        "nameVi": "Tân Lộc",
+        "fullNameEn": "Tan Loc Ward",
+        "fullNameVi": "Phường Tân Lộc",
+        "nameSearchNormalized": "tan loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31213",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan Loc Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tân Lộc",
+        "type": "Ward",
+        "code": "94412"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thốt Nốt",
+        "districtFullName": "Quận Thốt Nốt",
+        "districtNameEn": "Thot Not",
+        "districtCode": "923",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Trung Nhut",
+        "nameVi": "Trung Nhứt",
+        "fullNameEn": "Trung Nhut Ward",
+        "fullNameVi": "Phường Trung Nhứt",
+        "nameSearchNormalized": "trung nhut",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31217",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Trung Nhut Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trung Nhứt",
+        "type": "Ward",
+        "code": "94409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thốt Nốt",
+        "districtFullName": "Quận Thốt Nốt",
+        "districtNameEn": "Thot Not",
+        "districtCode": "923",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thuan Hung",
+        "nameVi": "Thuận Hưng",
+        "fullNameEn": "Thuan Hung Ward",
+        "fullNameVi": "Phường Thuận Hưng",
+        "nameSearchNormalized": "thuan hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31228",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thuan Hung Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thuận Hưng",
+        "type": "Ward",
+        "code": "94413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thốt Nốt",
+        "districtFullName": "Quận Thốt Nốt",
+        "districtNameEn": "Thot Not",
+        "districtCode": "923",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94512",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thanh An",
+        "nameVi": "Thạnh An",
+        "fullNameEn": "Thanh An Commune",
+        "fullNameVi": "Xã Thạnh An",
+        "nameSearchNormalized": "thanh an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31231",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thanh An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh An",
+        "type": "Commune",
+        "code": "94512"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thạnh",
+        "districtFullName": "Huyện Vĩnh Thạnh",
+        "districtNameEn": "Vinh Thanh",
+        "districtCode": "924",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Thanh",
+        "nameVi": "Vĩnh Thạnh",
+        "fullNameEn": "Vinh Thanh Commune",
+        "fullNameVi": "Xã Vĩnh Thạnh",
+        "nameSearchNormalized": "vinh thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31232",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Thạnh",
+        "type": "Commune",
+        "code": "94506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thạnh",
+        "districtFullName": "Huyện Vĩnh Thạnh",
+        "districtNameEn": "Vinh Thanh",
+        "districtCode": "924",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Trinh",
+        "nameVi": "Vĩnh Trinh",
+        "fullNameEn": "Vinh Trinh Commune",
+        "fullNameVi": "Xã Vĩnh Trinh",
+        "nameSearchNormalized": "vinh trinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31237",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Trinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Trinh",
+        "type": "Commune",
+        "code": "94516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thạnh",
+        "districtFullName": "Huyện Vĩnh Thạnh",
+        "districtNameEn": "Vinh Thanh",
+        "districtCode": "924",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thanh Quoi",
+        "nameVi": "Thạnh Quới",
+        "fullNameEn": "Thanh Quoi Commune",
+        "fullNameVi": "Xã Thạnh Quới",
+        "nameSearchNormalized": "thanh quoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31246",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Quoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Quới",
+        "type": "Commune",
+        "code": "94508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Thạnh",
+        "districtFullName": "Huyện Vĩnh Thạnh",
+        "districtNameEn": "Vinh Thanh",
+        "districtCode": "924",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94611",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thanh Phu",
+        "nameVi": "Thạnh Phú",
+        "fullNameEn": "Thanh Phu Commune",
+        "fullNameVi": "Xã Thạnh Phú",
+        "nameSearchNormalized": "thanh phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31249",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Phú",
+        "type": "Commune",
+        "code": "94611"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cờ Đỏ",
+        "districtFullName": "Huyện Cờ Đỏ",
+        "districtNameEn": "Co Do",
+        "districtCode": "925",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94610",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Trung Hung",
+        "nameVi": "Trung Hưng",
+        "fullNameEn": "Trung Hung Commune",
+        "fullNameVi": "Xã Trung Hưng",
+        "nameSearchNormalized": "trung hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31255",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Trung Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trung Hưng",
+        "type": "Commune",
+        "code": "94610"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cờ Đỏ",
+        "districtFullName": "Huyện Cờ Đỏ",
+        "districtNameEn": "Co Do",
+        "districtCode": "925",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thoi Lai",
+        "nameVi": "Thới Lai",
+        "fullNameEn": "Thoi Lai Commune",
+        "fullNameVi": "Xã Thới Lai",
+        "nameSearchNormalized": "thoi lai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31258",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thoi Lai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thới Lai",
+        "type": "Commune",
+        "code": "94706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Lai",
+        "districtFullName": "Huyện Thới Lai",
+        "districtNameEn": "Thoi Lai",
+        "districtCode": "927",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Co Do",
+        "nameVi": "Cờ Đỏ",
+        "fullNameEn": "Co Do Commune",
+        "fullNameVi": "Xã Cờ Đỏ",
+        "nameSearchNormalized": "co do",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31261",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Co Do Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cờ Đỏ",
+        "type": "Commune",
+        "code": "94606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cờ Đỏ",
+        "districtFullName": "Huyện Cờ Đỏ",
+        "districtNameEn": "Co Do",
+        "districtCode": "925",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94607",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thoi Hung",
+        "nameVi": "Thới Hưng",
+        "fullNameEn": "Thoi Hung Commune",
+        "fullNameVi": "Xã Thới Hưng",
+        "nameSearchNormalized": "thoi hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31264",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thoi Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thới Hưng",
+        "type": "Commune",
+        "code": "94607"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cờ Đỏ",
+        "districtFullName": "Huyện Cờ Đỏ",
+        "districtNameEn": "Co Do",
+        "districtCode": "925",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Dong Hiep",
+        "nameVi": "Đông Hiệp",
+        "fullNameEn": "Dong Hiep Commune",
+        "fullNameVi": "Xã Đông Hiệp",
+        "nameSearchNormalized": "dong hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31273",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Dong Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Hiệp",
+        "type": "Commune",
+        "code": "94615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cờ Đỏ",
+        "districtFullName": "Huyện Cờ Đỏ",
+        "districtNameEn": "Co Do",
+        "districtCode": "925",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Dong Thuan",
+        "nameVi": "Đông Thuận",
+        "fullNameEn": "Dong Thuan Commune",
+        "fullNameVi": "Xã Đông Thuận",
+        "nameSearchNormalized": "dong thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31282",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Dong Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Thuận",
+        "type": "Commune",
+        "code": "94712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Lai",
+        "districtFullName": "Huyện Thới Lai",
+        "districtNameEn": "Thoi Lai",
+        "districtCode": "927",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Truong Thanh",
+        "nameVi": "Trường Thành",
+        "fullNameEn": "Truong Thanh Commune",
+        "fullNameVi": "Xã Trường Thành",
+        "nameSearchNormalized": "truong thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31288",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Truong Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Thành",
+        "type": "Commune",
+        "code": "94718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Lai",
+        "districtFullName": "Huyện Thới Lai",
+        "districtNameEn": "Thoi Lai",
+        "districtCode": "927",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94716",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Truong Xuan",
+        "nameVi": "Trường Xuân",
+        "fullNameEn": "Truong Xuan Commune",
+        "fullNameVi": "Xã Trường Xuân",
+        "nameSearchNormalized": "truong xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31294",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Truong Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Xuân",
+        "type": "Commune",
+        "code": "94716"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Lai",
+        "districtFullName": "Huyện Thới Lai",
+        "districtNameEn": "Thoi Lai",
+        "districtCode": "927",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phong Dien",
+        "nameVi": "Phong Điền",
+        "fullNameEn": "Phong Dien Commune",
+        "fullNameVi": "Xã Phong Điền",
+        "nameSearchNormalized": "phong dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31299",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phong Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Điền",
+        "type": "Commune",
+        "code": "94806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Huyện Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "926",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94810",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Truong Long",
+        "nameVi": "Trường Long",
+        "fullNameEn": "Truong Long Commune",
+        "fullNameVi": "Xã Trường Long",
+        "nameSearchNormalized": "truong long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31309",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Truong Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Long",
+        "type": "Commune",
+        "code": "94810"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Huyện Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "926",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "94811",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Nhon Ai",
+        "nameVi": "Nhơn Ái",
+        "fullNameEn": "Nhon Ai Commune",
+        "fullNameVi": "Xã Nhơn Ái",
+        "nameSearchNormalized": "nhon ai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31315",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Nhon Ai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhơn Ái",
+        "type": "Commune",
+        "code": "94811"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Huyện Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "926",
+        "legacyProvinceName": "Cần Thơ",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95115",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vi Thanh",
+        "nameVi": "Vị Thanh",
+        "fullNameEn": "Vi Thanh Ward",
+        "fullNameVi": "Phường Vị Thanh",
+        "nameSearchNormalized": "vi thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31321",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vi Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vị Thanh",
+        "type": "Ward",
+        "code": "95115"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thanh",
+        "districtFullName": "Thành phố Vị Thanh",
+        "districtNameEn": "Vi Thanh",
+        "districtCode": "930",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95109",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vi Tan",
+        "nameVi": "Vị Tân",
+        "fullNameEn": "Vi Tan Ward",
+        "fullNameVi": "Phường Vị Tân",
+        "nameSearchNormalized": "vi tan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31333",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vi Tan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vị Tân",
+        "type": "Ward",
+        "code": "95109"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thanh",
+        "districtFullName": "Thành phố Vị Thanh",
+        "districtNameEn": "Vi Thanh",
+        "districtCode": "930",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Hoa Luu",
+        "nameVi": "Hoả Lựu",
+        "fullNameEn": "Hoa Luu Commune",
+        "fullNameVi": "Xã Hoả Lựu",
+        "nameSearchNormalized": "hoa luu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31338",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Luu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoả Lựu",
+        "type": "Commune",
+        "code": "95112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thanh",
+        "districtFullName": "Thành phố Vị Thanh",
+        "districtNameEn": "Vi Thanh",
+        "districtCode": "930",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Nga Bay",
+        "nameVi": "Ngã Bảy",
+        "fullNameEn": "Nga Bay Ward",
+        "fullNameVi": "Phường Ngã Bảy",
+        "nameSearchNormalized": "nga bay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31340",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Nga Bay Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Ngã Bảy",
+        "type": "Ward",
+        "code": "95606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngã Bảy",
+        "districtFullName": "Thành phố Ngã Bảy",
+        "districtNameEn": "Nga Bay",
+        "districtCode": "931",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95811",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan Hoa",
+        "nameVi": "Tân Hoà",
+        "fullNameEn": "Tan Hoa Commune",
+        "fullNameVi": "Xã Tân Hoà",
+        "nameSearchNormalized": "tan hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31342",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hoà",
+        "type": "Commune",
+        "code": "95811"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành A",
+        "districtFullName": "Huyện Châu Thành A",
+        "districtNameEn": "Chau Thanh A",
+        "districtCode": "932",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95810",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Truong Long Tay",
+        "nameVi": "Trường Long Tây",
+        "fullNameEn": "Truong Long Tay Commune",
+        "fullNameVi": "Xã Trường Long Tây",
+        "nameSearchNormalized": "truong long tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31348",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Truong Long Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Long Tây",
+        "type": "Commune",
+        "code": "95810"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành A",
+        "districtFullName": "Huyện Châu Thành A",
+        "districtNameEn": "Chau Thanh A",
+        "districtCode": "932",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95813",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thanh Xuan",
+        "nameVi": "Thạnh Xuân",
+        "fullNameEn": "Thanh Xuan Commune",
+        "fullNameVi": "Xã Thạnh Xuân",
+        "nameSearchNormalized": "thanh xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31360",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Xuân",
+        "type": "Commune",
+        "code": "95813"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành A",
+        "districtFullName": "Huyện Châu Thành A",
+        "districtNameEn": "Chau Thanh A",
+        "districtCode": "932",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Chau Thanh",
+        "nameVi": "Châu Thành",
+        "fullNameEn": "Chau Thanh Commune",
+        "fullNameVi": "Xã Châu Thành",
+        "nameSearchNormalized": "chau thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31366",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Chau Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Thành",
+        "type": "Commune",
+        "code": "95715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "933",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95716",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Dong Phuoc",
+        "nameVi": "Đông Phước",
+        "fullNameEn": "Dong Phuoc Commune",
+        "fullNameVi": "Xã Đông Phước",
+        "nameSearchNormalized": "dong phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31369",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Dong Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Phước",
+        "type": "Commune",
+        "code": "95716"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "933",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95707",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phu Huu",
+        "nameVi": "Phú Hữu",
+        "fullNameEn": "Phu Huu Commune",
+        "fullNameVi": "Xã Phú Hữu",
+        "nameSearchNormalized": "phu huu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31378",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phu Huu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hữu",
+        "type": "Commune",
+        "code": "95707"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "933",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95518",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Hoa An",
+        "nameVi": "Hoà An",
+        "fullNameEn": "Hoa An Commune",
+        "fullNameVi": "Xã Hoà An",
+        "nameSearchNormalized": "hoa an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31393",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Hoa An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà An",
+        "type": "Commune",
+        "code": "95518"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95509",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Hiep Hung",
+        "nameVi": "Hiệp Hưng",
+        "fullNameEn": "Hiep Hung Commune",
+        "fullNameVi": "Xã Hiệp Hưng",
+        "nameSearchNormalized": "hiep hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31396",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Hiep Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hiệp Hưng",
+        "type": "Commune",
+        "code": "95509"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan Binh",
+        "nameVi": "Tân Bình",
+        "fullNameEn": "Tan Binh Commune",
+        "fullNameVi": "Xã Tân Bình",
+        "nameSearchNormalized": "tan binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31399",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Bình",
+        "type": "Commune",
+        "code": "95516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95514",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thanh Hoa",
+        "nameVi": "Thạnh Hoà",
+        "fullNameEn": "Thanh Hoa Commune",
+        "fullNameVi": "Xã Thạnh Hoà",
+        "nameSearchNormalized": "thanh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31408",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Hoà",
+        "type": "Commune",
+        "code": "95514"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95607",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Dai Thanh",
+        "nameVi": "Đại Thành",
+        "fullNameEn": "Dai Thanh Ward",
+        "fullNameVi": "Phường Đại Thành",
+        "nameSearchNormalized": "dai thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31411",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Dai Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đại Thành",
+        "type": "Ward",
+        "code": "95607"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngã Bảy",
+        "districtFullName": "Thành phố Ngã Bảy",
+        "districtNameEn": "Nga Bay",
+        "districtCode": "931",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95507",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phung Hiep",
+        "nameVi": "Phụng Hiệp",
+        "fullNameEn": "Phung Hiep Commune",
+        "fullNameVi": "Xã Phụng Hiệp",
+        "nameSearchNormalized": "phung hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31420",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phung Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phụng Hiệp",
+        "type": "Commune",
+        "code": "95507"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95519",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phuong Binh",
+        "nameVi": "Phương Bình",
+        "fullNameEn": "Phuong Binh Commune",
+        "fullNameVi": "Xã Phương Bình",
+        "nameSearchNormalized": "phuong binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31426",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phuong Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phương Bình",
+        "type": "Commune",
+        "code": "95519"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95511",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan Phuoc Hung",
+        "nameVi": "Tân Phước Hưng",
+        "fullNameEn": "Tan Phuoc Hung Commune",
+        "fullNameVi": "Xã Tân Phước Hưng",
+        "nameSearchNormalized": "tan phuoc hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31432",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phuoc Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phước Hưng",
+        "type": "Commune",
+        "code": "95511"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phụng Hiệp",
+        "districtFullName": "Huyện Phụng Hiệp",
+        "districtNameEn": "Phung Hiep",
+        "districtCode": "934",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vi Thuy",
+        "nameVi": "Vị Thuỷ",
+        "fullNameEn": "Vi Thuy Commune",
+        "fullNameVi": "Xã Vị Thuỷ",
+        "nameSearchNormalized": "vi thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31441",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vi Thuy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vị Thuỷ",
+        "type": "Commune",
+        "code": "95216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thuỷ",
+        "districtFullName": "Huyện Vị Thuỷ",
+        "districtNameEn": "Vi Thuy",
+        "districtCode": "935",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Thuan Dong",
+        "nameVi": "Vĩnh Thuận Đông",
+        "fullNameEn": "Vinh Thuan Dong Commune",
+        "fullNameVi": "Xã Vĩnh Thuận Đông",
+        "nameSearchNormalized": "vinh thuan dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31453",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thuan Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Thuận Đông",
+        "type": "Commune",
+        "code": "95313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thuỷ",
+        "districtFullName": "Huyện Vị Thuỷ",
+        "districtNameEn": "Vi Thuy",
+        "districtCode": "935",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Tuong",
+        "nameVi": "Vĩnh Tường",
+        "fullNameEn": "Vinh Tuong Commune",
+        "fullNameVi": "Xã Vĩnh Tường",
+        "nameSearchNormalized": "vinh tuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31459",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Tuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Tường",
+        "type": "Commune",
+        "code": "95209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thuỷ",
+        "districtFullName": "Huyện Vị Thuỷ",
+        "districtNameEn": "Vi Thuy",
+        "districtCode": "935",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95212",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vi Thanh 1",
+        "nameVi": "Vị Thanh 1",
+        "fullNameEn": "Commune Vi Thanh 1",
+        "fullNameVi": "Xã Vị Thanh 1",
+        "nameSearchNormalized": "vi thanh 1",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31465",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vi Thanh 1 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vị Thanh 1",
+        "type": "Commune",
+        "code": "95212"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vị Thuỷ",
+        "districtFullName": "Huyện Vị Thuỷ",
+        "districtNameEn": "Vi Thuy",
+        "districtCode": "935",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Long My",
+        "nameVi": "Long Mỹ",
+        "fullNameEn": "Long My Ward",
+        "fullNameVi": "Phường Long Mỹ",
+        "nameSearchNormalized": "long my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31471",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Long My Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Mỹ",
+        "type": "Ward",
+        "code": "95415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Mỹ",
+        "districtFullName": "Thị xã Long Mỹ",
+        "districtNameEn": "Long My",
+        "districtCode": "937",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Long Binh",
+        "nameVi": "Long Bình",
+        "fullNameEn": "Long Binh Ward",
+        "fullNameVi": "Phường Long Bình",
+        "nameSearchNormalized": "long binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31473",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Long Binh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Bình",
+        "type": "Ward",
+        "code": "95411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Mỹ",
+        "districtFullName": "Thị xã Long Mỹ",
+        "districtNameEn": "Long My",
+        "districtCode": "937",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Long Phu 1",
+        "nameVi": "Long Phú 1",
+        "fullNameEn": "Ward Long Phu 1",
+        "fullNameVi": "Phường Long Phú 1",
+        "nameSearchNormalized": "long phu 1",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31480",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Long Phu 1 Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Long Phú 1",
+        "type": "Ward",
+        "code": "95409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Mỹ",
+        "districtFullName": "Thị xã Long Mỹ",
+        "districtNameEn": "Long My",
+        "districtCode": "937",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Vien",
+        "nameVi": "Vĩnh Viễn",
+        "fullNameEn": "Vinh Vien Commune",
+        "fullNameVi": "Xã Vĩnh Viễn",
+        "nameSearchNormalized": "vinh vien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31489",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Vien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Viễn",
+        "type": "Commune",
+        "code": "95306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Mỹ",
+        "districtFullName": "Huyện Long Mỹ",
+        "districtNameEn": "Long My",
+        "districtCode": "936",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Luong Tam",
+        "nameVi": "Lương Tâm",
+        "fullNameEn": "Luong Tam Commune",
+        "fullNameVi": "Xã Lương Tâm",
+        "nameSearchNormalized": "luong tam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31492",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Luong Tam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lương Tâm",
+        "type": "Commune",
+        "code": "95309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Mỹ",
+        "districtFullName": "Huyện Long Mỹ",
+        "districtNameEn": "Long My",
+        "districtCode": "936",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "95310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Xa Phien",
+        "nameVi": "Xà Phiên",
+        "fullNameEn": "Xa Phien Commune",
+        "fullNameVi": "Xã Xà Phiên",
+        "nameSearchNormalized": "xa phien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31495",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Xa Phien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xà Phiên",
+        "type": "Commune",
+        "code": "95310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Mỹ",
+        "districtFullName": "Huyện Long Mỹ",
+        "districtNameEn": "Long My",
+        "districtCode": "936",
+        "legacyProvinceName": "Hậu Giang",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96117",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Soc Trang",
+        "nameVi": "Sóc Trăng",
+        "fullNameEn": "Soc Trang Ward",
+        "fullNameVi": "Phường Sóc Trăng",
+        "nameSearchNormalized": "soc trang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31507",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Soc Trang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sóc Trăng",
+        "type": "Ward",
+        "code": "96117"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sóc Trăng",
+        "districtFullName": "Thành phố Sóc Trăng",
+        "districtNameEn": "Soc Trang",
+        "districtCode": "941",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phu Loi",
+        "nameVi": "Phú Lợi",
+        "fullNameEn": "Phu Loi Ward",
+        "fullNameVi": "Phường Phú Lợi",
+        "nameSearchNormalized": "phu loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31510",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phu Loi Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phú Lợi",
+        "type": "Ward",
+        "code": "96116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sóc Trăng",
+        "districtFullName": "Thành phố Sóc Trăng",
+        "districtNameEn": "Soc Trang",
+        "districtCode": "941",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Ke Sach",
+        "nameVi": "Kế Sách",
+        "fullNameEn": "Ke Sach Commune",
+        "fullNameVi": "Xã Kế Sách",
+        "nameSearchNormalized": "ke sach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31528",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Ke Sach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kế Sách",
+        "type": "Commune",
+        "code": "96306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kế Sách",
+        "districtFullName": "Huyện Kế Sách",
+        "districtNameEn": "Ke Sach",
+        "districtCode": "943",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "An Lac Thon",
+        "nameVi": "An Lạc Thôn",
+        "fullNameEn": "An Lac Thon Commune",
+        "fullNameVi": "Xã An Lạc Thôn",
+        "nameSearchNormalized": "an lac thon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31531",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "An Lac Thon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Lạc Thôn",
+        "type": "Commune",
+        "code": "96313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kế Sách",
+        "districtFullName": "Huyện Kế Sách",
+        "districtNameEn": "Ke Sach",
+        "districtCode": "943",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phong Nam",
+        "nameVi": "Phong Nẫm",
+        "fullNameEn": "Phong Nam Commune",
+        "fullNameVi": "Xã Phong Nẫm",
+        "nameSearchNormalized": "phong nam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31537",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phong Nam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Nẫm",
+        "type": "Commune",
+        "code": "96312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kế Sách",
+        "districtFullName": "Huyện Kế Sách",
+        "districtNameEn": "Ke Sach",
+        "districtCode": "943",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96307",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thoi An Hoi",
+        "nameVi": "Thới An Hội",
+        "fullNameEn": "Thoi An Hoi Commune",
+        "fullNameVi": "Xã Thới An Hội",
+        "nameSearchNormalized": "thoi an hoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31540",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thoi An Hoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thới An Hội",
+        "type": "Commune",
+        "code": "96307"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kế Sách",
+        "districtFullName": "Huyện Kế Sách",
+        "districtNameEn": "Ke Sach",
+        "districtCode": "943",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Nhon My",
+        "nameVi": "Nhơn Mỹ",
+        "fullNameEn": "Nhon My Commune",
+        "fullNameVi": "Xã Nhơn Mỹ",
+        "nameSearchNormalized": "nhon my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31552",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Nhon My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhơn Mỹ",
+        "type": "Commune",
+        "code": "96310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kế Sách",
+        "districtFullName": "Huyện Kế Sách",
+        "districtNameEn": "Ke Sach",
+        "districtCode": "943",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96317",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Dai Hai",
+        "nameVi": "Đại Hải",
+        "fullNameEn": "Dai Hai Commune",
+        "fullNameVi": "Xã Đại Hải",
+        "nameSearchNormalized": "dai hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31561",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Dai Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đại Hải",
+        "type": "Commune",
+        "code": "96317"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kế Sách",
+        "districtFullName": "Huyện Kế Sách",
+        "districtNameEn": "Ke Sach",
+        "districtCode": "943",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96460",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "My Tu",
+        "nameVi": "Mỹ Tú",
+        "fullNameEn": "My Tu Commune",
+        "fullNameVi": "Xã Mỹ Tú",
+        "nameSearchNormalized": "my tu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31567",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "My Tu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Tú",
+        "type": "Commune",
+        "code": "96460"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tú",
+        "districtFullName": "Huyện Mỹ Tú",
+        "districtNameEn": "My Tu",
+        "districtCode": "944",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96407",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phu Tam",
+        "nameVi": "Phú Tâm",
+        "fullNameEn": "Phu Tam Commune",
+        "fullNameVi": "Xã Phú Tâm",
+        "nameSearchNormalized": "phu tam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31569",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phu Tam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Tâm",
+        "type": "Commune",
+        "code": "96407"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "942",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96408",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Ho Dac Kien",
+        "nameVi": "Hồ Đắc Kiện",
+        "fullNameEn": "Ho Dac Kien Commune",
+        "fullNameVi": "Xã Hồ Đắc Kiện",
+        "nameSearchNormalized": "ho dac kien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31570",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Ho Dac Kien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hồ Đắc Kiện",
+        "type": "Commune",
+        "code": "96408"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "942",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96457",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Long Hung",
+        "nameVi": "Long Hưng",
+        "fullNameEn": "Long Hung Commune",
+        "fullNameVi": "Xã Long Hưng",
+        "nameSearchNormalized": "long hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31579",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Long Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Hưng",
+        "type": "Commune",
+        "code": "96457"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tú",
+        "districtFullName": "Huyện Mỹ Tú",
+        "districtNameEn": "My Tu",
+        "districtCode": "944",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thuan Hoa",
+        "nameVi": "Thuận Hoà",
+        "fullNameEn": "Thuan Hoa Commune",
+        "fullNameVi": "Xã Thuận Hoà",
+        "nameSearchNormalized": "thuan hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31582",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thuan Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thuận Hoà",
+        "type": "Commune",
+        "code": "96409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "942",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96459",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "My Huong",
+        "nameVi": "Mỹ Hương",
+        "fullNameEn": "My Huong Commune",
+        "fullNameVi": "Xã Mỹ Hương",
+        "nameSearchNormalized": "my huong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31591",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "My Huong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Hương",
+        "type": "Commune",
+        "code": "96459"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tú",
+        "districtFullName": "Huyện Mỹ Tú",
+        "districtNameEn": "My Tu",
+        "districtCode": "944",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "An Ninh",
+        "nameVi": "An Ninh",
+        "fullNameEn": "An Ninh Commune",
+        "fullNameVi": "Xã An Ninh",
+        "nameSearchNormalized": "an ninh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31594",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "An Ninh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Ninh",
+        "type": "Commune",
+        "code": "96411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Châu Thành",
+        "districtFullName": "Huyện Châu Thành",
+        "districtNameEn": "Chau Thanh",
+        "districtCode": "942",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96461",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "My Phuoc",
+        "nameVi": "Mỹ Phước",
+        "fullNameEn": "My Phuoc Commune",
+        "fullNameVi": "Xã Mỹ Phước",
+        "nameSearchNormalized": "my phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31603",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "My Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỹ Phước",
+        "type": "Commune",
+        "code": "96461"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Tú",
+        "districtFullName": "Huyện Mỹ Tú",
+        "districtNameEn": "My Tu",
+        "districtCode": "944",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96914",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "An Thanh",
+        "nameVi": "An Thạnh",
+        "fullNameEn": "An Thanh Commune",
+        "fullNameVi": "Xã An Thạnh",
+        "nameSearchNormalized": "an thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31615",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "An Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Thạnh",
+        "type": "Commune",
+        "code": "96914"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cù Lao Dung",
+        "districtFullName": "Huyện Cù Lao Dung",
+        "districtNameEn": "Cu Lao Dung",
+        "districtCode": "945",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96915",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Cu Lao Dung",
+        "nameVi": "Cù Lao Dung",
+        "fullNameEn": "Cu Lao Dung Commune",
+        "fullNameVi": "Xã Cù Lao Dung",
+        "nameSearchNormalized": "cu lao dung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31633",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Cu Lao Dung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cù Lao Dung",
+        "type": "Commune",
+        "code": "96915"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cù Lao Dung",
+        "districtFullName": "Huyện Cù Lao Dung",
+        "districtNameEn": "Cu Lao Dung",
+        "districtCode": "945",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Long Phu",
+        "nameVi": "Long Phú",
+        "fullNameEn": "Long Phu Commune",
+        "fullNameVi": "Xã Long Phú",
+        "nameSearchNormalized": "long phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31639",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Long Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Phú",
+        "type": "Commune",
+        "code": "96216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Phú",
+        "districtFullName": "Huyện Long Phú",
+        "districtNameEn": "Long Phu",
+        "districtCode": "946",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Dai Ngai",
+        "nameVi": "Đại Ngãi",
+        "fullNameEn": "Dai Ngai Commune",
+        "fullNameVi": "Xã Đại Ngãi",
+        "nameSearchNormalized": "dai ngai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31645",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Dai Ngai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đại Ngãi",
+        "type": "Commune",
+        "code": "96209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Phú",
+        "districtFullName": "Huyện Long Phú",
+        "districtNameEn": "Long Phu",
+        "districtCode": "946",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96211",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Truong Khanh",
+        "nameVi": "Trường Khánh",
+        "fullNameEn": "Truong Khanh Commune",
+        "fullNameVi": "Xã Trường Khánh",
+        "nameSearchNormalized": "truong khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31654",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Truong Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Khánh",
+        "type": "Commune",
+        "code": "96211"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Phú",
+        "districtFullName": "Huyện Long Phú",
+        "districtNameEn": "Long Phu",
+        "districtCode": "946",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thạnh",
+        "fullNameEn": "Tan Thanh Commune",
+        "fullNameVi": "Xã Tân Thạnh",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31666",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thạnh",
+        "type": "Commune",
+        "code": "96214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Long Phú",
+        "districtFullName": "Huyện Long Phú",
+        "districtNameEn": "Long Phu",
+        "districtCode": "946",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tran De",
+        "nameVi": "Trần Đề",
+        "fullNameEn": "Tran De Commune",
+        "fullNameVi": "Xã Trần Đề",
+        "nameSearchNormalized": "tran de",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31673",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tran De Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trần Đề",
+        "type": "Commune",
+        "code": "96706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Đề",
+        "districtFullName": "Huyện Trần Đề",
+        "districtNameEn": "Tran De",
+        "districtCode": "951",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Lieu Tu",
+        "nameVi": "Liêu Tú",
+        "fullNameEn": "Lieu Tu Commune",
+        "fullNameVi": "Xã Liêu Tú",
+        "nameSearchNormalized": "lieu tu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31675",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Lieu Tu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Liêu Tú",
+        "type": "Commune",
+        "code": "96711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Đề",
+        "districtFullName": "Huyện Trần Đề",
+        "districtNameEn": "Tran De",
+        "districtCode": "951",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96709",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Lich Hoi Thuong",
+        "nameVi": "Lịch Hội Thượng",
+        "fullNameEn": "Lich Hoi Thuong Commune",
+        "fullNameVi": "Xã Lịch Hội Thượng",
+        "nameSearchNormalized": "lich hoi thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31679",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Lich Hoi Thuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lịch Hội Thượng",
+        "type": "Commune",
+        "code": "96709"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Đề",
+        "districtFullName": "Huyện Trần Đề",
+        "districtNameEn": "Tran De",
+        "districtCode": "951",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "My Xuyen",
+        "nameVi": "Mỹ Xuyên",
+        "fullNameEn": "My Xuyen Ward",
+        "fullNameVi": "Phường Mỹ Xuyên",
+        "nameSearchNormalized": "my xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31684",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "My Xuyen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Xuyên",
+        "type": "Ward",
+        "code": "96118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Xuyên",
+        "districtFullName": "Huyện Mỹ Xuyên",
+        "districtNameEn": "My Xuyen",
+        "districtCode": "947",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tai Van",
+        "nameVi": "Tài Văn",
+        "fullNameEn": "Tai Van Commune",
+        "fullNameVi": "Xã Tài Văn",
+        "nameSearchNormalized": "tai van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31687",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tai Van Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tài Văn",
+        "type": "Commune",
+        "code": "96714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Đề",
+        "districtFullName": "Huyện Trần Đề",
+        "districtNameEn": "Tran De",
+        "districtCode": "951",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Thanh Thoi An",
+        "nameVi": "Thạnh Thới An",
+        "fullNameEn": "Thanh Thoi An Commune",
+        "fullNameVi": "Xã Thạnh Thới An",
+        "nameSearchNormalized": "thanh thoi an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31699",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Thoi An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạnh Thới An",
+        "type": "Commune",
+        "code": "96715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Đề",
+        "districtFullName": "Huyện Trần Đề",
+        "districtNameEn": "Tran De",
+        "districtCode": "951",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96619",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Nhu Gia",
+        "nameVi": "Nhu Gia",
+        "fullNameEn": "Nhu Gia Commune",
+        "fullNameVi": "Xã Nhu Gia",
+        "nameSearchNormalized": "nhu gia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31708",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Nhu Gia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nhu Gia",
+        "type": "Commune",
+        "code": "96619"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Xuyên",
+        "districtFullName": "Huyện Mỹ Xuyên",
+        "districtNameEn": "My Xuyen",
+        "districtCode": "947",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96617",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Hoa Tu",
+        "nameVi": "Hoà Tú",
+        "fullNameEn": "Hoa Tu Commune",
+        "fullNameVi": "Xã Hoà Tú",
+        "nameSearchNormalized": "hoa tu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31717",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Tu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Tú",
+        "type": "Commune",
+        "code": "96617"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Xuyên",
+        "districtFullName": "Huyện Mỹ Xuyên",
+        "districtNameEn": "My Xuyen",
+        "districtCode": "947",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Ngoc To",
+        "nameVi": "Ngọc Tố",
+        "fullNameEn": "Ngoc To Commune",
+        "fullNameVi": "Xã Ngọc Tố",
+        "nameSearchNormalized": "ngoc to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31723",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Ngoc To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọc Tố",
+        "type": "Commune",
+        "code": "96612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Xuyên",
+        "districtFullName": "Huyện Mỹ Xuyên",
+        "districtNameEn": "My Xuyen",
+        "districtCode": "947",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Gia Hoa",
+        "nameVi": "Gia Hoà",
+        "fullNameEn": "Gia Hoa Commune",
+        "fullNameVi": "Xã Gia Hoà",
+        "nameSearchNormalized": "gia hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31726",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Gia Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gia Hoà",
+        "type": "Commune",
+        "code": "96618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mỹ Xuyên",
+        "districtFullName": "Huyện Mỹ Xuyên",
+        "districtNameEn": "My Xuyen",
+        "districtCode": "947",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96514",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Nga Nam",
+        "nameVi": "Ngã Năm",
+        "fullNameEn": "Nga Nam Ward",
+        "fullNameVi": "Phường Ngã Năm",
+        "nameSearchNormalized": "nga nam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31732",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Nga Nam Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Ngã Năm",
+        "type": "Ward",
+        "code": "96514"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngã Năm",
+        "districtFullName": "Thị xã Ngã Năm",
+        "districtNameEn": "Nga Nam",
+        "districtCode": "948",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Tan Long",
+        "nameVi": "Tân Long",
+        "fullNameEn": "Tan Long Commune",
+        "fullNameVi": "Xã Tân Long",
+        "nameSearchNormalized": "tan long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31741",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Tan Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Long",
+        "type": "Commune",
+        "code": "96513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngã Năm",
+        "districtFullName": "Thị xã Ngã Năm",
+        "districtNameEn": "Nga Nam",
+        "districtCode": "948",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "My Quoi",
+        "nameVi": "Mỹ Quới",
+        "fullNameEn": "My Quoi Ward",
+        "fullNameVi": "Phường Mỹ Quới",
+        "nameSearchNormalized": "my quoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31753",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "My Quoi Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Quới",
+        "type": "Ward",
+        "code": "96510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngã Năm",
+        "districtFullName": "Thị xã Ngã Năm",
+        "districtNameEn": "Nga Nam",
+        "districtCode": "948",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96556",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Phu Loc",
+        "nameVi": "Phú Lộc",
+        "fullNameEn": "Phu Loc Commune",
+        "fullNameVi": "Xã Phú Lộc",
+        "nameSearchNormalized": "phu loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31756",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Phu Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Lộc",
+        "type": "Commune",
+        "code": "96556"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạnh Trị",
+        "districtFullName": "Huyện Thạnh Trị",
+        "districtNameEn": "Thanh Tri",
+        "districtCode": "949",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96560",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Lam Tan",
+        "nameVi": "Lâm Tân",
+        "fullNameEn": "Lam Tan Commune",
+        "fullNameVi": "Xã Lâm Tân",
+        "nameSearchNormalized": "lam tan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31759",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Lam Tan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lâm Tân",
+        "type": "Commune",
+        "code": "96560"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạnh Trị",
+        "districtFullName": "Huyện Thạnh Trị",
+        "districtNameEn": "Thanh Tri",
+        "districtCode": "949",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96564",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Loi",
+        "nameVi": "Vĩnh Lợi",
+        "fullNameEn": "Vinh Loi Commune",
+        "fullNameVi": "Xã Vĩnh Lợi",
+        "nameSearchNormalized": "vinh loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31777",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Loi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Lợi",
+        "type": "Commune",
+        "code": "96564"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạnh Trị",
+        "districtFullName": "Huyện Thạnh Trị",
+        "districtNameEn": "Thanh Tri",
+        "districtCode": "949",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96816",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Chau",
+        "nameVi": "Vĩnh Châu",
+        "fullNameEn": "Vinh Chau Ward",
+        "fullNameVi": "Phường Vĩnh Châu",
+        "nameSearchNormalized": "vinh chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31783",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Chau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vĩnh Châu",
+        "type": "Ward",
+        "code": "96816"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Châu",
+        "districtFullName": "Thị xã Vĩnh Châu",
+        "districtNameEn": "Vinh Chau",
+        "districtCode": "950",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96811",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Khanh Hoa",
+        "nameVi": "Khánh Hoà",
+        "fullNameEn": "Khanh Hoa Ward",
+        "fullNameVi": "Phường Khánh Hoà",
+        "nameSearchNormalized": "khanh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31789",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Hoa Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Khánh Hoà",
+        "type": "Ward",
+        "code": "96811"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Châu",
+        "districtFullName": "Thị xã Vĩnh Châu",
+        "districtNameEn": "Vinh Chau",
+        "districtCode": "950",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96809",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Hai",
+        "nameVi": "Vĩnh Hải",
+        "fullNameEn": "Vinh Hai Commune",
+        "fullNameVi": "Xã Vĩnh Hải",
+        "nameSearchNormalized": "vinh hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31795",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hải",
+        "type": "Commune",
+        "code": "96809"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Châu",
+        "districtFullName": "Thị xã Vĩnh Châu",
+        "districtNameEn": "Vinh Chau",
+        "districtCode": "950",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96813",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Vinh Phuoc",
+        "nameVi": "Vĩnh Phước",
+        "fullNameEn": "Vinh Phuoc Ward",
+        "fullNameVi": "Phường Vĩnh Phước",
+        "nameSearchNormalized": "vinh phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31804",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Phuoc Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vĩnh Phước",
+        "type": "Ward",
+        "code": "96813"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Châu",
+        "districtFullName": "Thị xã Vĩnh Châu",
+        "districtNameEn": "Vinh Chau",
+        "districtCode": "950",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "96815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "92"
+      },
+      "commune": {
+        "nameEn": "Lai Hoa",
+        "nameVi": "Lai Hoà",
+        "fullNameEn": "Lai Hoa Commune",
+        "fullNameVi": "Xã Lai Hoà",
+        "nameSearchNormalized": "lai hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31810",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Lai Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lai Hoà",
+        "type": "Commune",
+        "code": "96815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Châu",
+        "districtFullName": "Thị xã Vĩnh Châu",
+        "districtNameEn": "Vinh Chau",
+        "districtCode": "950",
+        "legacyProvinceName": "Sóc Trăng",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "90000",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "nameEn": "Can Tho",
+        "nameVi": "Cần Thơ",
+        "fullNameEn": "Can Tho City",
+        "fullNameVi": "Thành phố Cần Thơ",
+        "nameSearchNormalized": "can tho",
+        "officialCode": "92",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "postalCodePrefix": "94, 95, 96",
+        "isCentrallyGovernedCity": true
+      },
+      "commune": {
+        "nameEn": "Can Tho Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Thành phố Cần Thơ",
+        "administrativeLevel": "Postal Object",
+        "administrativeType": "Public Postal Service Point",
+        "officialCode": "90000",
+        "provinceCode": "92"
+      },
+      "postalObject": {
+        "nameEn": "Can Tho Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Thành phố Cần Thơ",
+        "type": "Public Postal Service Point",
+        "address": "Số 2 Hòa Bình, Tân An, Ninh Kiều, Cần Thơ",
+        "code": "90000"
+      },
+      "postOffice": {
+        "nameEn": "Can Tho Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Thành phố Cần Thơ",
+        "officeType": "Central Postal Branch",
+        "officeCode": "90000",
+        "address": "Số 2 Hòa Bình, Tân An, Ninh Kiều, Cần Thơ"
+      },
+      "legacyAdministrativeData": null,
+      "source": {
+        "name": "Vietnam Post (VNPost) & National Postal Code Database (mabuuchinh.vn)",
+        "organization": "Ministry of Information and Communications / Ministry of Science and Technology",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN & VNPost Official Network Directory",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

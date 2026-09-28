@@ -1,0 +1,4007 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Son La",
+    "nameVi": "Sơn La",
+    "fullNameEn": "Son La Province",
+    "fullNameVi": "Tỉnh Sơn La",
+    "nameSearchNormalized": "son la",
+    "officialCode": "14",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "34",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 75,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "34112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "To Hieu",
+        "nameVi": "Tô Hiệu",
+        "fullNameEn": "To Hieu Ward",
+        "fullNameVi": "Phường Tô Hiệu",
+        "nameSearchNormalized": "to hieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03646",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "To Hieu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tô Hiệu",
+        "type": "Ward",
+        "code": "34112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn La",
+        "districtFullName": "Thành phố Sơn La",
+        "districtNameEn": "Son La",
+        "districtCode": "116",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34107",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng An",
+        "nameVi": "Chiềng An",
+        "fullNameEn": "Chieng An Ward",
+        "fullNameVi": "Phường Chiềng An",
+        "nameSearchNormalized": "chieng an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03664",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Chiềng An",
+        "type": "Ward",
+        "code": "34107"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn La",
+        "districtFullName": "Thành phố Sơn La",
+        "districtNameEn": "Son La",
+        "districtCode": "116",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34111",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Coi",
+        "nameVi": "Chiềng Cơi",
+        "fullNameEn": "Chieng Coi Ward",
+        "fullNameVi": "Phường Chiềng Cơi",
+        "nameSearchNormalized": "chieng coi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03670",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Coi Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Chiềng Cơi",
+        "type": "Ward",
+        "code": "34111"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn La",
+        "districtFullName": "Thành phố Sơn La",
+        "districtNameEn": "Son La",
+        "districtCode": "116",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Sinh",
+        "nameVi": "Chiềng Sinh",
+        "fullNameEn": "Chieng Sinh Ward",
+        "fullNameVi": "Phường Chiềng Sinh",
+        "nameSearchNormalized": "chieng sinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03679",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Sinh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Chiềng Sinh",
+        "type": "Ward",
+        "code": "34116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn La",
+        "districtFullName": "Thành phố Sơn La",
+        "districtNameEn": "Son La",
+        "districtCode": "116",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34256",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Chien",
+        "nameVi": "Mường Chiên",
+        "fullNameEn": "Muong Chien Commune",
+        "fullNameVi": "Xã Mường Chiên",
+        "nameSearchNormalized": "muong chien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03688",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Chien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Chiên",
+        "type": "Commune",
+        "code": "34256"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quỳnh Nhai",
+        "districtFullName": "Huyện Quỳnh Nhai",
+        "districtNameEn": "Quynh Nhai",
+        "districtCode": "118",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34266",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Gion",
+        "nameVi": "Mường Giôn",
+        "fullNameEn": "Muong Gion Commune",
+        "fullNameVi": "Xã Mường Giôn",
+        "nameSearchNormalized": "muong gion",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03694",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Gion Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Giôn",
+        "type": "Commune",
+        "code": "34266"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quỳnh Nhai",
+        "districtFullName": "Huyện Quỳnh Nhai",
+        "districtNameEn": "Quynh Nhai",
+        "districtCode": "118",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34267",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Quynh Nhai",
+        "nameVi": "Quỳnh Nhai",
+        "fullNameEn": "Quynh Nhai Commune",
+        "fullNameVi": "Xã Quỳnh Nhai",
+        "nameSearchNormalized": "quynh nhai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03703",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Quynh Nhai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quỳnh Nhai",
+        "type": "Commune",
+        "code": "34267"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quỳnh Nhai",
+        "districtFullName": "Huyện Quỳnh Nhai",
+        "districtNameEn": "Quynh Nhai",
+        "districtCode": "118",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34264",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Sai",
+        "nameVi": "Mường Sại",
+        "fullNameEn": "Muong Sai Commune",
+        "fullNameVi": "Xã Mường Sại",
+        "nameSearchNormalized": "muong sai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03712",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Sai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Sại",
+        "type": "Commune",
+        "code": "34264"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quỳnh Nhai",
+        "districtFullName": "Huyện Quỳnh Nhai",
+        "districtNameEn": "Quynh Nhai",
+        "districtCode": "118",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Thuan Chau",
+        "nameVi": "Thuận Châu",
+        "fullNameEn": "Thuan Chau Commune",
+        "fullNameVi": "Xã Thuận Châu",
+        "nameSearchNormalized": "thuan chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03721",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Thuan Chau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thuận Châu",
+        "type": "Commune",
+        "code": "34306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34335",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Binh Thuan",
+        "nameVi": "Bình Thuận",
+        "fullNameEn": "Binh Thuan Commune",
+        "fullNameVi": "Xã Bình Thuận",
+        "nameSearchNormalized": "binh thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03724",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Binh Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Thuận",
+        "type": "Commune",
+        "code": "34335"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34318",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong E",
+        "nameVi": "Mường É",
+        "fullNameEn": "Muong E Commune",
+        "fullNameVi": "Xã Mường É",
+        "nameSearchNormalized": "muong e",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03727",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong E Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường É",
+        "type": "Commune",
+        "code": "34318"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34307",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng La",
+        "nameVi": "Chiềng La",
+        "fullNameEn": "Chieng La Commune",
+        "fullNameVi": "Xã Chiềng La",
+        "nameSearchNormalized": "chieng la",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03754",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng La Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng La",
+        "type": "Commune",
+        "code": "34307"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Khieng",
+        "nameVi": "Mường Khiêng",
+        "fullNameEn": "Muong Khieng Commune",
+        "fullNameVi": "Xã Mường Khiêng",
+        "nameSearchNormalized": "muong khieng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03757",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Khieng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Khiêng",
+        "type": "Commune",
+        "code": "34311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34324",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Bam",
+        "nameVi": "Mường Bám",
+        "fullNameEn": "Muong Bam Commune",
+        "fullNameVi": "Xã Mường Bám",
+        "nameSearchNormalized": "muong bam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03760",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Bam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Bám",
+        "type": "Commune",
+        "code": "34324"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34322",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Long He",
+        "nameVi": "Long Hẹ",
+        "fullNameEn": "Long He Commune",
+        "fullNameVi": "Xã Long Hẹ",
+        "nameSearchNormalized": "long he",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03763",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Long He Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Hẹ",
+        "type": "Commune",
+        "code": "34322"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34325",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Co Ma",
+        "nameVi": "Co Mạ",
+        "fullNameEn": "Co Ma Commune",
+        "fullNameVi": "Xã Co Mạ",
+        "nameSearchNormalized": "co ma",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03781",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Co Ma Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Co Mạ",
+        "type": "Commune",
+        "code": "34325"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34332",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Nam Lau",
+        "nameVi": "Nậm Lầu",
+        "fullNameEn": "Nam Lau Commune",
+        "fullNameVi": "Xã Nậm Lầu",
+        "nameSearchNormalized": "nam lau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03784",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Nam Lau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Lầu",
+        "type": "Commune",
+        "code": "34332"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34334",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muoi Noi",
+        "nameVi": "Muổi Nọi",
+        "fullNameEn": "Muoi Noi Commune",
+        "fullNameVi": "Xã Muổi Nọi",
+        "nameSearchNormalized": "muoi noi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03799",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muoi Noi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Muổi Nọi",
+        "type": "Commune",
+        "code": "34334"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Châu",
+        "districtFullName": "Huyện Thuận Châu",
+        "districtNameEn": "Thuan Chau",
+        "districtCode": "119",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34222",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong La",
+        "nameVi": "Mường La",
+        "fullNameEn": "Muong La Commune",
+        "fullNameVi": "Xã Mường La",
+        "nameSearchNormalized": "muong la",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03808",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong La Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường La",
+        "type": "Commune",
+        "code": "34222"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường La",
+        "districtFullName": "Huyện Mường La",
+        "districtNameEn": "Muong La",
+        "districtCode": "120",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34210",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Lao",
+        "nameVi": "Chiềng Lao",
+        "fullNameEn": "Chieng Lao Commune",
+        "fullNameVi": "Xã Chiềng Lao",
+        "nameSearchNormalized": "chieng lao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03814",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Lao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Lao",
+        "type": "Commune",
+        "code": "34210"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường La",
+        "districtFullName": "Huyện Mường La",
+        "districtNameEn": "Muong La",
+        "districtCode": "120",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34208",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Ngoc Chien",
+        "nameVi": "Ngọc Chiến",
+        "fullNameEn": "Ngoc Chien Commune",
+        "fullNameVi": "Xã Ngọc Chiến",
+        "nameSearchNormalized": "ngoc chien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03820",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Ngoc Chien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọc Chiến",
+        "type": "Commune",
+        "code": "34208"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường La",
+        "districtFullName": "Huyện Mường La",
+        "districtNameEn": "Muong La",
+        "districtCode": "120",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Bu",
+        "nameVi": "Mường Bú",
+        "fullNameEn": "Muong Bu Commune",
+        "fullNameVi": "Xã Mường Bú",
+        "nameSearchNormalized": "muong bu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03847",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Bu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Bú",
+        "type": "Commune",
+        "code": "34216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường La",
+        "districtFullName": "Huyện Mường La",
+        "districtNameEn": "Muong La",
+        "districtCode": "120",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34218",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Hoa",
+        "nameVi": "Chiềng Hoa",
+        "fullNameEn": "Chieng Hoa Commune",
+        "fullNameVi": "Xã Chiềng Hoa",
+        "nameSearchNormalized": "chieng hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03850",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Hoa",
+        "type": "Commune",
+        "code": "34218"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường La",
+        "districtFullName": "Huyện Mường La",
+        "districtNameEn": "Muong La",
+        "districtCode": "120",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Bac Yen",
+        "nameVi": "Bắc Yên",
+        "fullNameEn": "Bac Yen Commune",
+        "fullNameVi": "Xã Bắc Yên",
+        "nameSearchNormalized": "bac yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03856",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Bac Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bắc Yên",
+        "type": "Commune",
+        "code": "34606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Yên",
+        "districtFullName": "Huyện Bắc Yên",
+        "districtNameEn": "Bac Yen",
+        "districtCode": "121",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34609",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Xim Vang",
+        "nameVi": "Xím Vàng",
+        "fullNameEn": "Xim Vang Commune",
+        "fullNameVi": "Xã Xím Vàng",
+        "nameSearchNormalized": "xim vang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03862",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Xim Vang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xím Vàng",
+        "type": "Commune",
+        "code": "34609"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Yên",
+        "districtFullName": "Huyện Bắc Yên",
+        "districtNameEn": "Bac Yen",
+        "districtCode": "121",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34607",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Ta Xua",
+        "nameVi": "Tà Xùa",
+        "fullNameEn": "Ta Xua Commune",
+        "fullNameVi": "Xã Tà Xùa",
+        "nameSearchNormalized": "ta xua",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03868",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Ta Xua Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tà Xùa",
+        "type": "Commune",
+        "code": "34607"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Yên",
+        "districtFullName": "Huyện Bắc Yên",
+        "districtNameEn": "Bac Yen",
+        "districtCode": "121",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34611",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Pac Nga",
+        "nameVi": "Pắc Ngà",
+        "fullNameEn": "Pac Nga Commune",
+        "fullNameVi": "Xã Pắc Ngà",
+        "nameSearchNormalized": "pac nga",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03871",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Pac Nga Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Pắc Ngà",
+        "type": "Commune",
+        "code": "34611"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Yên",
+        "districtFullName": "Huyện Bắc Yên",
+        "districtNameEn": "Bac Yen",
+        "districtCode": "121",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Ta Khoa",
+        "nameVi": "Tạ Khoa",
+        "fullNameEn": "Ta Khoa Commune",
+        "fullNameVi": "Xã Tạ Khoa",
+        "nameSearchNormalized": "ta khoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03880",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Ta Khoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tạ Khoa",
+        "type": "Commune",
+        "code": "34616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Yên",
+        "districtFullName": "Huyện Bắc Yên",
+        "districtNameEn": "Bac Yen",
+        "districtCode": "121",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Sai",
+        "nameVi": "Chiềng Sại",
+        "fullNameEn": "Chieng Sai Commune",
+        "fullNameVi": "Xã Chiềng Sại",
+        "nameSearchNormalized": "chieng sai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03892",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Sai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Sại",
+        "type": "Commune",
+        "code": "34618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Yên",
+        "districtFullName": "Huyện Bắc Yên",
+        "districtNameEn": "Bac Yen",
+        "districtCode": "121",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34910",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Suoi To",
+        "nameVi": "Suối Tọ",
+        "fullNameEn": "Suoi To Commune",
+        "fullNameVi": "Xã Suối Tọ",
+        "nameSearchNormalized": "suoi to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03901",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Suoi To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Suối Tọ",
+        "type": "Commune",
+        "code": "34910"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34908",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Coi",
+        "nameVi": "Mường Cơi",
+        "fullNameEn": "Muong Coi Commune",
+        "fullNameVi": "Xã Mường Cơi",
+        "nameSearchNormalized": "muong coi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03907",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Coi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Cơi",
+        "type": "Commune",
+        "code": "34908"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34933",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Phu Yen",
+        "nameVi": "Phù Yên",
+        "fullNameEn": "Phu Yen Commune",
+        "fullNameVi": "Xã Phù Yên",
+        "nameSearchNormalized": "phu yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03910",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Phu Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phù Yên",
+        "type": "Commune",
+        "code": "34933"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34916",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Gia Phu",
+        "nameVi": "Gia Phù",
+        "fullNameEn": "Gia Phu Commune",
+        "fullNameVi": "Xã Gia Phù",
+        "nameSearchNormalized": "gia phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03922",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Gia Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gia Phù",
+        "type": "Commune",
+        "code": "34916"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34932",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Bang",
+        "nameVi": "Mường Bang",
+        "fullNameEn": "Muong Bang Commune",
+        "fullNameVi": "Xã Mường Bang",
+        "nameSearchNormalized": "muong bang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03943",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Bang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Bang",
+        "type": "Commune",
+        "code": "34932"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34923",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Tuong Ha",
+        "nameVi": "Tường Hạ",
+        "fullNameEn": "Tuong Ha Commune",
+        "fullNameVi": "Xã Tường Hạ",
+        "nameSearchNormalized": "tuong ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03958",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Tuong Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tường Hạ",
+        "type": "Commune",
+        "code": "34923"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34921",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Kim Bon",
+        "nameVi": "Kim Bon",
+        "fullNameEn": "Kim Bon Commune",
+        "fullNameVi": "Xã Kim Bon",
+        "nameSearchNormalized": "kim bon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03961",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Kim Bon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kim Bon",
+        "type": "Commune",
+        "code": "34921"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34930",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Tan Phong",
+        "nameVi": "Tân Phong",
+        "fullNameEn": "Tan Phong Commune",
+        "fullNameVi": "Xã Tân Phong",
+        "nameSearchNormalized": "tan phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03970",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Tan Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Phong",
+        "type": "Commune",
+        "code": "34930"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phù Yên",
+        "districtFullName": "Huyện Phù Yên",
+        "districtNameEn": "Phu Yen",
+        "districtCode": "122",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34721",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Moc Son",
+        "nameVi": "Mộc Sơn",
+        "fullNameEn": "Moc Son Ward",
+        "fullNameVi": "Phường Mộc Sơn",
+        "nameSearchNormalized": "moc son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03979",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Moc Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mộc Sơn",
+        "type": "Ward",
+        "code": "34721"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34725",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Moc Chau",
+        "nameVi": "Mộc Châu",
+        "fullNameEn": "Moc Chau Ward",
+        "fullNameVi": "Phường Mộc Châu",
+        "nameSearchNormalized": "moc chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03980",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Moc Chau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mộc Châu",
+        "type": "Ward",
+        "code": "34725"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34722",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Thao Nguyen",
+        "nameVi": "Thảo Nguyên",
+        "fullNameEn": "Thao Nguyen Ward",
+        "fullNameVi": "Phường Thảo Nguyên",
+        "nameSearchNormalized": "thao nguyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03982",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Thao Nguyen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thảo Nguyên",
+        "type": "Ward",
+        "code": "34722"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Son",
+        "nameVi": "Chiềng Sơn",
+        "fullNameEn": "Chieng Son Commune",
+        "fullNameVi": "Xã Chiềng Sơn",
+        "nameSearchNormalized": "chieng son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03985",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Sơn",
+        "type": "Commune",
+        "code": "34718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Tan Yen",
+        "nameVi": "Tân Yên",
+        "fullNameEn": "Tan Yen Commune",
+        "fullNameVi": "Xã Tân Yên",
+        "nameSearchNormalized": "tan yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03997",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Tan Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Yên",
+        "type": "Commune",
+        "code": "34711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34709",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Doan Ket",
+        "nameVi": "Đoàn Kết",
+        "fullNameEn": "Doan Ket Commune",
+        "fullNameVi": "Xã Đoàn Kết",
+        "nameSearchNormalized": "doan ket",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04000",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Doan Ket Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đoàn Kết",
+        "type": "Commune",
+        "code": "34709"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34812",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Song Khua",
+        "nameVi": "Song Khủa",
+        "fullNameEn": "Song Khua Commune",
+        "fullNameVi": "Xã Song Khủa",
+        "nameSearchNormalized": "song khua",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04006",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Song Khua Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Song Khủa",
+        "type": "Commune",
+        "code": "34812"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vân Hồ",
+        "districtFullName": "Huyện Vân Hồ",
+        "districtNameEn": "Van Ho",
+        "districtCode": "128",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "To Mua",
+        "nameVi": "Tô Múa",
+        "fullNameEn": "To Mua Commune",
+        "fullNameVi": "Xã Tô Múa",
+        "nameSearchNormalized": "to mua",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04018",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "To Mua Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tô Múa",
+        "type": "Commune",
+        "code": "34815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vân Hồ",
+        "districtFullName": "Huyện Vân Hồ",
+        "districtNameEn": "Van Ho",
+        "districtCode": "128",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34724",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Van Son",
+        "nameVi": "Vân Sơn",
+        "fullNameEn": "Van Son Ward",
+        "fullNameVi": "Phường Vân Sơn",
+        "nameSearchNormalized": "van son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04033",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Van Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vân Sơn",
+        "type": "Ward",
+        "code": "34724"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Long Sap",
+        "nameVi": "Lóng Sập",
+        "fullNameEn": "Long Sap Commune",
+        "fullNameVi": "Xã Lóng Sập",
+        "nameSearchNormalized": "long sap",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04045",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Long Sap Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lóng Sập",
+        "type": "Commune",
+        "code": "34717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộc Châu",
+        "districtFullName": "Thị xã Mộc Châu",
+        "districtNameEn": "Moc Chau",
+        "districtCode": "123",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Van Ho",
+        "nameVi": "Vân Hồ",
+        "fullNameEn": "Van Ho Commune",
+        "fullNameVi": "Xã Vân Hồ",
+        "nameSearchNormalized": "van ho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04048",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Van Ho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vân Hồ",
+        "type": "Commune",
+        "code": "34806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vân Hồ",
+        "districtFullName": "Huyện Vân Hồ",
+        "districtNameEn": "Van Ho",
+        "districtCode": "128",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34818",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Xuan Nha",
+        "nameVi": "Xuân Nha",
+        "fullNameEn": "Xuan Nha Commune",
+        "fullNameVi": "Xã Xuân Nha",
+        "nameSearchNormalized": "xuan nha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04057",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Nha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Nha",
+        "type": "Commune",
+        "code": "34818"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vân Hồ",
+        "districtFullName": "Huyện Vân Hồ",
+        "districtNameEn": "Van Ho",
+        "districtCode": "128",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34656",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Yen Chau",
+        "nameVi": "Yên Châu",
+        "fullNameEn": "Yen Chau Commune",
+        "fullNameVi": "Xã Yên Châu",
+        "nameSearchNormalized": "yen chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04075",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Yen Chau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Châu",
+        "type": "Commune",
+        "code": "34656"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Châu",
+        "districtFullName": "Huyện Yên Châu",
+        "districtNameEn": "Yen Chau",
+        "districtCode": "124",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34666",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Hac",
+        "nameVi": "Chiềng Hặc",
+        "fullNameEn": "Chieng Hac Commune",
+        "fullNameVi": "Xã Chiềng Hặc",
+        "nameSearchNormalized": "chieng hac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04078",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Hac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Hặc",
+        "type": "Commune",
+        "code": "34666"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Châu",
+        "districtFullName": "Huyện Yên Châu",
+        "districtNameEn": "Yen Chau",
+        "districtCode": "124",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34662",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Yen Son",
+        "nameVi": "Yên Sơn",
+        "fullNameEn": "Yen Son Commune",
+        "fullNameVi": "Xã Yên Sơn",
+        "nameSearchNormalized": "yen son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04087",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Yen Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Sơn",
+        "type": "Commune",
+        "code": "34662"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Châu",
+        "districtFullName": "Huyện Yên Châu",
+        "districtNameEn": "Yen Chau",
+        "districtCode": "124",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34667",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Long Phieng",
+        "nameVi": "Lóng Phiêng",
+        "fullNameEn": "Long Phieng Commune",
+        "fullNameVi": "Xã Lóng Phiêng",
+        "nameSearchNormalized": "long phieng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04096",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Long Phieng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lóng Phiêng",
+        "type": "Commune",
+        "code": "34667"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Châu",
+        "districtFullName": "Huyện Yên Châu",
+        "districtNameEn": "Yen Chau",
+        "districtCode": "124",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34664",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Phieng Khoai",
+        "nameVi": "Phiêng Khoài",
+        "fullNameEn": "Phieng Khoai Commune",
+        "fullNameVi": "Xã Phiêng Khoài",
+        "nameSearchNormalized": "phieng khoai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04099",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Phieng Khoai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phiêng Khoài",
+        "type": "Commune",
+        "code": "34664"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Châu",
+        "districtFullName": "Huyện Yên Châu",
+        "districtNameEn": "Yen Chau",
+        "districtCode": "124",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34528",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Mai Son",
+        "nameVi": "Mai Sơn",
+        "fullNameEn": "Mai Son Commune",
+        "fullNameVi": "Xã Mai Sơn",
+        "nameSearchNormalized": "mai son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04105",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Mai Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mai Sơn",
+        "type": "Commune",
+        "code": "34528"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Sung",
+        "nameVi": "Chiềng Sung",
+        "fullNameEn": "Chieng Sung Commune",
+        "fullNameVi": "Xã Chiềng Sung",
+        "nameSearchNormalized": "chieng sung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04108",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Sung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Sung",
+        "type": "Commune",
+        "code": "34510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Chanh",
+        "nameVi": "Mường Chanh",
+        "fullNameEn": "Muong Chanh Commune",
+        "fullNameVi": "Xã Mường Chanh",
+        "nameSearchNormalized": "muong chanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04117",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Chanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Chanh",
+        "type": "Commune",
+        "code": "34516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Mung",
+        "nameVi": "Chiềng Mung",
+        "fullNameEn": "Chieng Mung Commune",
+        "fullNameVi": "Xã Chiềng Mung",
+        "nameSearchNormalized": "chieng mung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04123",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Mung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Mung",
+        "type": "Commune",
+        "code": "34513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34520",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Mai",
+        "nameVi": "Chiềng Mai",
+        "fullNameEn": "Chieng Mai Commune",
+        "fullNameVi": "Xã Chiềng Mai",
+        "nameSearchNormalized": "chieng mai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04132",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Mai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Mai",
+        "type": "Commune",
+        "code": "34520"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Ta Hoc",
+        "nameVi": "Tà Hộc",
+        "fullNameEn": "Ta Hoc Commune",
+        "fullNameVi": "Xã Tà Hộc",
+        "nameSearchNormalized": "ta hoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04136",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Ta Hoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tà Hộc",
+        "type": "Commune",
+        "code": "34508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34518",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Phieng Cam",
+        "nameVi": "Phiêng Cằm",
+        "fullNameEn": "Phieng Cam Commune",
+        "fullNameVi": "Xã Phiêng Cằm",
+        "nameSearchNormalized": "phieng cam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04144",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Phieng Cam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phiêng Cằm",
+        "type": "Commune",
+        "code": "34518"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34524",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Phieng Pan",
+        "nameVi": "Phiêng Pằn",
+        "fullNameEn": "Phieng Pan Commune",
+        "fullNameVi": "Xã Phiêng Pằn",
+        "nameSearchNormalized": "phieng pan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04159",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Phieng Pan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phiêng Pằn",
+        "type": "Commune",
+        "code": "34524"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mai Sơn",
+        "districtFullName": "Huyện Mai Sơn",
+        "districtNameEn": "Mai Son",
+        "districtCode": "125",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Song Ma",
+        "nameVi": "Sông Mã",
+        "fullNameEn": "Song Ma Commune",
+        "fullNameVi": "Xã Sông Mã",
+        "nameSearchNormalized": "song ma",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04168",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Song Ma Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sông Mã",
+        "type": "Commune",
+        "code": "34406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34412",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Bo Sinh",
+        "nameVi": "Bó Sinh",
+        "fullNameEn": "Bo Sinh Commune",
+        "fullNameVi": "Xã Bó Sinh",
+        "nameSearchNormalized": "bo sinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04171",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Bo Sinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bó Sinh",
+        "type": "Commune",
+        "code": "34412"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Lam",
+        "nameVi": "Mường Lầm",
+        "fullNameEn": "Muong Lam Commune",
+        "fullNameVi": "Xã Mường Lầm",
+        "nameSearchNormalized": "muong lam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04183",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Lam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Lầm",
+        "type": "Commune",
+        "code": "34411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Nam Ty",
+        "nameVi": "Nậm Ty",
+        "fullNameEn": "Nam Ty Commune",
+        "fullNameVi": "Xã Nậm Ty",
+        "nameSearchNormalized": "nam ty",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04186",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Nam Ty Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Ty",
+        "type": "Commune",
+        "code": "34409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng So",
+        "nameVi": "Chiềng Sơ",
+        "fullNameEn": "Chieng So Commune",
+        "fullNameVi": "Xã Chiềng Sơ",
+        "nameSearchNormalized": "chieng so",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04195",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng So Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Sơ",
+        "type": "Commune",
+        "code": "34417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34407",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Khoong",
+        "nameVi": "Chiềng Khoong",
+        "fullNameEn": "Chieng Khoong Commune",
+        "fullNameVi": "Xã Chiềng Khoong",
+        "nameSearchNormalized": "chieng khoong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04204",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Khoong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Khoong",
+        "type": "Commune",
+        "code": "34407"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34419",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Huoi Mot",
+        "nameVi": "Huổi Một",
+        "fullNameEn": "Huoi Mot Commune",
+        "fullNameVi": "Xã Huổi Một",
+        "nameSearchNormalized": "huoi mot",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04210",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Huoi Mot Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Huổi Một",
+        "type": "Commune",
+        "code": "34419"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34421",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Hung",
+        "nameVi": "Mường Hung",
+        "fullNameEn": "Muong Hung Commune",
+        "fullNameVi": "Xã Mường Hung",
+        "nameSearchNormalized": "muong hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04219",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Hung",
+        "type": "Commune",
+        "code": "34421"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34422",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Chieng Khuong",
+        "nameVi": "Chiềng Khương",
+        "fullNameEn": "Chieng Khuong Commune",
+        "fullNameVi": "Xã Chiềng Khương",
+        "nameSearchNormalized": "chieng khuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04222",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Khuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Khương",
+        "type": "Commune",
+        "code": "34422"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sông Mã",
+        "districtFullName": "Huyện Sông Mã",
+        "districtNameEn": "Song Ma",
+        "districtCode": "126",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34458",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Pung Banh",
+        "nameVi": "Púng Bánh",
+        "fullNameEn": "Pung Banh Commune",
+        "fullNameVi": "Xã Púng Bánh",
+        "nameSearchNormalized": "pung banh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04228",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Pung Banh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Púng Bánh",
+        "type": "Commune",
+        "code": "34458"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sốp Cộp",
+        "districtFullName": "Huyện Sốp Cộp",
+        "districtNameEn": "Sop Cop",
+        "districtCode": "127",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34456",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Sop Cop",
+        "nameVi": "Sốp Cộp",
+        "fullNameEn": "Sop Cop Commune",
+        "fullNameVi": "Xã Sốp Cộp",
+        "nameSearchNormalized": "sop cop",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04231",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Sop Cop Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sốp Cộp",
+        "type": "Commune",
+        "code": "34456"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sốp Cộp",
+        "districtFullName": "Huyện Sốp Cộp",
+        "districtNameEn": "Sop Cop",
+        "districtCode": "127",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34460",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Leo",
+        "nameVi": "Mường Lèo",
+        "fullNameEn": "Muong Leo Commune",
+        "fullNameVi": "Xã Mường Lèo",
+        "nameSearchNormalized": "muong leo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04240",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Leo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Lèo",
+        "type": "Commune",
+        "code": "34460"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sốp Cộp",
+        "districtFullName": "Huyện Sốp Cộp",
+        "districtNameEn": "Sop Cop",
+        "districtCode": "127",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34463",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Son La",
+        "nameVi": "Sơn La",
+        "fullNameEn": "Son La Province",
+        "fullNameVi": "Tỉnh Sơn La",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "14"
+      },
+      "commune": {
+        "nameEn": "Muong Lan",
+        "nameVi": "Mường Lạn",
+        "fullNameEn": "Muong Lan Commune",
+        "fullNameVi": "Xã Mường Lạn",
+        "nameSearchNormalized": "muong lan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04246",
+        "provinceCode": "14"
+      },
+      "postalObject": {
+        "nameEn": "Muong Lan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Lạn",
+        "type": "Commune",
+        "code": "34463"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sốp Cộp",
+        "districtFullName": "Huyện Sốp Cộp",
+        "districtNameEn": "Sop Cop",
+        "districtCode": "127",
+        "legacyProvinceName": "Sơn La",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

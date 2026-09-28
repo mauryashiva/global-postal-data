@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Jeonbuk State",
+    "nameOfficialEn": "Jeonbuk Special Self-Governing Province",
+    "nameKo": "전북특별자치도",
+    "category": "provinces",
+    "administrativeType": "Special Self-Governing Province",
+    "isoCode": "KR-45",
+    "prefixes": [
+      "54",
+      "55",
+      "56"
+    ],
+    "areaCode": "063",
+    "capitalEn": "Jeonju",
+    "capitalKo": "전주",
+    "previousNameEn": "Jeollabuk-do (North Jeolla Province)",
+    "previousNameKo": "전라북도",
+    "coordinates": {
+      "latitude": 35.8242,
+      "longitude": 127.148
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "54968",
+      "roadAddress": {
+        "roadName": "Baekje-daero",
+        "roadNameKo": "백제대로",
+        "roadNameCode": "451112000001",
+        "buildingNumber": "225",
+        "buildingName": "Jeonbuk Special Self-Governing Provincial Government",
+        "buildingNameKo": "전북특별자치도청",
+        "buildingManagementNumber": "4511111300100010001000001",
+        "fullAddressEn": "225, Baekje-daero, Wansan-gu, Jeonbuk State 54968, Republic of Korea",
+        "fullAddressKo": "전북특별자치도 완산구 백제대로 225 (효자동3가, 전북특별자치도청)"
+      },
+      "jibunAddress": {
+        "jibun": "1-1 Hyoja-dong 3-ga, Wansan-gu, Jeonju-si, Jeollabuk-do",
+        "jibunKo": "전북특별자치도 전주시 완산구 효자동3가 1-1",
+        "legalDong": "Hyoja-dong 3-ga",
+        "legalDongKo": "효자동3가",
+        "adminDong": "Hyoja 4-dong",
+        "adminDongKo": "효자4동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Jeonbuk State",
+          "nameOfficialEn": "Jeonbuk Special Self-Governing Province",
+          "nameKo": "전북특별자치도",
+          "isoCode": "KR-45",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Jeollabuk-do (North Jeolla Province)",
+          "previousNameKo": "전라북도",
+          "transitionDate": "2024-01-18"
+        },
+        "cityCounty": {
+          "nameEn": "Jeonju-si",
+          "nameKo": "전주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Wansan-gu",
+          "nameKo": "완산구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Hyoja-dong 3-ga",
+          "nameKo": "효자동3가",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Jeonju Post Office",
+        "nameKo": "전주우체국",
+        "code": "56000",
+        "type": "Head Post Office",
+        "phone": "063-280-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "063"
+      },
+      "areas": [
+        "Jeonbuk Provincial Government Square",
+        "Western New Town Jeonju",
+        "KBS Jeonju Station Area"
+      ],
+      "coordinates": {
+        "latitude": 35.8189,
+        "longitude": 127.1089
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-NORTH-JEOLLA-54968",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "55041",
+      "roadAddress": {
+        "roadName": "Taejo-ro",
+        "roadNameKo": "태조로",
+        "roadNameCode": "451113000019",
+        "buildingNumber": "44",
+        "buildingName": "Gyeonggijeon Shrine (Jeonju Hanok Village)",
+        "buildingNameKo": "경기전 (전주한옥마을)",
+        "buildingManagementNumber": "4511110500101020000000001",
+        "fullAddressEn": "44, Taejo-ro, Wansan-gu, Jeonbuk State 55041, Republic of Korea",
+        "fullAddressKo": "전북특별자치도 완산구 태조로 44 (교동, 경기전 (전주한옥마을))"
+      },
+      "jibunAddress": {
+        "jibun": "102 Gyo-dong, Wansan-gu, Jeonju-si, Jeollabuk-do",
+        "jibunKo": "전북특별자치도 전주시 완산구 교동 102",
+        "legalDong": "Gyo-dong",
+        "legalDongKo": "교동",
+        "adminDong": "Pungnam-dong",
+        "adminDongKo": "풍남동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Jeonbuk State",
+          "nameOfficialEn": "Jeonbuk Special Self-Governing Province",
+          "nameKo": "전북특별자치도",
+          "isoCode": "KR-45",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Jeollabuk-do (North Jeolla Province)",
+          "previousNameKo": "전라북도",
+          "transitionDate": "2024-01-18"
+        },
+        "cityCounty": {
+          "nameEn": "Jeonju-si",
+          "nameKo": "전주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Wansan-gu",
+          "nameKo": "완산구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Gyo-dong",
+          "nameKo": "교동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Jeonju Hanok Village Post Office",
+        "nameKo": "전주한옥마을우체국",
+        "code": "56003",
+        "type": "Branch Post Office",
+        "phone": "063-288-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "063"
+      },
+      "areas": [
+        "Jeonju Hanok Traditional Village",
+        "Gyeonggijeon Royal Portrait Shrine",
+        "Jeondong Catholic Cathedral",
+        "Omokdae Historic Pavilion"
+      ],
+      "coordinates": {
+        "latitude": 35.8149,
+        "longitude": 127.1498
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-NORTH-JEOLLA-55041",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

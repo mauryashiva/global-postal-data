@@ -1,0 +1,114 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "West Virginia",
+    "abbreviation": "WV",
+    "fipsCode": "54",
+    "capital": "Charleston",
+    "largestCity": "Charleston",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "304",
+      "681"
+    ],
+    "prefixes": [
+      "247",
+      "248",
+      "249",
+      "250",
+      "251",
+      "252",
+      "253",
+      "254",
+      "255",
+      "256",
+      "257",
+      "258",
+      "259",
+      "260",
+      "261",
+      "262",
+      "263",
+      "264",
+      "265",
+      "266",
+      "267",
+      "268"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-WV-25301-0",
+      "zip5": "25301",
+      "zip4": "1001",
+      "zipPlus4": "25301-1001",
+      "state": {
+        "nameEn": "West Virginia",
+        "abbreviation": "WV",
+        "fipsCode": "54",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Charleston",
+      "acceptableCities": [
+        "Charleston"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Charleston",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Kanawha County",
+          "fipsCode": "54039",
+          "geoid": "54039"
+        }
+      ],
+      "primaryCounty": "Kanawha County",
+      "zcta": {
+        "code": "25301"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Charleston Downtown Post Office",
+        "address": "1002 Lee St E",
+        "phone": "(304) 345-8000",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 38.3498,
+        "longitude": -81.6326,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "304",
+          "681"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WV-25301",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

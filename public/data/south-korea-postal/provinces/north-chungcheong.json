@@ -1,0 +1,191 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Chungcheongbuk-do",
+    "nameOfficialEn": "North Chungcheong Province",
+    "nameKo": "충청북도",
+    "category": "provinces",
+    "administrativeType": "Province",
+    "isoCode": "KR-43",
+    "prefixes": [
+      "27",
+      "28",
+      "29"
+    ],
+    "areaCode": "043",
+    "capitalEn": "Cheongju",
+    "capitalKo": "청주",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 36.6424,
+      "longitude": 127.489
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 6
+  },
+  "records": [
+    {
+      "postalCode": "28515",
+      "roadAddress": {
+        "roadName": "Sangdang-ro",
+        "roadNameKo": "상당로",
+        "roadNameCode": "431112000001",
+        "buildingNumber": "82",
+        "buildingName": "Chungcheongbuk-do Provincial Government",
+        "buildingNameKo": "충청북도청",
+        "buildingManagementNumber": "4311110500100890000000001",
+        "fullAddressEn": "82, Sangdang-ro, Sangdang-gu, Chungcheongbuk-do 28515, Republic of Korea",
+        "fullAddressKo": "충청북도 상당구 상당로 82 (문화동, 충청북도청)"
+      },
+      "jibunAddress": {
+        "jibun": "89 Munhwa-dong, Sangdang-gu, Cheongju-si, Chungcheongbuk-do",
+        "jibunKo": "충청북도 청주시 상당구 문화동 89",
+        "legalDong": "Munhwa-dong",
+        "legalDongKo": "문화동",
+        "adminDong": "Jungang-dong",
+        "adminDongKo": "중앙동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Chungcheongbuk-do",
+          "nameOfficialEn": "North Chungcheong Province",
+          "nameKo": "충청북도",
+          "isoCode": "KR-43",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Cheongju-si",
+          "nameKo": "청주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Sangdang-gu",
+          "nameKo": "상당구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Munhwa-dong",
+          "nameKo": "문화동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Cheongju Post Office",
+        "nameKo": "청주우체국",
+        "code": "36000",
+        "type": "Head Post Office",
+        "phone": "043-250-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "043"
+      },
+      "areas": [
+        "Chungbuk Provincial Office Plaza",
+        "Seong-an-gil Commercial Street",
+        "Cheongju Early Printing Museum (Jikji)"
+      ],
+      "coordinates": {
+        "latitude": 36.6358,
+        "longitude": 127.4912
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-NORTH-CHUNGCHEONG-28515",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "28160",
+      "roadAddress": {
+        "roadName": "Osongsaengmyeong 2-ro",
+        "roadNameKo": "오송생명2로",
+        "roadNameCode": "431133000014",
+        "buildingNumber": "187",
+        "buildingName": "Ministry of Food and Drug Safety (MFDS)",
+        "buildingNameKo": "식품의약품안전처 (오송보건의료행정타운)",
+        "buildingManagementNumber": "4311325021106430000000001",
+        "fullAddressEn": "187, Osongsaengmyeong 2-ro, Heungdeok-gu, Chungcheongbuk-do 28160, Republic of Korea",
+        "fullAddressKo": "충청북도 흥덕구 오송생명2로 187 (오송읍, 식품의약품안전처 (오송보건의료행정타운))"
+      },
+      "jibunAddress": {
+        "jibun": "643 Yeonje-ri, Osong-eup, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do",
+        "jibunKo": "충청북도 청주시 흥덕구 오송읍 연제리 643",
+        "legalDong": "Yeonje-ri",
+        "legalDongKo": "연제리",
+        "adminDong": "Osong-eup",
+        "adminDongKo": "오송읍"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Chungcheongbuk-do",
+          "nameOfficialEn": "North Chungcheong Province",
+          "nameKo": "충청북도",
+          "isoCode": "KR-43",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Cheongju-si",
+          "nameKo": "청주시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Heungdeok-gu",
+          "nameKo": "흥덕구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Osong-eup",
+          "nameKo": "오송읍",
+          "administrativeType": "Eup"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Cheongju Osong Post Office",
+        "nameKo": "청주오송우체국",
+        "code": "36181",
+        "type": "Branch Post Office",
+        "phone": "043-233-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "043"
+      },
+      "areas": [
+        "Osong Bio Valley Healthcare Complex",
+        "KTX Osong Station Hub",
+        "Korea Disease Control Agency (KDCA)"
+      ],
+      "coordinates": {
+        "latitude": 36.6289,
+        "longitude": 127.3289
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-NORTH-CHUNGCHEONG-28160",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

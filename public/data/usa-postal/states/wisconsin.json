@@ -1,0 +1,187 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Wisconsin",
+    "abbreviation": "WI",
+    "fipsCode": "55",
+    "capital": "Madison",
+    "largestCity": "Milwaukee",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "262",
+      "414",
+      "534",
+      "608",
+      "715",
+      "920"
+    ],
+    "prefixes": [
+      "530",
+      "531",
+      "532",
+      "534",
+      "535",
+      "537",
+      "538",
+      "539",
+      "540",
+      "541",
+      "542",
+      "543",
+      "544",
+      "545",
+      "546",
+      "547",
+      "548",
+      "549"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-WI-53202-0",
+      "zip5": "53202",
+      "zip4": "1001",
+      "zipPlus4": "53202-1001",
+      "state": {
+        "nameEn": "Wisconsin",
+        "abbreviation": "WI",
+        "fipsCode": "55",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Milwaukee",
+      "acceptableCities": [
+        "Milwaukee"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Milwaukee",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Milwaukee County",
+          "fipsCode": "55079",
+          "geoid": "55079"
+        }
+      ],
+      "primaryCounty": "Milwaukee County",
+      "zcta": {
+        "code": "53202"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Milwaukee Downtown Station",
+        "address": "345 E Wells St",
+        "phone": "(414) 276-8000",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 43.0389,
+        "longitude": -87.9065,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "262",
+          "414",
+          "534",
+          "608",
+          "715",
+          "920"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 33,
+        "deliveryPoints": 16800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WI-53202",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-WI-53703-1",
+      "zip5": "53703",
+      "zip4": "2001",
+      "zipPlus4": "53703-2001",
+      "state": {
+        "nameEn": "Wisconsin",
+        "abbreviation": "WI",
+        "fipsCode": "55",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Madison",
+      "acceptableCities": [
+        "Madison"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Madison",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Dane County",
+          "fipsCode": "55025",
+          "geoid": "55025"
+        }
+      ],
+      "primaryCounty": "Dane County",
+      "zcta": {
+        "code": "53703"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Madison Capitol Station",
+        "address": "448 W Washington Ave",
+        "phone": "(608) 256-4200",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 43.0731,
+        "longitude": -89.4012,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "262",
+          "414",
+          "534",
+          "608",
+          "715",
+          "920"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 29,
+        "deliveryPoints": 14700
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-WI-53703",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "18",
+  "nameEn": "Lampung",
+  "nameId": "Lampung",
+  "nameNative": "Lampung",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Bandar Lampung",
+  "capitalId": "Kota Bandar Lampung",
+  "zone": "3",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "35111",
+      "province": {
+        "code": "18",
+        "nameEn": "Lampung",
+        "nameId": "Lampung",
+        "nameNative": "Lampung",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "18.71",
+        "nameId": "Kota Bandar Lampung",
+        "nameEn": "Bandar Lampung",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "18.71.01",
+        "nameId": "Kecamatan Tanjung Karang Pusat",
+        "nameEn": "Central Tanjung Karang District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "18.71.01.1001",
+        "nameId": "Kelurahan Kaliawi",
+        "nameEn": "Kaliawi",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Tugu Adipura / Pusat Bisnis Tanjung Karang",
+        "nameEn": "Bandar Lampung Landmark Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bandar Lampung",
+        "nameEn": "Bandar Lampung Main Post Office",
+        "code": "35000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-18-35111-18.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

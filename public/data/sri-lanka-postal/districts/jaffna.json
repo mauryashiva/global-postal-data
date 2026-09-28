@@ -1,0 +1,3668 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Jaffna",
+    "nameSi": "යාපනය",
+    "nameTa": "யாழ்ப்பாணம்",
+    "administrativeType": "District",
+    "code": "LK-41"
+  },
+  "province": {
+    "nameEn": "Northern Province",
+    "nameSi": "උතුරු පළාත",
+    "nameTa": "வட மாகாணம்",
+    "code": "LK-4"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Delft",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Island North (Kayts)",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Island South (Velanai)",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Jaffna",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Karainagar",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Nallur",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thenmaradchi (Chavakachcheri)",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Vadamaradchi East",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Vadamaradchi North",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Vadamaradchi South West",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Valikamam East",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Valikamam North",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Valikamam South",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Valikamam South West",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Valikamam West",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 54,
+    "totalRecords": 54,
+    "dsDivisionCount": 15
+  },
+  "postcodes": [
+    {
+      "postcode": "40000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": {
+            "nameEn": "Jaffna",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "JAFFNA",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "city": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "postcode": "40000",
+          "postOffice": {
+            "nameEn": "Jaffna Post Office",
+            "nameSi": "යාපනය තැපැල් කාර්යාලය",
+            "nameTa": "யாழ்ப்பாணம் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40000"
+          },
+          "coordinates": {
+            "latitude": 9.669013,
+            "longitude": 80.0269528
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40020",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHUNDIKULI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Chundikuli",
+            "nameSi": "චුන්ඩිකුලි",
+            "nameTa": "சுண்டிக்குளி"
+          },
+          "city": {
+            "nameEn": "Chundikuli",
+            "nameSi": "චුන්ඩිකුලි",
+            "nameTa": "சுண்டிக்குளி"
+          },
+          "postcode": "40020",
+          "postOffice": {
+            "nameEn": "Chundikuli Post Office",
+            "nameSi": "චුන්ඩිකුලි තැපැල් කාර්යාලය",
+            "nameTa": "சுண்டிக்குளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40020"
+          },
+          "coordinates": {
+            "latitude": 9.6534927,
+            "longitude": 80.0339312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40045",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANDAITIVU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Mandaitivu",
+            "nameSi": "මණ්ඩතිව්",
+            "nameTa": "மண்டைதீவு"
+          },
+          "city": {
+            "nameEn": "Mandaitivu",
+            "nameSi": "මණ්ඩතිව්",
+            "nameTa": "மண்டைதீவு"
+          },
+          "postcode": "40045",
+          "postOffice": {
+            "nameEn": "Mandaitivu Post Office",
+            "nameSi": "මණ්ඩතිව් තැපැල් කාර්යාලය",
+            "nameTa": "மண்டைதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40045"
+          },
+          "coordinates": {
+            "latitude": 9.6165391,
+            "longitude": 79.9919995
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40048",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALLAIPIDDI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Allaipiddi",
+            "nameSi": "අල්ලයිපිඩ්ඩි",
+            "nameTa": "அல்லைப்பிட்டி"
+          },
+          "city": {
+            "nameEn": "Allaipiddi",
+            "nameSi": "අල්ලයිපිඩ්ඩි",
+            "nameTa": "அல்லைப்பிட்டி"
+          },
+          "postcode": "40048",
+          "postOffice": {
+            "nameEn": "Allaipiddi Post Office",
+            "nameSi": "අල්ලයිපිඩ්ඩි තැපැල් කාර්යාලය",
+            "nameTa": "அல்லைப்பிட்டி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40048"
+          },
+          "coordinates": {
+            "latitude": 9.6198878,
+            "longitude": 79.9654324
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40060",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOKUVIL",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kokuvil",
+            "nameSi": "කොකුවිල්",
+            "nameTa": "கொக்குவில்"
+          },
+          "city": {
+            "nameEn": "Kokuvil",
+            "nameSi": "කොකුවිල්",
+            "nameTa": "கொக்குவில்"
+          },
+          "postcode": "40060",
+          "postOffice": {
+            "nameEn": "Kokuvil Post Office",
+            "nameSi": "කොකුවිල් තැපැල් කාර්යාලය",
+            "nameTa": "கொக்குவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40060"
+          },
+          "coordinates": {
+            "latitude": 9.690824,
+            "longitude": 80.021143
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40062",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KONDAVIL",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kondavil",
+            "nameSi": "කොන්ඩාවිල්",
+            "nameTa": "கோண்டாவில்"
+          },
+          "city": {
+            "nameEn": "Kondavil",
+            "nameSi": "කොන්ඩාවිල්",
+            "nameTa": "கோண்டாவில்"
+          },
+          "postcode": "40062",
+          "postOffice": {
+            "nameEn": "Kondavil Post Office",
+            "nameSi": "කොන්ඩාවිල් තැපැල් කාර්යාලය",
+            "nameTa": "கோண்டாவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40062"
+          },
+          "coordinates": {
+            "latitude": 9.7030007,
+            "longitude": 80.0339312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40075",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHUNNAKAM",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Chunnakam",
+            "nameSi": "චුන්නාකම්",
+            "nameTa": "சுன்னாகம்"
+          },
+          "city": {
+            "nameEn": "Chunnakam",
+            "nameSi": "චුන්නාකම්",
+            "nameTa": "சுன்னாகம்"
+          },
+          "postcode": "40075",
+          "postOffice": {
+            "nameEn": "Chunnakam Post Office",
+            "nameSi": "චුන්නාකම් තැපැල් කාර්යාලය",
+            "nameTa": "சுன்னாகம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40075"
+          },
+          "coordinates": {
+            "latitude": 9.7375634,
+            "longitude": 80.0245049
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40080",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ERIALAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Erialai",
+            "nameSi": "ඊරියාලයි",
+            "nameTa": "எரியாலை"
+          },
+          "city": {
+            "nameEn": "Erialai",
+            "nameSi": "ඊරියාලයි",
+            "nameTa": "எரியாலை"
+          },
+          "postcode": "40080",
+          "postOffice": {
+            "nameEn": "Erialai Post Office",
+            "nameSi": "ඊරියාලයි තැපැල් කාර්යාලය",
+            "nameTa": "எரியாலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40080"
+          },
+          "coordinates": {
+            "latitude": 9.6382902,
+            "longitude": 80.0786359
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40098",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SANDILIPAY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Sandilipay",
+            "nameSi": "සන්දිලිපායි",
+            "nameTa": "சண்டிலிப்பாய்"
+          },
+          "city": {
+            "nameEn": "Sandilipay",
+            "nameSi": "සන්දිලිපායි",
+            "nameTa": "சண்டிலிப்பாய்"
+          },
+          "postcode": "40098",
+          "postOffice": {
+            "nameEn": "Sandilipay Post Office",
+            "nameSi": "සන්දිලිපායි තැපැල් කාර්යාලය",
+            "nameTa": "சண்டிலிப்பாய் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40098"
+          },
+          "coordinates": {
+            "latitude": 9.749336,
+            "longitude": 79.9873832
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANDATERIPPU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Pandaterippu",
+            "nameSi": "පණ්ඩතෙරිප්පු",
+            "nameTa": "பண்டதெரிப்பு"
+          },
+          "city": {
+            "nameEn": "Pandaterippu",
+            "nameSi": "පණ්ඩතෙරිප්පු",
+            "nameTa": "பண்டதெரிப்பு"
+          },
+          "postcode": "40100",
+          "postOffice": {
+            "nameEn": "Pandaterippu Post Office",
+            "nameSi": "පණ්ඩතෙරිප්පු තැපැල් කාර්යාලය",
+            "nameTa": "பண்டதெரிப்பு தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40100"
+          },
+          "coordinates": {
+            "latitude": 9.7782569,
+            "longitude": 79.9724245
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ILAVALAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Ilavalai",
+            "nameSi": "ඉලවාලෙයි",
+            "nameTa": "இளவாலை"
+          },
+          "city": {
+            "nameEn": "Ilavalai",
+            "nameSi": "ඉලවාලෙයි",
+            "nameTa": "இளவாலை"
+          },
+          "postcode": "40108",
+          "postOffice": {
+            "nameEn": "Ilavalai Post Office",
+            "nameSi": "ඉලවාලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "இளவாலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40108"
+          },
+          "coordinates": {
+            "latitude": 9.7952753,
+            "longitude": 79.9892034
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40110",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MATHAGAL",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Mathagal",
+            "nameSi": "මාතගල්",
+            "nameTa": "மாதகல்"
+          },
+          "city": {
+            "nameEn": "Mathagal",
+            "nameSi": "මාතගල්",
+            "nameTa": "மாதகல்"
+          },
+          "postcode": "40110",
+          "postOffice": {
+            "nameEn": "Mathagal Post Office",
+            "nameSi": "මාතගල් තැපැල් කාර්යාලය",
+            "nameTa": "மாதகல் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40110"
+          },
+          "coordinates": {
+            "latitude": 9.7860178,
+            "longitude": 79.9661308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40120",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALLAVEDDI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Allaveddi",
+            "nameSi": "අල්ලවෙඩ්ඩි",
+            "nameTa": "அல்லவெட்டி"
+          },
+          "city": {
+            "nameEn": "Allaveddi",
+            "nameSi": "අල්ලවෙඩ්ඩි",
+            "nameTa": "அல்லவெட்டி"
+          },
+          "postcode": "40120",
+          "postOffice": {
+            "nameEn": "Allaveddi Post Office",
+            "nameSi": "අල්ලවෙඩ්ඩි තැපැල් කාර්යාලය",
+            "nameTa": "அல்லவெட்டி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40120"
+          },
+          "coordinates": {
+            "latitude": 9.6614981,
+            "longitude": 80.0255465
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40130",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THELLIPPALLAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Thellippallai",
+            "nameSi": "තෙල්ලිප්පල්ලයි",
+            "nameTa": "தெல்லிப்பளை"
+          },
+          "city": {
+            "nameEn": "Thellippallai",
+            "nameSi": "තෙල්ලිප්පල්ලයි",
+            "nameTa": "தெல்லிப்பளை"
+          },
+          "postcode": "40130",
+          "postOffice": {
+            "nameEn": "Thellippallai Post Office",
+            "nameSi": "තෙල්ලිප්පල්ලයි තැපැල් කාර්යාලය",
+            "nameTa": "தெல்லிப்பளை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40130"
+          },
+          "coordinates": {
+            "latitude": 9.7910875,
+            "longitude": 80.0339312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40142",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MALLAKAM",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Mallakam",
+            "nameSi": "මල්ලාකම්",
+            "nameTa": "மல்லாகம்"
+          },
+          "city": {
+            "nameEn": "Mallakam",
+            "nameSi": "මල්ලාකම්",
+            "nameTa": "மல்லாகம்"
+          },
+          "postcode": "40142",
+          "postOffice": {
+            "nameEn": "Mallakam Post Office",
+            "nameSi": "මල්ලාකම් තැපැල් කාර්යාලය",
+            "nameTa": "மல்லாகம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40142"
+          },
+          "coordinates": {
+            "latitude": 9.7618864,
+            "longitude": 80.0241489
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40145",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VASAVILAN",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Vasavilan",
+            "nameSi": "වාසවිලාන්",
+            "nameTa": "வசாவிளான்"
+          },
+          "city": {
+            "nameEn": "Vasavilan",
+            "nameSi": "වාසවිලාන්",
+            "nameTa": "வசாவிளான்"
+          },
+          "postcode": "40145",
+          "postOffice": {
+            "nameEn": "Vasavilan Post Office",
+            "nameSi": "වාසවිලාන් තැපැල් කාර්යාලය",
+            "nameTa": "வசாவிளான் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40145"
+          },
+          "coordinates": {
+            "latitude": 9.7883065,
+            "longitude": 80.0700712
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40150",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ATCHUVELI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Atchuveli",
+            "nameSi": "අච්චුවේලි",
+            "nameTa": "அச்சுவேலி"
+          },
+          "city": {
+            "nameEn": "Atchuveli",
+            "nameSi": "අච්චුවේලි",
+            "nameTa": "அச்சுவேலி"
+          },
+          "postcode": "40150",
+          "postOffice": {
+            "nameEn": "Atchuveli Post Office",
+            "nameSi": "අච්චුවේලි තැපැල් කාර්යාලය",
+            "nameTa": "அச்சுவேலி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40150"
+          },
+          "coordinates": {
+            "latitude": 9.7786397,
+            "longitude": 80.1160651
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40158",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUTTUR",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Puttur",
+            "nameSi": "පුත්තූර්",
+            "nameTa": "புத்தூர்"
+          },
+          "city": {
+            "nameEn": "Puttur",
+            "nameSi": "පුත්තූර්",
+            "nameTa": "புத்தூர்"
+          },
+          "postcode": "40158",
+          "postOffice": {
+            "nameEn": "Puttur Post Office",
+            "nameSi": "පුත්තූර් තැපැල් කාර්යාලය",
+            "nameTa": "புத்தூர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40158"
+          },
+          "coordinates": {
+            "latitude": 9.7330898,
+            "longitude": 80.1000376
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40165",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NEERVELY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Neervely",
+            "nameSi": "නීර්වේලි",
+            "nameTa": "பதற்றத்துடன்"
+          },
+          "city": {
+            "nameEn": "Neervely",
+            "nameSi": "නීර්වේලි",
+            "nameTa": "பதற்றத்துடன்"
+          },
+          "postcode": "40165",
+          "postOffice": {
+            "nameEn": "Neervely Post Office",
+            "nameSi": "නීර්වේලි තැපැල් කාර්යාලය",
+            "nameTa": "பதற்றத்துடன் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40165"
+          },
+          "coordinates": {
+            "latitude": 9.7210699,
+            "longitude": 80.0846944
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40170",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOPAY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kopay",
+            "nameSi": "කෝපායි",
+            "nameTa": "கோப்பாய்"
+          },
+          "city": {
+            "nameEn": "Kopay",
+            "nameSi": "කෝපායි",
+            "nameTa": "கோப்பாய்"
+          },
+          "postcode": "40170",
+          "postOffice": {
+            "nameEn": "Kopay Post Office",
+            "nameSi": "කෝපායි තැපැල් කාර්යාලය",
+            "nameTa": "கோப்பாய் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40170"
+          },
+          "coordinates": {
+            "latitude": 9.7043028,
+            "longitude": 80.0786359
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40180",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URUMPIRAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Urumpirai",
+            "nameSi": "උරුම්පිරායි",
+            "nameTa": "உரும்பிராய்"
+          },
+          "city": {
+            "nameEn": "Urumpirai",
+            "nameSi": "උරුම්පිරායි",
+            "nameTa": "உரும்பிராய்"
+          },
+          "postcode": "40180",
+          "postOffice": {
+            "nameEn": "Urumpirai Post Office",
+            "nameSi": "උරුම්පිරායි තැපැල් කාර්යාලය",
+            "nameTa": "உரும்பிராய் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40180"
+          },
+          "coordinates": {
+            "latitude": 9.720319,
+            "longitude": 80.0430418
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40190",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANKESANTHURAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kankesanthurai",
+            "nameSi": "කන්කසන්තුරේ",
+            "nameTa": "காங்கேசன்துறை"
+          },
+          "city": {
+            "nameEn": "Kankesanthurai",
+            "nameSi": "කන්කසන්තුරේ",
+            "nameTa": "காங்கேசன்துறை"
+          },
+          "postcode": "40190",
+          "postOffice": {
+            "nameEn": "Kankesanthurai Post Office",
+            "nameSi": "කන්කසන්තුරේ තැපැල් කාර්යාලය",
+            "nameTa": "காங்கேசன்துறை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40190"
+          },
+          "coordinates": {
+            "latitude": 9.8161105,
+            "longitude": 80.0447878
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40198",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ANAIKODDAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Anaikoddai",
+            "nameSi": "ආනයිකොඩ්ඩෙයි",
+            "nameTa": "ஆனைக்கோட்டை"
+          },
+          "city": {
+            "nameEn": "Anaikoddai",
+            "nameSi": "ආනයිකොඩ්ඩෙයි",
+            "nameTa": "ஆனைக்கோட்டை"
+          },
+          "postcode": "40198",
+          "postOffice": {
+            "nameEn": "Anaikoddai Post Office",
+            "nameSi": "ආනයිකොඩ්ඩෙයි තැපැල් කාර්යාලය",
+            "nameTa": "ஆனைக்கோட்டை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40198"
+          },
+          "coordinates": {
+            "latitude": 9.6963543,
+            "longitude": 79.9947956
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANIPAY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Manipay",
+            "nameSi": "මනිපායි",
+            "nameTa": "மானிப்பாய்"
+          },
+          "city": {
+            "nameEn": "Manipay",
+            "nameSi": "මනිපායි",
+            "nameTa": "மானிப்பாய்"
+          },
+          "postcode": "40200",
+          "postOffice": {
+            "nameEn": "Manipay Post Office",
+            "nameSi": "මනිපායි තැපැල් කාර්යාලය",
+            "nameTa": "மானிப்பாய் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40200"
+          },
+          "coordinates": {
+            "latitude": 9.7291062,
+            "longitude": 79.9925446
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40212",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHANKANAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Chankanai",
+            "nameSi": "චංකානයි",
+            "nameTa": "சங்கானை"
+          },
+          "city": {
+            "nameEn": "Chankanai",
+            "nameSi": "චංකානයි",
+            "nameTa": "சங்கானை"
+          },
+          "postcode": "40212",
+          "postOffice": {
+            "nameEn": "Chankanai Post Office",
+            "nameSi": "චංකානයි තැපැල් කාර්යාලය",
+            "nameTa": "சங்கானை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40212"
+          },
+          "coordinates": {
+            "latitude": 9.7452236,
+            "longitude": 79.9724245
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VADDUKODDAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Vaddukoddai",
+            "nameSi": "වඩ්ඩුකොඩ්ඩෙයි",
+            "nameTa": "வட்டுக்கோட்டை"
+          },
+          "city": {
+            "nameEn": "Vaddukoddai",
+            "nameSi": "වඩ්ඩුකොඩ්ඩෙයි",
+            "nameTa": "வட்டுக்கோட்டை"
+          },
+          "postcode": "40220",
+          "postOffice": {
+            "nameEn": "Vaddukoddai Post Office",
+            "nameSi": "වඩ්ඩුකොඩ්ඩෙයි තැපැල් කාර්යාලය",
+            "nameTa": "வட்டுக்கோட்டை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40220"
+          },
+          "coordinates": {
+            "latitude": 9.7223843,
+            "longitude": 79.9444526
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40221",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ARALY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Araly",
+            "nameSi": "අරලි",
+            "nameTa": "அரளி"
+          },
+          "city": {
+            "nameEn": "Araly",
+            "nameSi": "අරලි",
+            "nameTa": "அரளி"
+          },
+          "postcode": "40221",
+          "postOffice": {
+            "nameEn": "Araly Post Office",
+            "nameSi": "අරලි තැපැල් කාර්යාලය",
+            "nameTa": "அரளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40221"
+          },
+          "coordinates": {
+            "latitude": 9.7062078,
+            "longitude": 79.9556424
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40223",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAGENDRAMADAM",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Nagendramadam",
+            "nameSi": "නාගේන්ද්‍රමඩම්",
+            "nameTa": "நாகேந்திரமடம்"
+          },
+          "city": {
+            "nameEn": "Nagendramadam",
+            "nameSi": "නාගේන්ද්‍රමඩම්",
+            "nameTa": "நாகேந்திரமடம்"
+          },
+          "postcode": "40223",
+          "postOffice": {
+            "nameEn": "Nagendramadam Post Office",
+            "nameSi": "නාගේන්ද්‍රමඩම් තැපැල් කාර්යාලය",
+            "nameTa": "நாகேந்திரமடம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40223"
+          },
+          "coordinates": {
+            "latitude": 9.6614981,
+            "longitude": 80.0255465
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40225",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SANGARATHAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Sangarathai",
+            "nameSi": "සංගරති",
+            "nameTa": "சங்கரத்தை"
+          },
+          "city": {
+            "nameEn": "Sangarathai",
+            "nameSi": "සංගරති",
+            "nameTa": "சங்கரத்தை"
+          },
+          "postcode": "40225",
+          "postOffice": {
+            "nameEn": "Sangarathai Post Office",
+            "nameSi": "සංගරති තැපැල් කාර්යාලය",
+            "nameTa": "சங்கரத்தை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40225"
+          },
+          "coordinates": {
+            "latitude": 9.7285472,
+            "longitude": 79.9668308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40227",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SIVANKOVILADY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Sivankovilady",
+            "nameSi": "සිවන්කෝවිලඩි",
+            "nameTa": "சிவன்கோவிலடி"
+          },
+          "city": {
+            "nameEn": "Sivankovilady",
+            "nameSi": "සිවන්කෝවිලඩි",
+            "nameTa": "சிவன்கோவிலடி"
+          },
+          "postcode": "40227",
+          "postOffice": {
+            "nameEn": "Sivankovilady Post Office",
+            "nameSi": "සිවන්කෝවිලඩි තැපැල් කාර්යාලය",
+            "nameTa": "சிவன்கோவிலடி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40227"
+          },
+          "coordinates": {
+            "latitude": 9.6713051,
+            "longitude": 80.0115568
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40229",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SITHANKERNY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Sithankerny",
+            "nameSi": "සිතන්කර්නි",
+            "nameTa": "சித்தன்கெர்னி"
+          },
+          "city": {
+            "nameEn": "Sithankerny",
+            "nameSi": "සිතන්කර්නි",
+            "nameTa": "சித்தன்கெர்னி"
+          },
+          "postcode": "40229",
+          "postOffice": {
+            "nameEn": "Sithankerny Post Office",
+            "nameSi": "සිතන්කර්නි තැපැල් කාර්යාලය",
+            "nameTa": "சித்தன்கெர்னி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40229"
+          },
+          "coordinates": {
+            "latitude": 9.753655,
+            "longitude": 79.9617755
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40230",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHULLIPURAM",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Chullipuram",
+            "nameSi": "චුල්ලිපුරම්",
+            "nameTa": "சுள்ளிபுரம்"
+          },
+          "city": {
+            "nameEn": "Chullipuram",
+            "nameSi": "චුල්ලිපුරම්",
+            "nameTa": "சுள்ளிபுரம்"
+          },
+          "postcode": "40230",
+          "postOffice": {
+            "nameEn": "Chullipuram Post Office",
+            "nameSi": "චුල්ලිපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "சுள்ளிபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40230"
+          },
+          "coordinates": {
+            "latitude": 9.7659262,
+            "longitude": 79.9462375
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": {
+            "nameEn": "Karainagar",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KARAINAGAR",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Karainagar",
+            "nameSi": "කරෙයිනගර්",
+            "nameTa": "காரைநகர்"
+          },
+          "city": {
+            "nameEn": "Karainagar",
+            "nameSi": "කරෙයිනගර්",
+            "nameTa": "காரைநகர்"
+          },
+          "postcode": "40250",
+          "postOffice": {
+            "nameEn": "Karainagar Post Office",
+            "nameSi": "කරෙයිනගර් තැපැල් කාර්යාලය",
+            "nameTa": "காரைநகர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40250"
+          },
+          "coordinates": {
+            "latitude": 9.7480738,
+            "longitude": 79.8828828
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40270",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAYTS",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kayts",
+            "nameSi": "කයිට්ස්",
+            "nameTa": "ஊர்காவற்துறை"
+          },
+          "city": {
+            "nameEn": "Kayts",
+            "nameSi": "කයිට්ස්",
+            "nameTa": "ஊர்காவற்துறை"
+          },
+          "postcode": "40270",
+          "postOffice": {
+            "nameEn": "Kayts Post Office",
+            "nameSi": "කයිට්ස් තැපැල් කාර්යාලය",
+            "nameTa": "ஊர்காவற்துறை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40270"
+          },
+          "coordinates": {
+            "latitude": 9.6978937,
+            "longitude": 79.8604831
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40275",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ELUVAITIVU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Eluvaitivu",
+            "nameSi": "එළුවතිව්",
+            "nameTa": "எழுவைதீவு"
+          },
+          "city": {
+            "nameEn": "Eluvaitivu",
+            "nameSi": "එළුවතිව්",
+            "nameTa": "எழுவைதீவு"
+          },
+          "postcode": "40275",
+          "postOffice": {
+            "nameEn": "Eluvaitivu Post Office",
+            "nameSi": "එළුවතිව් තැපැල් කාර්යාලය",
+            "nameTa": "எழுவைதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40275"
+          },
+          "coordinates": {
+            "latitude": 9.6923105,
+            "longitude": 79.811464
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40280",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ANALAITIVU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Analaitivu",
+            "nameSi": "අනලතිව්",
+            "nameTa": "அனலைதீவு"
+          },
+          "city": {
+            "nameEn": "Analaitivu",
+            "nameSi": "අනලතිව්",
+            "nameTa": "அனலைதீவு"
+          },
+          "postcode": "40280",
+          "postOffice": {
+            "nameEn": "Analaitivu Post Office",
+            "nameSi": "අනලතිව් තැපැල් කාර්යාලය",
+            "nameTa": "அனலைதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40280"
+          },
+          "coordinates": {
+            "latitude": 9.6679003,
+            "longitude": 79.7764337
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VELANAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Velanai",
+            "nameSi": "වේලනයි",
+            "nameTa": "வேலணை"
+          },
+          "city": {
+            "nameEn": "Velanai",
+            "nameSi": "වේලනයි",
+            "nameTa": "வேலணை"
+          },
+          "postcode": "40300",
+          "postOffice": {
+            "nameEn": "Velanai Post Office",
+            "nameSi": "වේලනයි තැපැල් කාර්යාලය",
+            "nameTa": "வேலணை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40300"
+          },
+          "coordinates": {
+            "latitude": 9.6372405,
+            "longitude": 79.9010784
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40330",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUNGUDUTIVU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Pungudutivu",
+            "nameSi": "පුංගුඩුතිව්",
+            "nameTa": "புங்குடுதீவு"
+          },
+          "city": {
+            "nameEn": "Pungudutivu",
+            "nameSi": "පුංගුඩුතිව්",
+            "nameTa": "புங்குடுதீவு"
+          },
+          "postcode": "40330",
+          "postOffice": {
+            "nameEn": "Pungudutivu Post Office",
+            "nameSi": "පුංගුඩුතිව් තැපැල් කාර්යාලය",
+            "nameTa": "புங்குடுதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40330"
+          },
+          "coordinates": {
+            "latitude": 9.5896465,
+            "longitude": 79.8240715
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40360",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAINATHIVU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Nainathivu",
+            "nameSi": "නයිනතිව්",
+            "nameTa": "நயினாதீவு"
+          },
+          "city": {
+            "nameEn": "Nainathivu",
+            "nameSi": "නයිනතිව්",
+            "nameTa": "நயினாதீவு"
+          },
+          "postcode": "40360",
+          "postOffice": {
+            "nameEn": "Nainathivu Post Office",
+            "nameSi": "නයිනතිව් තැපැල් කාර්යාලය",
+            "nameTa": "நயினாதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40360"
+          },
+          "coordinates": {
+            "latitude": 9.6190123,
+            "longitude": 79.7748762
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40370",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": {
+            "nameEn": "Delft",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "DELFT",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Delft",
+            "nameSi": "ඩෙල්ෆ්ට්",
+            "nameTa": "டெல்ஃப்ட்"
+          },
+          "city": {
+            "nameEn": "Delft",
+            "nameSi": "ඩෙල්ෆ්ට්",
+            "nameTa": "டெல்ஃப்ட்"
+          },
+          "postcode": "40370",
+          "postOffice": {
+            "nameEn": "Delft Post Office",
+            "nameSi": "ඩෙල්ෆ්ට් තැපැල් කාර්යාලය",
+            "nameTa": "டெல்ஃப்ட் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40370"
+          },
+          "coordinates": {
+            "latitude": 9.5276911,
+            "longitude": 79.6998574
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40378",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": {
+            "nameEn": "Delft",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "DELFT WEST",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Delft West",
+            "nameSi": "ඩෙල්ෆ්ට් බටහිර",
+            "nameTa": "டெல்ஃப்ட் மேற்கு"
+          },
+          "city": {
+            "nameEn": "Delft West",
+            "nameSi": "ඩෙල්ෆ්ට් බටහිර",
+            "nameTa": "டெல்ஃப்ட் மேற்கு"
+          },
+          "postcode": "40378",
+          "postOffice": {
+            "nameEn": "Delft West Post Office",
+            "nameSi": "ඩෙල්ෆ්ට් බටහිර තැපැල් කාර්යාලය",
+            "nameTa": "டெல்ஃப்ட் மேற்கு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40378"
+          },
+          "coordinates": {
+            "latitude": 9.5276911,
+            "longitude": 79.6998574
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHAVAKACHCHERI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Chavakachcheri",
+            "nameSi": "චාවකච්චේරි",
+            "nameTa": "சாவகச்சேரி"
+          },
+          "city": {
+            "nameEn": "Chavakachcheri",
+            "nameSi": "චාවකච්චේරි",
+            "nameTa": "சாவகச்சேரி"
+          },
+          "postcode": "40500",
+          "postOffice": {
+            "nameEn": "Chavakachcheri Post Office",
+            "nameSi": "චාවකච්චේරි තැපැල් කාර්යාලය",
+            "nameTa": "சாவகச்சேரி தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40500"
+          },
+          "coordinates": {
+            "latitude": 9.66646,
+            "longitude": 80.1320918
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40510",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEESALAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Meesalai",
+            "nameSi": "මීසාලෙයි",
+            "nameTa": "மீசாலை"
+          },
+          "city": {
+            "nameEn": "Meesalai",
+            "nameSi": "මීසාලෙයි",
+            "nameTa": "மீசாலை"
+          },
+          "postcode": "40510",
+          "postOffice": {
+            "nameEn": "Meesalai Post Office",
+            "nameSi": "මීසාලෙයි තැපැල් කාර්යාලය",
+            "nameTa": "மீசாலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40510"
+          },
+          "coordinates": {
+            "latitude": 9.6746661,
+            "longitude": 80.1958755
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40520",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARAVEDDI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Karaveddi",
+            "nameSi": "කරවෙඩ්ඩි",
+            "nameTa": "கரவெட்டி"
+          },
+          "city": {
+            "nameEn": "Karaveddi",
+            "nameSi": "කරවෙඩ්ඩි",
+            "nameTa": "கரவெட்டி"
+          },
+          "postcode": "40520",
+          "postOffice": {
+            "nameEn": "Karaveddi Post Office",
+            "nameSi": "කරවෙඩ්ඩි තැපැල් කාර්යාලය",
+            "nameTa": "கரவெட்டி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40520"
+          },
+          "coordinates": {
+            "latitude": 9.8000673,
+            "longitude": 80.1994182
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40540",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VALVETTITHURAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Valvettithurai",
+            "nameSi": "වැල්වැටිතුරෙයි",
+            "nameTa": "வல்வெட்டித்துறை"
+          },
+          "city": {
+            "nameEn": "Valvettithurai",
+            "nameSi": "වැල්වැටිතුරෙයි",
+            "nameTa": "வல்வெட்டித்துறை"
+          },
+          "postcode": "40540",
+          "postOffice": {
+            "nameEn": "Valvettithurai Post Office",
+            "nameSi": "වැල්වැටිතුරෙයි තැපැල් කාර්යාලය",
+            "nameTa": "வல்வெட்டித்துறை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40540"
+          },
+          "coordinates": {
+            "latitude": 9.814937,
+            "longitude": 80.1660804
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40545",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THONDAMANARU",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Thondamanaru",
+            "nameSi": "තොණ්ඩමනාරු",
+            "nameTa": "தொண்டமானாறு"
+          },
+          "city": {
+            "nameEn": "Thondamanaru",
+            "nameSi": "තොණ්ඩමනාරු",
+            "nameTa": "தொண்டமானாறு"
+          },
+          "postcode": "40545",
+          "postOffice": {
+            "nameEn": "Thondamanaru Post Office",
+            "nameSi": "තොණ්ඩමනාරු තැපැල් කාර්යාලය",
+            "nameTa": "தொண்டமானாறு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40545"
+          },
+          "coordinates": {
+            "latitude": 9.8184078,
+            "longitude": 80.1369654
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40600",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "POINT PEDRO",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Point Pedro",
+            "nameSi": "පේදුරුතුඩුව",
+            "nameTa": "பருத்தித்துறை"
+          },
+          "city": {
+            "nameEn": "Point Pedro",
+            "nameSi": "පේදුරුතුඩුව",
+            "nameTa": "பருத்தித்துறை"
+          },
+          "postcode": "40600",
+          "postOffice": {
+            "nameEn": "Point Pedro Post Office",
+            "nameSi": "පේදුරුතුඩුව තැපැල් කාර්යාලය",
+            "nameTa": "பருத்தித்துறை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40600"
+          },
+          "coordinates": {
+            "latitude": 9.7937885,
+            "longitude": 80.2209773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40615",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PULOLY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Puloly",
+            "nameSi": "පුලෝලි",
+            "nameTa": "புலோலி"
+          },
+          "city": {
+            "nameEn": "Puloly",
+            "nameSi": "පුලෝලි",
+            "nameTa": "புலோலி"
+          },
+          "postcode": "40615",
+          "postOffice": {
+            "nameEn": "Puloly Post Office",
+            "nameSi": "පුලෝලි තැපැල් කාර්යාලය",
+            "nameTa": "புலோலி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40615"
+          },
+          "coordinates": {
+            "latitude": 9.8172829,
+            "longitude": 80.2352681
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40620",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KUDATANAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kudatanai",
+            "nameSi": "කුඩාතනයි",
+            "nameTa": "குடத்தனை"
+          },
+          "city": {
+            "nameEn": "Kudatanai",
+            "nameSi": "කුඩාතනයි",
+            "nameTa": "குடத்தனை"
+          },
+          "postcode": "40620",
+          "postOffice": {
+            "nameEn": "Kudatanai Post Office",
+            "nameSi": "කුඩාතනයි තැපැල් කාර්යාලය",
+            "nameTa": "குடத்தனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40620"
+          },
+          "coordinates": {
+            "latitude": 9.6614981,
+            "longitude": 80.0255465
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40630",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAGARKOVIL",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Nagarkovil",
+            "nameSi": "නාගර්කෝවිල්",
+            "nameTa": "நாகர்கோவில்"
+          },
+          "city": {
+            "nameEn": "Nagarkovil",
+            "nameSi": "නාගර්කෝවිල්",
+            "nameTa": "நாகர்கோவில்"
+          },
+          "postcode": "40630",
+          "postOffice": {
+            "nameEn": "Nagarkovil Post Office",
+            "nameSi": "නාගර්කෝවිල් තැපැල් කාර්යාලය",
+            "nameTa": "நாகர்கோவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40630"
+          },
+          "coordinates": {
+            "latitude": 9.703095,
+            "longitude": 80.3137106
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40635",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALVAI",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Alvai",
+            "nameSi": "අල්වායි",
+            "nameTa": "அல்வாய்"
+          },
+          "city": {
+            "nameEn": "Alvai",
+            "nameSi": "අල්වායි",
+            "nameTa": "அல்வாய்"
+          },
+          "postcode": "40635",
+          "postOffice": {
+            "nameEn": "Alvai Post Office",
+            "nameSi": "අල්වායි තැපැල් කාර්යාලය",
+            "nameTa": "அல்வாய் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40635"
+          },
+          "coordinates": {
+            "latitude": 9.8208633,
+            "longitude": 80.2042436
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40640",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VARANY",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Varany",
+            "nameSi": "වරනි",
+            "nameTa": "வரணி"
+          },
+          "city": {
+            "nameEn": "Varany",
+            "nameSi": "වරනි",
+            "nameTa": "வரணி"
+          },
+          "postcode": "40640",
+          "postOffice": {
+            "nameEn": "Varany Post Office",
+            "nameSi": "වරනි තැපැල් කාර්යාලය",
+            "nameTa": "வரணி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40640"
+          },
+          "coordinates": {
+            "latitude": 9.6664999,
+            "longitude": 80.0109654
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40700",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KODIKAMAM",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Kodikamam",
+            "nameSi": "කොඩිකාමම්",
+            "nameTa": "கொடிகாமம்"
+          },
+          "city": {
+            "nameEn": "Kodikamam",
+            "nameSi": "කොඩිකාමම්",
+            "nameTa": "கொடிகாமம்"
+          },
+          "postcode": "40700",
+          "postOffice": {
+            "nameEn": "Kodikamam Post Office",
+            "nameSi": "කොඩිකාමම් තැපැල් කාර්යාලය",
+            "nameTa": "கொடிகாமம் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40700"
+          },
+          "coordinates": {
+            "latitude": 9.6844904,
+            "longitude": 80.2220177
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "40750",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Jaffna",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்",
+            "administrativeType": "District",
+            "code": "LK-41"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIRUSUVIL",
+            "nameSi": "යාපනය",
+            "nameTa": "யாழ்ப்பாணம்"
+          },
+          "locality": {
+            "nameEn": "Mirusuvil",
+            "nameSi": "මිරුසුවිල්",
+            "nameTa": "மிருசுவில்"
+          },
+          "city": {
+            "nameEn": "Mirusuvil",
+            "nameSi": "මිරුසුවිල්",
+            "nameTa": "மிருசுவில்"
+          },
+          "postcode": "40750",
+          "postOffice": {
+            "nameEn": "Mirusuvil Post Office",
+            "nameSi": "මිරුසුවිල් තැපැල් කාර්යාලය",
+            "nameTa": "மிருசுவில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "40750"
+          },
+          "coordinates": {
+            "latitude": 9.6677028,
+            "longitude": 80.234018
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

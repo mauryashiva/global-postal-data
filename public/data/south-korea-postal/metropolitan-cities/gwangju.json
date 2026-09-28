@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Gwangju",
+    "nameOfficialEn": "Gwangju Metropolitan City",
+    "nameKo": "광주광역시",
+    "category": "metropolitan-cities",
+    "administrativeType": "Metropolitan City",
+    "isoCode": "KR-29",
+    "prefixes": [
+      "61",
+      "62"
+    ],
+    "areaCode": "062",
+    "capitalEn": "Gwangju",
+    "capitalKo": "광주",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 35.1595,
+      "longitude": 126.8526
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "61945",
+      "roadAddress": {
+        "roadName": "Naebang-ro",
+        "roadNameKo": "내방로",
+        "roadNameCode": "291402000004",
+        "buildingNumber": "111",
+        "buildingName": "Gwangju Metropolitan City Hall",
+        "buildingNameKo": "광주광역시청",
+        "buildingManagementNumber": "2914012400112000000000001",
+        "fullAddressEn": "111, Naebang-ro, Seo-gu, Gwangju 61945, Republic of Korea",
+        "fullAddressKo": "광주광역시 서구 내방로 111 (치평동, 광주광역시청)"
+      },
+      "jibunAddress": {
+        "jibun": "1200 Chipyeong-dong, Seo-gu, Gwangju",
+        "jibunKo": "광주광역시 서구 치평동 1200",
+        "legalDong": "Chipyeong-dong",
+        "legalDongKo": "치평동",
+        "adminDong": "Chipyeong-dong",
+        "adminDongKo": "치평동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Gwangju",
+          "nameOfficialEn": "Gwangju Metropolitan City",
+          "nameKo": "광주광역시",
+          "isoCode": "KR-29",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Gwangju",
+          "nameKo": "광주",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Seo-gu",
+          "nameKo": "서구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Chipyeong-dong",
+          "nameKo": "치평동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gwangju Post Office",
+        "nameKo": "광주우체국",
+        "code": "50000",
+        "type": "Head Post Office",
+        "phone": "062-600-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "062"
+      },
+      "areas": [
+        "Sangmu Commercial District",
+        "May 18 Memorial Park",
+        "Peace Square Gwangju",
+        "Chipyeong-dong Center"
+      ],
+      "coordinates": {
+        "latitude": 35.1595,
+        "longitude": 126.8526
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GWANGJU-61945",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "62417",
+      "roadAddress": {
+        "roadName": "Sangmu-daero",
+        "roadNameKo": "상무대로",
+        "roadNameCode": "292002000001",
+        "buildingNumber": "201",
+        "buildingName": "Gwangju-Songjeong KTX Station",
+        "buildingNameKo": "광주송정역 (KTX)",
+        "buildingManagementNumber": "2920010100110030001000001",
+        "fullAddressEn": "201, Sangmu-daero, Gwangsan-gu, Gwangju 62417, Republic of Korea",
+        "fullAddressKo": "광주광역시 광산구 상무대로 201 (송정동, 광주송정역 (KTX))"
+      },
+      "jibunAddress": {
+        "jibun": "1003-1 Songjeong-dong, Gwangsan-gu, Gwangju",
+        "jibunKo": "광주광역시 광산구 송정동 1003-1",
+        "legalDong": "Songjeong-dong",
+        "legalDongKo": "송정동",
+        "adminDong": "Songjeong 1-dong",
+        "adminDongKo": "송정1동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Gwangju",
+          "nameOfficialEn": "Gwangju Metropolitan City",
+          "nameKo": "광주광역시",
+          "isoCode": "KR-29",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Gwangju",
+          "nameKo": "광주",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Gwangsan-gu",
+          "nameKo": "광산구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Songjeong-dong",
+          "nameKo": "송정동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gwangju Gwangsan Post Office",
+        "nameKo": "광주광산우체국",
+        "code": "50600",
+        "type": "Head Post Office",
+        "phone": "062-950-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "062"
+      },
+      "areas": [
+        "Gwangju-Songjeong KTX Hub",
+        "1913 Songjeong Station Market",
+        "Hwajeong-ro",
+        "Air Base Corridor"
+      ],
+      "coordinates": {
+        "latitude": 35.1378,
+        "longitude": 126.7912
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GWANGJU-62417",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

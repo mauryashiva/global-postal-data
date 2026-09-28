@@ -1,0 +1,5892 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Galle",
+    "nameSi": "ගාල්ල",
+    "nameTa": "காலி",
+    "administrativeType": "District",
+    "code": "LK-31"
+  },
+  "province": {
+    "nameEn": "Southern Province",
+    "nameSi": "දකුණු පළාත",
+    "nameTa": "தென் மாகாணம்",
+    "code": "LK-3"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Akmeemana",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Ambalangoda",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Baddegama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Balapitiya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Bentota",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Bope-Poddala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Elpitiya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Galle Four Gravets",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Gonapinuwala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Habaraduwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Hikkaduwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Imaduwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Karandeniya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Nagoda",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Neluwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Niyagama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thawalama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Welivitiya-Divithura",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Yakkalamulla",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 87,
+    "totalRecords": 87,
+    "dsDivisionCount": 19
+  },
+  "postcodes": [
+    {
+      "postcode": "12136",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "POLGAMPOLA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Polgampola",
+            "nameSi": "පොල්ගම්පොල",
+            "nameTa": "பொல்கம்பொல"
+          },
+          "city": {
+            "nameEn": "Polgampola",
+            "nameSi": "පොල්ගම්පොල",
+            "nameTa": "பொல்கம்பொல"
+          },
+          "postcode": "12136",
+          "postOffice": {
+            "nameEn": "Polgampola Post Office",
+            "nameSi": "පොල්ගම්පොල තැපැල් කාර්යාලය",
+            "nameTa": "பொல்கம்பொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "12136"
+          },
+          "coordinates": {
+            "latitude": 6.4651893,
+            "longitude": 80.1961205
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20140",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALAWATUGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Alawatugoda",
+            "nameSi": "අලවතුගොඩ",
+            "nameTa": "அலவதுகொட"
+          },
+          "city": {
+            "nameEn": "Alawatugoda",
+            "nameSi": "අලවතුගොඩ",
+            "nameTa": "அலவதுகொட"
+          },
+          "postcode": "20140",
+          "postOffice": {
+            "nameEn": "Alawatugoda Post Office",
+            "nameSi": "අලවතුගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "அலவதுகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20140"
+          },
+          "coordinates": {
+            "latitude": 7.4089934,
+            "longitude": 80.6187942
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "20142",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WILANAGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Wilanagama",
+            "nameSi": "විලනගම",
+            "nameTa": "விலானகம"
+          },
+          "city": {
+            "nameEn": "Wilanagama",
+            "nameSi": "විලනගම",
+            "nameTa": "விலானகம"
+          },
+          "postcode": "20142",
+          "postOffice": {
+            "nameEn": "Wilanagama Post Office",
+            "nameSi": "විලනගම තැපැල් කාර්යාලය",
+            "nameTa": "விலானகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "20142"
+          },
+          "coordinates": {
+            "latitude": 6.0041796,
+            "longitude": 80.4138113
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "22012",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PATANA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Patana",
+            "nameSi": "පතාන",
+            "nameTa": "பதான"
+          },
+          "city": {
+            "nameEn": "Patana",
+            "nameSi": "පතාන",
+            "nameTa": "பதான"
+          },
+          "postcode": "22012",
+          "postOffice": {
+            "nameEn": "Patana Post Office",
+            "nameSi": "පතාන තැපැල් කාර්යාලය",
+            "nameTa": "பதான தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "22012"
+          },
+          "coordinates": {
+            "latitude": 6.0535185,
+            "longitude": 80.2209773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51070",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WELIKANDA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Welikanda",
+            "nameSi": "වැලිකන්ද",
+            "nameTa": "வெலிகந்ந"
+          },
+          "city": {
+            "nameEn": "Welikanda",
+            "nameSi": "වැලිකන්ද",
+            "nameTa": "வெலிகந்ந"
+          },
+          "postcode": "51070",
+          "postOffice": {
+            "nameEn": "Welikanda Post Office",
+            "nameSi": "වැලිකන්ද තැපැල් කාර්යාලය",
+            "nameTa": "வெலிகந்ந தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51070"
+          },
+          "coordinates": {
+            "latitude": 7.9459654,
+            "longitude": 81.2491298
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51072",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ASELAPURA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Aselapura",
+            "nameSi": "ඇසලපුර",
+            "nameTa": "அசேலபுர"
+          },
+          "city": {
+            "nameEn": "Aselapura",
+            "nameSi": "ඇසලපුර",
+            "nameTa": "அசேலபுர"
+          },
+          "postcode": "51072",
+          "postOffice": {
+            "nameEn": "Aselapura Post Office",
+            "nameSi": "ඇසලපුර තැපැල් කාර්යාලය",
+            "nameTa": "அசேலபுர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51072"
+          },
+          "coordinates": {
+            "latitude": 6.0535185,
+            "longitude": 80.2209773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "51076",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAHAWELA SINHAPURA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Mahawela Sinhapura",
+            "nameSi": "මහවෙල සිංහපුර",
+            "nameTa": "மஹாவெல சிங்கபுர"
+          },
+          "city": {
+            "nameEn": "Mahawela Sinhapura",
+            "nameSi": "මහවෙල සිංහපුර",
+            "nameTa": "மஹாவெல சிங்கபுர"
+          },
+          "postcode": "51076",
+          "postOffice": {
+            "nameEn": "Mahawela Sinhapura Post Office",
+            "nameSi": "මහවෙල සිංහපුර තැපැල් කාර්යාලය",
+            "nameTa": "மஹாவெல சிங்கபுர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51076"
+          },
+          "coordinates": {
+            "latitude": 6.6819241,
+            "longitude": 80.4058741
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GALLE",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "city": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "postcode": "80000",
+          "postOffice": {
+            "nameEn": "Galle Post Office",
+            "nameSi": "ගාල්ල තැපැල් කාර්යාලය",
+            "nameTa": "காலி தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80000"
+          },
+          "coordinates": {
+            "latitude": 6.0481918,
+            "longitude": 80.2153998
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80042",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WAKWELLA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Wakwella",
+            "nameSi": "වක්වැල්ල",
+            "nameTa": "வக்வெள்ள"
+          },
+          "city": {
+            "nameEn": "Wakwella",
+            "nameSi": "වක්වැල්ල",
+            "nameTa": "வக்வெள்ள"
+          },
+          "postcode": "80042",
+          "postOffice": {
+            "nameEn": "Wakwella Post Office",
+            "nameSi": "වක්වැල්ල තැපැල් කාර්යාලය",
+            "nameTa": "வக்வெள்ள தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80042"
+          },
+          "coordinates": {
+            "latitude": 6.0921684,
+            "longitude": 80.1902963
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80044",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ANANGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Anangoda",
+            "nameSi": "අනන්ගොඩ",
+            "nameTa": "அனங்கோடா"
+          },
+          "city": {
+            "nameEn": "Anangoda",
+            "nameSi": "අනන්ගොඩ",
+            "nameTa": "அனங்கோடா"
+          },
+          "postcode": "80044",
+          "postOffice": {
+            "nameEn": "Anangoda Post Office",
+            "nameSi": "අනන්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "அனங்கோடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80044"
+          },
+          "coordinates": {
+            "latitude": 6.0475642,
+            "longitude": 80.2530412
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80046",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WALAHANDUWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Walahanduwa",
+            "nameSi": "වලහන්දූව",
+            "nameTa": "வலஹந்துவா"
+          },
+          "city": {
+            "nameEn": "Walahanduwa",
+            "nameSi": "වලහන්දූව",
+            "nameTa": "வலஹந்துவா"
+          },
+          "postcode": "80046",
+          "postOffice": {
+            "nameEn": "Walahanduwa Post Office",
+            "nameSi": "වලහන්දූව තැපැල් කාර්යාලය",
+            "nameTa": "வலஹந்துவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80046"
+          },
+          "coordinates": {
+            "latitude": 6.0515591,
+            "longitude": 80.2572225
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80048",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ANKOKKAWALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Ankokkawala",
+            "nameSi": "අංකොක්කාවල",
+            "nameTa": "அங்கொக்காவல"
+          },
+          "city": {
+            "nameEn": "Ankokkawala",
+            "nameSi": "අංකොක්කාවල",
+            "nameTa": "அங்கொக்காவல"
+          },
+          "postcode": "80048",
+          "postOffice": {
+            "nameEn": "Ankokkawala Post Office",
+            "nameSi": "අංකොක්කාවල තැපැල් කාර්යාලය",
+            "nameTa": "அங்கொக்காவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80048"
+          },
+          "coordinates": {
+            "latitude": 6.0532918,
+            "longitude": 80.2809129
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80054",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GONAMULLA JUNCTION",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Gonamulla Junction",
+            "nameSi": "ගෝනමුල්ල හංදිය",
+            "nameTa": "கோணமுல்ல சந்தி"
+          },
+          "city": {
+            "nameEn": "Gonamulla Junction",
+            "nameSi": "ගෝනමුල්ල හංදිය",
+            "nameTa": "கோணமுல்ல சந்தி"
+          },
+          "postcode": "80054",
+          "postOffice": {
+            "nameEn": "Gonamulla Junction Post Office",
+            "nameSi": "ගෝනමුල්ල හංදිය තැපැල් කාර්යාලය",
+            "nameTa": "கோணமுல்ல சந்தி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80054"
+          },
+          "coordinates": {
+            "latitude": 6.082083,
+            "longitude": 80.290911
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80056",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HIYARE",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Hiyare",
+            "nameSi": "හියාරෙ",
+            "nameTa": "ஹியாரே"
+          },
+          "city": {
+            "nameEn": "Hiyare",
+            "nameSi": "හියාරෙ",
+            "nameTa": "ஹியாரே"
+          },
+          "postcode": "80056",
+          "postOffice": {
+            "nameEn": "Hiyare Post Office",
+            "nameSi": "හියාරෙ තැපැල් කාර්යාලය",
+            "nameTa": "ஹியாரே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80056"
+          },
+          "coordinates": {
+            "latitude": 6.0720114,
+            "longitude": 80.3425801
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80058",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALAGAMPOLA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Talagampola",
+            "nameSi": "තලගම්පොල",
+            "nameTa": "தலகம்பொல"
+          },
+          "city": {
+            "nameEn": "Talagampola",
+            "nameSi": "තලගම්පොල",
+            "nameTa": "தலகம்பொல"
+          },
+          "postcode": "80058",
+          "postOffice": {
+            "nameEn": "Talagampola Post Office",
+            "nameSi": "තලගම්පොල තැපැල් කාර්යාලය",
+            "nameTa": "தலகம்பொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80058"
+          },
+          "coordinates": {
+            "latitude": 6.0870628,
+            "longitude": 80.3035418
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80062",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTTAWAGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Kottawagama",
+            "nameSi": "කොට්ටාවගම",
+            "nameTa": "கொட்டவாகம"
+          },
+          "city": {
+            "nameEn": "Kottawagama",
+            "nameSi": "කොට්ටාවගම",
+            "nameTa": "கொட்டவாகம"
+          },
+          "postcode": "80062",
+          "postOffice": {
+            "nameEn": "Kottawagama Post Office",
+            "nameSi": "කොට්ටාවගම තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டவாகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80062"
+          },
+          "coordinates": {
+            "latitude": 6.1078139,
+            "longitude": 80.3035884
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80064",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAKIYADENIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Nakiyadeniya",
+            "nameSi": "නාකියාදෙණිය",
+            "nameTa": "நாகியதெனிய"
+          },
+          "city": {
+            "nameEn": "Nakiyadeniya",
+            "nameSi": "නාකියාදෙණිය",
+            "nameTa": "நாகியதெனிய"
+          },
+          "postcode": "80064",
+          "postOffice": {
+            "nameEn": "Nakiyadeniya Post Office",
+            "nameSi": "නාකියාදෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "நாகியதெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80064"
+          },
+          "coordinates": {
+            "latitude": 6.1433285,
+            "longitude": 80.3421984
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80070",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDUGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Udugama",
+            "nameSi": "උඩුගම",
+            "nameTa": "உடுகம"
+          },
+          "city": {
+            "nameEn": "Udugama",
+            "nameSi": "උඩුගම",
+            "nameTa": "உடுகம"
+          },
+          "postcode": "80070",
+          "postOffice": {
+            "nameEn": "Udugama Post Office",
+            "nameSi": "උඩුගම තැපැල් කාර්යාලය",
+            "nameTa": "உடுகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80070"
+          },
+          "coordinates": {
+            "latitude": 6.2179047,
+            "longitude": 80.3380213
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80075",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANANGALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Panangala",
+            "nameSi": "පනංගල",
+            "nameTa": "பனங்கலா"
+          },
+          "city": {
+            "nameEn": "Panangala",
+            "nameSi": "පනංගල",
+            "nameTa": "பனங்கலா"
+          },
+          "postcode": "80075",
+          "postOffice": {
+            "nameEn": "Panangala Post Office",
+            "nameSi": "පනංගල තැපැල් කාර්යාලය",
+            "nameTa": "பனங்கலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80075"
+          },
+          "coordinates": {
+            "latitude": 6.2629096,
+            "longitude": 80.3237043
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80080",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HINIDUMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Hiniduma",
+            "nameSi": "හිනිදුම",
+            "nameTa": "ஹினிடும"
+          },
+          "city": {
+            "nameEn": "Hiniduma",
+            "nameSi": "හිනිදුම",
+            "nameTa": "ஹினிடும"
+          },
+          "postcode": "80080",
+          "postOffice": {
+            "nameEn": "Hiniduma Post Office",
+            "nameSi": "හිනිදුම තැපැල් කාර්යාලය",
+            "nameTa": "ஹினிடும தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80080"
+          },
+          "coordinates": {
+            "latitude": 6.3094482,
+            "longitude": 80.324096
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80082",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Neluwa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "NELUWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Neluwa",
+            "nameSi": "නෙළුව",
+            "nameTa": "நெலுவ"
+          },
+          "city": {
+            "nameEn": "Neluwa",
+            "nameSi": "නෙළුව",
+            "nameTa": "நெலுவ"
+          },
+          "postcode": "80082",
+          "postOffice": {
+            "nameEn": "Neluwa Post Office",
+            "nameSi": "නෙළුව තැපැල් කාර්යාලය",
+            "nameTa": "நெலுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80082"
+          },
+          "coordinates": {
+            "latitude": 6.3731028,
+            "longitude": 80.3575128
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80084",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WARUKANDENIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Warukandeniya",
+            "nameSi": "වාරුකන්දෙනිය",
+            "nameTa": "வாருகந்தெனிய"
+          },
+          "city": {
+            "nameEn": "Warukandeniya",
+            "nameSi": "වාරුකන්දෙනිය",
+            "nameTa": "வாருகந்தெனிய"
+          },
+          "postcode": "80084",
+          "postOffice": {
+            "nameEn": "Warukandeniya Post Office",
+            "nameSi": "වාරුකන්දෙනිය තැපැල් කාර්යාලය",
+            "nameTa": "வாருகந்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80084"
+          },
+          "coordinates": {
+            "latitude": 6.3661038,
+            "longitude": 80.4048306
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80086",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Nagoda",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "PANNIMULLA PANAGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Pannimulla Panagoda",
+            "nameSi": "පැණිමුල්ල පනාගොඩ",
+            "nameTa": "பன்னிமுல்ல பனாகொட"
+          },
+          "city": {
+            "nameEn": "Pannimulla Panagoda",
+            "nameSi": "පැණිමුල්ල පනාගොඩ",
+            "nameTa": "பன்னிமுல்ல பனாகொட"
+          },
+          "postcode": "80086",
+          "postOffice": {
+            "nameEn": "Pannimulla Panagoda Post Office",
+            "nameSi": "පැණිමුල්ල පනාගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "பன்னிமுல்ல பனாகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80086"
+          },
+          "coordinates": {
+            "latitude": 6.3537914,
+            "longitude": 80.4086995
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80090",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Akmeemana",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "AKMEEMANA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Akmeemana",
+            "nameSi": "අක්මීමාන",
+            "nameTa": "அக்மீமான"
+          },
+          "city": {
+            "nameEn": "Akmeemana",
+            "nameSi": "අක්මීමාන",
+            "nameTa": "அக்மீமான"
+          },
+          "postcode": "80090",
+          "postOffice": {
+            "nameEn": "Akmeemana Post Office",
+            "nameSi": "අක්මීමාන තැපැල් කාර්යාලය",
+            "nameTa": "அக்மீமான தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80090"
+          },
+          "coordinates": {
+            "latitude": 6.0836306,
+            "longitude": 80.2962385
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80092",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEDA-KEEMBIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Meda-Keembiya",
+            "nameSi": "මැද කීඹිය",
+            "nameTa": "மெத கீம்பிய"
+          },
+          "city": {
+            "nameEn": "Meda-Keembiya",
+            "nameSi": "මැද කීඹිය",
+            "nameTa": "மெத கீம்பிய"
+          },
+          "postcode": "80092",
+          "postOffice": {
+            "nameEn": "Meda-Keembiya Post Office",
+            "nameSi": "මැද කීඹිය තැපැල් කාර්යාලය",
+            "nameTa": "மெத கீம்பிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80092"
+          },
+          "coordinates": {
+            "latitude": 6.114005,
+            "longitude": 80.2404959
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WANDURAMBA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Wanduramba",
+            "nameSi": "වඳුරඹ",
+            "nameTa": "வந்துரம்ப"
+          },
+          "city": {
+            "nameEn": "Wanduramba",
+            "nameSi": "වඳුරඹ",
+            "nameTa": "வந்துரம்ப"
+          },
+          "postcode": "80100",
+          "postOffice": {
+            "nameEn": "Wanduramba Post Office",
+            "nameSi": "වඳුරඹ තැපැල් කාර්යාලය",
+            "nameTa": "வந்துரம்ப தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80100"
+          },
+          "coordinates": {
+            "latitude": 6.1324713,
+            "longitude": 80.2488596
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80107",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "YATALAMATTA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Yatalamatta",
+            "nameSi": "යටලමත්ත",
+            "nameTa": "யாதலமட்டா"
+          },
+          "city": {
+            "nameEn": "Yatalamatta",
+            "nameSi": "යටලමත්ත",
+            "nameTa": "யாதலமட்டா"
+          },
+          "postcode": "80107",
+          "postOffice": {
+            "nameEn": "Yatalamatta Post Office",
+            "nameSi": "යටලමත්ත තැපැල් කාර්යාලය",
+            "nameTa": "யாதலமட்டா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80107"
+          },
+          "coordinates": {
+            "latitude": 6.1737333,
+            "longitude": 80.2864862
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDALAMATTA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Udalamatta",
+            "nameSi": "උඩලමත්ත",
+            "nameTa": "உடலமட்டா"
+          },
+          "city": {
+            "nameEn": "Udalamatta",
+            "nameSi": "උඩලමත්ත",
+            "nameTa": "உடலமட்டா"
+          },
+          "postcode": "80108",
+          "postOffice": {
+            "nameEn": "Udalamatta Post Office",
+            "nameSi": "උඩලමත්ත තැපැල් කාර්යාලය",
+            "nameTa": "உடலமட்டா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80108"
+          },
+          "coordinates": {
+            "latitude": 6.1835935,
+            "longitude": 80.2982507
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80110",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Nagoda",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "NAGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Nagoda",
+            "nameSi": "නාගොඩ",
+            "nameTa": "நாகொட"
+          },
+          "city": {
+            "nameEn": "Nagoda",
+            "nameSi": "නාගොඩ",
+            "nameTa": "நாகொட"
+          },
+          "postcode": "80110",
+          "postOffice": {
+            "nameEn": "Nagoda Post Office",
+            "nameSi": "නාගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "நாகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80110"
+          },
+          "coordinates": {
+            "latitude": 6.197978,
+            "longitude": 80.2746547
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80112",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAPALAGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Mapalagama",
+            "nameSi": "මාපලගම",
+            "nameTa": "மபலகம"
+          },
+          "city": {
+            "nameEn": "Mapalagama",
+            "nameSi": "මාපලගම",
+            "nameTa": "மபலகம"
+          },
+          "postcode": "80112",
+          "postOffice": {
+            "nameEn": "Mapalagama Post Office",
+            "nameSi": "මාපලගම තැපැල් කාර්යාලය",
+            "nameTa": "மபலகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80112"
+          },
+          "coordinates": {
+            "latitude": 6.2235607,
+            "longitude": 80.2892727
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80114",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PARANA THANAYAMGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Parana Thanayamgoda",
+            "nameSi": "පරණ තානායම්ගොඩ",
+            "nameTa": "பரண தனயம்கொட"
+          },
+          "city": {
+            "nameEn": "Parana Thanayamgoda",
+            "nameSi": "පරණ තානායම්ගොඩ",
+            "nameTa": "பரண தனயம்கொட"
+          },
+          "postcode": "80114",
+          "postOffice": {
+            "nameEn": "Parana Thanayamgoda Post Office",
+            "nameSi": "පරණ තානායම්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "பரண தனயம்கொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80114"
+          },
+          "coordinates": {
+            "latitude": 6.2305499,
+            "longitude": 80.3129541
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80116",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAPALAGAMA CENTRAL",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Mapalagama Central",
+            "nameSi": "මාපලගම මධ්‍යම",
+            "nameTa": "மாபலகம மத்திய"
+          },
+          "city": {
+            "nameEn": "Mapalagama Central",
+            "nameSi": "මාපලගම මධ්‍යම",
+            "nameTa": "மாபலகம மத்திய"
+          },
+          "postcode": "80116",
+          "postOffice": {
+            "nameEn": "Mapalagama Central Post Office",
+            "nameSi": "මාපලගම මධ්‍යම තැපැල් කාර්යාලය",
+            "nameTa": "மாபலகம மத்திய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80116"
+          },
+          "coordinates": {
+            "latitude": 6.2235607,
+            "longitude": 80.2892727
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80120",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WANCHAWELA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Wanchawela",
+            "nameSi": "වංචාවල",
+            "nameTa": "வஞ்சாவெல"
+          },
+          "city": {
+            "nameEn": "Wanchawela",
+            "nameSi": "වංචාවල",
+            "nameTa": "வஞ்சாவெல"
+          },
+          "postcode": "80120",
+          "postOffice": {
+            "nameEn": "Wanchawela Post Office",
+            "nameSi": "වංචාවල තැපැල් කාර්යාලය",
+            "nameTa": "வஞ்சாவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80120"
+          },
+          "coordinates": {
+            "latitude": 6.0357108,
+            "longitude": 80.2685967
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80122",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ANGULUGAHA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Angulugaha",
+            "nameSi": "අඟුලුගහ",
+            "nameTa": "அங்குலுகாஹா"
+          },
+          "city": {
+            "nameEn": "Angulugaha",
+            "nameSi": "අඟුලුගහ",
+            "nameTa": "அங்குலுகாஹா"
+          },
+          "postcode": "80122",
+          "postOffice": {
+            "nameEn": "Angulugaha Post Office",
+            "nameSi": "අඟුලුගහ තැපැල් කාර්යාලය",
+            "nameTa": "அங்குலுகாஹா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80122"
+          },
+          "coordinates": {
+            "latitude": 6.0318525,
+            "longitude": 80.324096
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80143",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BANAGALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Banagala",
+            "nameSi": "බනගල",
+            "nameTa": "பனகல"
+          },
+          "city": {
+            "nameEn": "Banagala",
+            "nameSi": "බනගල",
+            "nameTa": "பனகல"
+          },
+          "postcode": "80143",
+          "postOffice": {
+            "nameEn": "Banagala Post Office",
+            "nameSi": "බනගල තැපැල් කාර්යාලය",
+            "nameTa": "பனகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80143"
+          },
+          "coordinates": {
+            "latitude": 6.2815361,
+            "longitude": 80.4259053
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80148",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TAWALAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Tawalama",
+            "nameSi": "තවලම",
+            "nameTa": "தவலம"
+          },
+          "city": {
+            "nameEn": "Tawalama",
+            "nameSi": "තවලම",
+            "nameTa": "தவலம"
+          },
+          "postcode": "80148",
+          "postOffice": {
+            "nameEn": "Tawalama Post Office",
+            "nameSi": "තවලම තැපැල් කාර්යාලය",
+            "nameTa": "தவலம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80148"
+          },
+          "coordinates": {
+            "latitude": 6.3347269,
+            "longitude": 80.3421984
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80150",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Yakkalamulla",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "YAKKALAMULLA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Yakkalamulla",
+            "nameSi": "යක්කලමුල්ල",
+            "nameTa": "யக்கலமுல்ல"
+          },
+          "city": {
+            "nameEn": "Yakkalamulla",
+            "nameSi": "යක්කලමුල්ල",
+            "nameTa": "யக்கலமுல்ல"
+          },
+          "postcode": "80150",
+          "postOffice": {
+            "nameEn": "Yakkalamulla Post Office",
+            "nameSi": "යක්කලමුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "யக்கலமுல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80150"
+          },
+          "coordinates": {
+            "latitude": 6.1013495,
+            "longitude": 80.3591002
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80151",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARAGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Karagoda",
+            "nameSi": "කරාගොඩ",
+            "nameTa": "கரகோடா"
+          },
+          "city": {
+            "nameEn": "Karagoda",
+            "nameSi": "කරාගොඩ",
+            "nameTa": "கரகோடா"
+          },
+          "postcode": "80151",
+          "postOffice": {
+            "nameEn": "Karagoda Post Office",
+            "nameSi": "කරාගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "கரகோடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80151"
+          },
+          "coordinates": {
+            "latitude": 6.0352435,
+            "longitude": 80.210495
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80152",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAGEDARA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Magedara",
+            "nameSi": "මාගෙදර",
+            "nameTa": "மகேதரா"
+          },
+          "city": {
+            "nameEn": "Magedara",
+            "nameSi": "මාගෙදර",
+            "nameTa": "மகேதரா"
+          },
+          "postcode": "80152",
+          "postOffice": {
+            "nameEn": "Magedara Post Office",
+            "nameSi": "මාගෙදර තැපැල් කාර්යාලය",
+            "nameTa": "மகேதரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80152"
+          },
+          "coordinates": {
+            "latitude": 6.0999399,
+            "longitude": 80.4034393
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80168",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ULUVITIKE",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Uluvitike",
+            "nameSi": "උලුවිටිකේ",
+            "nameTa": "உலுவிதிகே"
+          },
+          "city": {
+            "nameEn": "Uluvitike",
+            "nameSi": "උලුවිටිකේ",
+            "nameTa": "உலுவிதிகே"
+          },
+          "postcode": "80168",
+          "postOffice": {
+            "nameEn": "Uluvitike Post Office",
+            "nameSi": "උලුවිටිකේ තැපැල් කාර්යාලය",
+            "nameTa": "உலுவிதிகே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80168"
+          },
+          "coordinates": {
+            "latitude": 6.0833989,
+            "longitude": 80.2112164
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80170",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PODDALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Poddala",
+            "nameSi": "පෝද්දල",
+            "nameTa": "போத்தலா"
+          },
+          "city": {
+            "nameEn": "Poddala",
+            "nameSi": "පෝද්දල",
+            "nameTa": "போத்தலா"
+          },
+          "postcode": "80170",
+          "postOffice": {
+            "nameEn": "Poddala Post Office",
+            "nameSi": "පෝද්දල තැපැල් කාර්යාලය",
+            "nameTa": "போத்தலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80170"
+          },
+          "coordinates": {
+            "latitude": 6.1084688,
+            "longitude": 80.223766
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Baddegama",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BADDEGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Baddegama",
+            "nameSi": "බද්දේගම",
+            "nameTa": "பத்தேகம"
+          },
+          "city": {
+            "nameEn": "Baddegama",
+            "nameSi": "බද්දේගම",
+            "nameTa": "பத்தேகம"
+          },
+          "postcode": "80200",
+          "postOffice": {
+            "nameEn": "Baddegama Post Office",
+            "nameSi": "බද්දේගම තැපැල් කාර්යාලය",
+            "nameTa": "பத்தேகம தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80200"
+          },
+          "coordinates": {
+            "latitude": 6.1688292,
+            "longitude": 80.1793976
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80204",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMPEGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Ampegama",
+            "nameSi": "අම්පෙගම",
+            "nameTa": "அம்பேகம"
+          },
+          "city": {
+            "nameEn": "Ampegama",
+            "nameSi": "අම්පෙගම",
+            "nameTa": "அம்பேகம"
+          },
+          "postcode": "80204",
+          "postOffice": {
+            "nameEn": "Ampegama Post Office",
+            "nameSi": "අම්පෙගම තැපැල් කාර්යාලය",
+            "nameTa": "அம்பேகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80204"
+          },
+          "coordinates": {
+            "latitude": 6.1946744,
+            "longitude": 80.144254
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80212",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AGALIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Agaliya",
+            "nameSi": "අගලිය",
+            "nameTa": "அகலியா"
+          },
+          "city": {
+            "nameEn": "Agaliya",
+            "nameSi": "අගලිය",
+            "nameTa": "அகலியா"
+          },
+          "postcode": "80212",
+          "postOffice": {
+            "nameEn": "Agaliya Post Office",
+            "nameSi": "අගලිය තැපැල් කාර්යාලය",
+            "nameTa": "அகலியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80212"
+          },
+          "coordinates": {
+            "latitude": 6.0085463,
+            "longitude": 80.2422383
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80214",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UNAWITIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Unawitiya",
+            "nameSi": "උනවිටිය",
+            "nameTa": "உனவிட்டிய"
+          },
+          "city": {
+            "nameEn": "Unawitiya",
+            "nameSi": "උනවිටිය",
+            "nameTa": "உனவிட்டிய"
+          },
+          "postcode": "80214",
+          "postOffice": {
+            "nameEn": "Unawitiya Post Office",
+            "nameSi": "උනවිටිය තැපැල් කාර්යාලය",
+            "nameTa": "உனவிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80214"
+          },
+          "coordinates": {
+            "latitude": 6.0535185,
+            "longitude": 80.2209773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80216",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEIHENA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Weihena",
+            "nameSi": "වැයිහේන",
+            "nameTa": "வெய்ஹேனா"
+          },
+          "city": {
+            "nameEn": "Weihena",
+            "nameSi": "වැයිහේන",
+            "nameTa": "வெய்ஹேனா"
+          },
+          "postcode": "80216",
+          "postOffice": {
+            "nameEn": "Weihena Post Office",
+            "nameSi": "වැයිහේන තැපැල් කාර්යාලය",
+            "nameTa": "வெய்ஹேனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80216"
+          },
+          "coordinates": {
+            "latitude": 6.3077798,
+            "longitude": 80.2349196
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GINIMELLAGAHA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Ginimellagaha",
+            "nameSi": "ගිනිමෙල්ලගහ",
+            "nameTa": "கினிமெல்லகஹா"
+          },
+          "city": {
+            "nameEn": "Ginimellagaha",
+            "nameSi": "ගිනිමෙල්ලගහ",
+            "nameTa": "கினிமெல்லகஹா"
+          },
+          "postcode": "80220",
+          "postOffice": {
+            "nameEn": "Ginimellagaha Post Office",
+            "nameSi": "ගිනිමෙල්ලගහ තැපැල් කාර්යාලය",
+            "nameTa": "கினிமெல்லகஹா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80220"
+          },
+          "coordinates": {
+            "latitude": 6.1297064,
+            "longitude": 80.169371
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80230",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Gonapinuwala",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "GONAPINUWALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Gonapinuwala",
+            "nameSi": "ගොනාපිනූවල",
+            "nameTa": "கோனாபினுவல"
+          },
+          "city": {
+            "nameEn": "Gonapinuwala",
+            "nameSi": "ගොනාපිනූවල",
+            "nameTa": "கோனாபினுவல"
+          },
+          "postcode": "80230",
+          "postOffice": {
+            "nameEn": "Gonapinuwala Post Office",
+            "nameSi": "ගොනාපිනූවල තැපැල් කාර්යාලය",
+            "nameTa": "கோனாபினுவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80230"
+          },
+          "coordinates": {
+            "latitude": 6.1434518,
+            "longitude": 80.1344842
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80240",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Hikkaduwa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "HIKKADUWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Hikkaduwa",
+            "nameSi": "හික්කඩුව",
+            "nameTa": "ஹிக்கடுவ"
+          },
+          "city": {
+            "nameEn": "Hikkaduwa",
+            "nameSi": "හික්කඩුව",
+            "nameTa": "ஹிக்கடுவ"
+          },
+          "postcode": "80240",
+          "postOffice": {
+            "nameEn": "Hikkaduwa Post Office",
+            "nameSi": "හික්කඩුව තැපැල් කාර්යාලය",
+            "nameTa": "ஹிக்கடுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80240"
+          },
+          "coordinates": {
+            "latitude": 6.1394676,
+            "longitude": 80.1062861
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80244",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TIRANAGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Tiranagama",
+            "nameSi": "තිරණගම",
+            "nameTa": "திரணகம"
+          },
+          "city": {
+            "nameEn": "Tiranagama",
+            "nameSi": "තිරණගම",
+            "nameTa": "திரணகம"
+          },
+          "postcode": "80244",
+          "postOffice": {
+            "nameEn": "Tiranagama Post Office",
+            "nameSi": "තිරණගම තැපැල් කාර්යාලය",
+            "nameTa": "திரணகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80244"
+          },
+          "coordinates": {
+            "latitude": 6.1285798,
+            "longitude": 80.1112155
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DODANDUWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Dodanduwa",
+            "nameSi": "දොඩන්දූව",
+            "nameTa": "தொடந்துவ"
+          },
+          "city": {
+            "nameEn": "Dodanduwa",
+            "nameSi": "දොඩන්දූව",
+            "nameTa": "தொடந்துவ"
+          },
+          "postcode": "80250",
+          "postOffice": {
+            "nameEn": "Dodanduwa Post Office",
+            "nameSi": "දොඩන්දූව තැපැල් කාර්යාලය",
+            "nameTa": "தொடந்துவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80250"
+          },
+          "coordinates": {
+            "latitude": 6.1028347,
+            "longitude": 80.1302969
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80270",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BOOSSA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Boossa",
+            "nameSi": "බූස්ස",
+            "nameTa": "பூஸ்ஸ"
+          },
+          "city": {
+            "nameEn": "Boossa",
+            "nameSi": "බූස්ස",
+            "nameTa": "பூஸ்ஸ"
+          },
+          "postcode": "80270",
+          "postOffice": {
+            "nameEn": "Boossa Post Office",
+            "nameSi": "බූස්ස තැපැල් කාර්යාලය",
+            "nameTa": "பூஸ்ஸ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80270"
+          },
+          "coordinates": {
+            "latitude": 6.0889494,
+            "longitude": 80.1560648
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80280",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GINTOTA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Gintota",
+            "nameSi": "ගින්තොට",
+            "nameTa": "கிந்தொட"
+          },
+          "city": {
+            "nameEn": "Gintota",
+            "nameSi": "ගින්තොට",
+            "nameTa": "கிந்தொட"
+          },
+          "postcode": "80280",
+          "postOffice": {
+            "nameEn": "Gintota Post Office",
+            "nameSi": "ගින්තොට තැපැල් කාර්යාලය",
+            "nameTa": "கிந்தொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80280"
+          },
+          "coordinates": {
+            "latitude": 6.0600121,
+            "longitude": 80.1800221
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80302",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GODAHENA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Godahena",
+            "nameSi": "ගොඩහේන",
+            "nameTa": "கொடஹேன"
+          },
+          "city": {
+            "nameEn": "Godahena",
+            "nameSi": "ගොඩහේන",
+            "nameTa": "கொடஹேன"
+          },
+          "postcode": "80302",
+          "postOffice": {
+            "nameEn": "Godahena Post Office",
+            "nameSi": "ගොඩහේන තැපැල් කාර්යාලය",
+            "nameTa": "கொடஹேன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80302"
+          },
+          "coordinates": {
+            "latitude": 6.2345862,
+            "longitude": 80.0745627
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80312",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAHAWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Kahawa",
+            "nameSi": "කහව",
+            "nameTa": "கஹாவா"
+          },
+          "city": {
+            "nameEn": "Kahawa",
+            "nameSi": "කහව",
+            "nameTa": "கஹாவா"
+          },
+          "postcode": "80312",
+          "postOffice": {
+            "nameEn": "Kahawa Post Office",
+            "nameSi": "කහව තැපැල් කාර්යාලය",
+            "nameTa": "கஹாவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80312"
+          },
+          "coordinates": {
+            "latitude": 6.1881852,
+            "longitude": 80.0772392
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80318",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NINDANA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Nindana",
+            "nameSi": "නින්දාන",
+            "nameTa": "நிந்தனா"
+          },
+          "city": {
+            "nameEn": "Nindana",
+            "nameSi": "නින්දාන",
+            "nameTa": "நிந்தனா"
+          },
+          "postcode": "80318",
+          "postOffice": {
+            "nameEn": "Nindana Post Office",
+            "nameSi": "නින්දාන තැපැල් කාර්යාලය",
+            "nameTa": "நிந்தனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80318"
+          },
+          "coordinates": {
+            "latitude": 6.20709,
+            "longitude": 80.1079608
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80320",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BATAPOLA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Batapola",
+            "nameSi": "බටපොල",
+            "nameTa": "படபொல"
+          },
+          "city": {
+            "nameEn": "Batapola",
+            "nameSi": "බටපොල",
+            "nameTa": "படபொல"
+          },
+          "postcode": "80320",
+          "postOffice": {
+            "nameEn": "Batapola Post Office",
+            "nameSi": "බටපොල තැපැල් කාර්යාලය",
+            "nameTa": "படபொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80320"
+          },
+          "coordinates": {
+            "latitude": 6.2241821,
+            "longitude": 80.1138369
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80328",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KULEEGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Kuleegoda",
+            "nameSi": "කුලීගොඩ",
+            "nameTa": "குலீகொட"
+          },
+          "city": {
+            "nameEn": "Kuleegoda",
+            "nameSi": "කුලීගොඩ",
+            "nameTa": "குலீகொட"
+          },
+          "postcode": "80328",
+          "postOffice": {
+            "nameEn": "Kuleegoda Post Office",
+            "nameSi": "කුලීගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "குலீகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80328"
+          },
+          "coordinates": {
+            "latitude": 6.2138206,
+            "longitude": 80.0703308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80330",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEETIYAGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Meetiyagoda",
+            "nameSi": "මීටියාගොඩ",
+            "nameTa": "மீடியாகொட"
+          },
+          "city": {
+            "nameEn": "Meetiyagoda",
+            "nameSi": "මීටියාගොඩ",
+            "nameTa": "மீடியாகொட"
+          },
+          "postcode": "80330",
+          "postOffice": {
+            "nameEn": "Meetiyagoda Post Office",
+            "nameSi": "මීටියාගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "மீடியாகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80330"
+          },
+          "coordinates": {
+            "latitude": 6.1898343,
+            "longitude": 80.0953942
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80332",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALUTHWALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Aluthwala",
+            "nameSi": "අළුත්වල",
+            "nameTa": "அலுத்வாலா"
+          },
+          "city": {
+            "nameEn": "Aluthwala",
+            "nameSi": "අළුත්වල",
+            "nameTa": "அலுத்வாலா"
+          },
+          "postcode": "80332",
+          "postOffice": {
+            "nameEn": "Aluthwala Post Office",
+            "nameSi": "අළුත්වල තැපැල් කාර්යාලය",
+            "nameTa": "அலுத்வாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80332"
+          },
+          "coordinates": {
+            "latitude": 6.1801958,
+            "longitude": 80.1400671
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80340",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WATUGEDARA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Watugedara",
+            "nameSi": "වටුගෙදර",
+            "nameTa": "வடுகெதர"
+          },
+          "city": {
+            "nameEn": "Watugedara",
+            "nameSi": "වටුගෙදර",
+            "nameTa": "வடுகெதர"
+          },
+          "postcode": "80340",
+          "postOffice": {
+            "nameEn": "Watugedara Post Office",
+            "nameSi": "වටුගෙදර තැපැල් කාර්යාලය",
+            "nameTa": "வடுகெதர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80340"
+          },
+          "coordinates": {
+            "latitude": 6.2612121,
+            "longitude": 80.0604774
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80350",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URAGASMANHANDIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Uragasmanhandiya",
+            "nameSi": "ඌරගස්මන්හන්දිය",
+            "nameTa": "ஊரகஸ்மண்டிய"
+          },
+          "city": {
+            "nameEn": "Uragasmanhandiya",
+            "nameSi": "ඌරගස්මන්හන්දිය",
+            "nameTa": "ஊரகஸ்மண்டிய"
+          },
+          "postcode": "80350",
+          "postOffice": {
+            "nameEn": "Uragasmanhandiya Post Office",
+            "nameSi": "ඌරගස්මන්හන්දිය තැපැල් කාර්යාලය",
+            "nameTa": "ஊரகஸ்மண்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80350"
+          },
+          "coordinates": {
+            "latitude": 6.349044,
+            "longitude": 80.0978637
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80352",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "URAGAHA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Uragaha",
+            "nameSi": "ඌරගහ",
+            "nameTa": "உரகஹா"
+          },
+          "city": {
+            "nameEn": "Uragaha",
+            "nameSi": "ඌරගහ",
+            "nameTa": "உரகஹா"
+          },
+          "postcode": "80352",
+          "postOffice": {
+            "nameEn": "Uragaha Post Office",
+            "nameSi": "ඌරගහ තැපැල් කාර්යාලය",
+            "nameTa": "உரகஹா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80352"
+          },
+          "coordinates": {
+            "latitude": 6.349044,
+            "longitude": 80.0978637
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80354",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANTOTUWILA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Rantotuwila",
+            "nameSi": "රන්තොටුවිල",
+            "nameTa": "ரந்தொடுவில"
+          },
+          "city": {
+            "nameEn": "Rantotuwila",
+            "nameSi": "රන්තොටුවිල",
+            "nameTa": "ரந்தொடுவில"
+          },
+          "postcode": "80354",
+          "postOffice": {
+            "nameEn": "Rantotuwila Post Office",
+            "nameSi": "රන්තොටුවිල තැපැල් කාර්යාලය",
+            "nameTa": "ரந்தொடுவில தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80354"
+          },
+          "coordinates": {
+            "latitude": 6.0535185,
+            "longitude": 80.2209773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80360",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Karandeniya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KARANDENIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Karandeniya",
+            "nameSi": "කරන්දෙණිය",
+            "nameTa": "கரந்தெனிய"
+          },
+          "city": {
+            "nameEn": "Karandeniya",
+            "nameSi": "කරන්දෙණිය",
+            "nameTa": "கரந்தெனிய"
+          },
+          "postcode": "80360",
+          "postOffice": {
+            "nameEn": "Karandeniya Post Office",
+            "nameSi": "කරන්දෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "கரந்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80360"
+          },
+          "coordinates": {
+            "latitude": 6.2683217,
+            "longitude": 80.0898085
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Elpitiya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "ELPITIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Elpitiya",
+            "nameSi": "ඇල්පිටිය",
+            "nameTa": "எல்பிட்டிய"
+          },
+          "city": {
+            "nameEn": "Elpitiya",
+            "nameSi": "ඇල්පිටිය",
+            "nameTa": "எல்பிட்டிய"
+          },
+          "postcode": "80400",
+          "postOffice": {
+            "nameEn": "Elpitiya Post Office",
+            "nameSi": "ඇල්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "எல்பிட்டிய தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80400"
+          },
+          "coordinates": {
+            "latitude": 6.2879969,
+            "longitude": 80.1596041
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80402",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Baddegama",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "ELLA TANABADDEGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Ella Tanabaddegama",
+            "nameSi": "ඇල්ල තනබද්දේගම",
+            "nameTa": "எல்ல தனபத்தேகம"
+          },
+          "city": {
+            "nameEn": "Ella Tanabaddegama",
+            "nameSi": "ඇල්ල තනබද්දේගම",
+            "nameTa": "எல்ல தனபத்தேகம"
+          },
+          "postcode": "80402",
+          "postOffice": {
+            "nameEn": "Ella Tanabaddegama Post Office",
+            "nameSi": "ඇල්ල තනබද්දේගම තැපැල් කාර්යාලය",
+            "nameTa": "எல்ல தனபத்தேகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80402"
+          },
+          "coordinates": {
+            "latitude": 6.057749,
+            "longitude": 80.2175572
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80406",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALGASPE",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Talgaspe",
+            "nameSi": "තල්ගස්පෙ",
+            "nameTa": "டல்காஸ்பே"
+          },
+          "city": {
+            "nameEn": "Talgaspe",
+            "nameSi": "තල්ගස්පෙ",
+            "nameTa": "டல்காஸ்பே"
+          },
+          "postcode": "80406",
+          "postOffice": {
+            "nameEn": "Talgaspe Post Office",
+            "nameSi": "තල්ගස්පෙ තැපැල් කාර්යාලය",
+            "nameTa": "டல்காஸ்பே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80406"
+          },
+          "coordinates": {
+            "latitude": 6.0542348,
+            "longitude": 80.2244631
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80408",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PORAWAGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Porawagama",
+            "nameSi": "පොරවගම",
+            "nameTa": "பொறவகம"
+          },
+          "city": {
+            "nameEn": "Porawagama",
+            "nameSi": "පොරවගම",
+            "nameTa": "பொறவகம"
+          },
+          "postcode": "80408",
+          "postOffice": {
+            "nameEn": "Porawagama Post Office",
+            "nameSi": "පොරවගම තැපැල් කාර්යාලය",
+            "nameTa": "பொறவகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80408"
+          },
+          "coordinates": {
+            "latitude": 6.2872078,
+            "longitude": 80.2249426
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80416",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAWANDAGALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Nawandagala",
+            "nameSi": "නවඳගල",
+            "nameTa": "நவந்தகல"
+          },
+          "city": {
+            "nameEn": "Nawandagala",
+            "nameSi": "නවඳගල",
+            "nameTa": "நவந்தகல"
+          },
+          "postcode": "80416",
+          "postOffice": {
+            "nameEn": "Nawandagala Post Office",
+            "nameSi": "නවඳගල තැපැල් කාර්යාලය",
+            "nameTa": "நவந்தகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80416"
+          },
+          "coordinates": {
+            "latitude": 6.3112355,
+            "longitude": 80.1400671
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80420",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PITIGALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Pitigala",
+            "nameSi": "පිටිගල",
+            "nameTa": "பிட்டிகல"
+          },
+          "city": {
+            "nameEn": "Pitigala",
+            "nameSi": "පිටිගල",
+            "nameTa": "பிட்டிகல"
+          },
+          "postcode": "80420",
+          "postOffice": {
+            "nameEn": "Pitigala Post Office",
+            "nameSi": "පිටිගල තැපැල් කාර්යාලය",
+            "nameTa": "பிட்டிகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80420"
+          },
+          "coordinates": {
+            "latitude": 6.3419553,
+            "longitude": 80.2377078
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80422",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AMUGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Amugoda",
+            "nameSi": "අමුගොඩ",
+            "nameTa": "அமுகொட"
+          },
+          "city": {
+            "nameEn": "Amugoda",
+            "nameSi": "අමුගොඩ",
+            "nameTa": "அமுகொட"
+          },
+          "postcode": "80422",
+          "postOffice": {
+            "nameEn": "Amugoda Post Office",
+            "nameSi": "අමුගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "அமுகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80422"
+          },
+          "coordinates": {
+            "latitude": 6.3212557,
+            "longitude": 80.2188858
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80424",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MATTAKA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Mattaka",
+            "nameSi": "මට්ටක",
+            "nameTa": "மட்டக்கா"
+          },
+          "city": {
+            "nameEn": "Mattaka",
+            "nameSi": "මට්ටක",
+            "nameTa": "மட்டக்கா"
+          },
+          "postcode": "80424",
+          "postOffice": {
+            "nameEn": "Mattaka Post Office",
+            "nameSi": "මට්ටක තැපැල් කාර්යාලය",
+            "nameTa": "மட்டக்கா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80424"
+          },
+          "coordinates": {
+            "latitude": 6.3029501,
+            "longitude": 80.2572225
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80460",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAHADUWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Kahaduwa",
+            "nameSi": "කහදූව",
+            "nameTa": "கஹதுவா"
+          },
+          "city": {
+            "nameEn": "Kahaduwa",
+            "nameSi": "කහදූව",
+            "nameTa": "கஹதுவா"
+          },
+          "postcode": "80460",
+          "postOffice": {
+            "nameEn": "Kahaduwa Post Office",
+            "nameSi": "කහදූව තැපැල් කාර්යාලය",
+            "nameTa": "கஹதுவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80460"
+          },
+          "coordinates": {
+            "latitude": 6.2234515,
+            "longitude": 80.2126109
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Bentota",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BENTOTA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Bentota",
+            "nameSi": "බෙන්තොට",
+            "nameTa": "பெந்தோட்டை"
+          },
+          "city": {
+            "nameEn": "Bentota",
+            "nameSi": "බෙන්තොට",
+            "nameTa": "பெந்தோட்டை"
+          },
+          "postcode": "80500",
+          "postOffice": {
+            "nameEn": "Bentota Post Office",
+            "nameSi": "බෙන්තොට තැපැල් කාර්යාලය",
+            "nameTa": "பெந்தோட்டை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80500"
+          },
+          "coordinates": {
+            "latitude": 6.4189175,
+            "longitude": 80.005979
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80506",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HABURUGALA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Haburugala",
+            "nameSi": "හබුරුගල",
+            "nameTa": "ஹபுருகல"
+          },
+          "city": {
+            "nameEn": "Haburugala",
+            "nameSi": "හබුරුගල",
+            "nameTa": "ஹபுருகல"
+          },
+          "postcode": "80506",
+          "postOffice": {
+            "nameEn": "Haburugala Post Office",
+            "nameSi": "හබුරුගල තැපැල් කාර්යාලය",
+            "nameTa": "ஹபுருகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80506"
+          },
+          "coordinates": {
+            "latitude": 6.4037013,
+            "longitude": 80.0339312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80550",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Balapitiya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BALAPITIYA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Balapitiya",
+            "nameSi": "බලපිටිය",
+            "nameTa": "பலபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Balapitiya",
+            "nameSi": "බලපිටිය",
+            "nameTa": "பலபிட்டிய"
+          },
+          "postcode": "80550",
+          "postOffice": {
+            "nameEn": "Balapitiya Post Office",
+            "nameSi": "බලපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "பலபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80550"
+          },
+          "coordinates": {
+            "latitude": 6.2783546,
+            "longitude": 80.0403047
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80562",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AHUNGALLA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Ahungalla",
+            "nameSi": "අහුන්ගල්ල",
+            "nameTa": "அஹுங்கல்லா"
+          },
+          "city": {
+            "nameEn": "Ahungalla",
+            "nameSi": "අහුන්ගල්ල",
+            "nameTa": "அஹுங்கல்லா"
+          },
+          "postcode": "80562",
+          "postOffice": {
+            "nameEn": "Ahungalla Post Office",
+            "nameSi": "අහුන්ගල්ල තැපැල් කාර්යාලය",
+            "nameTa": "அஹுங்கல்லா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80562"
+          },
+          "coordinates": {
+            "latitude": 6.3132776,
+            "longitude": 80.0409178
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80570",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOSGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Kosgoda",
+            "nameSi": "කොස්ගොඩ",
+            "nameTa": "கொஸ்கொட"
+          },
+          "city": {
+            "nameEn": "Kosgoda",
+            "nameSi": "කොස්ගොඩ",
+            "nameTa": "கொஸ்கொட"
+          },
+          "postcode": "80570",
+          "postOffice": {
+            "nameEn": "Kosgoda Post Office",
+            "nameSi": "කොස්ගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "கொஸ்கொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80570"
+          },
+          "coordinates": {
+            "latitude": 6.3354424,
+            "longitude": 80.0339312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80600",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UNAWATUNA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Unawatuna",
+            "nameSi": "උණවටුන",
+            "nameTa": "உணவட்டுன"
+          },
+          "city": {
+            "nameEn": "Unawatuna",
+            "nameSi": "උණවටුන",
+            "nameTa": "உணவட்டுன"
+          },
+          "postcode": "80600",
+          "postOffice": {
+            "nameEn": "Unawatuna Post Office",
+            "nameSi": "උණවටුන තැපැල් කාර්යාලය",
+            "nameTa": "உணவட்டுன தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80600"
+          },
+          "coordinates": {
+            "latitude": 6.0174469,
+            "longitude": 80.2488596
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80615",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TALPE",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Talpe",
+            "nameSi": "තල්පෙ",
+            "nameTa": "தல்பே"
+          },
+          "city": {
+            "nameEn": "Talpe",
+            "nameSi": "තල්පෙ",
+            "nameTa": "தல்பே"
+          },
+          "postcode": "80615",
+          "postOffice": {
+            "nameEn": "Talpe Post Office",
+            "nameSi": "තල්පෙ තැපැල් කාර්යාලය",
+            "nameTa": "தல்பே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80615"
+          },
+          "coordinates": {
+            "latitude": 6.0009954,
+            "longitude": 80.2781262
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80630",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": {
+            "nameEn": "Habaraduwa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "HABARADUWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Habaraduwa",
+            "nameSi": "හබරාදූව",
+            "nameTa": "ஹபரதுவ"
+          },
+          "city": {
+            "nameEn": "Habaraduwa",
+            "nameSi": "හබරාදූව",
+            "nameTa": "ஹபரதுவ"
+          },
+          "postcode": "80630",
+          "postOffice": {
+            "nameEn": "Habaraduwa Post Office",
+            "nameSi": "හබරාදූව තැපැල් කාර්යාලය",
+            "nameTa": "ஹபரதுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80630"
+          },
+          "coordinates": {
+            "latitude": 5.998359,
+            "longitude": 80.3078202
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80650",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AHANGAMA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Ahangama",
+            "nameSi": "අහංගම",
+            "nameTa": "அஹங்கம"
+          },
+          "city": {
+            "nameEn": "Ahangama",
+            "nameSi": "අහංගම",
+            "nameTa": "அஹங்கம"
+          },
+          "postcode": "80650",
+          "postOffice": {
+            "nameEn": "Ahangama Post Office",
+            "nameSi": "අහංගම තැපැල් කාර්යාලය",
+            "nameTa": "அஹங்கம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80650"
+          },
+          "coordinates": {
+            "latitude": 5.9739747,
+            "longitude": 80.3621595
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "80654",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIKKUMBURA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Dikkumbura",
+            "nameSi": "දික්කුඹුර",
+            "nameTa": "திக்கும்புர"
+          },
+          "city": {
+            "nameEn": "Dikkumbura",
+            "nameSi": "දික්කුඹුර",
+            "nameTa": "திக்கும்புர"
+          },
+          "postcode": "80654",
+          "postOffice": {
+            "nameEn": "Dikkumbura Post Office",
+            "nameSi": "දික්කුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "திக்கும்புர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "80654"
+          },
+          "coordinates": {
+            "latitude": 6.0183476,
+            "longitude": 80.3728245
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81180",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTTEGODA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Kottegoda",
+            "nameSi": "කෝට්ටේගොඩ",
+            "nameTa": "கொட்டேகொட"
+          },
+          "city": {
+            "nameEn": "Kottegoda",
+            "nameSi": "කෝට්ටේගොඩ",
+            "nameTa": "கொட்டேகொட"
+          },
+          "postcode": "81180",
+          "postOffice": {
+            "nameEn": "Kottegoda Post Office",
+            "nameSi": "කෝට්ටේගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டேகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81180"
+          },
+          "coordinates": {
+            "latitude": 6.9615244,
+            "longitude": 80.9361023
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81472",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PAHALA MILLAWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Pahala Millawa",
+            "nameSi": "පහළ මිල්ලෑව",
+            "nameTa": "பஹல மில்லவா"
+          },
+          "city": {
+            "nameEn": "Pahala Millawa",
+            "nameSi": "පහළ මිල්ලෑව",
+            "nameTa": "பஹல மில்லவா"
+          },
+          "postcode": "81472",
+          "postOffice": {
+            "nameEn": "Pahala Millawa Post Office",
+            "nameSi": "පහළ මිල්ලෑව තැපැල් කාර්යාලය",
+            "nameTa": "பஹல மில்லவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81472"
+          },
+          "coordinates": {
+            "latitude": 6.2937958,
+            "longitude": 80.4715866
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "81477",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Galle",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி",
+            "administrativeType": "District",
+            "code": "LK-31"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DELLAWA",
+            "nameSi": "ගාල්ල",
+            "nameTa": "காலி"
+          },
+          "locality": {
+            "nameEn": "Dellawa",
+            "nameSi": "දෙල්ලව",
+            "nameTa": "டெல்லாவா"
+          },
+          "city": {
+            "nameEn": "Dellawa",
+            "nameSi": "දෙල්ලව",
+            "nameTa": "டெல்லாவா"
+          },
+          "postcode": "81477",
+          "postOffice": {
+            "nameEn": "Dellawa Post Office",
+            "nameSi": "දෙල්ලව තැපැල් කාර්යාලය",
+            "nameTa": "டெல்லாவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81477"
+          },
+          "coordinates": {
+            "latitude": 6.3248959,
+            "longitude": 80.4493405
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

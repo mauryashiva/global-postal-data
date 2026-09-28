@@ -1,0 +1,1049 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Balkh",
+    "nameNative": "بلخ",
+    "isoCode": "AF-BAL",
+    "postalPrefix": "17",
+    "capital": "Mazar-i-Sharif",
+    "capitalNative": "مزار شریف",
+    "coordinates": {
+      "latitude": 36.7551,
+      "longitude": 66.8975
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 27,
+    "totalRecords": 27,
+    "urbanRecords": 10,
+    "ruralRecords": 17
+  },
+  "records": [
+    {
+      "postalCode": "170101",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170201",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170301",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170401",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170501",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170601",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170701",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170801",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "170901",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-170901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "171001",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Mazar-i-Sharif - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-BAL-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Mazar-i-Sharif District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-171001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175101",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Balkh District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-51"
+      },
+      "locality": {
+        "nameEn": "Balkh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Balkh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175201",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Dawlatabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-52"
+      },
+      "locality": {
+        "nameEn": "Dawlatabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dawlatabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175301",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Shortepa District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-53"
+      },
+      "locality": {
+        "nameEn": "Shortepa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shortepa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175401",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Nahr-e-Shahi District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-54"
+      },
+      "locality": {
+        "nameEn": "Nahr-e-Shahi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nahr-e-Shahi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175501",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Kaldar District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-55"
+      },
+      "locality": {
+        "nameEn": "Kaldar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kaldar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175701",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Marmul District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-57"
+      },
+      "locality": {
+        "nameEn": "Marmul Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Marmul District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175702",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Marmul District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-57"
+      },
+      "locality": {
+        "nameEn": "Marmul Central",
+        "deliveryZone": "02",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Marmul District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175702",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175801",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Charkent District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-58"
+      },
+      "locality": {
+        "nameEn": "Charkent Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Charkent District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "175901",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Dehdadi District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-59"
+      },
+      "locality": {
+        "nameEn": "Dehdadi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dehdadi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-175901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176001",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Chemtal District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-60"
+      },
+      "locality": {
+        "nameEn": "Chemtal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chemtal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176101",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Charbulak District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-61"
+      },
+      "locality": {
+        "nameEn": "Charbulak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Charbulak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176201",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Sholgareh District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-62"
+      },
+      "locality": {
+        "nameEn": "Sholgareh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sholgareh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176301",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Keshendeh District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-63"
+      },
+      "locality": {
+        "nameEn": "Keshendeh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Keshendeh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176401",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Zari District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-64"
+      },
+      "locality": {
+        "nameEn": "Zari Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zari District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176501",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Jahi District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-65"
+      },
+      "locality": {
+        "nameEn": "Jahi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jahi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176601",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Kohe Alborz District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-66"
+      },
+      "locality": {
+        "nameEn": "Kohe Alborz Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohe Alborz District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "176701",
+      "province": {
+        "nameEn": "Balkh",
+        "nameNative": "بلخ",
+        "code": "AF-BAL",
+        "postalPrefix": "17"
+      },
+      "city": {
+        "nameEn": "Mazar-i-Sharif",
+        "nameNative": "مزار شریف"
+      },
+      "district": {
+        "nameEn": "Shahrk Bandary Hairatan District",
+        "type": "Rural Administrative District",
+        "code": "AF-BAL-67"
+      },
+      "locality": {
+        "nameEn": "Shahrk Bandary Hairatan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shahrk Bandary Hairatan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7551,
+        "longitude": 66.8975
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-176701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

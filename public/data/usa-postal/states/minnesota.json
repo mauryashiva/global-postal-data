@@ -1,0 +1,119 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Minnesota",
+    "abbreviation": "MN",
+    "fipsCode": "27",
+    "capital": "Saint Paul",
+    "largestCity": "Minneapolis",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "218",
+      "320",
+      "507",
+      "612",
+      "651",
+      "763",
+      "952"
+    ],
+    "prefixes": [
+      "550",
+      "551",
+      "553",
+      "554",
+      "555",
+      "556",
+      "557",
+      "558",
+      "559",
+      "560",
+      "561",
+      "562",
+      "563",
+      "564",
+      "565",
+      "566",
+      "567"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-MN-55401-0",
+      "zip5": "55401",
+      "zip4": "1001",
+      "zipPlus4": "55401-1001",
+      "state": {
+        "nameEn": "Minnesota",
+        "abbreviation": "MN",
+        "fipsCode": "27",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Minneapolis",
+      "acceptableCities": [
+        "Minneapolis"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Minneapolis",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Hennepin County",
+          "fipsCode": "27053",
+          "geoid": "27053"
+        }
+      ],
+      "primaryCounty": "Hennepin County",
+      "zcta": {
+        "code": "55401"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Minneapolis Main Post Office",
+        "address": "100 S 1st St",
+        "phone": "(612) 349-4400",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 44.9866,
+        "longitude": -93.265,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "218",
+          "320",
+          "507",
+          "612",
+          "651",
+          "763",
+          "952"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 32,
+        "deliveryPoints": 16700
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MN-55401",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

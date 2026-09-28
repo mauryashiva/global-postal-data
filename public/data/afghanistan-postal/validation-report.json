@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "country": "Afghanistan",
+  "iso": "AF · AFG · 004",
+  "postalCodeFormat": "6 numeric digits (######)",
+  "provinceCount": 34,
+  "uniquePostalCodes": 1323,
+  "totalRecords": 1323,
+  "totalPostOffices": 1323,
+  "duplicateRecords": 0,
+  "invalidPostalCodes": 0,
+  "missingProvince": 0,
+  "sourceConflicts": 0,
+  "legacyRecordsExcluded": 526,
+  "coverage": "COMPLETE (All 34 official provinces covered under the 2024/2025 standard)",
+  "validationChecks": [
+    {
+      "check": "Every postal code is exactly 6 digits",
+      "passed": true
+    },
+    {
+      "check": "All postal codes are strictly numeric",
+      "passed": true
+    },
+    {
+      "check": "Every record belongs to a valid official province",
+      "passed": true
+    },
+    {
+      "check": "All 34 official provinces have dedicated JSON datasets",
+      "passed": true
+    },
+    {
+      "check": "Prefixes strictly map 1-to-1 with provinces (10 to 43)",
+      "passed": true
+    },
+    {
+      "check": "Legacy 4-digit codes isolated into legacy/ directory",
+      "passed": true
+    }
+  ],
+  "source": {
+    "name": "Afghan Post & Universal Postal Union (UPU)",
+    "url": "https://afghanpost.gov.af",
+    "retrievedAt": "2026-09-26",
+    "sourceUpdatedAt": "2024-10-01"
+  }
+}

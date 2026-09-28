@@ -1,0 +1,240 @@
+{
+  "prefix": "100",
+  "records": [
+    {
+      "postalCode": "1000001",
+      "postalCodeFormatted": "100-0001",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田",
+        "nameKana": "チヨダ",
+        "nameRomaji": "Chiyoda",
+        "type": "NormalTownArea",
+        "landmarkEn": "Imperial Palace (皇居)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1000005",
+      "postalCodeFormatted": "100-0005",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Marunouchi",
+        "nameJa": "丸の内",
+        "nameKana": "マルノウチ",
+        "nameRomaji": "Marunouchi",
+        "type": "NormalTownArea",
+        "landmarkEn": "Tokyo Station & Marunouchi Financial Center"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1000013",
+      "postalCodeFormatted": "100-0013",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Kasumigaseki",
+        "nameJa": "霞が関",
+        "nameKana": "カスミガセキ",
+        "nameRomaji": "Kasumigaseki",
+        "type": "NormalTownArea",
+        "landmarkEn": "Central Government Ministries Quarter (中央省庁)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1000014",
+      "postalCodeFormatted": "100-0014",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13101",
+        "nameEn": "Chiyoda",
+        "nameJa": "千代田区",
+        "nameKana": "チヨダク",
+        "nameRomaji": "Chiyoda-ku",
+        "administrativeType": "Special Ward"
+      },
+      "townArea": {
+        "nameEn": "Nagatacho",
+        "nameJa": "永田町",
+        "nameKana": "ナガタチョウ",
+        "nameRomaji": "Nagatacho",
+        "type": "NormalTownArea",
+        "landmarkEn": "National Diet Building & Prime Minister's Official Residence"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "1008994",
+      "postalCodeFormatted": "100-8994",
+      "postalCodeType": "BUSINESS",
+      "businessName": "Japan Post Co., Ltd. (日本郵便株式会社)",
+      "businessNameJa": "日本郵便 株式会社",
+      "businessNameKana": "ニッポンユウビン カブシキガイシャ",
+      "businessNameRomaji": "Japan Post Co., Ltd.",
+      "addressLineJa": "東京都千代田区大手町２丁目３番１号 大手町プレイスウエストタワー",
+      "addressLineEn": "Otemachi Place West Tower, 2-3-1 Otemachi, Chiyoda-ku, Tokyo",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "municipalityNameJa": "千代田区",
+      "municipalityNameEn": "Chiyoda-ku",
+      "townAreaNameJa": "大手町",
+      "townAreaNameEn": "Otemachi",
+      "poBoxNumber": null
+    },
+    {
+      "postalCode": "1008111",
+      "postalCodeFormatted": "100-8111",
+      "postalCodeType": "BUSINESS",
+      "businessName": "Imperial Household Agency (宮内庁)",
+      "businessNameJa": "宮内庁",
+      "businessNameKana": "クナイチョウ",
+      "businessNameRomaji": "Imperial Household Agency",
+      "addressLineJa": "東京都千代田区千代田１番１号",
+      "addressLineEn": "1-1 Chiyoda, Chiyoda-ku, Tokyo (Imperial Palace)",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "municipalityNameJa": "千代田区",
+      "municipalityNameEn": "Chiyoda-ku",
+      "townAreaNameJa": "千代田",
+      "townAreaNameEn": "Chiyoda",
+      "poBoxNumber": null
+    },
+    {
+      "postalCode": "1008926",
+      "postalCodeFormatted": "100-8926",
+      "postalCodeType": "BUSINESS",
+      "businessName": "National Police Agency (警察庁)",
+      "businessNameJa": "警察庁",
+      "businessNameKana": "ケイサツチョウ",
+      "businessNameRomaji": "National Police Agency",
+      "addressLineJa": "東京都千代田区霞が関２丁目１番２号",
+      "addressLineEn": "2-1-2 Kasumigaseki, Chiyoda-ku, Tokyo",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "municipalityNameJa": "千代田区",
+      "municipalityNameEn": "Chiyoda-ku",
+      "townAreaNameJa": "霞が関",
+      "townAreaNameEn": "Kasumigaseki",
+      "poBoxNumber": null
+    },
+    {
+      "postalCode": "1008901",
+      "postalCodeFormatted": "100-8901",
+      "postalCodeType": "BUSINESS",
+      "businessName": "Ministry of Internal Affairs and Communications (総務省)",
+      "businessNameJa": "総務省",
+      "businessNameKana": "ソウムショウ",
+      "businessNameRomaji": "Ministry of Internal Affairs and Communications",
+      "addressLineJa": "東京都千代田区霞が関２丁目１番２号 中央合同庁舎第２号館",
+      "addressLineEn": "Central Government Building No. 2, 2-1-2 Kasumigaseki, Chiyoda-ku, Tokyo",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "municipalityNameJa": "千代田区",
+      "municipalityNameEn": "Chiyoda-ku",
+      "townAreaNameJa": "霞が関",
+      "townAreaNameEn": "Kasumigaseki",
+      "poBoxNumber": null
+    },
+    {
+      "postalCode": "1008914",
+      "postalCodeFormatted": "100-8914",
+      "postalCodeType": "BUSINESS",
+      "businessName": "Ministry of Foreign Affairs (外務省)",
+      "businessNameJa": "外務省",
+      "businessNameKana": "ガイムショウ",
+      "businessNameRomaji": "Ministry of Foreign Affairs",
+      "addressLineJa": "東京都千代田区霞が関２丁目２番１号",
+      "addressLineEn": "2-2-1 Kasumigaseki, Chiyoda-ku, Tokyo",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "municipalityNameJa": "千代田区",
+      "municipalityNameEn": "Chiyoda-ku",
+      "townAreaNameJa": "霞が関",
+      "townAreaNameEn": "Kasumigaseki",
+      "poBoxNumber": null
+    }
+  ]
+}

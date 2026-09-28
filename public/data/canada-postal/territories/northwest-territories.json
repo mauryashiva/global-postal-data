@@ -1,0 +1,272 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Northwest Territories",
+    "nameFr": "Territoires du Nord-Ouest",
+    "code": "NT",
+    "isoCode": "CA-NT",
+    "sgcCode": "61",
+    "category": "territory"
+  },
+  "recordCount": 5,
+  "postalRecords": [
+    {
+      "postalCode": "X1A 1A1",
+      "postalCodeNormalized": "X1A1A1",
+      "fsa": "X1A",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Northwest Territories",
+        "nameFr": "Territoires du Nord-Ouest",
+        "code": "NT",
+        "isoCode": "CA-NT",
+        "sgcCode": "61"
+      },
+      "postalGeography": {
+        "postalCity": "Yellowknife",
+        "postalMunicipality": "City of Yellowknife"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Region 6",
+          "code": "6106",
+          "type": "Region (North Slave)"
+        },
+        "censusSubdivision": {
+          "name": "Yellowknife",
+          "code": "6106023",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Yellowknife Main Post Office",
+        "nameFr": "Bureau de poste principal de Yellowknife",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "NT-YLW-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NT-X1A1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X1A 2L9",
+      "postalCodeNormalized": "X1A2L9",
+      "fsa": "X1A",
+      "ldu": "2L9",
+      "provinceTerritory": {
+        "nameEn": "Northwest Territories",
+        "nameFr": "Territoires du Nord-Ouest",
+        "code": "NT",
+        "isoCode": "CA-NT",
+        "sgcCode": "61"
+      },
+      "postalGeography": {
+        "postalCity": "Yellowknife",
+        "postalMunicipality": "City of Yellowknife"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Region 6",
+          "code": "6106",
+          "type": "Region (North Slave)"
+        },
+        "censusSubdivision": {
+          "name": "Yellowknife",
+          "code": "6106023",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Northwest Territories Legislative Assembly Building",
+        "nameFr": "Édifice de l’Assemblée législative des Territoires du Nord-Ouest",
+        "station": "Legislative Assembly Stn",
+        "type": "Government Facility",
+        "identifier": "NT-YLW-LEG"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NT-X1A2L9-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X1A 1A0",
+      "postalCodeNormalized": "X1A1A0",
+      "fsa": "X1A",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "Northwest Territories",
+        "nameFr": "Territoires du Nord-Ouest",
+        "code": "NT",
+        "isoCode": "CA-NT",
+        "sgcCode": "61"
+      },
+      "postalGeography": {
+        "postalCity": "Yellowknife",
+        "postalMunicipality": "City of Yellowknife"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Region 6",
+          "code": "6106",
+          "type": "Region (North Slave)"
+        },
+        "censusSubdivision": {
+          "name": "Yellowknife",
+          "code": "6106023",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "General Delivery",
+        "deliveryMode": "General delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": {
+          "isGeneralDelivery": true,
+          "identifier": "General Delivery",
+          "station": "Yellowknife Main Station"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Yellowknife General Delivery Service Point",
+        "nameFr": "Poste restante de Yellowknife",
+        "station": "Stn Main GD",
+        "type": "General Delivery Facility",
+        "identifier": "NT-YLW-GD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NT-X1A1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X0E 0T0",
+      "postalCodeNormalized": "X0E0T0",
+      "fsa": "X0E",
+      "ldu": "0T0",
+      "provinceTerritory": {
+        "nameEn": "Northwest Territories",
+        "nameFr": "Territoires du Nord-Ouest",
+        "code": "NT",
+        "isoCode": "CA-NT",
+        "sgcCode": "61"
+      },
+      "postalGeography": {
+        "postalCity": "Fort Simpson",
+        "postalMunicipality": "Village of Fort Simpson"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Region 4",
+          "code": "6104",
+          "type": "Region (Dehcho)"
+        },
+        "censusSubdivision": {
+          "name": "Fort Simpson",
+          "code": "6104010",
+          "type": "Village"
+        }
+      },
+      "delivery": {
+        "type": "Rural Community",
+        "deliveryMode": "Post office collection",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Fort Simpson Post Office",
+        "nameFr": "Bureau de poste de Fort Simpson",
+        "station": "Stn Main",
+        "type": "Northern Post Office",
+        "identifier": "NT-FTS-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NT-X0E0T0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X0G 0A0",
+      "postalCodeNormalized": "X0G0A0",
+      "fsa": "X0G",
+      "ldu": "0A0",
+      "provinceTerritory": {
+        "nameEn": "Northwest Territories",
+        "nameFr": "Territoires du Nord-Ouest",
+        "code": "NT",
+        "isoCode": "CA-NT",
+        "sgcCode": "61"
+      },
+      "postalGeography": {
+        "postalCity": "Fort Liard",
+        "postalMunicipality": "Hamlet of Fort Liard"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Region 4",
+          "code": "6104",
+          "type": "Region (Dehcho)"
+        },
+        "censusSubdivision": {
+          "name": "Fort Liard",
+          "code": "6104005",
+          "type": "Hamlet"
+        }
+      },
+      "delivery": {
+        "type": "Rural Community",
+        "deliveryMode": "Post office collection",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Fort Liard Post Office",
+        "nameFr": "Bureau de poste de Fort Liard",
+        "station": "Stn Main",
+        "type": "Northern Post Office",
+        "identifier": "NT-FTL-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NT-X0G0A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

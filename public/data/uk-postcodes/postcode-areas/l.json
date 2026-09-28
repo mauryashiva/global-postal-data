@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "L",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "L3 1BP",
+      "postTown": "LIVERPOOL",
+      "locality": "Pier Head",
+      "dependentLocality": "Waterfront",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "North West",
+      "ceremonialCounty": "Merseyside",
+      "localAuthority": "Liverpool City Council",
+      "district": "Liverpool",
+      "civilParish": null,
+      "ward": "Central",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 53.4058,
+        "longitude": -2.9961,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "L31BP-01",
+          "buildingName": "Royal Liver Building",
+          "buildingNumber": null,
+          "subBuildingName": "Pier Head",
+          "thoroughfare": "Water Street",
+          "postTown": "LIVERPOOL",
+          "postcode": "L3 1BP",
+          "fullAddressText": "Royal Liver Building, Pier Head, Liverpool L3 1BP"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "L3 1BP",
+        "outwardCode": "L3",
+        "inwardCode": "1BP",
+        "postcodeArea": "L",
+        "postcodeDistrict": "L3",
+        "postcodeSector": "L3 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-L3-1BP",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

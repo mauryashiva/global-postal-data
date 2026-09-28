@@ -1,0 +1,973 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Paktika",
+    "nameNative": "پکتیکا",
+    "isoCode": "AF-PKA",
+    "postalPrefix": "24",
+    "capital": "Sharana",
+    "capitalNative": "شرن",
+    "coordinates": {
+      "latitude": 32.5,
+      "longitude": 68.8
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 25,
+    "totalRecords": 25,
+    "urbanRecords": 1,
+    "ruralRecords": 24
+  },
+  "records": [
+    {
+      "postalCode": "240101",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Sharana - Sharan",
+        "type": "Urban Municipal District",
+        "code": "AF-PKA-01"
+      },
+      "locality": {
+        "nameEn": "Sharan (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Sharana Sharan Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-240101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245101",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Turwo (Tarwe) District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-51"
+      },
+      "locality": {
+        "nameEn": "Turwo (Tarwe) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Turwo (Tarwe) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245201",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Omna District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-52"
+      },
+      "locality": {
+        "nameEn": "Omna Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Omna District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245301",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Dila District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-53"
+      },
+      "locality": {
+        "nameEn": "Dila Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dila District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245401",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Wazakhah District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-54"
+      },
+      "locality": {
+        "nameEn": "Wazakhah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Wazakhah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245501",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Gomal District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-55"
+      },
+      "locality": {
+        "nameEn": "Gomal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gomal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245601",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Janikhel District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-56"
+      },
+      "locality": {
+        "nameEn": "Janikhel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Janikhel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245701",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Zarghunshahr District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-57"
+      },
+      "locality": {
+        "nameEn": "Zarghunshahr Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zarghunshahr District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245801",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Yahyakhel District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-58"
+      },
+      "locality": {
+        "nameEn": "Yahyakhel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yahyakhel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "245901",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Matakhan District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-59"
+      },
+      "locality": {
+        "nameEn": "Matakhan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Matakhan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-245901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246001",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Yosufkhel District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-60"
+      },
+      "locality": {
+        "nameEn": "Yosufkhel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Yosufkhel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246101",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Sarrawzah(Sarhawzah) District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-61"
+      },
+      "locality": {
+        "nameEn": "Sarrawzah(Sarhawzah) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sarrawzah(Sarhawzah) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246201",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Naka District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-62"
+      },
+      "locality": {
+        "nameEn": "Naka Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Naka District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246301",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Ziruk District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-63"
+      },
+      "locality": {
+        "nameEn": "Ziruk Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ziruk District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246401",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Urgun District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-64"
+      },
+      "locality": {
+        "nameEn": "Urgun Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Urgun District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246501",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Gyan District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-65"
+      },
+      "locality": {
+        "nameEn": "Gyan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gyan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246601",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Sarobi District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-66"
+      },
+      "locality": {
+        "nameEn": "Sarobi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sarobi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246701",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Bermel District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-67"
+      },
+      "locality": {
+        "nameEn": "Bermel Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Bermel District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246801",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Wormamay District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-68"
+      },
+      "locality": {
+        "nameEn": "Wormamay Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Wormamay District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "246901",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Shakhil Abad District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-69"
+      },
+      "locality": {
+        "nameEn": "Shakhil Abad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shakhil Abad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-246901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "247001",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Backhil District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-70"
+      },
+      "locality": {
+        "nameEn": "Backhil Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Backhil District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-247001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "247101",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Shakin District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-71"
+      },
+      "locality": {
+        "nameEn": "Shakin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shakin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-247101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "247201",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Namt Abad District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-72"
+      },
+      "locality": {
+        "nameEn": "Namt Abad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Namt Abad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-247201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "247301",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Jahar Rizan District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-73"
+      },
+      "locality": {
+        "nameEn": "Jahar Rizan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jahar Rizan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-247301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "247401",
+      "province": {
+        "nameEn": "Paktika",
+        "nameNative": "پکتیکا",
+        "code": "AF-PKA",
+        "postalPrefix": "24"
+      },
+      "city": {
+        "nameEn": "Sharana",
+        "nameNative": "شرن"
+      },
+      "district": {
+        "nameEn": "Khoshamand District",
+        "type": "Rural Administrative District",
+        "code": "AF-PKA-74"
+      },
+      "locality": {
+        "nameEn": "Khoshamand Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khoshamand District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.5,
+        "longitude": 68.8
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-247401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

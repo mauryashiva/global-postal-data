@@ -1,0 +1,63 @@
+{
+  "code": "11",
+  "nameEn": "Aceh",
+  "nameId": "Aceh",
+  "nameNative": "Nanggroe Aceh Darussalam",
+  "administrativeType": "Province",
+  "specialStatus": "Special Autonomous Region (Daerah Istimewa)",
+  "capitalEn": "Banda Aceh",
+  "capitalId": "Kota Banda Aceh",
+  "zone": "2",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "23111",
+      "province": {
+        "code": "11",
+        "nameEn": "Aceh",
+        "nameId": "Aceh",
+        "nameNative": "Nanggroe Aceh Darussalam",
+        "administrativeType": "Province",
+        "specialStatus": "Special Autonomous Region (Daerah Istimewa)"
+      },
+      "kabupatenKota": {
+        "code": "11.71",
+        "nameId": "Kota Banda Aceh",
+        "nameEn": "Banda Aceh",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "11.71.01",
+        "nameId": "Kecamatan Baiturrahman",
+        "nameEn": "Baiturrahman District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "11.71.01.2001",
+        "nameId": "Gampong Kampung Baru",
+        "nameEn": "Kampung Baru",
+        "administrativeType": "Village"
+      },
+      "locality": {
+        "nameId": "Masjid Raya Baiturrahman",
+        "nameEn": "Grand Mosque of Baiturrahman"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Banda Aceh",
+        "nameEn": "Banda Aceh Main Post Office",
+        "code": "23000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-11-23111-11.71.01.2001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

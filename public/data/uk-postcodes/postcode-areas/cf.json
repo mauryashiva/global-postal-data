@@ -1,0 +1,100 @@
+{
+  "postcodeArea": "CF",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "CF10 3AT",
+      "postTown": "CARDIFF",
+      "locality": "Castle Quarter",
+      "dependentLocality": "Cathays",
+      "constituentCountry": "Wales",
+      "constituentCountryCode": "GB-WLS",
+      "region": "Wales",
+      "ceremonialCounty": "South Glamorgan",
+      "localAuthority": "Cardiff Council (Cyngor Caerdydd)",
+      "district": "Cardiff",
+      "civilParish": null,
+      "ward": "Cathays",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.4816,
+        "longitude": -3.1812,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "CF103AT-01",
+          "buildingName": "Cardiff Castle (Castell Caerdydd)",
+          "buildingNumber": null,
+          "subBuildingName": "Visitor Centre",
+          "thoroughfare": "Castle Street",
+          "postTown": "CARDIFF",
+          "postcode": "CF10 3AT",
+          "fullAddressText": "Cardiff Castle, Castle Street, Cardiff CF10 3AT"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "CF10 3AT",
+        "outwardCode": "CF10",
+        "inwardCode": "3AT",
+        "postcodeArea": "CF",
+        "postcodeDistrict": "CF10",
+        "postcodeSector": "CF10 3"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-CF10-3AT",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "CF99 1SN",
+      "postTown": "CARDIFF",
+      "locality": "Cardiff Bay",
+      "dependentLocality": null,
+      "constituentCountry": "Wales",
+      "constituentCountryCode": "GB-WLS",
+      "region": "Wales",
+      "ceremonialCounty": "South Glamorgan",
+      "localAuthority": "Cardiff Council (Cyngor Caerdydd)",
+      "district": "Cardiff",
+      "civilParish": null,
+      "ward": "Butetown",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.4647,
+        "longitude": -3.1627,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "CF991SN-01",
+          "buildingName": "Senedd Cymru (Welsh Parliament)",
+          "buildingNumber": null,
+          "subBuildingName": "The Senedd",
+          "thoroughfare": "Pierhead Street",
+          "postTown": "CARDIFF",
+          "postcode": "CF99 1SN",
+          "fullAddressText": "Senedd Cymru, Pierhead Street, Cardiff Bay, Cardiff CF99 1SN"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "CF99 1SN",
+        "outwardCode": "CF99",
+        "inwardCode": "1SN",
+        "postcodeArea": "CF",
+        "postcodeDistrict": "CF99",
+        "postcodeSector": "CF99 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-CF99-1SN",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5120 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Quang Ngai",
+    "nameVi": "Quảng Ngãi",
+    "fullNameEn": "Quang Ngai Province",
+    "fullNameVi": "Tỉnh Quảng Ngãi",
+    "nameSearchNormalized": "quang ngai",
+    "officialCode": "51",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "53, 54, 60",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 96,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "53129",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Cam Thanh",
+        "nameVi": "Cẩm Thành",
+        "fullNameEn": "Cam Thanh Ward",
+        "fullNameVi": "Phường Cẩm Thành",
+        "nameSearchNormalized": "cam thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "21025",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Cam Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cẩm Thành",
+        "type": "Ward",
+        "code": "53129"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Ngãi",
+        "districtFullName": "Thành phố Quảng Ngãi",
+        "districtNameEn": "Quang Ngai",
+        "districtCode": "522",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53114",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Nghia Lo",
+        "nameVi": "Nghĩa Lộ",
+        "fullNameEn": "Nghia Lo Ward",
+        "fullNameVi": "Phường Nghĩa Lộ",
+        "nameSearchNormalized": "nghia lo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "21028",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Lo Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Nghĩa Lộ",
+        "type": "Ward",
+        "code": "53114"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Ngãi",
+        "districtFullName": "Thành phố Quảng Ngãi",
+        "districtNameEn": "Quang Ngai",
+        "districtCode": "522",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "An Phu",
+        "nameVi": "An Phú",
+        "fullNameEn": "An Phu Commune",
+        "fullNameVi": "Xã An Phú",
+        "nameSearchNormalized": "an phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21034",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "An Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Phú",
+        "type": "Commune",
+        "code": "53122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Ngãi",
+        "districtFullName": "Thành phố Quảng Ngãi",
+        "districtNameEn": "Quang Ngai",
+        "districtCode": "522",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53331",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Binh Son",
+        "nameVi": "Bình Sơn",
+        "fullNameEn": "Binh Son Commune",
+        "fullNameVi": "Xã Bình Sơn",
+        "nameSearchNormalized": "binh son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21040",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Binh Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Sơn",
+        "type": "Commune",
+        "code": "53331"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Sơn",
+        "districtFullName": "Huyện Bình Sơn",
+        "districtNameEn": "Binh Son",
+        "districtCode": "524",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53332",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Van Tuong",
+        "nameVi": "Vạn Tường",
+        "fullNameEn": "Van Tuong Commune",
+        "fullNameVi": "Xã Vạn Tường",
+        "nameSearchNormalized": "van tuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21061",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Van Tuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vạn Tường",
+        "type": "Commune",
+        "code": "53332"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Sơn",
+        "districtFullName": "Huyện Bình Sơn",
+        "districtNameEn": "Binh Son",
+        "districtCode": "524",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53322",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Binh Minh",
+        "nameVi": "Bình Minh",
+        "fullNameEn": "Binh Minh Commune",
+        "fullNameVi": "Xã Bình Minh",
+        "nameSearchNormalized": "binh minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21085",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Binh Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Minh",
+        "type": "Commune",
+        "code": "53322"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Sơn",
+        "districtFullName": "Huyện Bình Sơn",
+        "districtNameEn": "Binh Son",
+        "districtCode": "524",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Binh Chuong",
+        "nameVi": "Bình Chương",
+        "fullNameEn": "Binh Chuong Commune",
+        "fullNameVi": "Xã Bình Chương",
+        "nameSearchNormalized": "binh chuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21100",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Binh Chuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Chương",
+        "type": "Commune",
+        "code": "53312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Sơn",
+        "districtFullName": "Huyện Bình Sơn",
+        "districtNameEn": "Binh Son",
+        "districtCode": "524",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53333",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dong Son",
+        "nameVi": "Đông Sơn",
+        "fullNameEn": "Dong Son Commune",
+        "fullNameVi": "Xã Đông Sơn",
+        "nameSearchNormalized": "dong son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21109",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dong Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Sơn",
+        "type": "Commune",
+        "code": "53333"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bình Sơn",
+        "districtFullName": "Huyện Bình Sơn",
+        "districtNameEn": "Binh Son",
+        "districtCode": "524",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tra Bong",
+        "nameVi": "Trà Bồng",
+        "fullNameEn": "Tra Bong Commune",
+        "fullNameVi": "Xã Trà Bồng",
+        "nameSearchNormalized": "tra bong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21115",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tra Bong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Bồng",
+        "type": "Commune",
+        "code": "53416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trà Bồng",
+        "districtFullName": "Huyện Trà Bồng",
+        "districtNameEn": "Tra Bong",
+        "districtCode": "525",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53420",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Thanh Bong",
+        "nameVi": "Thanh Bồng",
+        "fullNameEn": "Thanh Bong Commune",
+        "fullNameVi": "Xã Thanh Bồng",
+        "nameSearchNormalized": "thanh bong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21124",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Bong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Bồng",
+        "type": "Commune",
+        "code": "53420"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trà Bồng",
+        "districtFullName": "Huyện Trà Bồng",
+        "districtNameEn": "Tra Bong",
+        "districtCode": "525",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dong Tra Bong",
+        "nameVi": "Đông Trà Bồng",
+        "fullNameEn": "Dong Tra Bong Commune",
+        "fullNameVi": "Xã Đông Trà Bồng",
+        "nameSearchNormalized": "dong tra bong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21127",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dong Tra Bong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Trà Bồng",
+        "type": "Commune",
+        "code": "53417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trà Bồng",
+        "districtFullName": "Huyện Trà Bồng",
+        "districtNameEn": "Tra Bong",
+        "districtCode": "525",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53418",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ca Dam",
+        "nameVi": "Cà Đam",
+        "fullNameEn": "Ca Dam Commune",
+        "fullNameVi": "Xã Cà Đam",
+        "nameSearchNormalized": "ca dam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21136",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ca Dam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cà Đam",
+        "type": "Commune",
+        "code": "53418"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trà Bồng",
+        "districtFullName": "Huyện Trà Bồng",
+        "districtNameEn": "Tra Bong",
+        "districtCode": "525",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53419",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tay Tra",
+        "nameVi": "Tây Trà",
+        "fullNameEn": "Tay Tra Commune",
+        "fullNameVi": "Xã Tây Trà",
+        "nameSearchNormalized": "tay tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21154",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tay Tra Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Trà",
+        "type": "Commune",
+        "code": "53419"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trà Bồng",
+        "districtFullName": "Huyện Trà Bồng",
+        "districtNameEn": "Tra Bong",
+        "districtCode": "525",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53421",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tay Tra Bong",
+        "nameVi": "Tây Trà Bồng",
+        "fullNameEn": "Tay Tra Bong Commune",
+        "fullNameVi": "Xã Tây Trà Bồng",
+        "nameSearchNormalized": "tay tra bong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21157",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tay Tra Bong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tây Trà Bồng",
+        "type": "Commune",
+        "code": "53421"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trà Bồng",
+        "districtFullName": "Huyện Trà Bồng",
+        "districtNameEn": "Tra Bong",
+        "districtCode": "525",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53111",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Truong Quang Trong",
+        "nameVi": "Trương Quang Trọng",
+        "fullNameEn": "Truong Quang Trong Ward",
+        "fullNameVi": "Phường Trương Quang Trọng",
+        "nameSearchNormalized": "truong quang trong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "21172",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Truong Quang Trong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trương Quang Trọng",
+        "type": "Ward",
+        "code": "53111"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Ngãi",
+        "districtFullName": "Thành phố Quảng Ngãi",
+        "districtNameEn": "Quang Ngai",
+        "districtCode": "522",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53220",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tho Phong",
+        "nameVi": "Thọ Phong",
+        "fullNameEn": "Tho Phong Commune",
+        "fullNameVi": "Xã Thọ Phong",
+        "nameSearchNormalized": "tho phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21181",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tho Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thọ Phong",
+        "type": "Commune",
+        "code": "53220"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tịnh",
+        "districtFullName": "Huyện Sơn Tịnh",
+        "districtNameEn": "Son Tinh",
+        "districtCode": "527",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53218",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Truong Giang",
+        "nameVi": "Trường Giang",
+        "fullNameEn": "Truong Giang Commune",
+        "fullNameVi": "Xã Trường Giang",
+        "nameSearchNormalized": "truong giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21196",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Truong Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Giang",
+        "type": "Commune",
+        "code": "53218"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tịnh",
+        "districtFullName": "Huyện Sơn Tịnh",
+        "districtNameEn": "Son Tinh",
+        "districtCode": "527",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53219",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba Gia",
+        "nameVi": "Ba Gia",
+        "fullNameEn": "Ba Gia Commune",
+        "fullNameVi": "Xã Ba Gia",
+        "nameSearchNormalized": "ba gia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21205",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba Gia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Gia",
+        "type": "Commune",
+        "code": "53219"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tịnh",
+        "districtFullName": "Huyện Sơn Tịnh",
+        "districtNameEn": "Son Tinh",
+        "districtCode": "527",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53125",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tinh Khe",
+        "nameVi": "Tịnh Khê",
+        "fullNameEn": "Tinh Khe Commune",
+        "fullNameVi": "Xã Tịnh Khê",
+        "nameSearchNormalized": "tinh khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21211",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tinh Khe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tịnh Khê",
+        "type": "Commune",
+        "code": "53125"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Ngãi",
+        "districtFullName": "Thành phố Quảng Ngãi",
+        "districtNameEn": "Quang Ngai",
+        "districtCode": "522",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Tinh",
+        "nameVi": "Sơn Tịnh",
+        "fullNameEn": "Son Tinh Commune",
+        "fullNameVi": "Xã Sơn Tịnh",
+        "nameSearchNormalized": "son tinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21220",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Tinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Tịnh",
+        "type": "Commune",
+        "code": "53217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tịnh",
+        "districtFullName": "Huyện Sơn Tịnh",
+        "districtNameEn": "Son Tinh",
+        "districtCode": "527",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53921",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tu Nghia",
+        "nameVi": "Tư Nghĩa",
+        "fullNameEn": "Tu Nghia Commune",
+        "fullNameVi": "Xã Tư Nghĩa",
+        "nameSearchNormalized": "tu nghia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21235",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tu Nghia Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tư Nghĩa",
+        "type": "Commune",
+        "code": "53921"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tư Nghĩa",
+        "districtFullName": "Huyện Tư Nghĩa",
+        "districtNameEn": "Tu Nghia",
+        "districtCode": "528",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53922",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ve Giang",
+        "nameVi": "Vệ Giang",
+        "fullNameEn": "Ve Giang Commune",
+        "fullNameVi": "Xã Vệ Giang",
+        "nameSearchNormalized": "ve giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21238",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ve Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vệ Giang",
+        "type": "Commune",
+        "code": "53922"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tư Nghĩa",
+        "districtFullName": "Huyện Tư Nghĩa",
+        "districtNameEn": "Tu Nghia",
+        "districtCode": "528",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53924",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tra Giang",
+        "nameVi": "Trà Giang",
+        "fullNameEn": "Tra Giang Commune",
+        "fullNameVi": "Xã Trà Giang",
+        "nameSearchNormalized": "tra giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21244",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tra Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trà Giang",
+        "type": "Commune",
+        "code": "53924"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tư Nghĩa",
+        "districtFullName": "Huyện Tư Nghĩa",
+        "districtNameEn": "Tu Nghia",
+        "districtCode": "528",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53923",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Nghia Giang",
+        "nameVi": "Nghĩa Giang",
+        "fullNameEn": "Nghia Giang Commune",
+        "fullNameVi": "Xã Nghĩa Giang",
+        "nameSearchNormalized": "nghia giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21250",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghĩa Giang",
+        "type": "Commune",
+        "code": "53923"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tư Nghĩa",
+        "districtFullName": "Huyện Tư Nghĩa",
+        "districtNameEn": "Tu Nghia",
+        "districtCode": "528",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53820",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Ha",
+        "nameVi": "Sơn Hà",
+        "fullNameEn": "Son Ha Commune",
+        "fullNameVi": "Xã Sơn Hà",
+        "nameSearchNormalized": "son ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21289",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Hà",
+        "type": "Commune",
+        "code": "53820"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hà",
+        "districtFullName": "Huyện Sơn Hà",
+        "districtNameEn": "Son Ha",
+        "districtCode": "529",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Ha",
+        "nameVi": "Sơn Hạ",
+        "fullNameEn": "Son Ha Commune",
+        "fullNameVi": "Xã Sơn Hạ",
+        "nameSearchNormalized": "son ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21292",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Hạ",
+        "type": "Commune",
+        "code": "53815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hà",
+        "districtFullName": "Huyện Sơn Hà",
+        "districtNameEn": "Son Ha",
+        "districtCode": "529",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53813",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Linh",
+        "nameVi": "Sơn Linh",
+        "fullNameEn": "Son Linh Commune",
+        "fullNameVi": "Xã Sơn Linh",
+        "nameSearchNormalized": "son linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21307",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Linh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Linh",
+        "type": "Commune",
+        "code": "53813"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hà",
+        "districtFullName": "Huyện Sơn Hà",
+        "districtNameEn": "Son Ha",
+        "districtCode": "529",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Thuy",
+        "nameVi": "Sơn Thuỷ",
+        "fullNameEn": "Son Thuy Commune",
+        "fullNameVi": "Xã Sơn Thuỷ",
+        "nameSearchNormalized": "son thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21319",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Thuy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Thuỷ",
+        "type": "Commune",
+        "code": "53817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hà",
+        "districtFullName": "Huyện Sơn Hà",
+        "districtNameEn": "Son Ha",
+        "districtCode": "529",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53818",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Ky",
+        "nameVi": "Sơn Kỳ",
+        "fullNameEn": "Son Ky Commune",
+        "fullNameVi": "Xã Sơn Kỳ",
+        "nameSearchNormalized": "son ky",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21325",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Ky Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Kỳ",
+        "type": "Commune",
+        "code": "53818"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Hà",
+        "districtFullName": "Huyện Sơn Hà",
+        "districtNameEn": "Son Ha",
+        "districtCode": "529",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Tay Thuong",
+        "nameVi": "Sơn Tây Thượng",
+        "fullNameEn": "Son Tay Thuong Commune",
+        "fullNameVi": "Xã Sơn Tây Thượng",
+        "nameSearchNormalized": "son tay thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21334",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Tay Thuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Tây Thượng",
+        "type": "Commune",
+        "code": "53616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tây",
+        "districtFullName": "Huyện Sơn Tây",
+        "districtNameEn": "Son Tay",
+        "districtCode": "530",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Tay",
+        "nameVi": "Sơn Tây",
+        "fullNameEn": "Son Tay Commune",
+        "fullNameVi": "Xã Sơn Tây",
+        "nameSearchNormalized": "son tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21340",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Tây",
+        "type": "Commune",
+        "code": "53615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tây",
+        "districtFullName": "Huyện Sơn Tây",
+        "districtNameEn": "Son Tay",
+        "districtCode": "530",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53617",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Tay Ha",
+        "nameVi": "Sơn Tây Hạ",
+        "fullNameEn": "Son Tay Ha Commune",
+        "fullNameVi": "Xã Sơn Tây Hạ",
+        "nameSearchNormalized": "son tay ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21343",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Tay Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Tây Hạ",
+        "type": "Commune",
+        "code": "53617"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sơn Tây",
+        "districtFullName": "Huyện Sơn Tây",
+        "districtNameEn": "Son Tay",
+        "districtCode": "530",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Son Mai",
+        "nameVi": "Sơn Mai",
+        "fullNameEn": "Son Mai Commune",
+        "fullNameVi": "Xã Sơn Mai",
+        "nameSearchNormalized": "son mai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21349",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Son Mai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Mai",
+        "type": "Commune",
+        "code": "53712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Minh Long",
+        "districtFullName": "Huyện Minh Long",
+        "districtNameEn": "Minh Long",
+        "districtCode": "531",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Minh Long",
+        "nameVi": "Minh Long",
+        "fullNameEn": "Minh Long Commune",
+        "fullNameVi": "Xã Minh Long",
+        "nameSearchNormalized": "minh long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21361",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Minh Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Minh Long",
+        "type": "Commune",
+        "code": "53711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Minh Long",
+        "districtFullName": "Huyện Minh Long",
+        "districtNameEn": "Minh Long",
+        "districtCode": "531",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54018",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Nghia Hanh",
+        "nameVi": "Nghĩa Hành",
+        "fullNameEn": "Nghia Hanh Commune",
+        "fullNameVi": "Xã Nghĩa Hành",
+        "nameSearchNormalized": "nghia hanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21364",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Hanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghĩa Hành",
+        "type": "Commune",
+        "code": "54018"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Hành",
+        "districtFullName": "Huyện Nghĩa Hành",
+        "districtNameEn": "Nghia Hanh",
+        "districtCode": "532",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54021",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Phuoc Giang",
+        "nameVi": "Phước Giang",
+        "fullNameEn": "Phuoc Giang Commune",
+        "fullNameVi": "Xã Phước Giang",
+        "nameSearchNormalized": "phuoc giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21370",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Giang",
+        "type": "Commune",
+        "code": "54021"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Hành",
+        "districtFullName": "Huyện Nghĩa Hành",
+        "districtNameEn": "Nghia Hanh",
+        "districtCode": "532",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54019",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dinh Cuong",
+        "nameVi": "Đình Cương",
+        "fullNameEn": "Dinh Cuong Commune",
+        "fullNameVi": "Xã Đình Cương",
+        "nameSearchNormalized": "dinh cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21385",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dinh Cuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đình Cương",
+        "type": "Commune",
+        "code": "54019"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Hành",
+        "districtFullName": "Huyện Nghĩa Hành",
+        "districtNameEn": "Nghia Hanh",
+        "districtCode": "532",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54020",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Thien Tin",
+        "nameVi": "Thiện Tín",
+        "fullNameEn": "Thien Tin Commune",
+        "fullNameVi": "Xã Thiện Tín",
+        "nameSearchNormalized": "thien tin",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21388",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Thien Tin Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thiện Tín",
+        "type": "Commune",
+        "code": "54020"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Hành",
+        "districtFullName": "Huyện Nghĩa Hành",
+        "districtNameEn": "Nghia Hanh",
+        "districtCode": "532",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Mo Duc",
+        "nameVi": "Mộ Đức",
+        "fullNameEn": "Mo Duc Commune",
+        "fullNameVi": "Xã Mộ Đức",
+        "nameSearchNormalized": "mo duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21400",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Mo Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mộ Đức",
+        "type": "Commune",
+        "code": "54119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộ Đức",
+        "districtFullName": "Huyện Mộ Đức",
+        "districtNameEn": "Mo Duc",
+        "districtCode": "533",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Long Phung",
+        "nameVi": "Long Phụng",
+        "fullNameEn": "Long Phung Commune",
+        "fullNameVi": "Xã Long Phụng",
+        "nameSearchNormalized": "long phung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21409",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Long Phung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Phụng",
+        "type": "Commune",
+        "code": "54120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộ Đức",
+        "districtFullName": "Huyện Mộ Đức",
+        "districtNameEn": "Mo Duc",
+        "districtCode": "533",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54121",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Mo Cay",
+        "nameVi": "Mỏ Cày",
+        "fullNameEn": "Mo Cay Commune",
+        "fullNameVi": "Xã Mỏ Cày",
+        "nameSearchNormalized": "mo cay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21421",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Mo Cay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỏ Cày",
+        "type": "Commune",
+        "code": "54121"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộ Đức",
+        "districtFullName": "Huyện Mộ Đức",
+        "districtNameEn": "Mo Duc",
+        "districtCode": "533",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Lan Phong",
+        "nameVi": "Lân Phong",
+        "fullNameEn": "Lan Phong Commune",
+        "fullNameVi": "Xã Lân Phong",
+        "nameSearchNormalized": "lan phong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21433",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Lan Phong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lân Phong",
+        "type": "Commune",
+        "code": "54122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mộ Đức",
+        "districtFullName": "Huyện Mộ Đức",
+        "districtNameEn": "Mo Duc",
+        "districtCode": "533",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54321",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Duc Pho",
+        "nameVi": "Đức Phổ",
+        "fullNameEn": "Duc Pho Ward",
+        "fullNameVi": "Phường Đức Phổ",
+        "nameSearchNormalized": "duc pho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "21439",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Duc Pho Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đức Phổ",
+        "type": "Ward",
+        "code": "54321"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Phổ",
+        "districtFullName": "Thị xã Đức Phổ",
+        "districtNameEn": "Duc Pho",
+        "districtCode": "534",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54322",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tra Cau",
+        "nameVi": "Trà Câu",
+        "fullNameEn": "Tra Cau Ward",
+        "fullNameVi": "Phường Trà Câu",
+        "nameSearchNormalized": "tra cau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "21451",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tra Cau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trà Câu",
+        "type": "Ward",
+        "code": "54322"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Phổ",
+        "districtFullName": "Thị xã Đức Phổ",
+        "districtNameEn": "Duc Pho",
+        "districtCode": "534",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54323",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Nguyen Nghiem",
+        "nameVi": "Nguyễn Nghiêm",
+        "fullNameEn": "Nguyen Nghiem Commune",
+        "fullNameVi": "Xã Nguyễn Nghiêm",
+        "nameSearchNormalized": "nguyen nghiem",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21457",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Nguyen Nghiem Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nguyễn Nghiêm",
+        "type": "Commune",
+        "code": "54323"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Phổ",
+        "districtFullName": "Thị xã Đức Phổ",
+        "districtNameEn": "Duc Pho",
+        "districtCode": "534",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54324",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Khanh Cuong",
+        "nameVi": "Khánh Cường",
+        "fullNameEn": "Khanh Cuong Commune",
+        "fullNameVi": "Xã Khánh Cường",
+        "nameSearchNormalized": "khanh cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21472",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Cuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Cường",
+        "type": "Commune",
+        "code": "54324"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Phổ",
+        "districtFullName": "Thị xã Đức Phổ",
+        "districtNameEn": "Duc Pho",
+        "districtCode": "534",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54325",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Sa Huynh",
+        "nameVi": "Sa Huỳnh",
+        "fullNameEn": "Sa Huynh Ward",
+        "fullNameVi": "Phường Sa Huỳnh",
+        "nameSearchNormalized": "sa huynh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "21478",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Sa Huynh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sa Huỳnh",
+        "type": "Ward",
+        "code": "54325"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Phổ",
+        "districtFullName": "Thị xã Đức Phổ",
+        "districtNameEn": "Duc Pho",
+        "districtCode": "534",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba To",
+        "nameVi": "Ba Tơ",
+        "fullNameEn": "Ba To Commune",
+        "fullNameVi": "Xã Ba Tơ",
+        "nameSearchNormalized": "ba to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21484",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Tơ",
+        "type": "Commune",
+        "code": "54206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba Vinh",
+        "nameVi": "Ba Vinh",
+        "fullNameEn": "Ba Vinh Commune",
+        "fullNameVi": "Xã Ba Vinh",
+        "nameSearchNormalized": "ba vinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21490",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba Vinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Vinh",
+        "type": "Commune",
+        "code": "54216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba Dong",
+        "nameVi": "Ba Động",
+        "fullNameEn": "Ba Dong Commune",
+        "fullNameVi": "Xã Ba Động",
+        "nameSearchNormalized": "ba dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21496",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Động",
+        "type": "Commune",
+        "code": "54214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba Dinh",
+        "nameVi": "Ba Dinh",
+        "fullNameEn": "Ba Dinh Commune",
+        "fullNameVi": "Xã Ba Dinh",
+        "nameSearchNormalized": "ba dinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21499",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba Dinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Dinh",
+        "type": "Commune",
+        "code": "54209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54226",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dang Thuy Tram",
+        "nameVi": "Đặng Thuỳ Trâm",
+        "fullNameEn": "Dang Thuy Tram Commune",
+        "fullNameVi": "Xã Đặng Thuỳ Trâm",
+        "nameSearchNormalized": "dang thuy tram",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21520",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dang Thuy Tram Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đặng Thuỳ Trâm",
+        "type": "Commune",
+        "code": "54226"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54222",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba To",
+        "nameVi": "Ba Tô",
+        "fullNameEn": "Ba To Commune",
+        "fullNameVi": "Xã Ba Tô",
+        "nameSearchNormalized": "ba to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21523",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Tô",
+        "type": "Commune",
+        "code": "54222"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54221",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba Vi",
+        "nameVi": "Ba Vì",
+        "fullNameEn": "Ba Vi Commune",
+        "fullNameVi": "Xã Ba Vì",
+        "nameSearchNormalized": "ba vi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21529",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba Vi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Vì",
+        "type": "Commune",
+        "code": "54221"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54223",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ba Xa",
+        "nameVi": "Ba Xa",
+        "fullNameEn": "Ba Xa Commune",
+        "fullNameVi": "Xã Ba Xa",
+        "nameSearchNormalized": "ba xa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "21538",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ba Xa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ba Xa",
+        "type": "Commune",
+        "code": "54223"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ba Tơ",
+        "districtFullName": "Huyện Ba Tơ",
+        "districtNameEn": "Ba To",
+        "districtCode": "535",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "54409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ly Son",
+        "nameVi": "Lý Sơn",
+        "fullNameEn": "Ly Son Special administrative region",
+        "fullNameVi": "Đặc khu Lý Sơn",
+        "nameSearchNormalized": "ly son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Special Administrative Zone",
+        "officialCode": "21548",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ly Son Special Administrative Zone Postal Area",
+        "nameVi": "Khu vực bưu chính Đặc khu Lý Sơn",
+        "type": "Special Administrative Zone",
+        "code": "54409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lý Sơn",
+        "districtFullName": "Huyện Lý Sơn",
+        "districtNameEn": "Ly Son",
+        "districtCode": "531",
+        "legacyProvinceName": "Quảng Ngãi",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Cam",
+        "nameVi": "Đăk Cấm",
+        "fullNameEn": "Dak Cam Ward",
+        "fullNameVi": "Phường Đăk Cấm",
+        "nameSearchNormalized": "dak cam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "23284",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Cam Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đăk Cấm",
+        "type": "Ward",
+        "code": "60118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Tum",
+        "districtFullName": "Thành phố Kon Tum",
+        "districtNameEn": "Kon Tum",
+        "districtCode": "608",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60127",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Kon Tum",
+        "nameVi": "Kon Tum",
+        "fullNameEn": "Kon Tum Ward",
+        "fullNameVi": "Phường Kon Tum",
+        "nameSearchNormalized": "kon tum",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "23293",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Kon Tum Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Kon Tum",
+        "type": "Ward",
+        "code": "60127"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Tum",
+        "districtFullName": "Thành phố Kon Tum",
+        "districtNameEn": "Kon Tum",
+        "districtCode": "608",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60128",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Bla",
+        "nameVi": "Đăk Bla",
+        "fullNameEn": "Dak Bla Ward",
+        "fullNameVi": "Phường Đăk Bla",
+        "nameSearchNormalized": "dak bla",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "23302",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Bla Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Đăk Bla",
+        "type": "Ward",
+        "code": "60128"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Tum",
+        "districtFullName": "Thành phố Kon Tum",
+        "districtNameEn": "Kon Tum",
+        "districtCode": "608",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ngok Bay",
+        "nameVi": "Ngọk Bay",
+        "fullNameEn": "Ngok Bay Commune",
+        "fullNameVi": "Xã Ngọk Bay",
+        "nameSearchNormalized": "ngok bay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23317",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ngok Bay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọk Bay",
+        "type": "Commune",
+        "code": "60120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Tum",
+        "districtFullName": "Thành phố Kon Tum",
+        "districtNameEn": "Kon Tum",
+        "districtCode": "608",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60124",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ia Chim",
+        "nameVi": "Ia Chim",
+        "fullNameEn": "Ia Chim Commune",
+        "fullNameVi": "Xã Ia Chim",
+        "nameSearchNormalized": "ia chim",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23326",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ia Chim Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ia Chim",
+        "type": "Commune",
+        "code": "60124"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Tum",
+        "districtFullName": "Thành phố Kon Tum",
+        "districtNameEn": "Kon Tum",
+        "districtCode": "608",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Ro Wa",
+        "nameVi": "Đăk Rơ Wa",
+        "fullNameEn": "Dak Ro Wa Commune",
+        "fullNameVi": "Xã Đăk Rơ Wa",
+        "nameSearchNormalized": "dak ro wa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23332",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Ro Wa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Rơ Wa",
+        "type": "Commune",
+        "code": "60116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Tum",
+        "districtFullName": "Thành phố Kon Tum",
+        "districtNameEn": "Kon Tum",
+        "districtCode": "608",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60414",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Pek",
+        "nameVi": "Đăk Pék",
+        "fullNameEn": "Dak Pek Commune",
+        "fullNameVi": "Xã Đăk Pék",
+        "nameSearchNormalized": "dak pek",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23341",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Pek Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Pék",
+        "type": "Commune",
+        "code": "60414"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Glei",
+        "districtFullName": "Huyện Đắk Glei",
+        "districtNameEn": "Dak Glei",
+        "districtCode": "610",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60412",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Plo",
+        "nameVi": "Đăk Plô",
+        "fullNameEn": "Dak Plo Commune",
+        "fullNameVi": "Xã Đăk Plô",
+        "nameSearchNormalized": "dak plo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23344",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Plo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Plô",
+        "type": "Commune",
+        "code": "60412"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Glei",
+        "districtFullName": "Huyện Đắk Glei",
+        "districtNameEn": "Dak Glei",
+        "districtCode": "610",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60407",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Xop",
+        "nameVi": "Xốp",
+        "fullNameEn": "Xop Commune",
+        "fullNameVi": "Xã Xốp",
+        "nameSearchNormalized": "xop",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23356",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Xop Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xốp",
+        "type": "Commune",
+        "code": "60407"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Glei",
+        "districtFullName": "Huyện Đắk Glei",
+        "districtNameEn": "Dak Glei",
+        "districtCode": "610",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60408",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ngoc Linh",
+        "nameVi": "Ngọc Linh",
+        "fullNameEn": "Ngoc Linh Commune",
+        "fullNameVi": "Xã Ngọc Linh",
+        "nameSearchNormalized": "ngoc linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23365",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ngoc Linh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọc Linh",
+        "type": "Commune",
+        "code": "60408"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Glei",
+        "districtFullName": "Huyện Đắk Glei",
+        "districtNameEn": "Dak Glei",
+        "districtCode": "610",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Long",
+        "nameVi": "Đăk Long",
+        "fullNameEn": "Dak Long Commune",
+        "fullNameVi": "Xã Đăk Long",
+        "nameSearchNormalized": "dak long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23368",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Long",
+        "type": "Commune",
+        "code": "60417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Glei",
+        "districtFullName": "Huyện Đắk Glei",
+        "districtNameEn": "Dak Glei",
+        "districtCode": "610",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Mon",
+        "nameVi": "Đăk Môn",
+        "fullNameEn": "Dak Mon Commune",
+        "fullNameVi": "Xã Đăk Môn",
+        "nameSearchNormalized": "dak mon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23374",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Mon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Môn",
+        "type": "Commune",
+        "code": "60416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Glei",
+        "districtFullName": "Huyện Đắk Glei",
+        "districtNameEn": "Dak Glei",
+        "districtCode": "610",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60514",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Bo Y",
+        "nameVi": "Bờ Y",
+        "fullNameEn": "Bo Y Commune",
+        "fullNameVi": "Xã Bờ Y",
+        "nameSearchNormalized": "bo y",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23377",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Bo Y Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bờ Y",
+        "type": "Commune",
+        "code": "60514"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngọc Hồi",
+        "districtFullName": "Huyện Ngọc Hồi",
+        "districtNameEn": "Ngoc Hoi",
+        "districtCode": "611",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60515",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Duc Nong",
+        "nameVi": "Dục Nông",
+        "fullNameEn": "Duc Nong Commune",
+        "fullNameVi": "Xã Dục Nông",
+        "nameSearchNormalized": "duc nong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23383",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Duc Nong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dục Nông",
+        "type": "Commune",
+        "code": "60515"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngọc Hồi",
+        "districtFullName": "Huyện Ngọc Hồi",
+        "districtNameEn": "Ngoc Hoi",
+        "districtCode": "611",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Sa Loong",
+        "nameVi": "Sa Loong",
+        "fullNameEn": "Sa Loong Commune",
+        "fullNameVi": "Xã Sa Loong",
+        "nameSearchNormalized": "sa loong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23392",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Sa Loong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sa Loong",
+        "type": "Commune",
+        "code": "60513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngọc Hồi",
+        "districtFullName": "Huyện Ngọc Hồi",
+        "districtNameEn": "Ngoc Hoi",
+        "districtCode": "611",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60656",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak To",
+        "nameVi": "Đăk Tô",
+        "fullNameEn": "Dak To Commune",
+        "fullNameVi": "Xã Đăk Tô",
+        "nameSearchNormalized": "dak to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23401",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Tô",
+        "type": "Commune",
+        "code": "60656"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Tô",
+        "districtFullName": "Huyện Đắk Tô",
+        "districtNameEn": "Dak To",
+        "districtCode": "612",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Sao",
+        "nameVi": "Đăk Sao",
+        "fullNameEn": "Dak Sao Commune",
+        "fullNameVi": "Xã Đăk Sao",
+        "nameSearchNormalized": "dak sao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23416",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Sao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Sao",
+        "type": "Commune",
+        "code": "60313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tu Mơ Rông",
+        "districtFullName": "Huyện Tu Mơ Rông",
+        "districtNameEn": "Tu Mo Rong",
+        "districtCode": "617",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak To Kan",
+        "nameVi": "Đăk Tờ Kan",
+        "fullNameEn": "Dak To Kan Commune",
+        "fullNameVi": "Xã Đăk Tờ Kan",
+        "nameSearchNormalized": "dak to kan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23419",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak To Kan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Tờ Kan",
+        "type": "Commune",
+        "code": "60316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tu Mơ Rông",
+        "districtFullName": "Huyện Tu Mơ Rông",
+        "districtNameEn": "Tu Mo Rong",
+        "districtCode": "617",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60307",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Tu Mo Rong",
+        "nameVi": "Tu Mơ Rông",
+        "fullNameEn": "Tu Mo Rong Commune",
+        "fullNameVi": "Xã Tu Mơ Rông",
+        "nameSearchNormalized": "tu mo rong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23425",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Tu Mo Rong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tu Mơ Rông",
+        "type": "Commune",
+        "code": "60307"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tu Mơ Rông",
+        "districtFullName": "Huyện Tu Mơ Rông",
+        "districtNameEn": "Tu Mo Rong",
+        "districtCode": "617",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60661",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ngok Tu",
+        "nameVi": "Ngọk Tụ",
+        "fullNameEn": "Ngok Tu Commune",
+        "fullNameVi": "Xã Ngọk Tụ",
+        "nameSearchNormalized": "ngok tu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23428",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ngok Tu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọk Tụ",
+        "type": "Commune",
+        "code": "60661"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Tô",
+        "districtFullName": "Huyện Đắk Tô",
+        "districtNameEn": "Dak To",
+        "districtCode": "612",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60657",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Kon Dao",
+        "nameVi": "Kon Đào",
+        "fullNameEn": "Kon Dao Commune",
+        "fullNameVi": "Xã Kon Đào",
+        "nameSearchNormalized": "kon dao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23430",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Kon Dao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kon Đào",
+        "type": "Commune",
+        "code": "60657"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Tô",
+        "districtFullName": "Huyện Đắk Tô",
+        "districtNameEn": "Dak To",
+        "districtCode": "612",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Mang Ri",
+        "nameVi": "Măng Ri",
+        "fullNameEn": "Mang Ri Commune",
+        "fullNameVi": "Xã Măng Ri",
+        "nameSearchNormalized": "mang ri",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23446",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Mang Ri Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Măng Ri",
+        "type": "Commune",
+        "code": "60311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tu Mơ Rông",
+        "districtFullName": "Huyện Tu Mơ Rông",
+        "districtNameEn": "Tu Mo Rong",
+        "districtCode": "617",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60262",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Mang But",
+        "nameVi": "Măng Bút",
+        "fullNameEn": "Mang But Commune",
+        "fullNameVi": "Xã Măng Bút",
+        "nameSearchNormalized": "mang but",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23455",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Mang But Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Măng Bút",
+        "type": "Commune",
+        "code": "60262"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Plông",
+        "districtFullName": "Huyện Kon Plông",
+        "districtNameEn": "Kon Plong",
+        "districtCode": "613",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60256",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Mang Den",
+        "nameVi": "Măng Đen",
+        "fullNameEn": "Mang Den Commune",
+        "fullNameVi": "Xã Măng Đen",
+        "nameSearchNormalized": "mang den",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23473",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Mang Den Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Măng Đen",
+        "type": "Commune",
+        "code": "60256"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Plông",
+        "districtFullName": "Huyện Kon Plông",
+        "districtNameEn": "Kon Plong",
+        "districtCode": "613",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60265",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Kon Plong",
+        "nameVi": "Kon Plông",
+        "fullNameEn": "Kon Plong Commune",
+        "fullNameVi": "Xã Kon Plông",
+        "nameSearchNormalized": "kon plong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23476",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Kon Plong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kon Plông",
+        "type": "Commune",
+        "code": "60265"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Plông",
+        "districtFullName": "Huyện Kon Plông",
+        "districtNameEn": "Kon Plong",
+        "districtCode": "613",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Rve",
+        "nameVi": "Đăk Rve",
+        "fullNameEn": "Dak Rve Commune",
+        "fullNameVi": "Xã Đăk Rve",
+        "nameSearchNormalized": "dak rve",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23479",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Rve Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Rve",
+        "type": "Commune",
+        "code": "60206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Rẫy",
+        "districtFullName": "Huyện Kon Rẫy",
+        "districtNameEn": "Kon Ray",
+        "districtCode": "614",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60207",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Koi",
+        "nameVi": "Đăk Kôi",
+        "fullNameEn": "Dak Koi Commune",
+        "fullNameVi": "Xã Đăk Kôi",
+        "nameSearchNormalized": "dak koi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23485",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Koi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Kôi",
+        "type": "Commune",
+        "code": "60207"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Rẫy",
+        "districtFullName": "Huyện Kon Rẫy",
+        "districtNameEn": "Kon Ray",
+        "districtCode": "614",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60213",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Kon Braih",
+        "nameVi": "Kon Braih",
+        "fullNameEn": "Kon Braih Commune",
+        "fullNameVi": "Xã Kon Braih",
+        "nameSearchNormalized": "kon braih",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23497",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Kon Braih Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kon Braih",
+        "type": "Commune",
+        "code": "60213"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kon Rẫy",
+        "districtFullName": "Huyện Kon Rẫy",
+        "districtNameEn": "Kon Ray",
+        "districtCode": "614",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Ha",
+        "nameVi": "Đăk Hà",
+        "fullNameEn": "Dak Ha Commune",
+        "fullNameVi": "Xã Đăk Hà",
+        "nameSearchNormalized": "dak ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23500",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Hà",
+        "type": "Commune",
+        "code": "60606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Hà",
+        "districtFullName": "Huyện Đắk Hà",
+        "districtNameEn": "Dak Ha",
+        "districtCode": "615",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60608",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Pxi",
+        "nameVi": "Đăk Pxi",
+        "fullNameEn": "Dak Pxi Commune",
+        "fullNameVi": "Xã Đăk Pxi",
+        "nameSearchNormalized": "dak pxi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23504",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Pxi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Pxi",
+        "type": "Commune",
+        "code": "60608"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Hà",
+        "districtFullName": "Huyện Đắk Hà",
+        "districtNameEn": "Dak Ha",
+        "districtCode": "615",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60609",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Ui",
+        "nameVi": "Đăk Ui",
+        "fullNameEn": "Dak Ui Commune",
+        "fullNameVi": "Xã Đăk Ui",
+        "nameSearchNormalized": "dak ui",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23510",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Ui Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Ui",
+        "type": "Commune",
+        "code": "60609"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Hà",
+        "districtFullName": "Huyện Đắk Hà",
+        "districtNameEn": "Dak Ha",
+        "districtCode": "615",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Dak Mar",
+        "nameVi": "Đăk Mar",
+        "fullNameEn": "Dak Mar Commune",
+        "fullNameVi": "Xã Đăk Mar",
+        "nameSearchNormalized": "dak mar",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23512",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Dak Mar Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đăk Mar",
+        "type": "Commune",
+        "code": "60612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Hà",
+        "districtFullName": "Huyện Đắk Hà",
+        "districtNameEn": "Dak Ha",
+        "districtCode": "615",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ngok Reo",
+        "nameVi": "Ngọk Réo",
+        "fullNameEn": "Ngok Reo Commune",
+        "fullNameVi": "Xã Ngọk Réo",
+        "nameSearchNormalized": "ngok reo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23515",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ngok Reo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngọk Réo",
+        "type": "Commune",
+        "code": "60616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đắk Hà",
+        "districtFullName": "Huyện Đắk Hà",
+        "districtNameEn": "Dak Ha",
+        "districtCode": "615",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Sa Thay",
+        "nameVi": "Sa Thầy",
+        "fullNameEn": "Sa Thay Commune",
+        "fullNameVi": "Xã Sa Thầy",
+        "nameSearchNormalized": "sa thay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23527",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Sa Thay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sa Thầy",
+        "type": "Commune",
+        "code": "60706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Thầy",
+        "districtFullName": "Huyện Sa Thầy",
+        "districtNameEn": "Sa Thay",
+        "districtCode": "616",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60710",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ro Koi",
+        "nameVi": "Rờ Kơi",
+        "fullNameEn": "Ro Koi Commune",
+        "fullNameVi": "Xã Rờ Kơi",
+        "nameSearchNormalized": "ro koi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23530",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ro Koi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Rờ Kơi",
+        "type": "Commune",
+        "code": "60710"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Thầy",
+        "districtFullName": "Huyện Sa Thầy",
+        "districtNameEn": "Sa Thay",
+        "districtCode": "616",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Sa Binh",
+        "nameVi": "Sa Bình",
+        "fullNameEn": "Sa Binh Commune",
+        "fullNameVi": "Xã Sa Bình",
+        "nameSearchNormalized": "sa binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23534",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Sa Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sa Bình",
+        "type": "Commune",
+        "code": "60714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Thầy",
+        "districtFullName": "Huyện Sa Thầy",
+        "districtNameEn": "Sa Thay",
+        "districtCode": "616",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60808",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ia Dal",
+        "nameVi": "Ia Đal",
+        "fullNameEn": "Ia Dal Commune",
+        "fullNameVi": "Xã Ia Đal",
+        "nameSearchNormalized": "ia dal",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23535",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ia Dal Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ia Đal",
+        "type": "Commune",
+        "code": "60808"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ia H' Drai",
+        "districtFullName": "Huyện Ia H' Drai",
+        "districtNameEn": "Ia H' Drai",
+        "districtCode": "618",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60711",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Mo Rai",
+        "nameVi": "Mô Rai",
+        "fullNameEn": "Mo Rai Commune",
+        "fullNameVi": "Xã Mô Rai",
+        "nameSearchNormalized": "mo rai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23536",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Mo Rai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mô Rai",
+        "type": "Commune",
+        "code": "60711"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Thầy",
+        "districtFullName": "Huyện Sa Thầy",
+        "districtNameEn": "Sa Thay",
+        "districtCode": "616",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ia Toi",
+        "nameVi": "Ia Tơi",
+        "fullNameEn": "Ia Toi Commune",
+        "fullNameVi": "Xã Ia Tơi",
+        "nameSearchNormalized": "ia toi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23538",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ia Toi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ia Tơi",
+        "type": "Commune",
+        "code": "60806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ia H' Drai",
+        "districtFullName": "Huyện Ia H' Drai",
+        "districtNameEn": "Ia H' Drai",
+        "districtCode": "618",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "60715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Quang Ngai",
+        "nameVi": "Quảng Ngãi",
+        "fullNameEn": "Quang Ngai Province",
+        "fullNameVi": "Tỉnh Quảng Ngãi",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "51"
+      },
+      "commune": {
+        "nameEn": "Ya Ly",
+        "nameVi": "Ya Ly",
+        "fullNameEn": "Ya Ly Commune",
+        "fullNameVi": "Xã Ya Ly",
+        "nameSearchNormalized": "ya ly",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "23548",
+        "provinceCode": "51"
+      },
+      "postalObject": {
+        "nameEn": "Ya Ly Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ya Ly",
+        "type": "Commune",
+        "code": "60715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Thầy",
+        "districtFullName": "Huyện Sa Thầy",
+        "districtNameEn": "Sa Thay",
+        "districtCode": "616",
+        "legacyProvinceName": "Kon Tum",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

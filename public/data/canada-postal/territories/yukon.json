@@ -1,0 +1,272 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Yukon",
+    "nameFr": "Yukon",
+    "code": "YT",
+    "isoCode": "CA-YT",
+    "sgcCode": "60",
+    "category": "territory"
+  },
+  "recordCount": 5,
+  "postalRecords": [
+    {
+      "postalCode": "Y1A 2B0",
+      "postalCodeNormalized": "Y1A2B0",
+      "fsa": "Y1A",
+      "ldu": "2B0",
+      "provinceTerritory": {
+        "nameEn": "Yukon",
+        "nameFr": "Yukon",
+        "code": "YT",
+        "isoCode": "CA-YT",
+        "sgcCode": "60"
+      },
+      "postalGeography": {
+        "postalCity": "Whitehorse",
+        "postalMunicipality": "City of Whitehorse"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Yukon",
+          "code": "6001",
+          "type": "Territory"
+        },
+        "censusSubdivision": {
+          "name": "Whitehorse",
+          "code": "6001009",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Yukon Legislative Building / Government of Yukon",
+        "nameFr": "Édifice de l’Assemblée législative du Yukon",
+        "station": "Government Centre Stn",
+        "type": "Government Facility",
+        "identifier": "YT-WHI-LEG"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-YT-Y1A2B0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "Y1A 1A1",
+      "postalCodeNormalized": "Y1A1A1",
+      "fsa": "Y1A",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Yukon",
+        "nameFr": "Yukon",
+        "code": "YT",
+        "isoCode": "CA-YT",
+        "sgcCode": "60"
+      },
+      "postalGeography": {
+        "postalCity": "Whitehorse",
+        "postalMunicipality": "City of Whitehorse"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Yukon",
+          "code": "6001",
+          "type": "Territory"
+        },
+        "censusSubdivision": {
+          "name": "Whitehorse",
+          "code": "6001009",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Whitehorse Main Post Office",
+        "nameFr": "Bureau de poste principal de Whitehorse",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "YT-WHI-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-YT-Y1A1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "Y1A 1A0",
+      "postalCodeNormalized": "Y1A1A0",
+      "fsa": "Y1A",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "Yukon",
+        "nameFr": "Yukon",
+        "code": "YT",
+        "isoCode": "CA-YT",
+        "sgcCode": "60"
+      },
+      "postalGeography": {
+        "postalCity": "Whitehorse",
+        "postalMunicipality": "City of Whitehorse"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Yukon",
+          "code": "6001",
+          "type": "Territory"
+        },
+        "censusSubdivision": {
+          "name": "Whitehorse",
+          "code": "6001009",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "General Delivery",
+        "deliveryMode": "General delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": {
+          "isGeneralDelivery": true,
+          "identifier": "General Delivery",
+          "station": "Whitehorse Main Station"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Whitehorse General Delivery Facility",
+        "nameFr": "Poste restante de Whitehorse",
+        "station": "Stn Main GD",
+        "type": "General Delivery Facility",
+        "identifier": "YT-WHI-GD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-YT-Y1A1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "Y0A 1C0",
+      "postalCodeNormalized": "Y0A1C0",
+      "fsa": "Y0A",
+      "ldu": "1C0",
+      "provinceTerritory": {
+        "nameEn": "Yukon",
+        "nameFr": "Yukon",
+        "code": "YT",
+        "isoCode": "CA-YT",
+        "sgcCode": "60"
+      },
+      "postalGeography": {
+        "postalCity": "Carcross",
+        "postalMunicipality": "Carcross/Tagish First Nation / Yukon Unorganized"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Yukon",
+          "code": "6001",
+          "type": "Territory"
+        },
+        "censusSubdivision": {
+          "name": "Carcross",
+          "code": "6001003",
+          "type": "Settlement"
+        }
+      },
+      "delivery": {
+        "type": "Rural Community",
+        "deliveryMode": "Community mailbox",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Carcross Post Office",
+        "nameFr": "Bureau de poste de Carcross",
+        "station": "Stn Main",
+        "type": "Northern Post Office",
+        "identifier": "YT-CAR-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-YT-Y0A1C0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "Y0B 1G0",
+      "postalCodeNormalized": "Y0B1G0",
+      "fsa": "Y0B",
+      "ldu": "1G0",
+      "provinceTerritory": {
+        "nameEn": "Yukon",
+        "nameFr": "Yukon",
+        "code": "YT",
+        "isoCode": "CA-YT",
+        "sgcCode": "60"
+      },
+      "postalGeography": {
+        "postalCity": "Dawson City",
+        "postalMunicipality": "Town of the City of Dawson"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Yukon",
+          "code": "6001",
+          "type": "Territory"
+        },
+        "censusSubdivision": {
+          "name": "Dawson",
+          "code": "6001029",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Rural Community",
+        "deliveryMode": "General delivery / Post Office collection",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Dawson City Historic Post Office",
+        "nameFr": "Bureau de poste de Dawson City",
+        "station": "Stn Main",
+        "type": "Northern Post Office",
+        "identifier": "YT-DAW-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-YT-Y0B1G0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

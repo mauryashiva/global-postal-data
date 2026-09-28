@@ -1,0 +1,112 @@
+{
+  "code": "34",
+  "nameEn": "Special Region of Yogyakarta",
+  "nameId": "Daerah Istimewa Yogyakarta",
+  "nameNative": "Daerah Istimewa Yogyakarta",
+  "administrativeType": "Province",
+  "specialStatus": "Special Region (Daerah Istimewa)",
+  "capitalEn": "Yogyakarta",
+  "capitalId": "Kota Yogyakarta",
+  "zone": "5",
+  "totalRecords": 2,
+  "records": [
+    {
+      "postalCode": "55122",
+      "province": {
+        "code": "34",
+        "nameEn": "Special Region of Yogyakarta",
+        "nameId": "Daerah Istimewa Yogyakarta",
+        "nameNative": "Daerah Istimewa Yogyakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Region (Daerah Istimewa)"
+      },
+      "kabupatenKota": {
+        "code": "34.71",
+        "nameId": "Kota Yogyakarta",
+        "nameEn": "Yogyakarta",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "34.71.09",
+        "nameId": "Kecamatan Kraton",
+        "nameEn": "Kraton District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "34.71.09.1001",
+        "nameId": "Kelurahan Panembahan",
+        "nameEn": "Panembahan",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Keraton Ngayogyakarta Hadiningrat",
+        "nameEn": "Sultan Palace of Yogyakarta"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Besar Yogyakarta",
+        "nameEn": "Yogyakarta Main Post Office",
+        "code": "55000",
+        "type": "KPRK",
+        "deliveryStatus": "Central Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-34-55122-34.71.09.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "55281",
+      "province": {
+        "code": "34",
+        "nameEn": "Special Region of Yogyakarta",
+        "nameId": "Daerah Istimewa Yogyakarta",
+        "nameNative": "Daerah Istimewa Yogyakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Region (Daerah Istimewa)"
+      },
+      "kabupatenKota": {
+        "code": "34.04",
+        "nameId": "Kabupaten Sleman",
+        "nameEn": "Sleman Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "34.04.07",
+        "nameId": "Kecamatan Depok",
+        "nameEn": "Depok Sleman District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "34.04.07.2001",
+        "nameId": "Desa Caturtunggal",
+        "nameEn": "Caturtunggal",
+        "administrativeType": "Village"
+      },
+      "locality": {
+        "nameId": "Kawasan Kampus UGM / Gejayan",
+        "nameEn": "Gadjah Mada University Academic Hub"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Bulaksumur UGM",
+        "nameEn": "Bulaksumur UGM Post Office",
+        "code": "55281",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-34-55281-34.04.07.2001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "prefix": "20",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "20111",
+      "province": {
+        "code": "12",
+        "nameEn": "North Sumatra",
+        "nameId": "Sumatera Utara",
+        "nameNative": "Sumatera Utara",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "12.71",
+        "nameId": "Kota Medan",
+        "nameEn": "Medan",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "12.71.03",
+        "nameId": "Kecamatan Medan Petisah",
+        "nameEn": "Medan Petisah District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "12.71.03.1001",
+        "nameId": "Kelurahan Petisah Tengah",
+        "nameEn": "Petisah Tengah",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Balai Kota Medan / Lapangan Merdeka",
+        "nameEn": "Medan Civic Center & Merdeka Walk"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Besar Medan",
+        "nameEn": "Medan Main Post Office",
+        "code": "20000",
+        "type": "KPRK",
+        "deliveryStatus": "Central Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-12-20111-12.71.03.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

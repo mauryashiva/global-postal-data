@@ -1,0 +1,119 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Beheira",
+    "nameNative": "البحيرة",
+    "isoCode": "EG-BH",
+    "postalPrefix": "22",
+    "capital": "Damanhur",
+    "capitalNative": "دمنهور",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 31.0379,
+      "longitude": 30.472
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "22511",
+      "governorate": {
+        "nameEn": "Beheira",
+        "nameNative": "البحيرة",
+        "code": "EG-BH",
+        "postalPrefix": "22",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Damanhur",
+        "nameNative": "دمنهور",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Damanhur",
+        "nameNative": "قسم دمنهور",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Midan El Saa / Opera Damanhur",
+        "nameNative": "ميدان الساعة / أوبرا دمنهور",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Damanhur Main Post Office",
+        "nameNative": "مكتب بريد دمنهور الرئيسي",
+        "type": "Main Post Office",
+        "code": "22511"
+      },
+      "areas": [
+        "Saa Square Damanhur",
+        "Damanhur Opera House Square",
+        "Gomhuria St",
+        "Beheira Governorate Cabinet"
+      ],
+      "coordinates": {
+        "latitude": 31.0379,
+        "longitude": 30.472
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-BEHEIRA-22511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "22611",
+      "governorate": {
+        "nameEn": "Beheira",
+        "nameNative": "البحيرة",
+        "code": "EG-BH",
+        "postalPrefix": "22",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Kafr El Dawwar",
+        "nameNative": "كفر الدوار",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Kafr El Dawwar",
+        "nameNative": "مركز كفر الدوار",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Textile Industrial Center",
+        "nameNative": "وسط كفر الدوار الصناعي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Kafr El Dawwar Post Office",
+        "nameNative": "مكتب بريد كفر الدوار",
+        "type": "Sub Post Office",
+        "code": "22611"
+      },
+      "areas": [
+        "Misr Rayon Textile Plants",
+        "Mahmoudiya Canal Bank",
+        "Agricultural Cairo-Alex Highway Corridor"
+      ],
+      "coordinates": {
+        "latitude": 31.1345,
+        "longitude": 30.1289
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-BEHEIRA-22611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

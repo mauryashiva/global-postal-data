@@ -1,0 +1,40 @@
+{
+  "prefix": "514",
+  "records": [
+    {
+      "postalCode": "5140000",
+      "postalCodeFormatted": "514-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "24",
+      "prefectureNameEn": "Mie",
+      "prefectureNameJa": "三重県",
+      "prefectureNameKana": "ミエケン",
+      "prefectureNameRomaji": "Mie-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "24201",
+        "nameEn": "Tsu",
+        "nameJa": "津市",
+        "nameKana": "ミエケシ",
+        "nameRomaji": "Mie-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Mie Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

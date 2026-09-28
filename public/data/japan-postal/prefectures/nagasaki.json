@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "42",
+    "nameEn": "Nagasaki",
+    "nameJa": "長崎県",
+    "nameKana": "ナガサキケン",
+    "nameRomaji": "Nagasaki-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Nagasaki",
+    "capitalJa": "長崎市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "8500000",
+      "postalCodeFormatted": "850-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "42",
+      "prefectureNameEn": "Nagasaki",
+      "prefectureNameJa": "長崎県",
+      "prefectureNameKana": "ナガサキケン",
+      "prefectureNameRomaji": "Nagasaki-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "42201",
+        "nameEn": "Nagasaki",
+        "nameJa": "長崎市",
+        "nameKana": "ナガサシ",
+        "nameRomaji": "Nagasaki-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Nagasaki Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

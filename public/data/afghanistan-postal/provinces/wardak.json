@@ -1,0 +1,517 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Wardak",
+    "nameNative": "وردک / میدان وردک",
+    "isoCode": "AF-WAR",
+    "postalPrefix": "13",
+    "capital": "Maidan Shar",
+    "capitalNative": "میدان شهر",
+    "coordinates": {
+      "latitude": 34.398,
+      "longitude": 68.8667
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 13,
+    "totalRecords": 13,
+    "urbanRecords": 5,
+    "ruralRecords": 8
+  },
+  "records": [
+    {
+      "postalCode": "130101",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Maidan Shar - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-WAR-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maidan Shar District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-130101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "130201",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Maidan Shar - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-WAR-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maidan Shar District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-130201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "130301",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Maidan Shar - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-WAR-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maidan Shar District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-130301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "130401",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Maidan Shar - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-WAR-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maidan Shar District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-130401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "130501",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Maidan Shar - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-WAR-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maidan Shar District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-130501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135101",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Markaz-e-Behsud District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-51"
+      },
+      "locality": {
+        "nameEn": "Markaz-e-Behsud Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Markaz-e-Behsud District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135201",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Hesa-e-Awal-e-Behsud District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-52"
+      },
+      "locality": {
+        "nameEn": "Hesa-e-Awal-e-Behsud Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Hesa-e-Awal-e-Behsud District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135301",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Jalrez District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-53"
+      },
+      "locality": {
+        "nameEn": "Jalrez Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jalrez District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135401",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Nerkh District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-54"
+      },
+      "locality": {
+        "nameEn": "Nerkh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nerkh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135501",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Saydabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-55"
+      },
+      "locality": {
+        "nameEn": "Saydabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Saydabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135601",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Chak District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-56"
+      },
+      "locality": {
+        "nameEn": "Chak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135701",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Jaghatu District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-57"
+      },
+      "locality": {
+        "nameEn": "Jaghatu Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jaghatu District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "135801",
+      "province": {
+        "nameEn": "Wardak",
+        "nameNative": "وردک / میدان وردک",
+        "code": "AF-WAR",
+        "postalPrefix": "13"
+      },
+      "city": {
+        "nameEn": "Maidan Shar",
+        "nameNative": "میدان شهر"
+      },
+      "district": {
+        "nameEn": "Daymirdad District",
+        "type": "Rural Administrative District",
+        "code": "AF-WAR-58"
+      },
+      "locality": {
+        "nameEn": "Daymirdad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Daymirdad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.398,
+        "longitude": 68.8667
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-135801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

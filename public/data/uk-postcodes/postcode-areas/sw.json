@@ -1,0 +1,271 @@
+{
+  "postcodeArea": "SW",
+  "recordCount": 5,
+  "records": [
+    {
+      "postcode": "SW1A 1AA",
+      "postTown": "LONDON",
+      "locality": "Westminster",
+      "dependentLocality": "St James's",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Westminster",
+      "civilParish": null,
+      "ward": "St James's",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5014,
+        "longitude": -0.1419,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SW1A1AA-01",
+          "buildingName": "Buckingham Palace",
+          "buildingNumber": null,
+          "subBuildingName": null,
+          "thoroughfare": "The Mall",
+          "postTown": "LONDON",
+          "postcode": "SW1A 1AA",
+          "fullAddressText": "Buckingham Palace, The Mall, London SW1A 1AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SW1A 1AA",
+        "outwardCode": "SW1A",
+        "inwardCode": "1AA",
+        "postcodeArea": "SW",
+        "postcodeDistrict": "SW1A",
+        "postcodeSector": "SW1A 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SW1A-1AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "SW1A 2AA",
+      "postTown": "LONDON",
+      "locality": "Westminster",
+      "dependentLocality": "Whitehall",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Westminster",
+      "civilParish": null,
+      "ward": "St James's",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5034,
+        "longitude": -0.1276,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SW1A2AA-01",
+          "buildingName": null,
+          "buildingNumber": "10",
+          "subBuildingName": "Prime Minister's Office",
+          "thoroughfare": "Downing Street",
+          "postTown": "LONDON",
+          "postcode": "SW1A 2AA",
+          "fullAddressText": "10 Downing Street, London SW1A 2AA"
+        },
+        {
+          "addressId": "SW1A2AA-02",
+          "buildingName": null,
+          "buildingNumber": "11",
+          "subBuildingName": "Chancellor of the Exchequer",
+          "thoroughfare": "Downing Street",
+          "postTown": "LONDON",
+          "postcode": "SW1A 2AA",
+          "fullAddressText": "11 Downing Street, London SW1A 2AA"
+        },
+        {
+          "addressId": "SW1A2AA-03",
+          "buildingName": null,
+          "buildingNumber": "12",
+          "subBuildingName": "Chief Whip's Office",
+          "thoroughfare": "Downing Street",
+          "postTown": "LONDON",
+          "postcode": "SW1A 2AA",
+          "fullAddressText": "12 Downing Street, London SW1A 2AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SW1A 2AA",
+        "outwardCode": "SW1A",
+        "inwardCode": "2AA",
+        "postcodeArea": "SW",
+        "postcodeDistrict": "SW1A",
+        "postcodeSector": "SW1A 2"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SW1A-2AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "SW1A 0AA",
+      "postTown": "LONDON",
+      "locality": "Westminster",
+      "dependentLocality": null,
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Westminster",
+      "civilParish": null,
+      "ward": "St James's",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.4995,
+        "longitude": -0.1248,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SW1A0AA-01",
+          "buildingName": "Palace of Westminster",
+          "buildingNumber": null,
+          "subBuildingName": "Houses of Parliament",
+          "thoroughfare": "St Margaret Street",
+          "postTown": "LONDON",
+          "postcode": "SW1A 0AA",
+          "fullAddressText": "Houses of Parliament, Palace of Westminster, London SW1A 0AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SW1A 0AA",
+        "outwardCode": "SW1A",
+        "inwardCode": "0AA",
+        "postcodeArea": "SW",
+        "postcodeDistrict": "SW1A",
+        "postcodeSector": "SW1A 0"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SW1A-0AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "SW1P 3PA",
+      "postTown": "LONDON",
+      "locality": "Westminster",
+      "dependentLocality": "Victoria",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Westminster",
+      "civilParish": null,
+      "ward": "Vincent Square",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.4965,
+        "longitude": -0.1342,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SW1P3PA-01",
+          "buildingName": "Victoria Commercial Chambers",
+          "buildingNumber": "25",
+          "subBuildingName": "Suite 101",
+          "thoroughfare": "Victoria Street",
+          "postTown": "LONDON",
+          "postcode": "SW1P 3PA",
+          "fullAddressText": "Suite 101, 25 Victoria Street, London SW1P 3PA"
+        },
+        {
+          "addressId": "SW1P3PA-02",
+          "buildingName": "Victoria Commercial Chambers",
+          "buildingNumber": "25",
+          "subBuildingName": "Suite 102",
+          "thoroughfare": "Victoria Street",
+          "postTown": "LONDON",
+          "postcode": "SW1P 3PA",
+          "fullAddressText": "Suite 102, 25 Victoria Street, London SW1P 3PA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SW1P 3PA",
+        "outwardCode": "SW1P",
+        "inwardCode": "3PA",
+        "postcodeArea": "SW",
+        "postcodeDistrict": "SW1P",
+        "postcodeSector": "SW1P 3"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SW1P-3PA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "SW1V 1AA",
+      "postTown": "LONDON",
+      "locality": "Pimlico",
+      "dependentLocality": null,
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Pimlico",
+      "civilParish": null,
+      "ward": "Warwick",
+      "isLargeUserPostcode": false,
+      "isPoBox": true,
+      "poBoxNumber": "PO Box 4501",
+      "coordinates": {
+        "latitude": 51.4912,
+        "longitude": -0.1388,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SW1V1AA-PO",
+          "buildingName": null,
+          "buildingNumber": null,
+          "subBuildingName": "PO Box 4501",
+          "thoroughfare": "Pimlico Delivery Office",
+          "postTown": "LONDON",
+          "postcode": "SW1V 1AA",
+          "fullAddressText": "PO Box 4501, Pimlico Delivery Office, London SW1V 1AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SW1V 1AA",
+        "outwardCode": "SW1V",
+        "inwardCode": "1AA",
+        "postcodeArea": "SW",
+        "postcodeDistrict": "SW1V",
+        "postcodeSector": "SW1V 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SW1V-1AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

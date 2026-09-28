@@ -1,0 +1,221 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Nunavut",
+    "nameFr": "Nunavut",
+    "code": "NU",
+    "isoCode": "CA-NU",
+    "sgcCode": "62",
+    "category": "territory"
+  },
+  "recordCount": 4,
+  "postalRecords": [
+    {
+      "postalCode": "X0A 0H0",
+      "postalCodeNormalized": "X0A0H0",
+      "fsa": "X0A",
+      "ldu": "0H0",
+      "provinceTerritory": {
+        "nameEn": "Nunavut",
+        "nameFr": "Nunavut",
+        "code": "NU",
+        "isoCode": "CA-NU",
+        "sgcCode": "62"
+      },
+      "postalGeography": {
+        "postalCity": "Iqaluit",
+        "postalMunicipality": "City of Iqaluit / ᐃᖃᓗᐃᑦ"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Baffin / Qikiqtaaluk Region",
+          "code": "6204",
+          "type": "Region"
+        },
+        "censusSubdivision": {
+          "name": "Iqaluit",
+          "code": "6204003",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Legislative Assembly of Nunavut / Iqaluit Main Post Office",
+        "nameFr": "Assemblée législative du Nunavut / Bureau de poste d’Iqaluit",
+        "station": "Astro Hill Complex Stn",
+        "type": "Territorial Government Facility",
+        "identifier": "NU-IQA-LEG"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NU-X0A0H0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X0A 0A0",
+      "postalCodeNormalized": "X0A0A0",
+      "fsa": "X0A",
+      "ldu": "0A0",
+      "provinceTerritory": {
+        "nameEn": "Nunavut",
+        "nameFr": "Nunavut",
+        "code": "NU",
+        "isoCode": "CA-NU",
+        "sgcCode": "62"
+      },
+      "postalGeography": {
+        "postalCity": "Iqaluit",
+        "postalMunicipality": "City of Iqaluit / ᐃᖃᓗᐃᑦ"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Baffin / Qikiqtaaluk Region",
+          "code": "6204",
+          "type": "Region"
+        },
+        "censusSubdivision": {
+          "name": "Iqaluit",
+          "code": "6204003",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "General Delivery",
+        "deliveryMode": "General delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": {
+          "isGeneralDelivery": true,
+          "identifier": "General Delivery / Poste restante",
+          "station": "Iqaluit Station Main"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Iqaluit General Delivery Outlet",
+        "nameFr": "Comptoir de poste restante d’Iqaluit",
+        "station": "Stn Main GD",
+        "type": "General Delivery Facility",
+        "identifier": "NU-IQA-GD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NU-X0A0A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X0B 0C0",
+      "postalCodeNormalized": "X0B0C0",
+      "fsa": "X0B",
+      "ldu": "0C0",
+      "provinceTerritory": {
+        "nameEn": "Nunavut",
+        "nameFr": "Nunavut",
+        "code": "NU",
+        "isoCode": "CA-NU",
+        "sgcCode": "62"
+      },
+      "postalGeography": {
+        "postalCity": "Cambridge Bay",
+        "postalMunicipality": "Hamlet of Cambridge Bay / ᐃᖃᓗᒃᑑᑦᑎᐊᖅ"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Kitikmeot Region",
+          "code": "6208",
+          "type": "Region"
+        },
+        "censusSubdivision": {
+          "name": "Cambridge Bay",
+          "code": "6208073",
+          "type": "Hamlet"
+        }
+      },
+      "delivery": {
+        "type": "Rural Community",
+        "deliveryMode": "Post office collection",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Cambridge Bay Post Office",
+        "nameFr": "Bureau de poste de Cambridge Bay",
+        "station": "Stn Main",
+        "type": "Northern Post Office",
+        "identifier": "NU-CBY-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NU-X0B0C0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "X0C 0G0",
+      "postalCodeNormalized": "X0C0G0",
+      "fsa": "X0C",
+      "ldu": "0G0",
+      "provinceTerritory": {
+        "nameEn": "Nunavut",
+        "nameFr": "Nunavut",
+        "code": "NU",
+        "isoCode": "CA-NU",
+        "sgcCode": "62"
+      },
+      "postalGeography": {
+        "postalCity": "Rankin Inlet",
+        "postalMunicipality": "Hamlet of Rankin Inlet / ᑲᖏᕿᓂᖅ"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Kivalliq Region",
+          "code": "6205",
+          "type": "Region"
+        },
+        "censusSubdivision": {
+          "name": "Rankin Inlet",
+          "code": "6205015",
+          "type": "Hamlet"
+        }
+      },
+      "delivery": {
+        "type": "Rural Community",
+        "deliveryMode": "Post office collection",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Rankin Inlet Post Office",
+        "nameFr": "Bureau de poste de Rankin Inlet",
+        "station": "Stn Main",
+        "type": "Northern Post Office",
+        "identifier": "NU-RNK-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NU-X0C0G0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

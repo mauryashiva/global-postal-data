@@ -1,0 +1,168 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Nevada",
+    "abbreviation": "NV",
+    "fipsCode": "32",
+    "capital": "Carson City",
+    "largestCity": "Las Vegas",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "702",
+      "725",
+      "775"
+    ],
+    "prefixes": [
+      "889",
+      "890",
+      "891",
+      "893",
+      "894",
+      "895",
+      "897",
+      "898"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-NV-89101-0",
+      "zip5": "89101",
+      "zip4": "1001",
+      "zipPlus4": "89101-1001",
+      "state": {
+        "nameEn": "Nevada",
+        "abbreviation": "NV",
+        "fipsCode": "32",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Las Vegas",
+      "acceptableCities": [
+        "Las Vegas"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Las Vegas",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Clark County",
+          "fipsCode": "32003",
+          "geoid": "32003"
+        }
+      ],
+      "primaryCounty": "Clark County",
+      "zcta": {
+        "code": "89101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Las Vegas Downtown Station",
+        "address": "301 E Stewart Ave",
+        "phone": "(702) 388-6600",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 36.1716,
+        "longitude": -115.1398,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "702",
+          "725",
+          "775"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 36,
+        "deliveryPoints": 18400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NV-89101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NV-89701-1",
+      "zip5": "89701",
+      "zip4": "2001",
+      "zipPlus4": "89701-2001",
+      "state": {
+        "nameEn": "Nevada",
+        "abbreviation": "NV",
+        "fipsCode": "32",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Carson City",
+      "acceptableCities": [
+        "Carson City"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Carson City",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Carson City",
+          "fipsCode": "32510",
+          "geoid": "32510"
+        }
+      ],
+      "primaryCounty": "Carson City",
+      "zcta": {
+        "code": "89701"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Carson City Main Post Office",
+        "address": "1111 S Roop St",
+        "phone": "(775) 887-2400",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 39.1638,
+        "longitude": -119.7674,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "702",
+          "725",
+          "775"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NV-89701",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

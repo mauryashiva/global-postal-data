@@ -1,0 +1,42 @@
+{
+  "prefix": "907",
+  "records": [
+    {
+      "postalCode": "9071221",
+      "postalCodeFormatted": "907-1221",
+      "postalCodeType": "AREA",
+      "prefectureCode": "47",
+      "prefectureNameEn": "Okinawa",
+      "prefectureNameJa": "沖縄県",
+      "prefectureNameKana": "オキナワケン",
+      "prefectureNameRomaji": "Okinawa-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "47381",
+        "nameEn": "Taketomi",
+        "nameJa": "八重山郡竹富町",
+        "nameKana": "ヤエヤマグンタケトミチョウ",
+        "nameRomaji": "Yaeyama-gun Taketomi-cho",
+        "administrativeType": "Town",
+        "countyNameJa": "八重山郡",
+        "countyNameEn": "Yaeyama County"
+      },
+      "townArea": {
+        "nameEn": "Kohama",
+        "nameJa": "小浜",
+        "nameKana": "コハマ",
+        "nameRomaji": "Kohama",
+        "type": "NormalTownArea",
+        "landmarkEn": "Kohama Island (小浜島)"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

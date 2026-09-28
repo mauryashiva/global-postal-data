@@ -1,0 +1,55 @@
+{
+  "prefix": "28",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "28111",
+      "province": {
+        "code": "14",
+        "nameEn": "Riau",
+        "nameId": "Riau",
+        "nameNative": "Riau",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "14.71",
+        "nameId": "Kota Pekanbaru",
+        "nameEn": "Pekanbaru",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "14.71.01",
+        "nameId": "Kecamatan Sukajadi",
+        "nameEn": "Sukajadi District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "14.71.01.1001",
+        "nameId": "Kelurahan Pulau Karomah",
+        "nameEn": "Pulau Karomah",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Pekanbaru / Jalan Jenderal Sudirman",
+        "nameEn": "Central Pekanbaru Financial District"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Pekanbaru",
+        "nameEn": "Pekanbaru Main Post Office",
+        "code": "28000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-14-28111-14.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

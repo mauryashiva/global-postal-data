@@ -1,0 +1,110 @@
+{
+  "postcodeArea": "G",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "G1 1XQ",
+      "postTown": "GLASGOW",
+      "locality": "Merchant City",
+      "dependentLocality": "George Square",
+      "constituentCountry": "Scotland",
+      "constituentCountryCode": "GB-SCT",
+      "region": "Scotland",
+      "ceremonialCounty": "City of Glasgow",
+      "localAuthority": "Glasgow City Council",
+      "district": "Glasgow",
+      "civilParish": null,
+      "ward": "Anderston/City/Yorkhill",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 55.8612,
+        "longitude": -4.2488,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "G11XQ-01",
+          "buildingName": "Glasgow City Chambers",
+          "buildingNumber": null,
+          "subBuildingName": "Lord Provost's Office",
+          "thoroughfare": "George Square",
+          "postTown": "GLASGOW",
+          "postcode": "G1 1XQ",
+          "fullAddressText": "Glasgow City Chambers, George Square, Glasgow G1 1XQ"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "G1 1XQ",
+        "outwardCode": "G1",
+        "inwardCode": "1XQ",
+        "postcodeArea": "G",
+        "postcodeDistrict": "G1",
+        "postcodeSector": "G1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-G1-1XQ",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "G2 1DY",
+      "postTown": "GLASGOW",
+      "locality": "City Centre",
+      "dependentLocality": null,
+      "constituentCountry": "Scotland",
+      "constituentCountryCode": "GB-SCT",
+      "region": "Scotland",
+      "ceremonialCounty": "City of Glasgow",
+      "localAuthority": "Glasgow City Council",
+      "district": "Glasgow",
+      "civilParish": null,
+      "ward": "Anderston/City/Yorkhill",
+      "isLargeUserPostcode": false,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 55.8624,
+        "longitude": -4.2582,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "G21DY-01",
+          "buildingName": "Central Chambers",
+          "buildingNumber": "93",
+          "subBuildingName": "Suite 3A",
+          "thoroughfare": "Hope Street",
+          "postTown": "GLASGOW",
+          "postcode": "G2 1DY",
+          "fullAddressText": "Suite 3A, Central Chambers, 93 Hope Street, Glasgow G2 1DY"
+        },
+        {
+          "addressId": "G21DY-02",
+          "buildingName": "Central Chambers",
+          "buildingNumber": "93",
+          "subBuildingName": "Suite 3B",
+          "thoroughfare": "Hope Street",
+          "postTown": "GLASGOW",
+          "postcode": "G2 1DY",
+          "fullAddressText": "Suite 3B, Central Chambers, 93 Hope Street, Glasgow G2 1DY"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "G2 1DY",
+        "outwardCode": "G2",
+        "inwardCode": "1DY",
+        "postcodeArea": "G",
+        "postcodeDistrict": "G2",
+        "postcodeSector": "G2 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-G2-1DY",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

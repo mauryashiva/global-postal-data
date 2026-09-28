@@ -1,0 +1,63 @@
+{
+  "code": "92",
+  "nameEn": "West Papua",
+  "nameId": "Papua Barat",
+  "nameNative": "Papua Barat",
+  "administrativeType": "Province",
+  "specialStatus": "Special Autonomy (Otonomi Khusus)",
+  "capitalEn": "Manokwari",
+  "capitalId": "Kabupaten Manokwari",
+  "zone": "9",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "98311",
+      "province": {
+        "code": "92",
+        "nameEn": "West Papua",
+        "nameId": "Papua Barat",
+        "nameNative": "Papua Barat",
+        "administrativeType": "Province",
+        "specialStatus": "Special Autonomy (Otonomi Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "92.02",
+        "nameId": "Kabupaten Manokwari",
+        "nameEn": "Manokwari Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "92.02.01",
+        "nameId": "Kecamatan Manokwari Barat",
+        "nameEn": "West Manokwari District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "92.02.01.1001",
+        "nameId": "Kelurahan Manokwari Barat",
+        "nameEn": "West Manokwari",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Ibukota Provinsi Papua Barat / Teluk Doreri",
+        "nameEn": "Manokwari Coastal Capital"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Manokwari",
+        "nameEn": "Manokwari Main Post Office",
+        "code": "98300",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-92-98311-92.02.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

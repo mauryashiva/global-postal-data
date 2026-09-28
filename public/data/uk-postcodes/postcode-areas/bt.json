@@ -1,0 +1,147 @@
+{
+  "postcodeArea": "BT",
+  "recordCount": 3,
+  "records": [
+    {
+      "postcode": "BT1 5GS",
+      "postTown": "BELFAST",
+      "locality": "Donegall Square",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "Northern Ireland",
+      "constituentCountryCode": "GB-NIR",
+      "region": "Northern Ireland",
+      "ceremonialCounty": "County Antrim",
+      "localAuthority": "Belfast City Council",
+      "district": "Belfast",
+      "civilParish": "Shankill",
+      "ward": "Shaftesbury",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 54.5965,
+        "longitude": -5.9301,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "BT15GS-01",
+          "buildingName": "Belfast City Hall",
+          "buildingNumber": null,
+          "subBuildingName": "Lord Mayor's Suite",
+          "thoroughfare": "Donegall Square",
+          "postTown": "BELFAST",
+          "postcode": "BT1 5GS",
+          "fullAddressText": "Belfast City Hall, Donegall Square, Belfast BT1 5GS"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "BT1 5GS",
+        "outwardCode": "BT1",
+        "inwardCode": "5GS",
+        "postcodeArea": "BT",
+        "postcodeDistrict": "BT1",
+        "postcodeSector": "BT1 5"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-BT1-5GS",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "BT4 3XX",
+      "postTown": "BELFAST",
+      "locality": "Stormont",
+      "dependentLocality": "Ballymiscaw",
+      "constituentCountry": "Northern Ireland",
+      "constituentCountryCode": "GB-NIR",
+      "region": "Northern Ireland",
+      "ceremonialCounty": "County Down",
+      "localAuthority": "Lisburn and Castlereagh City Council",
+      "district": "Castlereagh",
+      "civilParish": "Holywood",
+      "ward": "Stormont",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 54.6031,
+        "longitude": -5.8315,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "BT43XX-01",
+          "buildingName": "Parliament Buildings",
+          "buildingNumber": null,
+          "subBuildingName": "Northern Ireland Assembly",
+          "thoroughfare": "Upper Newtownards Road",
+          "postTown": "BELFAST",
+          "postcode": "BT4 3XX",
+          "fullAddressText": "Parliament Buildings, Stormont Estate, Belfast BT4 3XX"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "BT4 3XX",
+        "outwardCode": "BT4",
+        "inwardCode": "3XX",
+        "postcodeArea": "BT",
+        "postcodeDistrict": "BT4",
+        "postcodeSector": "BT4 3"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-BT4-3XX",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "BT48 6HN",
+      "postTown": "LONDONDERRY",
+      "locality": "Guildhall Square",
+      "dependentLocality": "City Centre",
+      "constituentCountry": "Northern Ireland",
+      "constituentCountryCode": "GB-NIR",
+      "region": "Northern Ireland",
+      "ceremonialCounty": "County Londonderry",
+      "localAuthority": "Derry City and Strabane District Council",
+      "district": "Derry and Strabane",
+      "civilParish": "Templemore",
+      "ward": "Waterloo",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 54.9966,
+        "longitude": -7.3195,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "BT486HN-01",
+          "buildingName": "The Guildhall",
+          "buildingNumber": null,
+          "subBuildingName": "Mayor's Parlour",
+          "thoroughfare": "Guildhall Square",
+          "postTown": "LONDONDERRY",
+          "postcode": "BT48 6HN",
+          "fullAddressText": "The Guildhall, Guildhall Square, Londonderry BT48 6HN"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "BT48 6HN",
+        "outwardCode": "BT48",
+        "inwardCode": "6HN",
+        "postcodeArea": "BT",
+        "postcodeDistrict": "BT48",
+        "postcodeSector": "BT48 6"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-BT48-6HN",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

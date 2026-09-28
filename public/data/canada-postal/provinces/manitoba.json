@@ -1,0 +1,276 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Manitoba",
+    "nameFr": "Manitoba",
+    "code": "MB",
+    "isoCode": "CA-MB",
+    "sgcCode": "46",
+    "category": "province"
+  },
+  "recordCount": 5,
+  "postalRecords": [
+    {
+      "postalCode": "R3C 1A1",
+      "postalCodeNormalized": "R3C1A1",
+      "fsa": "R3C",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Manitoba",
+        "nameFr": "Manitoba",
+        "code": "MB",
+        "isoCode": "CA-MB",
+        "sgcCode": "46"
+      },
+      "postalGeography": {
+        "postalCity": "Winnipeg",
+        "postalMunicipality": "City of Winnipeg"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 11",
+          "code": "4611",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Winnipeg",
+          "code": "4611040",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Manitoba Legislative Building / Broadway Post Office",
+        "nameFr": "Édifice législatif du Manitoba / Bureau de poste Broadway",
+        "station": "Stn Broadway",
+        "type": "Government Facility",
+        "identifier": "MB-WPG-LEG"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-MB-R3C1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "R3C 2G1",
+      "postalCodeNormalized": "R3C2G1",
+      "fsa": "R3C",
+      "ldu": "2G1",
+      "provinceTerritory": {
+        "nameEn": "Manitoba",
+        "nameFr": "Manitoba",
+        "code": "MB",
+        "isoCode": "CA-MB",
+        "sgcCode": "46"
+      },
+      "postalGeography": {
+        "postalCity": "Winnipeg",
+        "postalMunicipality": "City of Winnipeg"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 11",
+          "code": "4611",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Winnipeg",
+          "code": "4611040",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "PO Box 100-3000",
+          "station": "Station Main"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Winnipeg Main Box Facility",
+        "nameFr": "Installation de cases postales principale de Winnipeg",
+        "station": "Stn Main",
+        "type": "Box Delivery Facility",
+        "identifier": "MB-WPG-BOX"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-MB-R3C2G1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "R7A 1A1",
+      "postalCodeNormalized": "R7A1A1",
+      "fsa": "R7A",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Manitoba",
+        "nameFr": "Manitoba",
+        "code": "MB",
+        "isoCode": "CA-MB",
+        "sgcCode": "46"
+      },
+      "postalGeography": {
+        "postalCity": "Brandon",
+        "postalMunicipality": "City of Brandon"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 7",
+          "code": "4607",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Brandon",
+          "code": "4607062",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Brandon Main Post Office",
+        "nameFr": "Bureau de poste principal de Brandon",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "MB-BDN-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-MB-R7A1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "R0K 0C0",
+      "postalCodeNormalized": "R0K0C0",
+      "fsa": "R0K",
+      "ldu": "0C0",
+      "provinceTerritory": {
+        "nameEn": "Manitoba",
+        "nameFr": "Manitoba",
+        "code": "MB",
+        "isoCode": "CA-MB",
+        "sgcCode": "46"
+      },
+      "postalGeography": {
+        "postalCity": "Shilo",
+        "postalMunicipality": "Municipality of North Cypress-Langford"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 7",
+          "code": "4607",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "North Cypress-Langford",
+          "code": "4607055",
+          "type": "Municipality"
+        }
+      },
+      "delivery": {
+        "type": "Military Mail",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Military",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canadian Forces Base Shilo (CFB Shilo)",
+        "nameFr": "Base des Forces canadiennes Shilo",
+        "station": "CFPO Shilo",
+        "type": "Military Post Office",
+        "identifier": "MB-SHI-MIL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-MB-R0K0C0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "R0A 0A0",
+      "postalCodeNormalized": "R0A0A0",
+      "fsa": "R0A",
+      "ldu": "0A0",
+      "provinceTerritory": {
+        "nameEn": "Manitoba",
+        "nameFr": "Manitoba",
+        "code": "MB",
+        "isoCode": "CA-MB",
+        "sgcCode": "46"
+      },
+      "postalGeography": {
+        "postalCity": "Altona",
+        "postalMunicipality": "Town of Altona"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 3",
+          "code": "4603",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Altona",
+          "code": "4603033",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Altona Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Altona Post Office",
+        "nameFr": "Bureau de poste d’Altona",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "MB-ALT-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-MB-R0A0A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

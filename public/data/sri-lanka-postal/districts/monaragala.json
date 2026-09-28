@@ -1,0 +1,3988 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Monaragala",
+    "nameSi": "මොණරාගල",
+    "nameTa": "மொணராகலை",
+    "administrativeType": "District",
+    "code": "LK-82"
+  },
+  "province": {
+    "nameEn": "Uva Province",
+    "nameSi": "ඌව පළාත",
+    "nameTa": "ஊவா மாகாணம்",
+    "code": "LK-8"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Badalkumbura",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Bibile",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Buttala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Katharagama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Madulla",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Medagama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Monaragala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Sevanagala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Siyambalanduwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thanamalvila",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Wellawaya",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 59,
+    "totalRecords": 59,
+    "dsDivisionCount": 11
+  },
+  "postcodes": [
+    {
+      "postcode": "51424",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "YUDAGANAWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Yudaganawa",
+            "nameSi": "යුදගනාව",
+            "nameTa": "யுதகனவா"
+          },
+          "city": {
+            "nameEn": "Yudaganawa",
+            "nameSi": "යුදගනාව",
+            "nameTa": "யுதகனவா"
+          },
+          "postcode": "51424",
+          "postOffice": {
+            "nameEn": "Yudaganawa Post Office",
+            "nameSi": "යුදගනාව තැපැල් කාර්යාලය",
+            "nameTa": "யுதகனவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "51424"
+          },
+          "coordinates": {
+            "latitude": 6.7742508,
+            "longitude": 81.2351131
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "61226",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KUDAWEWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kudawewa",
+            "nameSi": "කුඩාවැව",
+            "nameTa": "குடவெவ"
+          },
+          "city": {
+            "nameEn": "Kudawewa",
+            "nameSi": "කුඩාවැව",
+            "nameTa": "குடவெவ"
+          },
+          "postcode": "61226",
+          "postOffice": {
+            "nameEn": "Kudawewa Post Office",
+            "nameSi": "කුඩාවැව තැපැල් කාර්යාලය",
+            "nameTa": "குடவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "61226"
+          },
+          "coordinates": {
+            "latitude": 8.5622222,
+            "longitude": 80.6938889
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90506",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTAMUDUNA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kotamuduna",
+            "nameSi": "කොටමුදුන",
+            "nameTa": "கொடமுதுனா"
+          },
+          "city": {
+            "nameEn": "Kotamuduna",
+            "nameSi": "කොටමුදුන",
+            "nameTa": "கொடமுதுனா"
+          },
+          "postcode": "90506",
+          "postOffice": {
+            "nameEn": "Kotamuduna Post Office",
+            "nameSi": "කොටමුදුන තැපැල් කාර්යාලය",
+            "nameTa": "கொடமுதுனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90506"
+          },
+          "coordinates": {
+            "latitude": 6.8902261,
+            "longitude": 81.1775059
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90508",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HINGURUKADUWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Hingurukaduwa",
+            "nameSi": "හිඟුරකඩුව",
+            "nameTa": "ஹிங்குருகடுவ"
+          },
+          "city": {
+            "nameEn": "Hingurukaduwa",
+            "nameSi": "හිඟුරකඩුව",
+            "nameTa": "ஹிங்குருகடுவ"
+          },
+          "postcode": "90508",
+          "postOffice": {
+            "nameEn": "Hingurukaduwa Post Office",
+            "nameSi": "හිඟුරකඩුව තැපැල් කාර්යාලය",
+            "nameTa": "ஹிங்குருகடுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90508"
+          },
+          "coordinates": {
+            "latitude": 6.8257456,
+            "longitude": 81.1629841
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90512",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GAMEWELA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Gamewela",
+            "nameSi": "ගමේවැල",
+            "nameTa": "கேம்வேலா"
+          },
+          "city": {
+            "nameEn": "Gamewela",
+            "nameSi": "ගමේවැල",
+            "nameTa": "கேம்வேலா"
+          },
+          "postcode": "90512",
+          "postOffice": {
+            "nameEn": "Gamewela Post Office",
+            "nameSi": "ගමේවැල තැපැල් කාර්යාලය",
+            "nameTa": "கேம்வேலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90512"
+          },
+          "coordinates": {
+            "latitude": 6.9246405,
+            "longitude": 81.2053324
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90518",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEDAWELAGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Medawelagama",
+            "nameSi": "මැදවෙලගම",
+            "nameTa": "மெதவெலகம"
+          },
+          "city": {
+            "nameEn": "Medawelagama",
+            "nameSi": "මැදවෙලගම",
+            "nameTa": "மெதவெலகம"
+          },
+          "postcode": "90518",
+          "postOffice": {
+            "nameEn": "Medawelagama Post Office",
+            "nameSi": "මැදවෙලගම තැපැල් කාර්යාලය",
+            "nameTa": "மெதவெலகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90518"
+          },
+          "coordinates": {
+            "latitude": 7.0344732,
+            "longitude": 81.276004
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90580",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAMUNUKULA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Namunukula",
+            "nameSi": "නමුණුකුල",
+            "nameTa": "நமுனுகுல"
+          },
+          "city": {
+            "nameEn": "Namunukula",
+            "nameSi": "නමුණුකුල",
+            "nameTa": "நமுனுகுல"
+          },
+          "postcode": "90580",
+          "postOffice": {
+            "nameEn": "Namunukula Post Office",
+            "nameSi": "නමුණුකුල තැපැල් කාර්යාලය",
+            "nameTa": "நமுனுகுல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90580"
+          },
+          "coordinates": {
+            "latitude": 6.8744787,
+            "longitude": 81.1154703
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "90584",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIYANAKANDURA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Miyanakandura",
+            "nameSi": "මියනකඳුර",
+            "nameTa": "மியானகந்துர"
+          },
+          "city": {
+            "nameEn": "Miyanakandura",
+            "nameSi": "මියනකඳුර",
+            "nameTa": "மியானகந்துர"
+          },
+          "postcode": "90584",
+          "postOffice": {
+            "nameEn": "Miyanakandura Post Office",
+            "nameSi": "මියනකඳුර තැපැල් කාර්යාලය",
+            "nameTa": "மியானகந்துர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "90584"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": {
+            "nameEn": "Monaragala",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "MONARAGALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொனராகலை"
+          },
+          "city": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொனராகலை"
+          },
+          "postcode": "91000",
+          "postOffice": {
+            "nameEn": "Monaragala Post Office",
+            "nameSi": "මොණරාගල තැපැල් කාර්යාලය",
+            "nameTa": "மொனராகலை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91000"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91002",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANGURA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Pangura",
+            "nameSi": "පංගුරා",
+            "nameTa": "பங்குரா"
+          },
+          "city": {
+            "nameEn": "Pangura",
+            "nameSi": "පංගුරා",
+            "nameTa": "பங்குரா"
+          },
+          "postcode": "91002",
+          "postOffice": {
+            "nameEn": "Pangura Post Office",
+            "nameSi": "පංගුරා තැපැල් කාර්යාලය",
+            "nameTa": "பங்குரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91002"
+          },
+          "coordinates": {
+            "latitude": 6.9766866,
+            "longitude": 81.3200893
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91003",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAKKALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Nakkala",
+            "nameSi": "නක්කල",
+            "nameTa": "நக்கலா"
+          },
+          "city": {
+            "nameEn": "Nakkala",
+            "nameSi": "නක්කල",
+            "nameTa": "நக்கலா"
+          },
+          "postcode": "91003",
+          "postOffice": {
+            "nameEn": "Nakkala Post Office",
+            "nameSi": "නක්කල තැපැල් කාර්යාලය",
+            "nameTa": "நக்கலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91003"
+          },
+          "coordinates": {
+            "latitude": 6.8899962,
+            "longitude": 81.2984309
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91004",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HULANDAWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Hulandawa",
+            "nameSi": "හුලන්දාව",
+            "nameTa": "ஹுலந்தவா"
+          },
+          "city": {
+            "nameEn": "Hulandawa",
+            "nameSi": "හුලන්දාව",
+            "nameTa": "ஹுலந்தவா"
+          },
+          "postcode": "91004",
+          "postOffice": {
+            "nameEn": "Hulandawa Post Office",
+            "nameSi": "හුලන්දාව තැපැල් කාර්යාලය",
+            "nameTa": "ஹுலந்தவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91004"
+          },
+          "coordinates": {
+            "latitude": 6.8546791,
+            "longitude": 81.3385663
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91005",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEDIKUMBURA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Wedikumbura",
+            "nameSi": "වෙඩිකුඹුර",
+            "nameTa": "வெடிகும்புர"
+          },
+          "city": {
+            "nameEn": "Wedikumbura",
+            "nameSi": "වෙඩිකුඹුර",
+            "nameTa": "வெடிகும்புர"
+          },
+          "postcode": "91005",
+          "postOffice": {
+            "nameEn": "Wedikumbura Post Office",
+            "nameSi": "වෙඩිකුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "வெடிகும்புர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91005"
+          },
+          "coordinates": {
+            "latitude": 6.8955992,
+            "longitude": 81.2363589
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91006",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MARAWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Marawa",
+            "nameSi": "මරාවා",
+            "nameTa": "மரவா"
+          },
+          "city": {
+            "nameEn": "Marawa",
+            "nameSi": "මරාවා",
+            "nameTa": "மரவா"
+          },
+          "postcode": "91006",
+          "postOffice": {
+            "nameEn": "Marawa Post Office",
+            "nameSi": "මරාවා තැපැල් කාර්යාලය",
+            "nameTa": "மரவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91006"
+          },
+          "coordinates": {
+            "latitude": 6.8090098,
+            "longitude": 81.3811839
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91007",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "OBBEGODA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Obbegoda",
+            "nameSi": "ඔබ්බේගොඩ",
+            "nameTa": "ஒபேகொட"
+          },
+          "city": {
+            "nameEn": "Obbegoda",
+            "nameSi": "ඔබ්බේගොඩ",
+            "nameTa": "ஒபேகொட"
+          },
+          "postcode": "91007",
+          "postOffice": {
+            "nameEn": "Obbegoda Post Office",
+            "nameSi": "ඔබ්බේගොඩ තැපැල් කාර්යාලය",
+            "nameTa": "ஒபேகொட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91007"
+          },
+          "coordinates": {
+            "latitude": 6.9250709,
+            "longitude": 81.354086
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91008",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GALABEDDA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Galabedda",
+            "nameSi": "ගලබැද්ද",
+            "nameTa": "கலபெத்தா"
+          },
+          "city": {
+            "nameEn": "Galabedda",
+            "nameSi": "ගලබැද්ද",
+            "nameTa": "கலபெத்தா"
+          },
+          "postcode": "91008",
+          "postOffice": {
+            "nameEn": "Galabedda Post Office",
+            "nameSi": "ගලබැද්ද තැපැල් කාර්යාලය",
+            "nameTa": "கலபெத்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91008"
+          },
+          "coordinates": {
+            "latitude": 6.9191139,
+            "longitude": 81.385091
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91010",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DOMBAGAHAWELA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Dombagahawela",
+            "nameSi": "දොඹගහවෙල",
+            "nameTa": "தொம்பகஹவெல"
+          },
+          "city": {
+            "nameEn": "Dombagahawela",
+            "nameSi": "දොඹගහවෙල",
+            "nameTa": "தொம்பகஹவெல"
+          },
+          "postcode": "91010",
+          "postOffice": {
+            "nameEn": "Dombagahawela Post Office",
+            "nameSi": "දොඹගහවෙල තැපැල් කාර්යාලය",
+            "nameTa": "தொம்பகஹவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91010"
+          },
+          "coordinates": {
+            "latitude": 6.9076487,
+            "longitude": 81.5094194
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91020",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ETHIMALEWEWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Ethimalewewa",
+            "nameSi": "ඇතිමලේවැව",
+            "nameTa": "எதிமலேவெவ"
+          },
+          "city": {
+            "nameEn": "Ethimalewewa",
+            "nameSi": "ඇතිමලේවැව",
+            "nameTa": "எதிமலேவெவ"
+          },
+          "postcode": "91020",
+          "postOffice": {
+            "nameEn": "Ethimalewewa Post Office",
+            "nameSi": "ඇතිමලේවැව තැපැල් කාර්යාලය",
+            "nameTa": "எதிமலேவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91020"
+          },
+          "coordinates": {
+            "latitude": 6.8111512,
+            "longitude": 81.5020328
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91022",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WILAOYA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Wilaoya",
+            "nameSi": "විලාඔය",
+            "nameTa": "விலாஓய"
+          },
+          "city": {
+            "nameEn": "Wilaoya",
+            "nameSi": "විලාඔය",
+            "nameTa": "விலாஓய"
+          },
+          "postcode": "91022",
+          "postOffice": {
+            "nameEn": "Wilaoya Post Office",
+            "nameSi": "විලාඔය තැපැල් කාර්යාලය",
+            "nameTa": "விலாஓய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91022"
+          },
+          "coordinates": {
+            "latitude": 6.767782,
+            "longitude": 81.6972166
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91030",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": {
+            "nameEn": "Siyambalanduwa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "SIYAMBALANDUWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Siyambalanduwa",
+            "nameSi": "සියඹලාණ්ඩුව",
+            "nameTa": "சியம்பலாண்டுவ"
+          },
+          "city": {
+            "nameEn": "Siyambalanduwa",
+            "nameSi": "සියඹලාණ්ඩුව",
+            "nameTa": "சியம்பலாண்டுவ"
+          },
+          "postcode": "91030",
+          "postOffice": {
+            "nameEn": "Siyambalanduwa Post Office",
+            "nameSi": "සියඹලාණ්ඩුව තැපැල් කාර්යාලය",
+            "nameTa": "சியம்பலாண்டுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91030"
+          },
+          "coordinates": {
+            "latitude": 6.9064636,
+            "longitude": 81.5610138
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91032",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANDAUDAPANGUWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kandaudapanguwa",
+            "nameSi": "කන්දඋඩපංගුව",
+            "nameTa": "கந்தவுடபங்குவா"
+          },
+          "city": {
+            "nameEn": "Kandaudapanguwa",
+            "nameSi": "කන්දඋඩපංගුව",
+            "nameTa": "கந்தவுடபங்குவா"
+          },
+          "postcode": "91032",
+          "postOffice": {
+            "nameEn": "Kandaudapanguwa Post Office",
+            "nameSi": "කන්දඋඩපංගුව තැපැල් කාර්යාලය",
+            "nameTa": "கந்தவுடபங்குவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91032"
+          },
+          "coordinates": {
+            "latitude": 6.9803464,
+            "longitude": 81.54148
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91038",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BUDDAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Buddama",
+            "nameSi": "බුද්ධගම",
+            "nameTa": "புத்தமா"
+          },
+          "city": {
+            "nameEn": "Buddama",
+            "nameSi": "බුද්ධගම",
+            "nameTa": "புத்தமா"
+          },
+          "postcode": "91038",
+          "postOffice": {
+            "nameEn": "Buddama Post Office",
+            "nameSi": "බුද්ධගම තැපැල් කාර්යාලය",
+            "nameTa": "புத்தமா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91038"
+          },
+          "coordinates": {
+            "latitude": 7.040545,
+            "longitude": 81.4888066
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91040",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "INGINIYAGALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Inginiyagala",
+            "nameSi": "ඉඟිනියාගල",
+            "nameTa": "இங்கினியாகல"
+          },
+          "city": {
+            "nameEn": "Inginiyagala",
+            "nameSi": "ඉඟිනියාගල",
+            "nameTa": "இங்கினியாகல"
+          },
+          "postcode": "91040",
+          "postOffice": {
+            "nameEn": "Inginiyagala Post Office",
+            "nameSi": "ඉඟිනියාගල තැපැල් කාර්යාලය",
+            "nameTa": "இங்கினியாகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91040"
+          },
+          "coordinates": {
+            "latitude": 7.2138156,
+            "longitude": 81.5431872
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91042",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NELLIYADDA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Nelliyadda",
+            "nameSi": "නෙල්ලියද්ද",
+            "nameTa": "நெல்லியத்தா"
+          },
+          "city": {
+            "nameEn": "Nelliyadda",
+            "nameSi": "නෙල්ලියද්ද",
+            "nameTa": "நெல்லியத்தா"
+          },
+          "postcode": "91042",
+          "postOffice": {
+            "nameEn": "Nelliyadda Post Office",
+            "nameSi": "නෙල්ලියද්ද තැපැල් කාර්යාලය",
+            "nameTa": "நெல்லியத்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91042"
+          },
+          "coordinates": {
+            "latitude": 7.3878558,
+            "longitude": 81.4169093
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91050",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DAMBAGALLA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Dambagalla",
+            "nameSi": "දඹගල්ල",
+            "nameTa": "டம்பகல்ல"
+          },
+          "city": {
+            "nameEn": "Dambagalla",
+            "nameSi": "දඹගල්ල",
+            "nameTa": "டம்பகல்ல"
+          },
+          "postcode": "91050",
+          "postOffice": {
+            "nameEn": "Dambagalla Post Office",
+            "nameSi": "දඹගල්ල තැපැල් කාර්යාලය",
+            "nameTa": "டம்பகல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91050"
+          },
+          "coordinates": {
+            "latitude": 6.9499999,
+            "longitude": 81.3666671
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91052",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MARIARAWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Mariarawa",
+            "nameSi": "මාරියරාව",
+            "nameTa": "மரியராவா"
+          },
+          "city": {
+            "nameEn": "Mariarawa",
+            "nameSi": "මාරියරාව",
+            "nameTa": "மரியராவா"
+          },
+          "postcode": "91052",
+          "postOffice": {
+            "nameEn": "Mariarawa Post Office",
+            "nameSi": "මාරියරාව තැපැල් කාර්යාලය",
+            "nameTa": "மரியராவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91052"
+          },
+          "coordinates": {
+            "latitude": 6.9683781,
+            "longitude": 81.4762043
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91054",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UVA GANGODAGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Uva Gangodagama",
+            "nameSi": "ඌව ගංගොඩගම",
+            "nameTa": "ஊவா கங்கோடாகம"
+          },
+          "city": {
+            "nameEn": "Uva Gangodagama",
+            "nameSi": "ඌව ගංගොඩගම",
+            "nameTa": "ஊவா கங்கோடாகம"
+          },
+          "postcode": "91054",
+          "postOffice": {
+            "nameEn": "Uva Gangodagama Post Office",
+            "nameSi": "ඌව ගංගොඩගම තැපැල් කාර්යාලය",
+            "nameTa": "ஊவா கங்கோடாகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91054"
+          },
+          "coordinates": {
+            "latitude": 7.0198599,
+            "longitude": 81.4333923
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91056",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RUWALWELA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Ruwalwela",
+            "nameSi": "රුවල්වෙල",
+            "nameTa": "ருவல்வெல"
+          },
+          "city": {
+            "nameEn": "Ruwalwela",
+            "nameSi": "රුවල්වෙල",
+            "nameTa": "ருவல்வெல"
+          },
+          "postcode": "91056",
+          "postOffice": {
+            "nameEn": "Ruwalwela Post Office",
+            "nameSi": "රුවල්වෙල තැපැල් කාර්යාලය",
+            "nameTa": "ருவல்வெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91056"
+          },
+          "coordinates": {
+            "latitude": 6.8610803,
+            "longitude": 81.3391804
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91058",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BADULUWELA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Baduluwela",
+            "nameSi": "බදුලුවෙල",
+            "nameTa": "பதுலுவெல"
+          },
+          "city": {
+            "nameEn": "Baduluwela",
+            "nameSi": "බදුලුවෙල",
+            "nameTa": "பதுலுவெல"
+          },
+          "postcode": "91058",
+          "postOffice": {
+            "nameEn": "Baduluwela Post Office",
+            "nameSi": "බදුලුවෙල තැපැල් කාර්යාලය",
+            "nameTa": "பதுலுவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91058"
+          },
+          "coordinates": {
+            "latitude": 6.9934009,
+            "longitude": 81.0549815
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91060",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "OKKAMPITIYA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Okkampitiya",
+            "nameSi": "ඔක්කම්පිටිය",
+            "nameTa": "ஒக்கம்பிடிய"
+          },
+          "city": {
+            "nameEn": "Okkampitiya",
+            "nameSi": "ඔක්කම්පිටිය",
+            "nameTa": "ஒக்கம்பிடிய"
+          },
+          "postcode": "91060",
+          "postOffice": {
+            "nameEn": "Okkampitiya Post Office",
+            "nameSi": "ඔක්කම්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "ஒக்கம்பிடிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91060"
+          },
+          "coordinates": {
+            "latitude": 6.750035,
+            "longitude": 81.3076193
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91070",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": {
+            "nameEn": "Badalkumbura",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BADALKUMBURA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Badalkumbura",
+            "nameSi": "බඩල්කුඹුර",
+            "nameTa": "படல்கும்புர"
+          },
+          "city": {
+            "nameEn": "Badalkumbura",
+            "nameSi": "බඩල්කුඹුර",
+            "nameTa": "படல்கும்புர"
+          },
+          "postcode": "91070",
+          "postOffice": {
+            "nameEn": "Badalkumbura Post Office",
+            "nameSi": "බඩල්කුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "படல்கும்புர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91070"
+          },
+          "coordinates": {
+            "latitude": 6.8955992,
+            "longitude": 81.2363589
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91098",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KUMBUKKANA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kumbukkana",
+            "nameSi": "කුඹුක්කන",
+            "nameTa": "கும்புக்கனா"
+          },
+          "city": {
+            "nameEn": "Kumbukkana",
+            "nameSi": "කුඹුක්කන",
+            "nameTa": "கும்புக்கனா"
+          },
+          "postcode": "91098",
+          "postOffice": {
+            "nameEn": "Kumbukkana Post Office",
+            "nameSi": "කුඹුක්කන තැපැල් කාර්යාලය",
+            "nameTa": "கும்புக்கனா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91098"
+          },
+          "coordinates": {
+            "latitude": 6.810595,
+            "longitude": 81.3006668
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": {
+            "nameEn": "Buttala",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BUTTALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Buttala",
+            "nameSi": "බුත්තල",
+            "nameTa": "புத்தளை"
+          },
+          "city": {
+            "nameEn": "Buttala",
+            "nameSi": "බුත්තල",
+            "nameTa": "புத்தளை"
+          },
+          "postcode": "91100",
+          "postOffice": {
+            "nameEn": "Buttala Post Office",
+            "nameSi": "බුත්තල තැපැල් කාර්යාලය",
+            "nameTa": "புத்தளை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91100"
+          },
+          "coordinates": {
+            "latitude": 6.7589233,
+            "longitude": 81.2491298
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MORETUWEGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Moretuwegama",
+            "nameSi": "මොරටුවේගම",
+            "nameTa": "மொரேதுவேகம"
+          },
+          "city": {
+            "nameEn": "Moretuwegama",
+            "nameSi": "මොරටුවේගම",
+            "nameTa": "மொரேதுவேகம"
+          },
+          "postcode": "91108",
+          "postOffice": {
+            "nameEn": "Moretuwegama Post Office",
+            "nameSi": "මොරටුවේගම තැපැල් කාර්යාලය",
+            "nameTa": "மொரேதுவேகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91108"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91112",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UVA PELWATTA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Uva Pelwatta",
+            "nameSi": "ඌව පැල්වත්ත",
+            "nameTa": "ஊவா பெல்வத்த"
+          },
+          "city": {
+            "nameEn": "Uva Pelwatta",
+            "nameSi": "ඌව පැල්වත්ත",
+            "nameTa": "ஊவா பெல்வத்த"
+          },
+          "postcode": "91112",
+          "postOffice": {
+            "nameEn": "Uva Pelwatta Post Office",
+            "nameSi": "ඌව පැල්වත්ත තැපැල් කාර්යාලය",
+            "nameTa": "ஊவா பெல்வத்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91112"
+          },
+          "coordinates": {
+            "latitude": 6.7447337,
+            "longitude": 81.1967958
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91198",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WARUNAGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Warunagama",
+            "nameSi": "වරුණගම",
+            "nameTa": "வருணகம"
+          },
+          "city": {
+            "nameEn": "Warunagama",
+            "nameSi": "වරුණගම",
+            "nameTa": "வருணகம"
+          },
+          "postcode": "91198",
+          "postOffice": {
+            "nameEn": "Warunagama Post Office",
+            "nameSi": "වරුණගම තැපැල් කාර්යාලය",
+            "nameTa": "வருணகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91198"
+          },
+          "coordinates": {
+            "latitude": 6.7323426,
+            "longitude": 81.1340862
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": {
+            "nameEn": "Wellawaya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "WELLAWAYA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Wellawaya",
+            "nameSi": "වැල්ලවාය",
+            "nameTa": "வெல்லவாய"
+          },
+          "city": {
+            "nameEn": "Wellawaya",
+            "nameSi": "වැල්ලවාය",
+            "nameTa": "வெல்லவாய"
+          },
+          "postcode": "91200",
+          "postOffice": {
+            "nameEn": "Wellawaya Post Office",
+            "nameSi": "වැල්ලවාය තැපැල් කාර්යාලය",
+            "nameTa": "வெல்லவாய தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91200"
+          },
+          "coordinates": {
+            "latitude": 6.7377356,
+            "longitude": 81.1030573
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91202",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SIYAMBALAGUNE",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Siyambalagune",
+            "nameSi": "සියඹලාගුණේ",
+            "nameTa": "சியாம்பலாகுனே"
+          },
+          "city": {
+            "nameEn": "Siyambalagune",
+            "nameSi": "සියඹලාගුණේ",
+            "nameTa": "சியாம்பலாகுனே"
+          },
+          "postcode": "91202",
+          "postOffice": {
+            "nameEn": "Siyambalagune Post Office",
+            "nameSi": "සියඹලාගුණේ තැපැල් කාර්යාලය",
+            "nameTa": "சியாம்பலாகுனே தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91202"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91204",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANDENIYA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Randeniya",
+            "nameSi": "රන්දෙණිය",
+            "nameTa": "ரண்டெனிய"
+          },
+          "city": {
+            "nameEn": "Randeniya",
+            "nameSi": "රන්දෙණිය",
+            "nameTa": "ரண்டெனிய"
+          },
+          "postcode": "91204",
+          "postOffice": {
+            "nameEn": "Randeniya Post Office",
+            "nameSi": "රන්දෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "ரண்டெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91204"
+          },
+          "coordinates": {
+            "latitude": 6.8015199,
+            "longitude": 81.1140912
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91206",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEHERAYAYA HANDAPANAGALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Weherayaya Handapanagala",
+            "nameSi": "වෙහෙරයාය හඳපානාගල",
+            "nameTa": "வெஹெரயாய ஹந்தபானகல"
+          },
+          "city": {
+            "nameEn": "Weherayaya Handapanagala",
+            "nameSi": "වෙහෙරයාය හඳපානාගල",
+            "nameTa": "வெஹெரயாய ஹந்தபானகல"
+          },
+          "postcode": "91206",
+          "postOffice": {
+            "nameEn": "Weherayaya Handapanagala Post Office",
+            "nameSi": "වෙහෙරයාය හඳපානාගල තැපැල් කාර්යාලය",
+            "nameTa": "வெஹெரயாய ஹந்தபானகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91206"
+          },
+          "coordinates": {
+            "latitude": 6.6435903,
+            "longitude": 81.118259
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ETTILIWEWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Ettiliwewa",
+            "nameSi": "ඇත්තිලිවැව",
+            "nameTa": "எட்டிலிவெவ"
+          },
+          "city": {
+            "nameEn": "Ettiliwewa",
+            "nameSi": "ඇත්තිලිවැව",
+            "nameTa": "எட்டிலிவெவ"
+          },
+          "postcode": "91250",
+          "postOffice": {
+            "nameEn": "Ettiliwewa Post Office",
+            "nameSi": "ඇත්තිලිවැව තැපැල් කාර්යාලය",
+            "nameTa": "எட்டிலிவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91250"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91295",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BALAHARUWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Balaharuwa",
+            "nameSi": "බලහරුව",
+            "nameTa": "பலஹருவா"
+          },
+          "city": {
+            "nameEn": "Balaharuwa",
+            "nameSi": "බලහරුව",
+            "nameTa": "பலஹருவா"
+          },
+          "postcode": "91295",
+          "postOffice": {
+            "nameEn": "Balaharuwa Post Office",
+            "nameSi": "බලහරුව තැපැල් කාර්යාලය",
+            "nameTa": "பலஹருவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91295"
+          },
+          "coordinates": {
+            "latitude": 6.530849,
+            "longitude": 81.0644263
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91298",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UVA KUDAOYA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Uva Kudaoya",
+            "nameSi": "ඌව කුඩාඔය",
+            "nameTa": "ஊவா குடாஓயா"
+          },
+          "city": {
+            "nameEn": "Uva Kudaoya",
+            "nameSi": "ඌව කුඩාඔය",
+            "nameTa": "ஊவா குடாஓயா"
+          },
+          "postcode": "91298",
+          "postOffice": {
+            "nameEn": "Uva Kudaoya Post Office",
+            "nameSi": "ඌව කුඩාඔය තැපැල් කාර්යාලය",
+            "nameTa": "ஊவா குடாஓயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91298"
+          },
+          "coordinates": {
+            "latitude": 6.5327971,
+            "longitude": 81.1747498
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THANAMALWILA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Thanamalwila",
+            "nameSi": "තණමල්විල",
+            "nameTa": "தனமல்விலை"
+          },
+          "city": {
+            "nameEn": "Thanamalwila",
+            "nameSi": "තණමල්විල",
+            "nameTa": "தனமல்விலை"
+          },
+          "postcode": "91300",
+          "postOffice": {
+            "nameEn": "Thanamalwila Post Office",
+            "nameSi": "තණමල්විල තැපැල් කාර්යාලය",
+            "nameTa": "தனமல்விலை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91300"
+          },
+          "coordinates": {
+            "latitude": 6.4397548,
+            "longitude": 81.1333968
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91306",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SURIARA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Suriara",
+            "nameSi": "සූරියරා",
+            "nameTa": "சூரியரா"
+          },
+          "city": {
+            "nameEn": "Suriara",
+            "nameSi": "සූරියරා",
+            "nameTa": "சூரியரா"
+          },
+          "postcode": "91306",
+          "postOffice": {
+            "nameEn": "Suriara Post Office",
+            "nameSi": "සූරියරා තැපැල් කාර්යාලය",
+            "nameTa": "சூரியரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91306"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91308",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HAMBEGAMUWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Hambegamuwa",
+            "nameSi": "හම්බෙගමුව",
+            "nameTa": "ஹம்பேகமுவ"
+          },
+          "city": {
+            "nameEn": "Hambegamuwa",
+            "nameSi": "හම්බෙගමුව",
+            "nameTa": "ஹம்பேகமுவ"
+          },
+          "postcode": "91308",
+          "postOffice": {
+            "nameEn": "Hambegamuwa Post Office",
+            "nameSi": "හම්බෙගමුව තැපැල් කාර්යාලය",
+            "nameTa": "ஹம்பேகமுவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91308"
+          },
+          "coordinates": {
+            "latitude": 6.5386336,
+            "longitude": 80.9630156
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91312",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTAWEHERA MANKADA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kotawehera Mankada",
+            "nameSi": "කොටවෙහෙර මංකඩ",
+            "nameTa": "கொட்டவெஹெர மங்கட"
+          },
+          "city": {
+            "nameEn": "Kotawehera Mankada",
+            "nameSi": "කොටවෙහෙර මංකඩ",
+            "nameTa": "கொட்டவெஹெர மங்கட"
+          },
+          "postcode": "91312",
+          "postOffice": {
+            "nameEn": "Kotawehera Mankada Post Office",
+            "nameSi": "කොටවෙහෙර මංකඩ තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டவெஹெர மங்கட தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91312"
+          },
+          "coordinates": {
+            "latitude": 6.646907,
+            "longitude": 80.9084755
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KATARAGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kataragama",
+            "nameSi": "කතරගම",
+            "nameTa": "கதிர்காமம்"
+          },
+          "city": {
+            "nameEn": "Kataragama",
+            "nameSi": "කතරගම",
+            "nameTa": "கதிர்காமம்"
+          },
+          "postcode": "91400",
+          "postOffice": {
+            "nameEn": "Kataragama Post Office",
+            "nameSi": "කතරගම තැපැල් කාර්යාලය",
+            "nameTa": "கதிர்காமம் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91400"
+          },
+          "coordinates": {
+            "latitude": 6.4135463,
+            "longitude": 81.3325679
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91405",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SELLA KATARAGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Sella Kataragama",
+            "nameSi": "සෙල්ල කතරගම",
+            "nameTa": "செல்ல கதிர்காமம்"
+          },
+          "city": {
+            "nameEn": "Sella Kataragama",
+            "nameSi": "සෙල්ල කතරගම",
+            "nameTa": "செல்ல கதிர்காமம்"
+          },
+          "postcode": "91405",
+          "postOffice": {
+            "nameEn": "Sella Kataragama Post Office",
+            "nameSi": "සෙල්ල කතරගම තැපැල් කාර්යාලය",
+            "nameTa": "செல்ல கதிர்காமம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91405"
+          },
+          "coordinates": {
+            "latitude": 6.4373285,
+            "longitude": 81.2986767
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": {
+            "nameEn": "Bibile",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BIBILE",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Bibile",
+            "nameSi": "බිබිලේ",
+            "nameTa": "பிபிலை"
+          },
+          "city": {
+            "nameEn": "Bibile",
+            "nameSi": "බිබිලේ",
+            "nameTa": "பிபிலை"
+          },
+          "postcode": "91500",
+          "postOffice": {
+            "nameEn": "Bibile Post Office",
+            "nameSi": "බිබිලේ තැපැල් කාර්යාලය",
+            "nameTa": "பிபிலை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91500"
+          },
+          "coordinates": {
+            "latitude": 6.8608624,
+            "longitude": 81.3502541
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91505",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PITAKUMBURA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Pitakumbura",
+            "nameSi": "පිටකුඹුර",
+            "nameTa": "பிடகும்புரா"
+          },
+          "city": {
+            "nameEn": "Pitakumbura",
+            "nameSi": "පිටකුඹුර",
+            "nameTa": "பிடகும்புரா"
+          },
+          "postcode": "91505",
+          "postOffice": {
+            "nameEn": "Pitakumbura Post Office",
+            "nameSi": "පිටකුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "பிடகும்புரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91505"
+          },
+          "coordinates": {
+            "latitude": 7.1786936,
+            "longitude": 81.293122
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91508",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NILGALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Nilgala",
+            "nameSi": "නිල්ගල",
+            "nameTa": "நீலகலா"
+          },
+          "city": {
+            "nameEn": "Nilgala",
+            "nameSi": "නිල්ගල",
+            "nameTa": "நீலகலா"
+          },
+          "postcode": "91508",
+          "postOffice": {
+            "nameEn": "Nilgala Post Office",
+            "nameSi": "නිල්ගල තැපැල් කාර්යාලය",
+            "nameTa": "நீலகலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91508"
+          },
+          "coordinates": {
+            "latitude": 7.1933379,
+            "longitude": 81.3963901
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91512",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KOTAGAMA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kotagama",
+            "nameSi": "කොටගම",
+            "nameTa": "கொட்டகம"
+          },
+          "city": {
+            "nameEn": "Kotagama",
+            "nameSi": "කොටගම",
+            "nameTa": "கொட்டகம"
+          },
+          "postcode": "91512",
+          "postOffice": {
+            "nameEn": "Kotagama Post Office",
+            "nameSi": "කොටගම තැපැල් කාර්යාලය",
+            "nameTa": "கொட்டகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91512"
+          },
+          "coordinates": {
+            "latitude": 7.1109888,
+            "longitude": 81.1802619
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91514",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DIYAKOBALA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Diyakobala",
+            "nameSi": "දියකොබල",
+            "nameTa": "தியாகோபாலா"
+          },
+          "city": {
+            "nameEn": "Diyakobala",
+            "nameSi": "දියකොබල",
+            "nameTa": "தியாகோபாலா"
+          },
+          "postcode": "91514",
+          "postOffice": {
+            "nameEn": "Diyakobala Post Office",
+            "nameSi": "දියකොබල තැපැල් කාර්යාලය",
+            "nameTa": "தியாகோபாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91514"
+          },
+          "coordinates": {
+            "latitude": 7.1588473,
+            "longitude": 81.1993404
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91516",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AYIWELA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Ayiwela",
+            "nameSi": "අයිවෙල",
+            "nameTa": "ஆயிவேல"
+          },
+          "city": {
+            "nameEn": "Ayiwela",
+            "nameSi": "අයිවෙල",
+            "nameTa": "ஆயிவேல"
+          },
+          "postcode": "91516",
+          "postOffice": {
+            "nameEn": "Ayiwela Post Office",
+            "nameSi": "අයිවෙල තැපැල් කාර්යාලය",
+            "nameTa": "ஆயிவேல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91516"
+          },
+          "coordinates": {
+            "latitude": 7.1070256,
+            "longitude": 81.2504855
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91519",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NANNAPURAWA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Nannapurawa",
+            "nameSi": "නන්නපුරව",
+            "nameTa": "நன்னபுரவா"
+          },
+          "city": {
+            "nameEn": "Nannapurawa",
+            "nameSi": "නන්නපුරව",
+            "nameTa": "நன்னபுரவா"
+          },
+          "postcode": "91519",
+          "postOffice": {
+            "nameEn": "Nannapurawa Post Office",
+            "nameSi": "නන්නපුරව තැපැල් කාර්යාලය",
+            "nameTa": "நன்னபுரவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91519"
+          },
+          "coordinates": {
+            "latitude": 7.0853701,
+            "longitude": 81.2593133
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91550",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEDAGANA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Medagana",
+            "nameSi": "මැදගාන",
+            "nameTa": "மெதகம"
+          },
+          "city": {
+            "nameEn": "Medagana",
+            "nameSi": "මැදගාන",
+            "nameTa": "மெதகம"
+          },
+          "postcode": "91550",
+          "postOffice": {
+            "nameEn": "Medagana Post Office",
+            "nameSi": "මැදගාන තැපැල් කාර්යාලය",
+            "nameTa": "மெதகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91550"
+          },
+          "coordinates": {
+            "latitude": 7.0344732,
+            "longitude": 81.276004
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91552",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANDAWINNA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Kandawinna",
+            "nameSi": "කන්දවින්න",
+            "nameTa": "கண்டவின்னா"
+          },
+          "city": {
+            "nameEn": "Kandawinna",
+            "nameSi": "කන්දවින්න",
+            "nameTa": "கண்டவின்னா"
+          },
+          "postcode": "91552",
+          "postOffice": {
+            "nameEn": "Kandawinna Post Office",
+            "nameSi": "කන්දවින්න තැපැල් කාර්යාලය",
+            "nameTa": "கண்டவின்னா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91552"
+          },
+          "coordinates": {
+            "latitude": 6.8906454,
+            "longitude": 81.3454417
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91554",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Uva Province",
+            "nameSi": "ඌව පළාත",
+            "nameTa": "ஊவா மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-8",
+            "capital": "Badulla"
+          },
+          "district": {
+            "nameEn": "Monaragala",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை",
+            "administrativeType": "District",
+            "code": "LK-82"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BAKINIGAHAWELA",
+            "nameSi": "මොණරාගල",
+            "nameTa": "மொணராகலை"
+          },
+          "locality": {
+            "nameEn": "Bakinigahawela",
+            "nameSi": "බකිණිගහවෙල",
+            "nameTa": "பகினிகஹவெல"
+          },
+          "city": {
+            "nameEn": "Bakinigahawela",
+            "nameSi": "බකිණිගහවෙල",
+            "nameTa": "பகினிகஹவெல"
+          },
+          "postcode": "91554",
+          "postOffice": {
+            "nameEn": "Bakinigahawela Post Office",
+            "nameSi": "බකිණිගහවෙල තැපැල් කාර්යාලය",
+            "nameTa": "பகினிகஹவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91554"
+          },
+          "coordinates": {
+            "latitude": 6.9982469,
+            "longitude": 81.2850807
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Minya",
+    "nameNative": "المنيا",
+    "isoCode": "EG-MN",
+    "postalPrefix": "61",
+    "capital": "Minya",
+    "capitalNative": "المنيا",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 28.0871,
+      "longitude": 30.7618
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "61511",
+      "governorate": {
+        "nameEn": "Minya",
+        "nameNative": "المنيا",
+        "code": "EG-MN",
+        "postalPrefix": "61",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Minya",
+        "nameNative": "المنيا",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Minya",
+        "nameNative": "قسم المنيا",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Midan Palace / Corniche El Nil",
+        "nameNative": "ميدان بالاس / كورنيش النيل",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Minya Main Post Office",
+        "nameNative": "مكتب بريد المنيا الرئيسي",
+        "type": "Main Post Office",
+        "code": "61511"
+      },
+      "areas": [
+        "Palace Square",
+        "Gomhuria St Minya",
+        "Nile Corniche Promenade",
+        "Minya University Campus"
+      ],
+      "coordinates": {
+        "latitude": 28.0871,
+        "longitude": 30.7618
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MINYA-61511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "61611",
+      "governorate": {
+        "nameEn": "Minya",
+        "nameNative": "المنيا",
+        "code": "EG-MN",
+        "postalPrefix": "61",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Mallawi",
+        "nameNative": "ملوي",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Mallawi",
+        "nameNative": "مركز ملوي",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Mallawi Museum Square",
+        "nameNative": "ميدان متحف ملوي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Mallawi Post Office",
+        "nameNative": "مكتب بريد ملوي",
+        "type": "Sub Post Office",
+        "code": "61611"
+      },
+      "areas": [
+        "Mallawi Antiquities Museum Area",
+        "Ibrahimia Canal Bank",
+        "Tuna El Gabal Access"
+      ],
+      "coordinates": {
+        "latitude": 27.7312,
+        "longitude": 30.8412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MINYA-61611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

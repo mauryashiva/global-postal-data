@@ -1,0 +1,42 @@
+{
+  "prefix": "530",
+  "records": [
+    {
+      "postalCode": "5300001",
+      "postalCodeFormatted": "530-0001",
+      "postalCodeType": "AREA",
+      "prefectureCode": "27",
+      "prefectureNameEn": "Osaka",
+      "prefectureNameJa": "大阪府",
+      "prefectureNameKana": "オオサカフ",
+      "prefectureNameRomaji": "Osaka-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "27127",
+        "nameEn": "Osaka Kita Ward",
+        "nameJa": "大阪市北区",
+        "nameKana": "オオサカシキタク",
+        "nameRomaji": "Osaka-shi Kita-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "大阪市",
+        "parentCityEn": "Osaka City"
+      },
+      "townArea": {
+        "nameEn": "Umeda",
+        "nameJa": "梅田",
+        "nameKana": "ウメダ",
+        "nameRomaji": "Umeda",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Osaka Station & Umeda Commercial Center"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

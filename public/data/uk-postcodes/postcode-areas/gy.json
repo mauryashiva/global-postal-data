@@ -1,0 +1,55 @@
+{
+  "postcodeArea": "GY",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "GY1 1AA",
+      "postTown": "GUERNSEY",
+      "locality": "Saint Peter Port",
+      "dependentLocality": "Smith Street",
+      "constituentCountry": "Guernsey (Crown Dependency)",
+      "constituentCountryCode": "GG",
+      "region": "Channel Islands",
+      "ceremonialCounty": "Bailiwick of Guernsey",
+      "localAuthority": "Parish of St Peter Port",
+      "district": "St Peter Port",
+      "civilParish": "St Peter Port",
+      "ward": "St Peter Port South",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "isCrownDependency": true,
+      "crownDependencyName": "Guernsey",
+      "coordinates": {
+        "latitude": 49.4568,
+        "longitude": -2.5372,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "GY11AA-01",
+          "buildingName": "Guernsey Post Office",
+          "buildingNumber": null,
+          "subBuildingName": "Postal Headquarters",
+          "thoroughfare": "Smith Street",
+          "postTown": "GUERNSEY",
+          "postcode": "GY1 1AA",
+          "fullAddressText": "Guernsey Post Office, Smith Street, St Peter Port, Guernsey GY1 1AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "GY1 1AA",
+        "outwardCode": "GY1",
+        "inwardCode": "1AA",
+        "postcodeArea": "GY",
+        "postcodeDistrict": "GY1",
+        "postcodeSector": "GY1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-GY1-1AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

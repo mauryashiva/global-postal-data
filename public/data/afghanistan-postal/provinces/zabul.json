@@ -1,0 +1,593 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Zabul",
+    "nameNative": "زابل",
+    "isoCode": "AF-ZAB",
+    "postalPrefix": "40",
+    "capital": "Qalat",
+    "capitalNative": "قه‌لات",
+    "coordinates": {
+      "latitude": 32.1053,
+      "longitude": 66.9083
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 15,
+    "totalRecords": 15,
+    "urbanRecords": 4,
+    "ruralRecords": 11
+  },
+  "records": [
+    {
+      "postalCode": "400101",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Qalat - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-ZAB-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qalat District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-400101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "400201",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Qalat - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-ZAB-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qalat District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-400201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "400301",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Qalat - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-ZAB-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qalat District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-400301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "400401",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Qalat - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-ZAB-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qalat District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-400401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405101",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Tarnak Wa Jaldak District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-51"
+      },
+      "locality": {
+        "nameEn": "Tarnak Wa Jaldak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tarnak Wa Jaldak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405201",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Mizan District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-52"
+      },
+      "locality": {
+        "nameEn": "Mizan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Mizan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405301",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Khake Afghan District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-53"
+      },
+      "locality": {
+        "nameEn": "Khake Afghan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khake Afghan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405401",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Daychopan District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-54"
+      },
+      "locality": {
+        "nameEn": "Daychopan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Daychopan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405501",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Arghandab District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-55"
+      },
+      "locality": {
+        "nameEn": "Arghandab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Arghandab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405601",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Shahjoy District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-56"
+      },
+      "locality": {
+        "nameEn": "Shahjoy Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shahjoy District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405701",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Shomulzay District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-57"
+      },
+      "locality": {
+        "nameEn": "Shomulzay Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shomulzay District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405801",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Shinkay District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-58"
+      },
+      "locality": {
+        "nameEn": "Shinkay Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shinkay District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "405901",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Nawbahar District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-59"
+      },
+      "locality": {
+        "nameEn": "Nawbahar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nawbahar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-405901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "406001",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Atghar District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-60"
+      },
+      "locality": {
+        "nameEn": "Atghar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Atghar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-406001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "406101",
+      "province": {
+        "nameEn": "Zabul",
+        "nameNative": "زابل",
+        "code": "AF-ZAB",
+        "postalPrefix": "40"
+      },
+      "city": {
+        "nameEn": "Qalat",
+        "nameNative": "قه‌لات"
+      },
+      "district": {
+        "nameEn": "Seuory District",
+        "type": "Rural Administrative District",
+        "code": "AF-ZAB-61"
+      },
+      "locality": {
+        "nameEn": "Seuory Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Seuory District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 32.1053,
+        "longitude": 66.9083
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-406101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2417 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Dien Bien",
+    "nameVi": "Điện Biên",
+    "fullNameEn": "Dien Bien Province",
+    "fullNameVi": "Tỉnh Điện Biên",
+    "nameSearchNormalized": "dien bien",
+    "officialCode": "11",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "32",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 45,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "32120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Dien Bien Phu",
+        "nameVi": "Điện Biên Phủ",
+        "fullNameEn": "Dien Bien Phu Ward",
+        "fullNameVi": "Phường Điện Biên Phủ",
+        "nameSearchNormalized": "dien bien phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03127",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Dien Bien Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Điện Biên Phủ",
+        "type": "Ward",
+        "code": "32120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Phủ",
+        "districtFullName": "Thành phố Điện Biên Phủ",
+        "districtNameEn": "Dien Bien Phu",
+        "districtCode": "094",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32709",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Lay",
+        "nameVi": "Mường Lay",
+        "fullNameEn": "Muong Lay Ward",
+        "fullNameVi": "Phường Mường Lay",
+        "nameSearchNormalized": "muong lay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03151",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Lay Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mường Lay",
+        "type": "Ward",
+        "code": "32709"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Lay",
+        "districtFullName": "Thị xã Mường Lay",
+        "districtNameEn": "Muong Lay",
+        "districtCode": "095",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32911",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Sin Thau",
+        "nameVi": "Sín Thầu",
+        "fullNameEn": "Sin Thau Commune",
+        "fullNameVi": "Xã Sín Thầu",
+        "nameSearchNormalized": "sin thau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03158",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Sin Thau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sín Thầu",
+        "type": "Commune",
+        "code": "32911"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Nhé",
+        "districtFullName": "Huyện Mường Nhé",
+        "districtNameEn": "Muong Nhe",
+        "districtCode": "096",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Nhe",
+        "nameVi": "Mường Nhé",
+        "fullNameEn": "Muong Nhe Commune",
+        "fullNameVi": "Xã Mường Nhé",
+        "nameSearchNormalized": "muong nhe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03160",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Nhe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Nhé",
+        "type": "Commune",
+        "code": "32906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Nhé",
+        "districtFullName": "Huyện Mường Nhé",
+        "districtNameEn": "Muong Nhe",
+        "districtCode": "096",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32912",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Nam Ke",
+        "nameVi": "Nậm Kè",
+        "fullNameEn": "Nam Ke Commune",
+        "fullNameVi": "Xã Nậm Kè",
+        "nameSearchNormalized": "nam ke",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03162",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Nam Ke Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Kè",
+        "type": "Commune",
+        "code": "32912"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Nhé",
+        "districtFullName": "Huyện Mường Nhé",
+        "districtNameEn": "Muong Nhe",
+        "districtCode": "096",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32916",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Toong",
+        "nameVi": "Mường Toong",
+        "fullNameEn": "Muong Toong Commune",
+        "fullNameVi": "Xã Mường Toong",
+        "nameSearchNormalized": "muong toong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03163",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Toong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Toong",
+        "type": "Commune",
+        "code": "32916"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Nhé",
+        "districtFullName": "Huyện Mường Nhé",
+        "districtNameEn": "Muong Nhe",
+        "districtCode": "096",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Quang Lam",
+        "nameVi": "Quảng Lâm",
+        "fullNameEn": "Quang Lam Commune",
+        "fullNameVi": "Xã Quảng Lâm",
+        "nameSearchNormalized": "quang lam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03164",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Quang Lam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quảng Lâm",
+        "type": "Commune",
+        "code": "32913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Nhé",
+        "districtFullName": "Huyện Mường Nhé",
+        "districtNameEn": "Muong Nhe",
+        "districtCode": "096",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32821",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Cha",
+        "nameVi": "Mường Chà",
+        "fullNameEn": "Muong Cha Commune",
+        "fullNameVi": "Xã Mường Chà",
+        "nameSearchNormalized": "muong cha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03166",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Cha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Chà",
+        "type": "Commune",
+        "code": "32821"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nậm Pồ",
+        "districtFullName": "Huyện Nậm Pồ",
+        "districtNameEn": "Nam Po",
+        "districtCode": "103",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Na Hy",
+        "nameVi": "Nà Hỳ",
+        "fullNameEn": "Na Hy Commune",
+        "fullNameVi": "Xã Nà Hỳ",
+        "nameSearchNormalized": "na hy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03169",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Na Hy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nà Hỳ",
+        "type": "Commune",
+        "code": "32806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nậm Pồ",
+        "districtFullName": "Huyện Nậm Pồ",
+        "districtNameEn": "Nam Po",
+        "districtCode": "103",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32766",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Na Sang",
+        "nameVi": "Na Sang",
+        "fullNameEn": "Na Sang Commune",
+        "fullNameVi": "Xã Na Sang",
+        "nameSearchNormalized": "na sang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03172",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Na Sang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Na Sang",
+        "type": "Commune",
+        "code": "32766"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Chà",
+        "districtFullName": "Huyện Mường Chà",
+        "districtNameEn": "Muong Cha",
+        "districtCode": "097",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32810",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Cha To",
+        "nameVi": "Chà Tở",
+        "fullNameEn": "Cha To Commune",
+        "fullNameVi": "Xã Chà Tở",
+        "nameSearchNormalized": "cha to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03175",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Cha To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chà Tở",
+        "type": "Commune",
+        "code": "32810"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nậm Pồ",
+        "districtFullName": "Huyện Nậm Pồ",
+        "districtNameEn": "Nam Po",
+        "districtCode": "103",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32819",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Na Bung",
+        "nameVi": "Nà Bủng",
+        "fullNameEn": "Na Bung Commune",
+        "fullNameVi": "Xã Nà Bủng",
+        "nameSearchNormalized": "na bung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03176",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Na Bung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nà Bủng",
+        "type": "Commune",
+        "code": "32819"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nậm Pồ",
+        "districtFullName": "Huyện Nậm Pồ",
+        "districtNameEn": "Nam Po",
+        "districtCode": "103",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32763",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Tung",
+        "nameVi": "Mường Tùng",
+        "fullNameEn": "Muong Tung Commune",
+        "fullNameVi": "Xã Mường Tùng",
+        "nameSearchNormalized": "muong tung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03181",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Tung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Tùng",
+        "type": "Commune",
+        "code": "32763"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Chà",
+        "districtFullName": "Huyện Mường Chà",
+        "districtNameEn": "Muong Cha",
+        "districtCode": "097",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32759",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Pa Ham",
+        "nameVi": "Pa Ham",
+        "fullNameEn": "Pa Ham Commune",
+        "fullNameVi": "Xã Pa Ham",
+        "nameSearchNormalized": "pa ham",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03193",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Pa Ham Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Pa Ham",
+        "type": "Commune",
+        "code": "32759"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Chà",
+        "districtFullName": "Huyện Mường Chà",
+        "districtNameEn": "Muong Cha",
+        "districtCode": "097",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32758",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Nam Nen",
+        "nameVi": "Nậm Nèn",
+        "fullNameEn": "Nam Nen Commune",
+        "fullNameVi": "Xã Nậm Nèn",
+        "nameSearchNormalized": "nam nen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03194",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Nam Nen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Nèn",
+        "type": "Commune",
+        "code": "32758"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Chà",
+        "districtFullName": "Huyện Mường Chà",
+        "districtNameEn": "Muong Cha",
+        "districtCode": "097",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32807",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Si Pa Phin",
+        "nameVi": "Si Pa Phìn",
+        "fullNameEn": "Si Pa Phin Commune",
+        "fullNameVi": "Xã Si Pa Phìn",
+        "nameSearchNormalized": "si pa phin",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03199",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Si Pa Phin Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Si Pa Phìn",
+        "type": "Commune",
+        "code": "32807"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nậm Pồ",
+        "districtFullName": "Huyện Nậm Pồ",
+        "districtNameEn": "Nam Po",
+        "districtCode": "103",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Pon",
+        "nameVi": "Mường Pồn",
+        "fullNameEn": "Muong Pon Commune",
+        "fullNameVi": "Xã Mường Pồn",
+        "nameSearchNormalized": "muong pon",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03202",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Pon Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Pồn",
+        "type": "Commune",
+        "code": "32214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Chà",
+        "districtFullName": "Huyện Mường Chà",
+        "districtNameEn": "Muong Cha",
+        "districtCode": "097",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Na Son",
+        "nameVi": "Na Son",
+        "fullNameEn": "Na Son Commune",
+        "fullNameVi": "Xã Na Son",
+        "nameSearchNormalized": "na son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03203",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Na Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Na Son",
+        "type": "Commune",
+        "code": "32310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Đông",
+        "districtFullName": "Huyện Điện Biên Đông",
+        "districtNameEn": "Dien Bien Dong",
+        "districtCode": "101",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Xa Dung",
+        "nameVi": "Xa Dung",
+        "fullNameEn": "Xa Dung Commune",
+        "fullNameVi": "Xã Xa Dung",
+        "nameSearchNormalized": "xa dung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03208",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Xa Dung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xa Dung",
+        "type": "Commune",
+        "code": "32309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Đông",
+        "districtFullName": "Huyện Điện Biên Đông",
+        "districtNameEn": "Dien Bien Dong",
+        "districtCode": "101",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32319",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Luan",
+        "nameVi": "Mường Luân",
+        "fullNameEn": "Muong Luan Commune",
+        "fullNameVi": "Xã Mường Luân",
+        "nameSearchNormalized": "muong luan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03214",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Luan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Luân",
+        "type": "Commune",
+        "code": "32319"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Đông",
+        "districtFullName": "Huyện Điện Biên Đông",
+        "districtNameEn": "Dien Bien Dong",
+        "districtCode": "101",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Tua Chua",
+        "nameVi": "Tủa Chùa",
+        "fullNameEn": "Tua Chua Commune",
+        "fullNameVi": "Xã Tủa Chùa",
+        "nameSearchNormalized": "tua chua",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03217",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Tua Chua Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tủa Chùa",
+        "type": "Commune",
+        "code": "32606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tủa Chùa",
+        "districtFullName": "Huyện Tủa Chùa",
+        "districtNameEn": "Tua Chua",
+        "districtCode": "098",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32610",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Tua Thang",
+        "nameVi": "Tủa Thàng",
+        "fullNameEn": "Tua Thang Commune",
+        "fullNameVi": "Xã Tủa Thàng",
+        "nameSearchNormalized": "tua thang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03220",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Tua Thang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tủa Thàng",
+        "type": "Commune",
+        "code": "32610"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tủa Chùa",
+        "districtFullName": "Huyện Tủa Chùa",
+        "districtNameEn": "Tua Chua",
+        "districtCode": "098",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Sin Chai",
+        "nameVi": "Sín Chải",
+        "fullNameEn": "Sin Chai Commune",
+        "fullNameVi": "Xã Sín Chải",
+        "nameSearchNormalized": "sin chai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03226",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Sin Chai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sín Chải",
+        "type": "Commune",
+        "code": "32612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tủa Chùa",
+        "districtFullName": "Huyện Tủa Chùa",
+        "districtNameEn": "Tua Chua",
+        "districtCode": "098",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32617",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Sinh Phinh",
+        "nameVi": "Sính Phình",
+        "fullNameEn": "Sinh Phinh Commune",
+        "fullNameVi": "Xã Sính Phình",
+        "nameSearchNormalized": "sinh phinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03241",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Sinh Phinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sính Phình",
+        "type": "Commune",
+        "code": "32617"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tủa Chùa",
+        "districtFullName": "Huyện Tủa Chùa",
+        "districtNameEn": "Tua Chua",
+        "districtCode": "098",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Sang Nhe",
+        "nameVi": "Sáng Nhè",
+        "fullNameEn": "Sang Nhe Commune",
+        "fullNameVi": "Xã Sáng Nhè",
+        "nameSearchNormalized": "sang nhe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03244",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Sang Nhe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sáng Nhè",
+        "type": "Commune",
+        "code": "32618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tủa Chùa",
+        "districtFullName": "Huyện Tủa Chùa",
+        "districtNameEn": "Tua Chua",
+        "districtCode": "098",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Tuan Giao",
+        "nameVi": "Tuần Giáo",
+        "fullNameEn": "Tuan Giao Commune",
+        "fullNameVi": "Xã Tuần Giáo",
+        "nameSearchNormalized": "tuan giao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03253",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Tuan Giao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tuần Giáo",
+        "type": "Commune",
+        "code": "32506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuần Giáo",
+        "districtFullName": "Huyện Tuần Giáo",
+        "districtNameEn": "Tuan Giao",
+        "districtCode": "099",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Ang",
+        "nameVi": "Mường Ảng",
+        "fullNameEn": "Muong Ang Commune",
+        "fullNameVi": "Xã Mường Ảng",
+        "nameSearchNormalized": "muong ang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03256",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Ang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Ảng",
+        "type": "Commune",
+        "code": "32406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Ảng",
+        "districtFullName": "Huyện Mường Ảng",
+        "districtNameEn": "Muong Ang",
+        "districtCode": "102",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Pu Nhung",
+        "nameVi": "Pú Nhung",
+        "fullNameEn": "Pu Nhung Commune",
+        "fullNameVi": "Xã Pú Nhung",
+        "nameSearchNormalized": "pu nhung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03260",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Pu Nhung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Pú Nhung",
+        "type": "Commune",
+        "code": "32513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuần Giáo",
+        "districtFullName": "Huyện Tuần Giáo",
+        "districtNameEn": "Tuan Giao",
+        "districtCode": "099",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Mun",
+        "nameVi": "Mường Mùn",
+        "fullNameEn": "Muong Mun Commune",
+        "fullNameVi": "Xã Mường Mùn",
+        "nameSearchNormalized": "muong mun",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03268",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Mun Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Mùn",
+        "type": "Commune",
+        "code": "32516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuần Giáo",
+        "districtFullName": "Huyện Tuần Giáo",
+        "districtNameEn": "Tuan Giao",
+        "districtCode": "099",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32521",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Chieng Sinh",
+        "nameVi": "Chiềng Sinh",
+        "fullNameEn": "Chieng Sinh Commune",
+        "fullNameVi": "Xã Chiềng Sinh",
+        "nameSearchNormalized": "chieng sinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03283",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Sinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Sinh",
+        "type": "Commune",
+        "code": "32521"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuần Giáo",
+        "districtFullName": "Huyện Tuần Giáo",
+        "districtNameEn": "Tuan Giao",
+        "districtCode": "099",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32524",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Quai To",
+        "nameVi": "Quài Tở",
+        "fullNameEn": "Quai To Commune",
+        "fullNameVi": "Xã Quài Tở",
+        "nameSearchNormalized": "quai to",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03295",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Quai To Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quài Tở",
+        "type": "Commune",
+        "code": "32524"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Tuần Giáo",
+        "districtFullName": "Huyện Tuần Giáo",
+        "districtNameEn": "Tuan Giao",
+        "districtCode": "099",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Bung Lao",
+        "nameVi": "Búng Lao",
+        "fullNameEn": "Bung Lao Commune",
+        "fullNameVi": "Xã Búng Lao",
+        "nameSearchNormalized": "bung lao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03301",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Bung Lao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Búng Lao",
+        "type": "Commune",
+        "code": "32415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Ảng",
+        "districtFullName": "Huyện Mường Ảng",
+        "districtNameEn": "Muong Ang",
+        "districtCode": "102",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Lan",
+        "nameVi": "Mường Lạn",
+        "fullNameEn": "Muong Lan Commune",
+        "fullNameVi": "Xã Mường Lạn",
+        "nameSearchNormalized": "muong lan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03313",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Lan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Lạn",
+        "type": "Commune",
+        "code": "32413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Ảng",
+        "districtFullName": "Huyện Mường Ảng",
+        "districtNameEn": "Muong Ang",
+        "districtCode": "102",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Na Tau",
+        "nameVi": "Nà Tấu",
+        "fullNameEn": "Na Tau Commune",
+        "fullNameVi": "Xã Nà Tấu",
+        "nameSearchNormalized": "na tau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03316",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Na Tau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nà Tấu",
+        "type": "Commune",
+        "code": "32118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Phủ",
+        "districtFullName": "Thành phố Điện Biên Phủ",
+        "districtNameEn": "Dien Bien Phu",
+        "districtCode": "094",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Phang",
+        "nameVi": "Mường Phăng",
+        "fullNameEn": "Muong Phang Commune",
+        "fullNameVi": "Xã Mường Phăng",
+        "nameSearchNormalized": "muong phang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03325",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Phang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Phăng",
+        "type": "Commune",
+        "code": "32116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Phủ",
+        "districtFullName": "Thành phố Điện Biên Phủ",
+        "districtNameEn": "Dien Bien Phu",
+        "districtCode": "094",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Thanh Nua",
+        "nameVi": "Thanh Nưa",
+        "fullNameEn": "Thanh Nua Commune",
+        "fullNameVi": "Xã Thanh Nưa",
+        "nameSearchNormalized": "thanh nua",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03328",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Nua Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Nưa",
+        "type": "Commune",
+        "code": "32216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32119",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Thanh",
+        "nameVi": "Mường Thanh",
+        "fullNameEn": "Muong Thanh Ward",
+        "fullNameVi": "Phường Mường Thanh",
+        "nameSearchNormalized": "muong thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03334",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mường Thanh",
+        "type": "Ward",
+        "code": "32119"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32220",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Thanh Yen",
+        "nameVi": "Thanh Yên",
+        "fullNameEn": "Thanh Yen Commune",
+        "fullNameVi": "Xã Thanh Yên",
+        "nameSearchNormalized": "thanh yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03349",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Yên",
+        "type": "Commune",
+        "code": "32220"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32208",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Thanh An",
+        "nameVi": "Thanh An",
+        "fullNameEn": "Thanh An Commune",
+        "fullNameVi": "Xã Thanh An",
+        "nameSearchNormalized": "thanh an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03352",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Thanh An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh An",
+        "type": "Commune",
+        "code": "32208"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32231",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Sam Mun",
+        "nameVi": "Sam Mứn",
+        "fullNameEn": "Sam Mun Commune",
+        "fullNameVi": "Xã Sam Mứn",
+        "nameSearchNormalized": "sam mun",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03356",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Sam Mun Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sam Mứn",
+        "type": "Commune",
+        "code": "32231"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32226",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Nua Ngam",
+        "nameVi": "Núa Ngam",
+        "fullNameEn": "Nua Ngam Commune",
+        "fullNameVi": "Xã Núa Ngam",
+        "nameSearchNormalized": "nua ngam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03358",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Nua Ngam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Núa Ngam",
+        "type": "Commune",
+        "code": "32226"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32228",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Muong Nha",
+        "nameVi": "Mường Nhà",
+        "fullNameEn": "Muong Nha Commune",
+        "fullNameVi": "Xã Mường Nhà",
+        "nameSearchNormalized": "muong nha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03368",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Muong Nha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Nhà",
+        "type": "Commune",
+        "code": "32228"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên",
+        "districtFullName": "Huyện Điện Biên",
+        "districtNameEn": "Dien Bien",
+        "districtCode": "100",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Pu Nhi",
+        "nameVi": "Pu Nhi",
+        "fullNameEn": "Pu Nhi Commune",
+        "fullNameVi": "Xã Pu Nhi",
+        "nameSearchNormalized": "pu nhi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03370",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Pu Nhi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Pu Nhi",
+        "type": "Commune",
+        "code": "32311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Đông",
+        "districtFullName": "Huyện Điện Biên Đông",
+        "districtNameEn": "Dien Bien Dong",
+        "districtCode": "101",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32314",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Phinh Giang",
+        "nameVi": "Phình Giàng",
+        "fullNameEn": "Phinh Giang Commune",
+        "fullNameVi": "Xã Phình Giàng",
+        "nameSearchNormalized": "phinh giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03382",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Phinh Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phình Giàng",
+        "type": "Commune",
+        "code": "32314"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Đông",
+        "districtFullName": "Huyện Điện Biên Đông",
+        "districtNameEn": "Dien Bien Dong",
+        "districtCode": "101",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "32316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Dien Bien",
+        "nameVi": "Điện Biên",
+        "fullNameEn": "Dien Bien Province",
+        "fullNameVi": "Tỉnh Điện Biên",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "11"
+      },
+      "commune": {
+        "nameEn": "Tia Dinh",
+        "nameVi": "Tìa Dình",
+        "fullNameEn": "Tia Dinh Commune",
+        "fullNameVi": "Xã Tìa Dình",
+        "nameSearchNormalized": "tia dinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03385",
+        "provinceCode": "11"
+      },
+      "postalObject": {
+        "nameEn": "Tia Dinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tìa Dình",
+        "type": "Commune",
+        "code": "32316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Điện Biên Đông",
+        "districtFullName": "Huyện Điện Biên Đông",
+        "districtNameEn": "Dien Bien Dong",
+        "districtCode": "101",
+        "legacyProvinceName": "Điện Biên",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

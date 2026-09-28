@@ -1,0 +1,1049 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Faryab",
+    "nameNative": "فاریاب",
+    "isoCode": "AF-FYB",
+    "postalPrefix": "18",
+    "capital": "Maymana",
+    "capitalNative": "میمنه",
+    "coordinates": {
+      "latitude": 36.0796,
+      "longitude": 64.906
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 27,
+    "totalRecords": 27,
+    "urbanRecords": 10,
+    "ruralRecords": 17
+  },
+  "records": [
+    {
+      "postalCode": "180101",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180201",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180301",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180401",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180501",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180601",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180701",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180801",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "180901",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 9",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-09"
+      },
+      "locality": {
+        "nameEn": "District 9 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 9 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-180901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "181001",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Maymana - District 10",
+        "type": "Urban Municipal District",
+        "code": "AF-FYB-10"
+      },
+      "locality": {
+        "nameEn": "District 10 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Maymana District 10 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-181001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185101",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Khan-e-Char Bagh District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-51"
+      },
+      "locality": {
+        "nameEn": "Khan-e-Char Bagh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khan-e-Char Bagh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185201",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Andkhoy District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-52"
+      },
+      "locality": {
+        "nameEn": "Andkhoy Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Andkhoy District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185301",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Qorghan District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-53"
+      },
+      "locality": {
+        "nameEn": "Qorghan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qorghan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185401",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Qaramqol District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-54"
+      },
+      "locality": {
+        "nameEn": "Qaramqol Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qaramqol District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185501",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Dawlatabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-55"
+      },
+      "locality": {
+        "nameEn": "Dawlatabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dawlatabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185601",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Shirintagab District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-56"
+      },
+      "locality": {
+        "nameEn": "Shirintagab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shirintagab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185701",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Kohestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-57"
+      },
+      "locality": {
+        "nameEn": "Kohestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kohestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185801",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Khwajasabzposh District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-58"
+      },
+      "locality": {
+        "nameEn": "Khwajasabzposh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwajasabzposh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "185901",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Pashtunkot District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-59"
+      },
+      "locality": {
+        "nameEn": "Pashtunkot Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Pashtunkot District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-185901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186001",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Bilcheragh District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-60"
+      },
+      "locality": {
+        "nameEn": "Bilcheragh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Bilcheragh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186101",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Garziwan District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-61"
+      },
+      "locality": {
+        "nameEn": "Garziwan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Garziwan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186201",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Almar District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-62"
+      },
+      "locality": {
+        "nameEn": "Almar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Almar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186301",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Qaysar District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-63"
+      },
+      "locality": {
+        "nameEn": "Qaysar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qaysar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186401",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Chal gazy District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-64"
+      },
+      "locality": {
+        "nameEn": "Chal gazy Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chal gazy District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186501",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Khaja Musa District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-65"
+      },
+      "locality": {
+        "nameEn": "Khaja Musa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khaja Musa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186601",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Bandar District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-66"
+      },
+      "locality": {
+        "nameEn": "Bandar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Bandar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "186701",
+      "province": {
+        "nameEn": "Faryab",
+        "nameNative": "فاریاب",
+        "code": "AF-FYB",
+        "postalPrefix": "18"
+      },
+      "city": {
+        "nameEn": "Maymana",
+        "nameNative": "میمنه"
+      },
+      "district": {
+        "nameEn": "Khyber District",
+        "type": "Rural Administrative District",
+        "code": "AF-FYB-67"
+      },
+      "locality": {
+        "nameEn": "Khyber Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khyber District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.0796,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-186701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

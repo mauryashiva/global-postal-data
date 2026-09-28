@@ -1,0 +1,55 @@
+{
+  "prefix": "70",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "70111",
+      "province": {
+        "code": "63",
+        "nameEn": "South Kalimantan",
+        "nameId": "Kalimantan Selatan",
+        "nameNative": "Kalimantan Selatan",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "63.71",
+        "nameId": "Kota Banjarmasin",
+        "nameEn": "Banjarmasin",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "63.71.01",
+        "nameId": "Kecamatan Banjarmasin Tengah",
+        "nameEn": "Central Banjarmasin District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "63.71.01.1001",
+        "nameId": "Kelurahan Kertak Baru Ilir",
+        "nameEn": "Kertak Baru Ilir",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pasar Terapung / Menara Pandang Siring",
+        "nameEn": "Floating Market & Martapura Riverway"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Banjarmasin",
+        "nameEn": "Banjarmasin Main Post Office",
+        "code": "70000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-63-70111-63.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

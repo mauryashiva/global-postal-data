@@ -1,0 +1,55 @@
+{
+  "prefix": "15",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "15321",
+      "province": {
+        "code": "36",
+        "nameEn": "Banten",
+        "nameId": "Banten",
+        "nameNative": "Banten",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "36.74",
+        "nameId": "Kota Tangerang Selatan",
+        "nameEn": "South Tangerang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "36.74.03",
+        "nameId": "Kecamatan Serpong",
+        "nameEn": "Serpong District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "36.74.03.1002",
+        "nameId": "Kelurahan Lengkong Gudang",
+        "nameEn": "Lengkong Gudang",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "BSD City (Bumi Serpong Damai)",
+        "nameEn": "BSD City Modern Township"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Serpong BSD",
+        "nameEn": "Serpong BSD Post Office",
+        "code": "15321",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-36-15321-36.74.03.1002",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

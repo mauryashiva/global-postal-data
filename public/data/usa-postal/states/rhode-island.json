@@ -1,0 +1,97 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Rhode Island",
+    "abbreviation": "RI",
+    "fipsCode": "44",
+    "capital": "Providence",
+    "largestCity": "Providence",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "401"
+    ],
+    "prefixes": [
+      "028",
+      "029"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-RI-02903-0",
+      "zip5": "02903",
+      "zip4": "1001",
+      "zipPlus4": "02903-1001",
+      "state": {
+        "nameEn": "Rhode Island",
+        "abbreviation": "RI",
+        "fipsCode": "44",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Providence",
+      "acceptableCities": [
+        "Providence",
+        "Downtown"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Providence",
+          "status": "Primary"
+        },
+        {
+          "name": "Downtown",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Providence County",
+          "fipsCode": "44007",
+          "geoid": "44007"
+        }
+      ],
+      "primaryCounty": "Providence County",
+      "zcta": {
+        "code": "02903"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Providence Main Post Office",
+        "address": "24 Corliss St",
+        "phone": "(401) 276-6900",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 41.824,
+        "longitude": -71.4128,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "401"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14300
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-RI-02903",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

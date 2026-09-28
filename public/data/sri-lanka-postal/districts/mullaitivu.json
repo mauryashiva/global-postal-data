@@ -1,0 +1,1304 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Mullaitivu",
+    "nameSi": "මුලතිව්",
+    "nameTa": "முல்லைத்தீவு",
+    "administrativeType": "District",
+    "code": "LK-45"
+  },
+  "province": {
+    "nameEn": "Northern Province",
+    "nameSi": "උතුරු පළාත",
+    "nameTa": "வட மாகாணம்",
+    "code": "LK-4"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Maritimepattu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Oddusuddan",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Puthukudiyiruppu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thunukkai",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manthai East",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 18,
+    "totalRecords": 19,
+    "dsDivisionCount": 5
+  },
+  "postcodes": [
+    {
+      "postcode": "42000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULLATIVU",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Mullativu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "city": {
+            "nameEn": "Mullativu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "postcode": "42000",
+          "postOffice": {
+            "nameEn": "Mullativu Post Office",
+            "nameSi": "මුලතිව් තැපැල් කාර්යාලය",
+            "nameTa": "முல்லைத்தீவு தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42000"
+          },
+          "coordinates": {
+            "latitude": 9.2670911,
+            "longitude": 80.814248
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        },
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULLATHIVU",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Mullathivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "city": {
+            "nameEn": "Mullathivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "postcode": "42000",
+          "postOffice": {
+            "nameEn": "Mullathivu Post Office",
+            "nameSi": "මුලතිව් තැපැල් කාර්යාලය",
+            "nameTa": "முல்லைத்தீவு தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42000"
+          },
+          "coordinates": {
+            "latitude": 9.2670911,
+            "longitude": 80.814248
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42005",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ALAMPIL",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Alampil",
+            "nameSi": "අලම්පිල්",
+            "nameTa": "அலம்பில்"
+          },
+          "city": {
+            "nameEn": "Alampil",
+            "nameSi": "අලම්පිල්",
+            "nameTa": "அலம்பில்"
+          },
+          "postcode": "42005",
+          "postOffice": {
+            "nameEn": "Alampil Post Office",
+            "nameSi": "අලම්පිල් තැපැල් කාර්යාලය",
+            "nameTa": "அலம்பில் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42005"
+          },
+          "coordinates": {
+            "latitude": 9.1815797,
+            "longitude": 80.8460822
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULLIYAWALAI",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Mulliyawalai",
+            "nameSi": "මුල්ලියාවලයි",
+            "nameTa": "முள்ளியவளை"
+          },
+          "city": {
+            "nameEn": "Mulliyawalai",
+            "nameSi": "මුල්ලියාවලයි",
+            "nameTa": "முள்ளியவளை"
+          },
+          "postcode": "42100",
+          "postOffice": {
+            "nameEn": "Mulliyawalai Post Office",
+            "nameSi": "මුල්ලියාවලයි තැපැල් කාර්යාලය",
+            "nameTa": "முள்ளியவளை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42100"
+          },
+          "coordinates": {
+            "latitude": 9.2192151,
+            "longitude": 80.7643952
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ODDUSUDAN",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Oddusudan",
+            "nameSi": "ඔඩ්ඩුසුඩාන්",
+            "nameTa": "ஒட்டுசுடான்"
+          },
+          "city": {
+            "nameEn": "Oddusudan",
+            "nameSi": "ඔඩ්ඩුසුඩාන්",
+            "nameTa": "ஒட்டுசுடான்"
+          },
+          "postcode": "42200",
+          "postOffice": {
+            "nameEn": "Oddusudan Post Office",
+            "nameSi": "ඔඩ්ඩුසුඩාන් තැපැල් කාර්යාලය",
+            "nameTa": "ஒட்டுசுடான் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42200"
+          },
+          "coordinates": {
+            "latitude": 9.1538678,
+            "longitude": 80.6497312
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42210",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MUTHTHAIYANKADDUKULAM",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Muththaiyankaddukulam",
+            "nameSi": "මුත්තයියන්කඩ්ඩුකුලම්",
+            "nameTa": "முத்தையான்கட்டுக்குளம்"
+          },
+          "city": {
+            "nameEn": "Muththaiyankaddukulam",
+            "nameSi": "මුත්තයියන්කඩ්ඩුකුලම්",
+            "nameTa": "முத்தையான்கட்டுக்குளம்"
+          },
+          "postcode": "42210",
+          "postOffice": {
+            "nameEn": "Muththaiyankaddukulam Post Office",
+            "nameSi": "මුත්තයියන්කඩ්ඩුකුලම් තැපැල් කාර්යාලය",
+            "nameTa": "முத்தையான்கட்டுக்குளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42210"
+          },
+          "coordinates": {
+            "latitude": 9.2670911,
+            "longitude": 80.814248
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARUPPADDAMURIPPU",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Karuppaddamurippu",
+            "nameSi": "කරුප්පද්දමුරිප්පු",
+            "nameTa": "கருப்பட்டமுறிப்பு"
+          },
+          "city": {
+            "nameEn": "Karuppaddamurippu",
+            "nameSi": "කරුප්පද්දමුරිප්පු",
+            "nameTa": "கருப்பட்டமுறிப்பு"
+          },
+          "postcode": "42220",
+          "postOffice": {
+            "nameEn": "Karuppaddamurippu Post Office",
+            "nameSi": "කරුප්පද්දමුරිප්පු තැපැල් කාර්යාලය",
+            "nameTa": "கருப்பட்டமுறிப்பு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42220"
+          },
+          "coordinates": {
+            "latitude": 9.1526403,
+            "longitude": 80.520229
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MANKULAM",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Mankulam",
+            "nameSi": "මාන්කුලම්",
+            "nameTa": "மாங்குளம்"
+          },
+          "city": {
+            "nameEn": "Mankulam",
+            "nameSi": "මාන්කුලම්",
+            "nameTa": "மாங்குளம்"
+          },
+          "postcode": "42300",
+          "postOffice": {
+            "nameEn": "Mankulam Post Office",
+            "nameSi": "මාන්කුලම් තැපැල් කාර්යාලය",
+            "nameTa": "மாங்குளம் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42300"
+          },
+          "coordinates": {
+            "latitude": 9.1369885,
+            "longitude": 80.4451687
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42305",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VAVUNAKKULAM",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Vavunakkulam",
+            "nameSi": "වව්නක්කුලම්",
+            "nameTa": "வவுணக்குளம்"
+          },
+          "city": {
+            "nameEn": "Vavunakkulam",
+            "nameSi": "වව්නක්කුලම්",
+            "nameTa": "வவுணக்குளம்"
+          },
+          "postcode": "42305",
+          "postOffice": {
+            "nameEn": "Vavunakkulam Post Office",
+            "nameSi": "වව්නක්කුලම් තැපැල් කාර්යාලය",
+            "nameTa": "வவுணக்குளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42305"
+          },
+          "coordinates": {
+            "latitude": 9.2670911,
+            "longitude": 80.814248
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42308",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NADDANKANDAL",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Naddankandal",
+            "nameSi": "නද්දන්කන්ඩාල්",
+            "nameTa": "நட்டான்கண்டல்"
+          },
+          "city": {
+            "nameEn": "Naddankandal",
+            "nameSi": "නද්දන්කන්ඩාල්",
+            "nameTa": "நட்டான்கண்டல்"
+          },
+          "postcode": "42308",
+          "postOffice": {
+            "nameEn": "Naddankandal Post Office",
+            "nameSi": "නද්දන්කන්ඩාල් තැපැල් කාර්යාලය",
+            "nameTa": "நட்டான்கண்டல் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42308"
+          },
+          "coordinates": {
+            "latitude": 9.004013,
+            "longitude": 80.2209773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42315",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "YOGAPURAM",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Yogapuram",
+            "nameSi": "යෝගපුරම්",
+            "nameTa": "யோகபுரம்"
+          },
+          "city": {
+            "nameEn": "Yogapuram",
+            "nameSi": "යෝගපුරම්",
+            "nameTa": "யோகபுரம்"
+          },
+          "postcode": "42315",
+          "postOffice": {
+            "nameEn": "Yogapuram Post Office",
+            "nameSi": "යෝගපුරම් තැපැල් කාර්යාලය",
+            "nameTa": "யோகபுரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42315"
+          },
+          "coordinates": {
+            "latitude": 9.130417,
+            "longitude": 80.3072085
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42320",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": {
+            "nameEn": "Thunukkai",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "THUNUKKAI",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Thunukkai",
+            "nameSi": "තුනුක්කායි",
+            "nameTa": "துணுக்காய்"
+          },
+          "city": {
+            "nameEn": "Thunukkai",
+            "nameSi": "තුනුක්කායි",
+            "nameTa": "துணுக்காய்"
+          },
+          "postcode": "42320",
+          "postOffice": {
+            "nameEn": "Thunukkai Post Office",
+            "nameSi": "තුනුක්කායි තැපැල් කාර්යාලය",
+            "nameTa": "துணுக்காய் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42320"
+          },
+          "coordinates": {
+            "latitude": 9.1340486,
+            "longitude": 80.2862636
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42330",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUTHUVEDDUVAN",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Puthuvedduvan",
+            "nameSi": "පුත්තුවෙද්දුවන්",
+            "nameTa": "புதுவெட்டுவான்"
+          },
+          "city": {
+            "nameEn": "Puthuvedduvan",
+            "nameSi": "පුත්තුවෙද්දුවන්",
+            "nameTa": "புதுவெட்டுவான்"
+          },
+          "postcode": "42330",
+          "postOffice": {
+            "nameEn": "Puthuvedduvan Post Office",
+            "nameSi": "පුත්තුවෙද්දුවන් තැපැල් කාර්යාලය",
+            "nameTa": "புதுவெட்டுவான் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42330"
+          },
+          "coordinates": {
+            "latitude": 9.2475408,
+            "longitude": 80.3324514
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42515",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VISVAMADUKULAM",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Visvamadukulam",
+            "nameSi": "විශ්වමඩුකුලම්",
+            "nameTa": "விஸ்வமடுகுளம்"
+          },
+          "city": {
+            "nameEn": "Visvamadukulam",
+            "nameSi": "විශ්වමඩුකුලම්",
+            "nameTa": "விஸ்வமடுகுளம்"
+          },
+          "postcode": "42515",
+          "postOffice": {
+            "nameEn": "Visvamadukulam Post Office",
+            "nameSi": "විශ්වමඩුකුලම් තැපැල් කාර්යාලය",
+            "nameTa": "விஸ்வமடுகுளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42515"
+          },
+          "coordinates": {
+            "latitude": 9.376037,
+            "longitude": 80.5502456
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42518",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDAYARKADDU",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Udayarkaddu",
+            "nameSi": "උදයාර්කඩ්ඩු",
+            "nameTa": "உடையார்கட்டு"
+          },
+          "city": {
+            "nameEn": "Udayarkaddu",
+            "nameSi": "උදයාර්කඩ්ඩු",
+            "nameTa": "உடையார்கட்டு"
+          },
+          "postcode": "42518",
+          "postOffice": {
+            "nameEn": "Udayarkaddu Post Office",
+            "nameSi": "උදයාර්කඩ්ඩු තැපැල් කාර්යාලය",
+            "nameTa": "உடையார்கட்டு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42518"
+          },
+          "coordinates": {
+            "latitude": 9.3131821,
+            "longitude": 80.5841155
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42530",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUTHUKKUDIYIRUPPU",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Puthukkudiyiruppu",
+            "nameSi": "පුදුක්කුඩිඉරිප්පු",
+            "nameTa": "புதுக்குடியிருப்பு"
+          },
+          "city": {
+            "nameEn": "Puthukkudiyiruppu",
+            "nameSi": "පුදුක්කුඩිඉරිප්පු",
+            "nameTa": "புதுக்குடியிருப்பு"
+          },
+          "postcode": "42530",
+          "postOffice": {
+            "nameEn": "Puthukkudiyiruppu Post Office",
+            "nameSi": "පුදුක්කුඩිඉරිප්පු තැපැල් කාර්යාලය",
+            "nameTa": "புதுக்குடியிருப்பு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42530"
+          },
+          "coordinates": {
+            "latitude": 9.3157998,
+            "longitude": 80.6926212
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "42540",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULLIVAIKKAL",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Mullivaikkal",
+            "nameSi": "මුල්ලිවයික්කාල්",
+            "nameTa": "முள்ளிவாய்க்கால்"
+          },
+          "city": {
+            "nameEn": "Mullivaikkal",
+            "nameSi": "මුල්ලිවයික්කාල්",
+            "nameTa": "முள்ளிவாய்க்கால்"
+          },
+          "postcode": "42540",
+          "postOffice": {
+            "nameEn": "Mullivaikkal Post Office",
+            "nameSi": "මුල්ලිවයික්කාල් තැපැල් කාර්යාලය",
+            "nameTa": "முள்ளிவாய்க்கால் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42540"
+          },
+          "coordinates": {
+            "latitude": 9.3119602,
+            "longitude": 80.7865906
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "50584",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ETHAWETUNUWEWA",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Ethawetunuwewa",
+            "nameSi": "ඇතාවැටුණුවැව",
+            "nameTa": "எதவெதுனுவெவ"
+          },
+          "city": {
+            "nameEn": "Ethawetunuwewa",
+            "nameSi": "ඇතාවැටුණුවැව",
+            "nameTa": "எதவெதுனுவெவ"
+          },
+          "postcode": "50584",
+          "postOffice": {
+            "nameEn": "Ethawetunuwewa Post Office",
+            "nameSi": "ඇතාවැටුණුවැව තැපැල් කාර්යාලය",
+            "nameTa": "எதவெதுனுவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "50584"
+          },
+          "coordinates": {
+            "latitude": 8.9752567,
+            "longitude": 80.7449997
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "50586",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mullaitivu",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு",
+            "administrativeType": "District",
+            "code": "LK-45"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WELIOYA",
+            "nameSi": "මුලතිව්",
+            "nameTa": "முல்லைத்தீவு"
+          },
+          "locality": {
+            "nameEn": "Welioya",
+            "nameSi": "වැලිඔය",
+            "nameTa": "வெலிஓயா"
+          },
+          "city": {
+            "nameEn": "Welioya",
+            "nameSi": "වැලිඔය",
+            "nameTa": "வெலிஓயா"
+          },
+          "postcode": "50586",
+          "postOffice": {
+            "nameEn": "Welioya Post Office",
+            "nameSi": "වැලිඔය තැපැල් කාර්යාලය",
+            "nameTa": "வெலிஓயா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "50586"
+          },
+          "coordinates": {
+            "latitude": 8.9640414,
+            "longitude": 80.7879407
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

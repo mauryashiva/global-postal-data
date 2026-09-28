@@ -1,0 +1,2208 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Centrally Governed City",
+    "nameEn": "Hue",
+    "nameVi": "Huế",
+    "fullNameEn": "Hue City",
+    "fullNameVi": "Thành phố Huế",
+    "nameSearchNormalized": "hue",
+    "officialCode": "46",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "49",
+    "isCentrallyGovernedCity": true
+  },
+  "statistics": {
+    "totalCommunes": 41,
+    "specialPostalObjects": 1
+  },
+  "postalRecords": [
+    {
+      "postalCode": "49133",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phu Xuan",
+        "nameVi": "Phú Xuân",
+        "fullNameEn": "Phu Xuan Ward",
+        "fullNameVi": "Phường Phú Xuân",
+        "nameSearchNormalized": "phu xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19753",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phu Xuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phú Xuân",
+        "type": "Ward",
+        "code": "49133"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Xuân",
+        "districtFullName": "Quận Phú Xuân",
+        "districtNameEn": "Phu Xuan",
+        "districtCode": "475",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Kim Long",
+        "nameVi": "Kim Long",
+        "fullNameEn": "Kim Long Ward",
+        "fullNameVi": "Phường Kim Long",
+        "nameSearchNormalized": "kim long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19774",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Kim Long Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Kim Long",
+        "type": "Ward",
+        "code": "49122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Xuân",
+        "districtFullName": "Quận Phú Xuân",
+        "districtNameEn": "Phu Xuan",
+        "districtCode": "475",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49107",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Vy Da",
+        "nameVi": "Vỹ Dạ",
+        "fullNameEn": "Vy Da Ward",
+        "fullNameVi": "Phường Vỹ Dạ",
+        "nameSearchNormalized": "vy da",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19777",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Vy Da Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vỹ Dạ",
+        "type": "Ward",
+        "code": "49107"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49135",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Thuan Hoa",
+        "nameVi": "Thuận Hoá",
+        "fullNameEn": "Thuan Hoa Ward",
+        "fullNameVi": "Phường Thuận Hoá",
+        "nameSearchNormalized": "thuan hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19789",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Thuan Hoa Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thuận Hoá",
+        "type": "Ward",
+        "code": "49135"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49136",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Huong An",
+        "nameVi": "Hương An",
+        "fullNameEn": "Huong An Ward",
+        "fullNameVi": "Phường Hương An",
+        "nameSearchNormalized": "huong an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19804",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Huong An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hương An",
+        "type": "Ward",
+        "code": "49136"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Xuân",
+        "districtFullName": "Quận Phú Xuân",
+        "districtNameEn": "Phu Xuan",
+        "districtCode": "475",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49131",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Thuy Xuan",
+        "nameVi": "Thuỷ Xuân",
+        "fullNameEn": "Thuy Xuan Ward",
+        "fullNameVi": "Phường Thuỷ Xuân",
+        "nameSearchNormalized": "thuy xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19813",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Thuy Xuan Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thuỷ Xuân",
+        "type": "Ward",
+        "code": "49131"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49129",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "An Cuu",
+        "nameVi": "An Cựu",
+        "fullNameEn": "An Cuu Ward",
+        "fullNameVi": "Phường An Cựu",
+        "nameSearchNormalized": "an cuu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19815",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "An Cuu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Cựu",
+        "type": "Ward",
+        "code": "49129"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49322",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phong Dien",
+        "nameVi": "Phong Điền",
+        "fullNameEn": "Phong Dien Ward",
+        "fullNameVi": "Phường Phong Điền",
+        "nameSearchNormalized": "phong dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19819",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phong Dien Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phong Điền",
+        "type": "Ward",
+        "code": "49322"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Thị xã Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "476",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phong Phu",
+        "nameVi": "Phong Phú",
+        "fullNameEn": "Phong Phu Ward",
+        "fullNameVi": "Phường Phong Phú",
+        "nameSearchNormalized": "phong phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19828",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phong Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phong Phú",
+        "type": "Ward",
+        "code": "49309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Thị xã Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "476",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49325",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phong Dinh",
+        "nameVi": "Phong Dinh",
+        "fullNameEn": "Phong Dinh Ward",
+        "fullNameVi": "Phường Phong Dinh",
+        "nameSearchNormalized": "phong dinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19831",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phong Dinh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phong Dinh",
+        "type": "Ward",
+        "code": "49325"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Thị xã Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "476",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49323",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phong Thai",
+        "nameVi": "Phong Thái",
+        "fullNameEn": "Phong Thai Ward",
+        "fullNameVi": "Phường Phong Thái",
+        "nameSearchNormalized": "phong thai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19858",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phong Thai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phong Thái",
+        "type": "Ward",
+        "code": "49323"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phong Điền",
+        "districtFullName": "Thị xã Phong Điền",
+        "districtNameEn": "Phong Dien",
+        "districtCode": "476",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Quang Dien",
+        "nameVi": "Quảng Điền",
+        "fullNameEn": "Quang Dien Commune",
+        "fullNameVi": "Xã Quảng Điền",
+        "nameSearchNormalized": "quang dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "19867",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Quang Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quảng Điền",
+        "type": "Commune",
+        "code": "49217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Điền",
+        "districtFullName": "Huyện Quảng Điền",
+        "districtNameEn": "Quang Dien",
+        "districtCode": "477",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49324",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phong Quang",
+        "nameVi": "Phong Quảng",
+        "fullNameEn": "Phong Quang Ward",
+        "fullNameVi": "Phường Phong Quảng",
+        "nameSearchNormalized": "phong quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19873",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phong Quang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phong Quảng",
+        "type": "Ward",
+        "code": "49324"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Điền",
+        "districtFullName": "Huyện Quảng Điền",
+        "districtNameEn": "Quang Dien",
+        "districtCode": "477",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49218",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Dan Dien",
+        "nameVi": "Đan Điền",
+        "fullNameEn": "Dan Dien Commune",
+        "fullNameVi": "Xã Đan Điền",
+        "nameSearchNormalized": "dan dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "19885",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Dan Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đan Điền",
+        "type": "Commune",
+        "code": "49218"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Quảng Điền",
+        "districtFullName": "Huyện Quảng Điền",
+        "districtNameEn": "Quang Dien",
+        "districtCode": "477",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49141",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Thuan An",
+        "nameVi": "Thuận An",
+        "fullNameEn": "Thuan An Ward",
+        "fullNameVi": "Phường Thuận An",
+        "nameSearchNormalized": "thuan an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19900",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Thuan An Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thuận An",
+        "type": "Ward",
+        "code": "49141"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49142",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Duong No",
+        "nameVi": "Dương Nỗ",
+        "fullNameEn": "Duong No Ward",
+        "fullNameVi": "Phường Dương Nỗ",
+        "nameSearchNormalized": "duong no",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19909",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Duong No Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Dương Nỗ",
+        "type": "Ward",
+        "code": "49142"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49925",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phu Ho",
+        "nameVi": "Phú Hồ",
+        "fullNameEn": "Phu Ho Commune",
+        "fullNameVi": "Xã Phú Hồ",
+        "nameSearchNormalized": "phu ho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "19918",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phu Ho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Hồ",
+        "type": "Commune",
+        "code": "49925"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Vang",
+        "districtFullName": "Huyện Phú Vang",
+        "districtNameEn": "Phu Vang",
+        "districtCode": "478",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49927",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "My Thuong",
+        "nameVi": "Mỹ Thượng",
+        "fullNameEn": "My Thuong Ward",
+        "fullNameVi": "Phường Mỹ Thượng",
+        "nameSearchNormalized": "my thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19930",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "My Thuong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Mỹ Thượng",
+        "type": "Ward",
+        "code": "49927"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thuận Hóa",
+        "districtFullName": "Quận Thuận Hóa",
+        "districtNameEn": "Thuan Hoa",
+        "districtCode": "474",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49929",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phu Vang",
+        "nameVi": "Phú Vang",
+        "fullNameEn": "Phu Vang Commune",
+        "fullNameVi": "Xã Phú Vang",
+        "nameSearchNormalized": "phu vang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "19942",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phu Vang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Vang",
+        "type": "Commune",
+        "code": "49929"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Vang",
+        "districtFullName": "Huyện Phú Vang",
+        "districtNameEn": "Phu Vang",
+        "districtCode": "478",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49928",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phu Vinh",
+        "nameVi": "Phú Vinh",
+        "fullNameEn": "Phu Vinh Commune",
+        "fullNameVi": "Xã Phú Vinh",
+        "nameSearchNormalized": "phu vinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "19945",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phu Vinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Vinh",
+        "type": "Commune",
+        "code": "49928"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Vang",
+        "districtFullName": "Huyện Phú Vang",
+        "districtNameEn": "Phu Vang",
+        "districtCode": "478",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phu Bai",
+        "nameVi": "Phú Bài",
+        "fullNameEn": "Phu Bai Ward",
+        "fullNameVi": "Phường Phú Bài",
+        "nameSearchNormalized": "phu bai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19960",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phu Bai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Phú Bài",
+        "type": "Ward",
+        "code": "49612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Thủy",
+        "districtFullName": "Thị xã Hương Thủy",
+        "districtNameEn": "Huong Thuy",
+        "districtCode": "479",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49619",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Thanh Thuy",
+        "nameVi": "Thanh Thuỷ",
+        "fullNameEn": "Thanh Thuy Ward",
+        "fullNameVi": "Phường Thanh Thuỷ",
+        "nameSearchNormalized": "thanh thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19969",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Thuy Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thanh Thuỷ",
+        "type": "Ward",
+        "code": "49619"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Thủy",
+        "districtFullName": "Thị xã Hương Thủy",
+        "districtNameEn": "Huong Thuy",
+        "districtCode": "479",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49620",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Huong Thuy",
+        "nameVi": "Hương Thuỷ",
+        "fullNameEn": "Huong Thuy Ward",
+        "fullNameVi": "Phường Hương Thuỷ",
+        "nameSearchNormalized": "huong thuy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19975",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Huong Thuy Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hương Thuỷ",
+        "type": "Ward",
+        "code": "49620"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Thủy",
+        "districtFullName": "Thị xã Hương Thủy",
+        "districtNameEn": "Huong Thuy",
+        "districtCode": "479",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49422",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Huong Tra",
+        "nameVi": "Hương Trà",
+        "fullNameEn": "Huong Tra Ward",
+        "fullNameVi": "Phường Hương Trà",
+        "nameSearchNormalized": "huong tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "19996",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Huong Tra Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hương Trà",
+        "type": "Ward",
+        "code": "49422"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Trà",
+        "districtFullName": "Thị xã Hương Trà",
+        "districtNameEn": "Huong Tra",
+        "districtCode": "480",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49134",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Hoa Chau",
+        "nameVi": "Hoá Châu",
+        "fullNameEn": "Hoa Chau Ward",
+        "fullNameVi": "Phường Hoá Châu",
+        "nameSearchNormalized": "hoa chau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20014",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Chau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoá Châu",
+        "type": "Ward",
+        "code": "49134"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Xuân",
+        "districtFullName": "Quận Phú Xuân",
+        "districtNameEn": "Phu Xuan",
+        "districtCode": "475",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49423",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Kim Tra",
+        "nameVi": "Kim Trà",
+        "fullNameEn": "Kim Tra Ward",
+        "fullNameVi": "Phường Kim Trà",
+        "nameSearchNormalized": "kim tra",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "20017",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Kim Tra Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Kim Trà",
+        "type": "Ward",
+        "code": "49423"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Trà",
+        "districtFullName": "Thị xã Hương Trà",
+        "districtNameEn": "Huong Tra",
+        "districtCode": "480",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49424",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Binh Dien",
+        "nameVi": "Bình Điền",
+        "fullNameEn": "Binh Dien Commune",
+        "fullNameVi": "Xã Bình Điền",
+        "nameSearchNormalized": "binh dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20035",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Binh Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bình Điền",
+        "type": "Commune",
+        "code": "49424"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Trà",
+        "districtFullName": "Thị xã Hương Trà",
+        "districtNameEn": "Huong Tra",
+        "districtCode": "480",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49528",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "A Luoi 2",
+        "nameVi": "A Lưới 2",
+        "fullNameEn": "Commune A Luoi 2",
+        "fullNameVi": "Xã A Lưới 2",
+        "nameSearchNormalized": "a luoi 2",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20044",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "A Luoi 2 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã A Lưới 2",
+        "type": "Commune",
+        "code": "49528"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "A Lưới",
+        "districtFullName": "Huyện A Lưới",
+        "districtNameEn": "A Luoi",
+        "districtCode": "481",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49531",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "A Luoi 5",
+        "nameVi": "A Lưới 5",
+        "fullNameEn": "Commune A Luoi 5",
+        "fullNameVi": "Xã A Lưới 5",
+        "nameSearchNormalized": "a luoi 5",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20050",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "A Luoi 5 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã A Lưới 5",
+        "type": "Commune",
+        "code": "49531"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "A Lưới",
+        "districtFullName": "Huyện A Lưới",
+        "districtNameEn": "A Luoi",
+        "districtCode": "481",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49527",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "A Luoi 1",
+        "nameVi": "A Lưới 1",
+        "fullNameEn": "Commune A Luoi 1",
+        "fullNameVi": "Xã A Lưới 1",
+        "nameSearchNormalized": "a luoi 1",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20056",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "A Luoi 1 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã A Lưới 1",
+        "type": "Commune",
+        "code": "49527"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "A Lưới",
+        "districtFullName": "Huyện A Lưới",
+        "districtNameEn": "A Luoi",
+        "districtCode": "481",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49529",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "A Luoi 3",
+        "nameVi": "A Lưới 3",
+        "fullNameEn": "Commune A Luoi 3",
+        "fullNameVi": "Xã A Lưới 3",
+        "nameSearchNormalized": "a luoi 3",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20071",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "A Luoi 3 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã A Lưới 3",
+        "type": "Commune",
+        "code": "49529"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "A Lưới",
+        "districtFullName": "Huyện A Lưới",
+        "districtNameEn": "A Luoi",
+        "districtCode": "481",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49530",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "A Luoi 4",
+        "nameVi": "A Lưới 4",
+        "fullNameEn": "Commune A Luoi 4",
+        "fullNameVi": "Xã A Lưới 4",
+        "nameSearchNormalized": "a luoi 4",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20101",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "A Luoi 4 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã A Lưới 4",
+        "type": "Commune",
+        "code": "49530"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "A Lưới",
+        "districtFullName": "Huyện A Lưới",
+        "districtNameEn": "A Luoi",
+        "districtCode": "481",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Phu Loc",
+        "nameVi": "Phú Lộc",
+        "fullNameEn": "Phu Loc Commune",
+        "fullNameVi": "Xã Phú Lộc",
+        "nameSearchNormalized": "phu loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20107",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Phu Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Lộc",
+        "type": "Commune",
+        "code": "49806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49824",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Vinh Loc",
+        "nameVi": "Vinh Lộc",
+        "fullNameEn": "Vinh Loc Commune",
+        "fullNameVi": "Xã Vinh Lộc",
+        "nameSearchNormalized": "vinh loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20122",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vinh Lộc",
+        "type": "Commune",
+        "code": "49824"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49828",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Hung Loc",
+        "nameVi": "Hưng Lộc",
+        "fullNameEn": "Hung Loc Commune",
+        "fullNameVi": "Xã Hưng Lộc",
+        "nameSearchNormalized": "hung loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20131",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Hung Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hưng Lộc",
+        "type": "Commune",
+        "code": "49828"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49825",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Chan May - Lang Co",
+        "nameVi": "Chân Mây - Lăng Cô",
+        "fullNameEn": "Chan May - Lang Co Commune",
+        "fullNameVi": "Xã Chân Mây - Lăng Cô",
+        "nameSearchNormalized": "chan may - lang co",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20137",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Chan May - Lang Co Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chân Mây - Lăng Cô",
+        "type": "Commune",
+        "code": "49825"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49814",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Loc An",
+        "nameVi": "Lộc An",
+        "fullNameEn": "Loc An Commune",
+        "fullNameVi": "Xã Lộc An",
+        "nameSearchNormalized": "loc an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20140",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Loc An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lộc An",
+        "type": "Commune",
+        "code": "49814"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Khe Tre",
+        "nameVi": "Khe Tre",
+        "fullNameEn": "Khe Tre Commune",
+        "fullNameVi": "Xã Khe Tre",
+        "nameSearchNormalized": "khe tre",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20161",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Khe Tre Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khe Tre",
+        "type": "Commune",
+        "code": "49706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49827",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Nam Dong",
+        "nameVi": "Nam Đông",
+        "fullNameEn": "Nam Dong Commune",
+        "fullNameVi": "Xã Nam Đông",
+        "nameSearchNormalized": "nam dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20179",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Nam Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nam Đông",
+        "type": "Commune",
+        "code": "49827"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "49826",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "officialCode": "46"
+      },
+      "commune": {
+        "nameEn": "Long Quang",
+        "nameVi": "Long Quảng",
+        "fullNameEn": "Long Quang Commune",
+        "fullNameVi": "Xã Long Quảng",
+        "nameSearchNormalized": "long quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "20182",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Long Quang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Quảng",
+        "type": "Commune",
+        "code": "49826"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Lộc",
+        "districtFullName": "Huyện Phú Lộc",
+        "districtNameEn": "Phu Loc",
+        "districtCode": "482",
+        "legacyProvinceName": "Huế",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "53000",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Centrally Governed City",
+        "nameEn": "Hue",
+        "nameVi": "Huế",
+        "fullNameEn": "Hue City",
+        "fullNameVi": "Thành phố Huế",
+        "nameSearchNormalized": "hue",
+        "officialCode": "46",
+        "country": "Vietnam",
+        "countryCode": "VN",
+        "postalCodePrefix": "49",
+        "isCentrallyGovernedCity": true
+      },
+      "commune": {
+        "nameEn": "Hue Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Thành phố Huế",
+        "administrativeLevel": "Postal Object",
+        "administrativeType": "Public Postal Service Point",
+        "officialCode": "53000",
+        "provinceCode": "46"
+      },
+      "postalObject": {
+        "nameEn": "Hue Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Thành phố Huế",
+        "type": "Public Postal Service Point",
+        "address": "Số 8 Hoàng Hoa Thám, Vĩnh Ninh, Huế",
+        "code": "53000"
+      },
+      "postOffice": {
+        "nameEn": "Hue Central Post Office",
+        "nameVi": "Bưu điện Trung tâm Thành phố Huế",
+        "officeType": "Central Postal Branch",
+        "officeCode": "53000",
+        "address": "Số 8 Hoàng Hoa Thám, Vĩnh Ninh, Huế"
+      },
+      "legacyAdministrativeData": null,
+      "source": {
+        "name": "Vietnam Post (VNPost) & National Postal Code Database (mabuuchinh.vn)",
+        "organization": "Ministry of Information and Communications / Ministry of Science and Technology",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN & VNPost Official Network Directory",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

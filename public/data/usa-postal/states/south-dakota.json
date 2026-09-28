@@ -1,0 +1,98 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "South Dakota",
+    "abbreviation": "SD",
+    "fipsCode": "46",
+    "capital": "Pierre",
+    "largestCity": "Sioux Falls",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "605"
+    ],
+    "prefixes": [
+      "570",
+      "571",
+      "572",
+      "573",
+      "574",
+      "575",
+      "576",
+      "577"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-SD-57104-0",
+      "zip5": "57104",
+      "zip4": "1001",
+      "zipPlus4": "57104-1001",
+      "state": {
+        "nameEn": "South Dakota",
+        "abbreviation": "SD",
+        "fipsCode": "46",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Sioux Falls",
+      "acceptableCities": [
+        "Sioux Falls"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Sioux Falls",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Minnehaha County",
+          "fipsCode": "46099",
+          "geoid": "46099"
+        }
+      ],
+      "primaryCounty": "Minnehaha County",
+      "zcta": {
+        "code": "57104"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Sioux Falls Downtown Post Office",
+        "address": "320 S 2nd Ave",
+        "phone": "(605) 333-2100",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 43.546,
+        "longitude": -96.7311,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "605"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-SD-57104",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

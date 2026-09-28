@@ -1,0 +1,120 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Gharbia",
+    "nameNative": "الغربية",
+    "isoCode": "EG-GH",
+    "postalPrefix": "31",
+    "capital": "Tanta",
+    "capitalNative": "طنطا",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.7865,
+      "longitude": 31.0004
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "31511",
+      "governorate": {
+        "nameEn": "Gharbia",
+        "nameNative": "الغربية",
+        "code": "EG-GH",
+        "postalPrefix": "31",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Tanta",
+        "nameNative": "طنطا",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Tanta 1",
+        "nameNative": "حي أول طنطا",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "El Sayed El Badawi / Mahata",
+        "nameNative": "ميدان السيد البدوي / المحطة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Tanta Main Post Office",
+        "nameNative": "مكتب بريد طنطا الرئيسي",
+        "type": "Main Post Office",
+        "code": "31511"
+      },
+      "areas": [
+        "Sayed El Badawi Mosque Square",
+        "Geesh St Tanta",
+        "Tanta Railway Junction",
+        "Bahr St Commercial"
+      ],
+      "coordinates": {
+        "latitude": 30.7865,
+        "longitude": 31.0004
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GHARBIA-31511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "31951",
+      "governorate": {
+        "nameEn": "Gharbia",
+        "nameNative": "الغربية",
+        "code": "EG-GH",
+        "postalPrefix": "31",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Mahalla El Kubra",
+        "nameNative": "المحلة الكبرى",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Mahalla 2",
+        "nameNative": "حي ثان المحلة الكبرى",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Shoun Square",
+        "nameNative": "ميدان الشون",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "El Mahalla El Kubra Main Post Office",
+        "nameNative": "مكتب بريد المحلة الكبرى الرئيسي",
+        "type": "Main Post Office",
+        "code": "31951"
+      },
+      "areas": [
+        "Misr Spinning & Weaving Complex",
+        "Shoun Square",
+        "23rd July St",
+        "Textile Industrial Hub"
+      ],
+      "coordinates": {
+        "latitude": 30.9723,
+        "longitude": 31.1645
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-GHARBIA-31951",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

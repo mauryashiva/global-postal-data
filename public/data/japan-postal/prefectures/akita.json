@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "05",
+    "nameEn": "Akita",
+    "nameJa": "秋田県",
+    "nameKana": "アキタケン",
+    "nameRomaji": "Akita-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Akita",
+    "capitalJa": "秋田市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "0100000",
+      "postalCodeFormatted": "010-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "05",
+      "prefectureNameEn": "Akita",
+      "prefectureNameJa": "秋田県",
+      "prefectureNameKana": "アキタケン",
+      "prefectureNameRomaji": "Akita-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "05201",
+        "nameEn": "Akita",
+        "nameJa": "秋田市",
+        "nameKana": "アキタシ",
+        "nameRomaji": "Akita-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Akita Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Ghor",
+    "nameNative": "غور",
+    "isoCode": "AF-GHO",
+    "postalPrefix": "32",
+    "capital": "Chaghcharan (Firozkoh)",
+    "capitalNative": "فیروزکوه",
+    "coordinates": {
+      "latitude": 34.0963,
+      "longitude": 64.906
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 13,
+    "totalRecords": 13,
+    "urbanRecords": 1,
+    "ruralRecords": 12
+  },
+  "records": [
+    {
+      "postalCode": "320101",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Chaghcharan (Firozkoh) - Chaghcharan",
+        "type": "Urban Municipal District",
+        "code": "AF-GHO-01"
+      },
+      "locality": {
+        "nameEn": "Chaghcharan (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Chaghcharan (Firozkoh) Chaghcharan Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-320101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325101",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Saghar District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-51"
+      },
+      "locality": {
+        "nameEn": "Saghar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Saghar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325201",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Taywarah District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-52"
+      },
+      "locality": {
+        "nameEn": "Taywarah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Taywarah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325301",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Pasaband District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-53"
+      },
+      "locality": {
+        "nameEn": "Pasaband Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Pasaband District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325401",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "DoLayna District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-54"
+      },
+      "locality": {
+        "nameEn": "DoLayna Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "DoLayna District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325501",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Dawlatyar District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-55"
+      },
+      "locality": {
+        "nameEn": "Dawlatyar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dawlatyar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325601",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Lal Wa Sarjangal District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-56"
+      },
+      "locality": {
+        "nameEn": "Lal Wa Sarjangal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Lal Wa Sarjangal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325701",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Charsadra District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-57"
+      },
+      "locality": {
+        "nameEn": "Charsadra Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Charsadra District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325801",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Shahrak District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-58"
+      },
+      "locality": {
+        "nameEn": "Shahrak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shahrak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "325901",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Tolak District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-59"
+      },
+      "locality": {
+        "nameEn": "Tolak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tolak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-325901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "326001",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Murghab District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-60"
+      },
+      "locality": {
+        "nameEn": "Murghab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Murghab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-326001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "326101",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Al Faroq District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-61"
+      },
+      "locality": {
+        "nameEn": "Al Faroq Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Al Faroq District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-326101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "326201",
+      "province": {
+        "nameEn": "Ghor",
+        "nameNative": "غور",
+        "code": "AF-GHO",
+        "postalPrefix": "32"
+      },
+      "city": {
+        "nameEn": "Chaghcharan (Firozkoh)",
+        "nameNative": "فیروزکوه"
+      },
+      "district": {
+        "nameEn": "Allah Yar District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHO-62"
+      },
+      "locality": {
+        "nameEn": "Allah Yar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Allah Yar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 34.0963,
+        "longitude": 64.906
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-326201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

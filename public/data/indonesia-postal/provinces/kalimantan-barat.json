@@ -1,0 +1,63 @@
+{
+  "code": "61",
+  "nameEn": "West Kalimantan",
+  "nameId": "Kalimantan Barat",
+  "nameNative": "Kalimantan Barat",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Pontianak",
+  "capitalId": "Kota Pontianak",
+  "zone": "7",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "78111",
+      "province": {
+        "code": "61",
+        "nameEn": "West Kalimantan",
+        "nameId": "Kalimantan Barat",
+        "nameNative": "Kalimantan Barat",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "61.71",
+        "nameId": "Kota Pontianak",
+        "nameEn": "Pontianak",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "61.71.01",
+        "nameId": "Kecamatan Pontianak Kota",
+        "nameEn": "Pontianak Kota District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "61.71.01.1001",
+        "nameId": "Kelurahan Darat Sekip",
+        "nameEn": "Darat Sekip",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Tugu Khatulistiwa / Alun-alun Kapuas",
+        "nameEn": "Equator Monument & Kapuas Riverfront"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Pontianak",
+        "nameEn": "Pontianak Main Post Office",
+        "code": "78000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-61-78111-61.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

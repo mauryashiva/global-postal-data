@@ -1,0 +1,63 @@
+{
+  "code": "65",
+  "nameEn": "North Kalimantan",
+  "nameId": "Kalimantan Utara",
+  "nameNative": "Kalimantan Utara",
+  "administrativeType": "Province",
+  "specialStatus": null,
+  "capitalEn": "Tanjung Selor",
+  "capitalId": "Kecamatan Tanjung Selor",
+  "zone": "7",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "77211",
+      "province": {
+        "code": "65",
+        "nameEn": "North Kalimantan",
+        "nameId": "Kalimantan Utara",
+        "nameNative": "Kalimantan Utara",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "65.02",
+        "nameId": "Kabupaten Bulungan",
+        "nameEn": "Bulungan Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "65.02.01",
+        "nameId": "Kecamatan Tanjung Selor",
+        "nameEn": "Tanjung Selor District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "65.02.01.1001",
+        "nameId": "Kelurahan Tanjung Selor Hulu",
+        "nameEn": "Tanjung Selor Hulu",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Ibukota Provinsi Kalimantan Utara",
+        "nameEn": "North Kalimantan Provincial Capital"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Tanjung Selor",
+        "nameEn": "Tanjung Selor Post Office",
+        "code": "77211",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-65-77211-65.02.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

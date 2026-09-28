@@ -1,0 +1,107 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Nebraska",
+    "abbreviation": "NE",
+    "fipsCode": "31",
+    "capital": "Lincoln",
+    "largestCity": "Omaha",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "308",
+      "402",
+      "531"
+    ],
+    "prefixes": [
+      "680",
+      "681",
+      "683",
+      "684",
+      "685",
+      "686",
+      "687",
+      "688",
+      "689",
+      "690",
+      "691",
+      "692",
+      "693"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-NE-68102-0",
+      "zip5": "68102",
+      "zip4": "1001",
+      "zipPlus4": "68102-1001",
+      "state": {
+        "nameEn": "Nebraska",
+        "abbreviation": "NE",
+        "fipsCode": "31",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Omaha",
+      "acceptableCities": [
+        "Omaha"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Omaha",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Douglas County",
+          "fipsCode": "31055",
+          "geoid": "31055"
+        }
+      ],
+      "primaryCounty": "Douglas County",
+      "zcta": {
+        "code": "68102"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Omaha Downtown Station",
+        "address": "1124 Pacific St",
+        "phone": "(402) 348-2400",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 41.2565,
+        "longitude": -95.9345,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "308",
+          "402",
+          "531"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 27,
+        "deliveryPoints": 13800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NE-68102",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

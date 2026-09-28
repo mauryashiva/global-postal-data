@@ -1,0 +1,707 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Kunduz",
+    "nameNative": "کندز",
+    "isoCode": "AF-KDZ",
+    "postalPrefix": "35",
+    "capital": "Kunduz",
+    "capitalNative": "کندز",
+    "coordinates": {
+      "latitude": 36.7286,
+      "longitude": 68.8681
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 18,
+    "totalRecords": 18,
+    "urbanRecords": 8,
+    "ruralRecords": 10
+  },
+  "records": [
+    {
+      "postalCode": "350101",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350201",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350301",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350401",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350501",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350601",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350701",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 7",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-07"
+      },
+      "locality": {
+        "nameEn": "District 7 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 7 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "350801",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kunduz - District 8",
+        "type": "Urban Municipal District",
+        "code": "AF-KDZ-08"
+      },
+      "locality": {
+        "nameEn": "District 8 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Kunduz District 8 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-350801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355101",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Dasht-e-Archi District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-51"
+      },
+      "locality": {
+        "nameEn": "Dasht-e-Archi Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dasht-e-Archi District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355201",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Emamsaheb District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-52"
+      },
+      "locality": {
+        "nameEn": "Emamsaheb Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Emamsaheb District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355202",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Emamsaheb District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-52"
+      },
+      "locality": {
+        "nameEn": "Emamsaheb Central",
+        "deliveryZone": "02",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Emamsaheb District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355202",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355301",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Qala-e-Zal District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-53"
+      },
+      "locality": {
+        "nameEn": "Qala-e-Zal Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qala-e-Zal District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355401",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Chardarah District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-54"
+      },
+      "locality": {
+        "nameEn": "Chardarah Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Chardarah District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355501",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Aliabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-55"
+      },
+      "locality": {
+        "nameEn": "Aliabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Aliabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355601",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Khanabad District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-56"
+      },
+      "locality": {
+        "nameEn": "Khanabad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khanabad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355701",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Kalbad District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-57"
+      },
+      "locality": {
+        "nameEn": "Kalbad Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Kalbad District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355801",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Gultipa District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-58"
+      },
+      "locality": {
+        "nameEn": "Gultipa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gultipa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "355901",
+      "province": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز",
+        "code": "AF-KDZ",
+        "postalPrefix": "35"
+      },
+      "city": {
+        "nameEn": "Kunduz",
+        "nameNative": "کندز"
+      },
+      "district": {
+        "nameEn": "Aqtash District",
+        "type": "Rural Administrative District",
+        "code": "AF-KDZ-59"
+      },
+      "locality": {
+        "nameEn": "Aqtash Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Aqtash District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.7286,
+        "longitude": 68.8681
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-355901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

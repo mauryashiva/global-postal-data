@@ -1,0 +1,859 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Ghazni",
+    "nameNative": "غزنی",
+    "isoCode": "AF-GHA",
+    "postalPrefix": "23",
+    "capital": "Ghazni",
+    "capitalNative": "غزنی",
+    "coordinates": {
+      "latitude": 33.5451,
+      "longitude": 68.4174
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 22,
+    "totalRecords": 22,
+    "urbanRecords": 4,
+    "ruralRecords": 18
+  },
+  "records": [
+    {
+      "postalCode": "230101",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Ghazni - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-GHA-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Ghazni District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-230101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "230201",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Ghazni - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-GHA-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Ghazni District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-230201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "230301",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Ghazni - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-GHA-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Ghazni District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-230301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "230401",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Ghazni - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-GHA-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Ghazni District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-230401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235101",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Nawa District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-51"
+      },
+      "locality": {
+        "nameEn": "Nawa Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nawa District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235201",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Gelan District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-52"
+      },
+      "locality": {
+        "nameEn": "Gelan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Gelan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235301",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Muqur District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-53"
+      },
+      "locality": {
+        "nameEn": "Muqur Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Muqur District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235401",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Abband District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-54"
+      },
+      "locality": {
+        "nameEn": "Abband Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Abband District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235501",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Giro District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-55"
+      },
+      "locality": {
+        "nameEn": "Giro Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Giro District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235601",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Qarabagh District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-56"
+      },
+      "locality": {
+        "nameEn": "Qarabagh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qarabagh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235701",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Andar District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-57"
+      },
+      "locality": {
+        "nameEn": "Andar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Andar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235801",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Dehyak District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-58"
+      },
+      "locality": {
+        "nameEn": "Dehyak Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dehyak District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "235901",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Zanakhan District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-59"
+      },
+      "locality": {
+        "nameEn": "Zanakhan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Zanakhan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-235901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236001",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Khwajaumari District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-60"
+      },
+      "locality": {
+        "nameEn": "Khwajaumari Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khwajaumari District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236001",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236101",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "WalimuhammaDistrict e-Shahid District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-61"
+      },
+      "locality": {
+        "nameEn": "WalimuhammaDistrict e-Shahid Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "WalimuhammaDistrict e-Shahid District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236201",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Jaghatu District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-62"
+      },
+      "locality": {
+        "nameEn": "Jaghatu Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jaghatu District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236301",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Waghaz District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-63"
+      },
+      "locality": {
+        "nameEn": "Waghaz Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Waghaz District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236401",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Rashidan District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-64"
+      },
+      "locality": {
+        "nameEn": "Rashidan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Rashidan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236501",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Nawur District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-65"
+      },
+      "locality": {
+        "nameEn": "Nawur Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Nawur District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236601",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Jaghuri District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-66"
+      },
+      "locality": {
+        "nameEn": "Jaghuri Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jaghuri District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236701",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Ajrestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-67"
+      },
+      "locality": {
+        "nameEn": "Ajrestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ajrestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "236801",
+      "province": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی",
+        "code": "AF-GHA",
+        "postalPrefix": "23"
+      },
+      "city": {
+        "nameEn": "Ghazni",
+        "nameNative": "غزنی"
+      },
+      "district": {
+        "nameEn": "Malestan District",
+        "type": "Rural Administrative District",
+        "code": "AF-GHA-68"
+      },
+      "locality": {
+        "nameEn": "Malestan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Malestan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 33.5451,
+        "longitude": 68.4174
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-236801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "dataset": "Vietnam National Postal Code & Administrative Dataset (Mã bưu chính quốc gia Việt Nam)",
+  "status": "PASS",
+  "datasetVersion": "v5.2.0-2026-09-28",
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84"
+  },
+  "administrativeSummary": {
+    "model": "Two-level local government (Effective 1 July 2025)",
+    "provincialLevelCount": 34,
+    "provinces": 28,
+    "centrallyGovernedCities": 6,
+    "communeLevelCount": 3321,
+    "wards": 709,
+    "communes": 2599,
+    "specialAdministrativeZones": 13
+  },
+  "statistics": {
+    "uniquePostalCodes": 3335,
+    "totalPostalRecords": 3335,
+    "specialPostalObjects": 14,
+    "multiMatchPostcodes": 0
+  },
+  "validation": {
+    "totalChecks": 11,
+    "passedChecks": 11,
+    "failedChecks": 0,
+    "checks": [
+      {
+        "check": "Exactly 34 Provincial-Level Administrative Units verified",
+        "passed": true,
+        "details": "28 Provinces (28) + 6 Centrally Governed Cities (6) = 34"
+      },
+      {
+        "check": "Exactly 6 Centrally Governed Cities correctly classified",
+        "passed": true,
+        "details": "Hà Nội, TP. Hồ Chí Minh, Hải Phòng, Đà Nẵng, Huế, Cần Thơ"
+      },
+      {
+        "check": "Exactly 28 Provinces correctly classified",
+        "passed": true,
+        "details": "All 28 provinces verified under Resolution 202/2025/QH15"
+      },
+      {
+        "check": "Current commune-level count matches official decree (3,321)",
+        "passed": true,
+        "details": "709 Wards + 2,599 Communes + 13 Special Administrative Zones = 3321"
+      },
+      {
+        "check": "All 13 Special Administrative Zones preserved with exact administrativeType",
+        "passed": true,
+        "details": "Vân Đồn, Cô Tô, Cát Hải, Bạch Long Vĩ, Cồn Cỏ, Hoàng Sa, Lý Sơn, Trường Sa, Phú Quý, Côn Đảo, Phú Quốc, Thổ Châu, Kiên Hải"
+      },
+      {
+        "check": "All postal codes are exactly 5-digit numeric strings with leading zeroes preserved",
+        "passed": true,
+        "details": "Verified 3335 codes; Sample leading zero: \"01318\" (Vân Đồn), \"05418\" (Cát Hải)"
+      },
+      {
+        "check": "District-level structure is NOT treated as a current administrative government level",
+        "passed": true,
+        "details": "Two-tier hierarchy enforced: Level 1 (Provincial) -> Level 2 (Commune)"
+      },
+      {
+        "check": "Pre-2025 district-level data is explicitly preserved under legacyAdministrativeData",
+        "passed": true,
+        "details": "3,321 records mapped to pre-2025 district data"
+      },
+      {
+        "check": "Official Vietnamese names with diacritics strictly preserved",
+        "passed": true,
+        "details": "Diacritics intact in nameVi, normalized search field provided separately"
+      },
+      {
+        "check": "Zero runtime external API calls required",
+        "passed": true,
+        "details": "Complete local JSON partitions and index.json"
+      },
+      {
+        "check": "Special postal objects (Government, Embassies, Central Post Offices) integrated",
+        "passed": true,
+        "details": "14 special postal objects preserved"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Ministry of Science and Technology (MOST) & General Statistics Office of Vietnam (GSO)",
+      "organization": "Government of the Socialist Republic of Vietnam",
+      "url": "https://mabuuchinh.vn",
+      "version": "Decision 2334/QĐ-BKHCN",
+      "documentReference": "Quyết định 2334/QĐ-BKHCN ngày 24/08/2025",
+      "sourceUpdatedAt": "2025-08-24",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Vietnam National Assembly & Government Portal",
+      "organization": "National Assembly of Vietnam (Quốc hội khóa XV)",
+      "url": "https://chinhphu.vn",
+      "version": "Resolution 202/2025/QH15",
+      "documentReference": "Nghị quyết 202/2025/QH15 ngày 12/06/2025 (Hiệu lực 01/07/2025)",
+      "sourceUpdatedAt": "2025-06-12",
+      "retrievedAt": "2026-09-28"
+    },
+    {
+      "name": "Vietnam Post Corporation (VNPost)",
+      "organization": "Tổng công ty Bưu điện Việt Nam",
+      "url": "https://vnpost.vn",
+      "version": "Mã bưu chính quốc gia 5 số",
+      "sourceUpdatedAt": "2025-08-24",
+      "retrievedAt": "2026-09-28"
+    }
+  ],
+  "generatedAt": "2026-09-28T07:19:58.038Z"
+}

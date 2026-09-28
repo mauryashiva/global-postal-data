@@ -1,0 +1,2795 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Trincomalee",
+    "nameSi": "ත්‍රිකුණාමලය",
+    "nameTa": "திருகோணமலை",
+    "administrativeType": "District",
+    "code": "LK-53"
+  },
+  "province": {
+    "nameEn": "Eastern Province",
+    "nameSi": "නැගෙනහිර පළාත",
+    "nameTa": "கிழக்கு மாகாணம்",
+    "code": "LK-5"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Gomarankadawala",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kantale",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kinniya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Kuchchaveli",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Morawewa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Muttur",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Padavi Sri Pura",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Seruvila",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thambalagamuwa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Thoppur",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Town and Gravets",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Verugal",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 41,
+    "totalRecords": 41,
+    "dsDivisionCount": 12
+  },
+  "postcodes": [
+    {
+      "postcode": "30250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KALLAR",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kallar",
+            "nameSi": "කල්ලාර්",
+            "nameTa": "கள்ளாறு"
+          },
+          "city": {
+            "nameEn": "Kallar",
+            "nameSi": "කල්ලාර්",
+            "nameTa": "கள்ளாறு"
+          },
+          "postcode": "30250",
+          "postOffice": {
+            "nameEn": "Kallar Post Office",
+            "nameSi": "කල්ලාර් තැපැල් කාර්යාලය",
+            "nameTa": "கள்ளாறு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30250"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "30254",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "THURAINEELAVANAI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Thuraineelavanai",
+            "nameSi": "තුරෛනීලාවනයි",
+            "nameTa": "துறைநீலாவணை"
+          },
+          "city": {
+            "nameEn": "Thuraineelavanai",
+            "nameSi": "තුරෛනීලාවනයි",
+            "nameTa": "துறைநீலாவணை"
+          },
+          "postcode": "30254",
+          "postOffice": {
+            "nameEn": "Thuraineelavanai Post Office",
+            "nameSi": "තුරෛනීලාවනයි තැපැල් කාර්යාලය",
+            "nameTa": "துறைநீலாவணை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30254"
+          },
+          "coordinates": {
+            "latitude": 7.4473064,
+            "longitude": 81.7992057
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TRINCOMALEE",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Trincomalee",
+            "nameSi": "තිරිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "city": {
+            "nameEn": "Trincomalee",
+            "nameSi": "තිරිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "postcode": "31000",
+          "postOffice": {
+            "nameEn": "Trincomalee Post Office",
+            "nameSi": "තිරිකුණාමලය තැපැල් කාර්යාලය",
+            "nameTa": "திருகோணமலை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31000"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31006",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SAMPALTIVU",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Sampaltivu",
+            "nameSi": "සම්පල්ටිවූ",
+            "nameTa": "சாம்பல் தீவு"
+          },
+          "city": {
+            "nameEn": "Sampaltivu",
+            "nameSi": "සම්පල්ටිවූ",
+            "nameTa": "சாம்பல் தீவு"
+          },
+          "postcode": "31006",
+          "postOffice": {
+            "nameEn": "Sampaltivu Post Office",
+            "nameSi": "සම්පල්ටිවූ තැපැල් කාර්යාලය",
+            "nameTa": "சாம்பல் தீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31006"
+          },
+          "coordinates": {
+            "latitude": 8.6365976,
+            "longitude": 81.2230485
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31010",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NILAVELI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Nilaveli",
+            "nameSi": "නිලාවැලි",
+            "nameTa": "நிலாவெளி"
+          },
+          "city": {
+            "nameEn": "Nilaveli",
+            "nameSi": "නිලාවැලි",
+            "nameTa": "நிலாவெளி"
+          },
+          "postcode": "31010",
+          "postOffice": {
+            "nameEn": "Nilaveli Post Office",
+            "nameSi": "නිලාවැලි තැපැල් කාර්යාලය",
+            "nameTa": "நிலாவெளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31010"
+          },
+          "coordinates": {
+            "latitude": 8.6927331,
+            "longitude": 81.1885293
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31012",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KUMBURUPIDDY",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kumburupiddy",
+            "nameSi": "කුඹුරුපිද්දී",
+            "nameTa": "கும்புறுப்பிட்டி"
+          },
+          "city": {
+            "nameEn": "Kumburupiddy",
+            "nameSi": "කුඹුරුපිද්දී",
+            "nameTa": "கும்புறுப்பிட்டி"
+          },
+          "postcode": "31012",
+          "postOffice": {
+            "nameEn": "Kumburupiddy Post Office",
+            "nameSi": "කුඹුරුපිද්දී තැපැල් කාර්යාලය",
+            "nameTa": "கும்புறுப்பிட்டி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31012"
+          },
+          "coordinates": {
+            "latitude": 8.7356879,
+            "longitude": 81.1609679
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31014",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": {
+            "nameEn": "Kuchchaveli",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KUCHCHAVELI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kuchchaveli",
+            "nameSi": "කුච්චවේලි",
+            "nameTa": "குச்சவெளி"
+          },
+          "city": {
+            "nameEn": "Kuchchaveli",
+            "nameSi": "කුච්චවේලි",
+            "nameTa": "குச்சவெளி"
+          },
+          "postcode": "31014",
+          "postOffice": {
+            "nameEn": "Kuchchaveli Post Office",
+            "nameSi": "කුච්චවේලි තැපැල් කාර්යාලය",
+            "nameTa": "குச்சவெளி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31014"
+          },
+          "coordinates": {
+            "latitude": 8.821385,
+            "longitude": 81.0947808
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31016",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TIRIYAYI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Tiriyayi",
+            "nameSi": "තිරියයි",
+            "nameTa": "திரியாயி"
+          },
+          "city": {
+            "nameEn": "Tiriyayi",
+            "nameSi": "තිරියයි",
+            "nameTa": "திரியாயி"
+          },
+          "postcode": "31016",
+          "postOffice": {
+            "nameEn": "Tiriyayi Post Office",
+            "nameSi": "තිරියයි තැපැල් කාර්යාලය",
+            "nameTa": "திரியாயி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31016"
+          },
+          "coordinates": {
+            "latitude": 6.9406468,
+            "longitude": 79.8613286
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31026",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": {
+            "nameEn": "Gomarankadawala",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "GOMARANKADAWALA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Gomarankadawala",
+            "nameSi": "ගෝමරන්කඩවල",
+            "nameTa": "கோமரன்கடவல"
+          },
+          "city": {
+            "nameEn": "Gomarankadawala",
+            "nameSi": "ගෝමරන්කඩවල",
+            "nameTa": "கோமரன்கடவல"
+          },
+          "postcode": "31026",
+          "postOffice": {
+            "nameEn": "Gomarankadawala Post Office",
+            "nameSi": "ගෝමරන්කඩවල තැපැල් කාර්යාලය",
+            "nameTa": "கோமரன்கடவல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31026"
+          },
+          "coordinates": {
+            "latitude": 8.6750384,
+            "longitude": 80.9632423
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31028",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BUCKMIGAMA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Buckmigama",
+            "nameSi": "බක්මීගම",
+            "nameTa": "பக்மிகம"
+          },
+          "city": {
+            "nameEn": "Buckmigama",
+            "nameSi": "බක්මීගම",
+            "nameTa": "பக்மிகம"
+          },
+          "postcode": "31028",
+          "postOffice": {
+            "nameEn": "Buckmigama Post Office",
+            "nameSi": "බක්මීගම තැපැල් කාර්යාලය",
+            "nameTa": "பக்மிகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31028"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31032",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANNIYA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kanniya",
+            "nameSi": "කන්නියා",
+            "nameTa": "கிண்ணியா"
+          },
+          "city": {
+            "nameEn": "Kanniya",
+            "nameSi": "කන්නියා",
+            "nameTa": "கிண்ணியா"
+          },
+          "postcode": "31032",
+          "postOffice": {
+            "nameEn": "Kanniya Post Office",
+            "nameSi": "කන්නියා තැපැල් කාර්යාලය",
+            "nameTa": "கிண்ணியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31032"
+          },
+          "coordinates": {
+            "latitude": 8.5987805,
+            "longitude": 81.1871515
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31034",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PANKULAM",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Pankulam",
+            "nameSi": "පන්කුලම්",
+            "nameTa": "பன்குளம்"
+          },
+          "city": {
+            "nameEn": "Pankulam",
+            "nameSi": "පන්කුලම්",
+            "nameTa": "பன்குளம்"
+          },
+          "postcode": "31034",
+          "postOffice": {
+            "nameEn": "Pankulam Post Office",
+            "nameSi": "පන්කුලම් තැපැල් කාර්යාලය",
+            "nameTa": "பன்குளம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31034"
+          },
+          "coordinates": {
+            "latitude": 8.6251302,
+            "longitude": 81.0326795
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31036",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAHADIVULWEWA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Mahadivulwewa",
+            "nameSi": "මහදිවුල්වැව",
+            "nameTa": "மஹதிவுல்வெவ"
+          },
+          "city": {
+            "nameEn": "Mahadivulwewa",
+            "nameSi": "මහදිවුල්වැව",
+            "nameTa": "மஹதிவுல்வெவ"
+          },
+          "postcode": "31036",
+          "postOffice": {
+            "nameEn": "Mahadivulwewa Post Office",
+            "nameSi": "මහදිවුල්වැව තැපැල් කාර්යාලය",
+            "nameTa": "மஹதிவுல்வெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31036"
+          },
+          "coordinates": {
+            "latitude": 8.6173858,
+            "longitude": 80.9642773
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31038",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ROTTAWEWA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Rottawewa",
+            "nameSi": "රොට්ටවැව",
+            "nameTa": "ரொட்டவெவ"
+          },
+          "city": {
+            "nameEn": "Rottawewa",
+            "nameSi": "රොට්ටවැව",
+            "nameTa": "ரொட்டவெவ"
+          },
+          "postcode": "31038",
+          "postOffice": {
+            "nameEn": "Rottawewa Post Office",
+            "nameSi": "රොට්ටවැව තැපැල් කාර්යාලය",
+            "nameTa": "ரொட்டவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31038"
+          },
+          "coordinates": {
+            "latitude": 8.5995002,
+            "longitude": 80.9217021
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31046",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TAMPALAKAMAM",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Tampalakamam",
+            "nameSi": "තම්පලකාමම්",
+            "nameTa": "தம்பலகாமம்"
+          },
+          "city": {
+            "nameEn": "Tampalakamam",
+            "nameSi": "තම්පලකාමම්",
+            "nameTa": "தம்பலகாமம்"
+          },
+          "postcode": "31046",
+          "postOffice": {
+            "nameEn": "Tampalakamam Post Office",
+            "nameSi": "තම්පලකාමම් තැපැල් කාර්යාලය",
+            "nameTa": "தம்பலகாமம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31046"
+          },
+          "coordinates": {
+            "latitude": 8.4973752,
+            "longitude": 81.0920218
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31050",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "CHINA BAY",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "China Bay",
+            "nameSi": "චීන වරාය",
+            "nameTa": "சீன குடா"
+          },
+          "city": {
+            "nameEn": "China Bay",
+            "nameSi": "චීන වරාය",
+            "nameTa": "சீன குடா"
+          },
+          "postcode": "31050",
+          "postOffice": {
+            "nameEn": "China Bay Post Office",
+            "nameSi": "චීන වරාය තැපැල් කාර්යාලය",
+            "nameTa": "சீன குடா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31050"
+          },
+          "coordinates": {
+            "latitude": 8.5629202,
+            "longitude": 81.1990094
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": {
+            "nameEn": "Kinniya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KINNIYA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kinniya",
+            "nameSi": "කින්නියා",
+            "nameTa": "கிண்ணியா"
+          },
+          "city": {
+            "nameEn": "Kinniya",
+            "nameSi": "කින්නියා",
+            "nameTa": "கிண்ணியா"
+          },
+          "postcode": "31100",
+          "postOffice": {
+            "nameEn": "Kinniya Post Office",
+            "nameSi": "කින්නියා තැපැල් කාර්යාලය",
+            "nameTa": "கிண்ணியா தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31100"
+          },
+          "coordinates": {
+            "latitude": 8.5025473,
+            "longitude": 81.1803832
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31106",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAHARUGIRAMAM",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Maharugiramam",
+            "nameSi": "මහරුගිරමං",
+            "nameTa": "மஹருகிராமம்"
+          },
+          "city": {
+            "nameEn": "Maharugiramam",
+            "nameSi": "මහරුගිරමං",
+            "nameTa": "மஹருகிராமம்"
+          },
+          "postcode": "31106",
+          "postOffice": {
+            "nameEn": "Maharugiramam Post Office",
+            "nameSi": "මහරුගිරමං තැපැල් කාර්යාලය",
+            "nameTa": "மஹருகிராமம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31106"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31112",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KURINCHAKERNY",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kurinchakerny",
+            "nameSi": "කුරින්චකෙමි",
+            "nameTa": "குறிஞ்சகெர்னி"
+          },
+          "city": {
+            "nameEn": "Kurinchakerny",
+            "nameSi": "කුරින්චකෙමි",
+            "nameTa": "குறிஞ்சகெர்னி"
+          },
+          "postcode": "31112",
+          "postOffice": {
+            "nameEn": "Kurinchakerny Post Office",
+            "nameSi": "කුරින්චකෙමි තැපැල් කාර්යාලය",
+            "nameTa": "குறிஞ்சகெர்னி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31112"
+          },
+          "coordinates": {
+            "latitude": 8.5019158,
+            "longitude": 81.1719936
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MUTUR",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Mutur",
+            "nameSi": "මුතුර්",
+            "nameTa": "மூதூர்"
+          },
+          "city": {
+            "nameEn": "Mutur",
+            "nameSi": "මුතුර්",
+            "nameTa": "மூதூர்"
+          },
+          "postcode": "31200",
+          "postOffice": {
+            "nameEn": "Mutur Post Office",
+            "nameSi": "මුතුර් තැපැල් කාර්යාලය",
+            "nameTa": "மூதூர் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31200"
+          },
+          "coordinates": {
+            "latitude": 8.4579065,
+            "longitude": 81.2684019
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31212",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KADDAIPARICHCHAN",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kaddaiparichchan",
+            "nameSi": "කඩ්ඩයිපරිච්චන්",
+            "nameTa": "கட்டைபறிச்சான்"
+          },
+          "city": {
+            "nameEn": "Kaddaiparichchan",
+            "nameSi": "කඩ්ඩයිපරිච්චන්",
+            "nameTa": "கட்டைபறிச்சான்"
+          },
+          "postcode": "31212",
+          "postOffice": {
+            "nameEn": "Kaddaiparichchan Post Office",
+            "nameSi": "කඩ්ඩයිපරිච්චන් තැපැල් කාර්යාලය",
+            "nameTa": "கட்டைபறிச்சான் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31212"
+          },
+          "coordinates": {
+            "latitude": 8.4543544,
+            "longitude": 81.2917971
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31216",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SAMPOOR",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Sampoor",
+            "nameSi": "සාම්පූර්",
+            "nameTa": "சம்பூர்"
+          },
+          "city": {
+            "nameEn": "Sampoor",
+            "nameSi": "සාම්පූර්",
+            "nameTa": "சம்பூர்"
+          },
+          "postcode": "31216",
+          "postOffice": {
+            "nameEn": "Sampoor Post Office",
+            "nameSi": "සාම්පූර් තැපැල් කාර්යාලය",
+            "nameTa": "சம்பூர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31216"
+          },
+          "coordinates": {
+            "latitude": 8.4822436,
+            "longitude": 81.2893793
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KILIVEDDY",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kiliveddy",
+            "nameSi": "කිලිවෙද්දී",
+            "nameTa": "கிளிவெட்டி"
+          },
+          "city": {
+            "nameEn": "Kiliveddy",
+            "nameSi": "කිලිවෙද්දී",
+            "nameTa": "கிளிவெட்டி"
+          },
+          "postcode": "31220",
+          "postOffice": {
+            "nameEn": "Kiliveddy Post Office",
+            "nameSi": "කිලිවෙද්දී තැපැල් කාර්යාලය",
+            "nameTa": "கிளிவெட்டி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31220"
+          },
+          "coordinates": {
+            "latitude": 8.3618361,
+            "longitude": 81.2842702
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31222",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SOMAPURA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Somapura",
+            "nameSi": "සෝමපුර",
+            "nameTa": "சோமபுரா"
+          },
+          "city": {
+            "nameEn": "Somapura",
+            "nameSi": "සෝමපුර",
+            "nameTa": "சோமபுரா"
+          },
+          "postcode": "31222",
+          "postOffice": {
+            "nameEn": "Somapura Post Office",
+            "nameSi": "සෝමපුර තැපැල් කාර්යාලය",
+            "nameTa": "சோமபுரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31222"
+          },
+          "coordinates": {
+            "latitude": 8.2980156,
+            "longitude": 81.2766598
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31224",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MALLIKATIVU",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Mallikativu",
+            "nameSi": "මල්ලිකතිව්",
+            "nameTa": "மல்லிகதீவு"
+          },
+          "city": {
+            "nameEn": "Mallikativu",
+            "nameSi": "මල්ලිකතිව්",
+            "nameTa": "மல்லிகதீவு"
+          },
+          "postcode": "31224",
+          "postOffice": {
+            "nameEn": "Mallikativu Post Office",
+            "nameSi": "මල්ලිකතිව් තැපැල් කාර්යාලය",
+            "nameTa": "மல்லிகதீவு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31224"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31226",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "DEHIWATTE",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Dehiwatte",
+            "nameSi": "දෙහිවත්ත",
+            "nameTa": "தெஹிவத்தை"
+          },
+          "city": {
+            "nameEn": "Dehiwatte",
+            "nameSi": "දෙහිවත්ත",
+            "nameTa": "தெஹிவத்தை"
+          },
+          "postcode": "31226",
+          "postOffice": {
+            "nameEn": "Dehiwatte Post Office",
+            "nameSi": "දෙහිවත්ත තැපැල් කාර්යාලය",
+            "nameTa": "தெஹிவத்தை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31226"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31228",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NEELAPOLA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Neelapola",
+            "nameSi": "නීලපොල",
+            "nameTa": "நீலபொல"
+          },
+          "city": {
+            "nameEn": "Neelapola",
+            "nameSi": "නීලපොල",
+            "nameTa": "நீலபொல"
+          },
+          "postcode": "31228",
+          "postOffice": {
+            "nameEn": "Neelapola Post Office",
+            "nameSi": "නීලපොල තැපැල් කාර්යාලය",
+            "nameTa": "நீலபொல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31228"
+          },
+          "coordinates": {
+            "latitude": 8.3700677,
+            "longitude": 81.2243444
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31232",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SERUNUWARA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Serunuwara",
+            "nameSi": "සේනුවර",
+            "nameTa": "சேருநுவர"
+          },
+          "city": {
+            "nameEn": "Serunuwara",
+            "nameSi": "සේනුවර",
+            "nameTa": "சேருநுவர"
+          },
+          "postcode": "31232",
+          "postOffice": {
+            "nameEn": "Serunuwara Post Office",
+            "nameSi": "සේනුවර තැපැල් කාර්යාලය",
+            "nameTa": "சேருநுவர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31232"
+          },
+          "coordinates": {
+            "latitude": 8.3249734,
+            "longitude": 81.3007405
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31234",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LANKAPATUNA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Lankapatuna",
+            "nameSi": "ලංකාපටුන",
+            "nameTa": "லங்காபடுன"
+          },
+          "city": {
+            "nameEn": "Lankapatuna",
+            "nameSi": "ලංකාපටුන",
+            "nameTa": "லங்காபடுன"
+          },
+          "postcode": "31234",
+          "postOffice": {
+            "nameEn": "Lankapatuna Post Office",
+            "nameSi": "ලංකාපටුන තැපැල් කාර්යාලය",
+            "nameTa": "லங்காபடுன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31234"
+          },
+          "coordinates": {
+            "latitude": 8.3573611,
+            "longitude": 81.3896222
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31236",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ECHCHILAMPATTAI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Echchilampattai",
+            "nameSi": "එච්චිලම්පට්ටෙයි",
+            "nameTa": "எச்சிலம்பட்டை"
+          },
+          "city": {
+            "nameEn": "Echchilampattai",
+            "nameSi": "එච්චිලම්පට්ටෙයි",
+            "nameTa": "எச்சிலம்பட்டை"
+          },
+          "postcode": "31236",
+          "postOffice": {
+            "nameEn": "Echchilampattai Post Office",
+            "nameSi": "එච්චිලම්පට්ටෙයි තැපැල් කාර්යාලය",
+            "nameTa": "எச்சிலம்பட்டை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31236"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31238",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAWADICHENAI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Mawadichenai",
+            "nameSi": "මාවඩ්චේන",
+            "nameTa": "மாவடிச்சேனை"
+          },
+          "city": {
+            "nameEn": "Mawadichenai",
+            "nameSi": "මාවඩ්චේන",
+            "nameTa": "மாவடிச்சேனை"
+          },
+          "postcode": "31238",
+          "postOffice": {
+            "nameEn": "Mawadichenai Post Office",
+            "nameSi": "මාවඩ්චේන තැපැල් කාර්යාලය",
+            "nameTa": "மாவடிச்சேனை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31238"
+          },
+          "coordinates": {
+            "latitude": 8.6094463,
+            "longitude": 81.2163837
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TOPPUR",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Toppur",
+            "nameSi": "තොප්පුර්",
+            "nameTa": "தோப்பூர்"
+          },
+          "city": {
+            "nameEn": "Toppur",
+            "nameSi": "තොප්පුර්",
+            "nameTa": "தோப்பூர்"
+          },
+          "postcode": "31250",
+          "postOffice": {
+            "nameEn": "Toppur Post Office",
+            "nameSi": "තොප්පුර් තැපැල් කාර්යාලය",
+            "nameTa": "தோப்பூர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31250"
+          },
+          "coordinates": {
+            "latitude": 8.4045812,
+            "longitude": 81.3124341
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31260",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SERUWILA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Seruwila",
+            "nameSi": "සේරුවිල",
+            "nameTa": "சேருவில"
+          },
+          "city": {
+            "nameEn": "Seruwila",
+            "nameSi": "සේරුවිල",
+            "nameTa": "சேருவில"
+          },
+          "postcode": "31260",
+          "postOffice": {
+            "nameEn": "Seruwila Post Office",
+            "nameSi": "සේරුවිල තැපැල් කාර්යාලය",
+            "nameTa": "சேருவில தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31260"
+          },
+          "coordinates": {
+            "latitude": 8.37057,
+            "longitude": 81.3199136
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANTALAI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kantalai",
+            "nameSi": "කන්තලේ",
+            "nameTa": "கந்தளாய்"
+          },
+          "city": {
+            "nameEn": "Kantalai",
+            "nameSi": "කන්තලේ",
+            "nameTa": "கந்தளாய்"
+          },
+          "postcode": "31300",
+          "postOffice": {
+            "nameEn": "Kantalai Post Office",
+            "nameSi": "කන්තලේ තැපැල් කාර්යාලය",
+            "nameTa": "கந்தளாய் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31300"
+          },
+          "coordinates": {
+            "latitude": 8.3512634,
+            "longitude": 81.0069928
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31304",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "AGBOPURA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Agbopura",
+            "nameSi": "අග්බෝපුර",
+            "nameTa": "அக்போபுரா"
+          },
+          "city": {
+            "nameEn": "Agbopura",
+            "nameSi": "අග්බෝපුර",
+            "nameTa": "அக்போபுரா"
+          },
+          "postcode": "31304",
+          "postOffice": {
+            "nameEn": "Agbopura Post Office",
+            "nameSi": "අග්බෝපුර තැපැල් කාර්යාලය",
+            "nameTa": "அக்போபுரா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31304"
+          },
+          "coordinates": {
+            "latitude": 8.3313952,
+            "longitude": 80.9764892
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31306",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KANTALAI SUGAR FACTORY",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Kantalai Sugar Factory",
+            "nameSi": "කන්තලේ සීනි කර්මාන්ත ශාලාව",
+            "nameTa": "கந்தளாய் சீனி தொழிற்சாலை"
+          },
+          "city": {
+            "nameEn": "Kantalai Sugar Factory",
+            "nameSi": "කන්තලේ සීනි කර්මාන්ත ශාලාව",
+            "nameTa": "கந்தளாய் சீனி தொழிற்சாலை"
+          },
+          "postcode": "31306",
+          "postOffice": {
+            "nameEn": "Kantalai Sugar Factory Post Office",
+            "nameSi": "කන්තලේ සීනි කර්මාන්ත ශාලාව තැපැල් කාර්යාලය",
+            "nameTa": "கந்தளாய் சீனி தொழிற்சாலை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31306"
+          },
+          "coordinates": {
+            "latitude": 8.3167222,
+            "longitude": 81.0467219
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31308",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WANELA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Wanela",
+            "nameSi": "වනෙල",
+            "nameTa": "வனேலா"
+          },
+          "city": {
+            "nameEn": "Wanela",
+            "nameSi": "වනෙල",
+            "nameTa": "வனேலா"
+          },
+          "postcode": "31308",
+          "postOffice": {
+            "nameEn": "Wanela Post Office",
+            "nameSi": "වනෙල තැපැල් කාර්යාලය",
+            "nameTa": "வனேலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31308"
+          },
+          "coordinates": {
+            "latitude": 8.3817383,
+            "longitude": 81.079605
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31312",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULLIPOTHANA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Mullipothana",
+            "nameSi": "මුල්ලිපොතන",
+            "nameTa": "முள்ளிப்பொத்தானை"
+          },
+          "city": {
+            "nameEn": "Mullipothana",
+            "nameSi": "මුල්ලිපොතන",
+            "nameTa": "முள்ளிப்பொத்தானை"
+          },
+          "postcode": "31312",
+          "postOffice": {
+            "nameEn": "Mullipothana Post Office",
+            "nameSi": "මුල්ලිපොතන තැපැල් කාර්යාලය",
+            "nameTa": "முள்ளிப்பொத்தானை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31312"
+          },
+          "coordinates": {
+            "latitude": 8.4286799,
+            "longitude": 81.0561458
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31314",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "SIRAJNAGAR",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Sirajnagar",
+            "nameSi": "සිරජ්නගර්",
+            "nameTa": "சிறாஜ்நகர்"
+          },
+          "city": {
+            "nameEn": "Sirajnagar",
+            "nameSi": "සිරජ්නගර්",
+            "nameTa": "சிறாஜ்நகர்"
+          },
+          "postcode": "31314",
+          "postOffice": {
+            "nameEn": "Sirajnagar Post Office",
+            "nameSi": "සිරජ්නගර් තැපැල් කාර්යාලය",
+            "nameTa": "சிறாஜ்நகர் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31314"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "31318",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GALMETIYAWA",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Galmetiyawa",
+            "nameSi": "ගල්මැටියාව",
+            "nameTa": "கல்மெட்டியாவ"
+          },
+          "city": {
+            "nameEn": "Galmetiyawa",
+            "nameSi": "ගල්මැටියාව",
+            "nameTa": "கல்மெட்டியாவ"
+          },
+          "postcode": "31318",
+          "postOffice": {
+            "nameEn": "Galmetiyawa Post Office",
+            "nameSi": "ගල්මැටියාව තැපැල් කාර්යාලය",
+            "nameTa": "கல்மெட்டியாவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "31318"
+          },
+          "coordinates": {
+            "latitude": 8.5873638,
+            "longitude": 81.2152121
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "50567",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Eastern Province",
+            "nameSi": "නැගෙනහිර පළාත",
+            "nameTa": "கிழக்கு மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-5",
+            "capital": "Trincomalee"
+          },
+          "district": {
+            "nameEn": "Trincomalee",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை",
+            "administrativeType": "District",
+            "code": "LK-53"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PULMODDAI",
+            "nameSi": "ත්‍රිකුණාමලය",
+            "nameTa": "திருகோணமலை"
+          },
+          "locality": {
+            "nameEn": "Pulmoddai",
+            "nameSi": "පුල්මුඩේ",
+            "nameTa": "புல்மோட்டை"
+          },
+          "city": {
+            "nameEn": "Pulmoddai",
+            "nameSi": "පුල්මුඩේ",
+            "nameTa": "புல்மோட்டை"
+          },
+          "postcode": "50567",
+          "postOffice": {
+            "nameEn": "Pulmoddai Post Office",
+            "nameSi": "පුල්මුඩේ තැපැල් කාර්යාලය",
+            "nameTa": "புல்மோட்டை தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "50567"
+          },
+          "coordinates": {
+            "latitude": 8.9445522,
+            "longitude": 80.9826718
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

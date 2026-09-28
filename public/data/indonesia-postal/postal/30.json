@@ -1,0 +1,55 @@
+{
+  "prefix": "30",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "30111",
+      "province": {
+        "code": "16",
+        "nameEn": "South Sumatra",
+        "nameId": "Sumatera Selatan",
+        "nameNative": "Sumatera Selatan",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "16.71",
+        "nameId": "Kota Palembang",
+        "nameEn": "Palembang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "16.71.01",
+        "nameId": "Kecamatan Ilir Barat I",
+        "nameEn": "Ilir Barat I District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "16.71.01.1001",
+        "nameId": "Kelurahan Bukit Lama",
+        "nameEn": "Bukit Lama",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Jembatan Ampera / Jakabaring Sport City link",
+        "nameEn": "Palembang Historic Riverway"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Palembang Merdeka",
+        "nameEn": "Palembang Main Post Office",
+        "code": "30000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-16-30111-16.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

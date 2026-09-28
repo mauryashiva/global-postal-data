@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Daejeon",
+    "nameOfficialEn": "Daejeon Metropolitan City",
+    "nameKo": "대전광역시",
+    "category": "metropolitan-cities",
+    "administrativeType": "Metropolitan City",
+    "isoCode": "KR-30",
+    "prefixes": [
+      "34",
+      "35"
+    ],
+    "areaCode": "042",
+    "capitalEn": "Daejeon",
+    "capitalKo": "대전",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 36.3504,
+      "longitude": 127.3845
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "35242",
+      "roadAddress": {
+        "roadName": "Dunsan-ro",
+        "roadNameKo": "둔산로",
+        "roadNameCode": "301703000021",
+        "buildingNumber": "100",
+        "buildingName": "Daejeon Metropolitan City Hall",
+        "buildingNameKo": "대전광역시청",
+        "buildingManagementNumber": "3017011200114200000000001",
+        "fullAddressEn": "100, Dunsan-ro, Seo-gu, Daejeon 35242, Republic of Korea",
+        "fullAddressKo": "대전광역시 서구 둔산로 100 (둔산동, 대전광역시청)"
+      },
+      "jibunAddress": {
+        "jibun": "1420 Dunsan-dong, Seo-gu, Daejeon",
+        "jibunKo": "대전광역시 서구 둔산동 1420",
+        "legalDong": "Dunsan-dong",
+        "legalDongKo": "둔산동",
+        "adminDong": "Dunsan 1-dong",
+        "adminDongKo": "둔산1동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Daejeon",
+          "nameOfficialEn": "Daejeon Metropolitan City",
+          "nameKo": "대전광역시",
+          "isoCode": "KR-30",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Daejeon",
+          "nameKo": "대전",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Seo-gu",
+          "nameKo": "서구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Dunsan-dong",
+          "nameKo": "둔산동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Daejeon Post Office",
+        "nameKo": "대전우체국",
+        "code": "30000",
+        "type": "Head Post Office",
+        "phone": "042-250-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "042"
+      },
+      "areas": [
+        "Dunsan Administrative District",
+        "Daejeon City Hall Square",
+        "Government Complex Daejeon Area",
+        "Eunhaengjeong St"
+      ],
+      "coordinates": {
+        "latitude": 36.3504,
+        "longitude": 127.3845
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-DAEJEON-35242",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "34141",
+      "roadAddress": {
+        "roadName": "Daehak-ro",
+        "roadNameKo": "대학로",
+        "roadNameCode": "302003000012",
+        "buildingNumber": "291",
+        "buildingName": "KAIST Main Campus",
+        "buildingNameKo": "한국과학기술원 (KAIST)",
+        "buildingManagementNumber": "3020011900103730001000001",
+        "fullAddressEn": "291, Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea",
+        "fullAddressKo": "대전광역시 유성구 대학로 291 (구성동, 한국과학기술원 (KAIST))"
+      },
+      "jibunAddress": {
+        "jibun": "373-1 Guseong-dong, Yuseong-gu, Daejeon",
+        "jibunKo": "대전광역시 유성구 구성동 373-1",
+        "legalDong": "Guseong-dong",
+        "legalDongKo": "구성동",
+        "adminDong": "Oncheon 2-dong",
+        "adminDongKo": "온천2동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Daejeon",
+          "nameOfficialEn": "Daejeon Metropolitan City",
+          "nameKo": "대전광역시",
+          "isoCode": "KR-30",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Daejeon",
+          "nameKo": "대전",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Yuseong-gu",
+          "nameKo": "유성구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Guseong-dong",
+          "nameKo": "구성동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Daejeon Yuseong Post Office",
+        "nameKo": "대전유성우체국",
+        "code": "30500",
+        "type": "Head Post Office",
+        "phone": "042-860-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "042"
+      },
+      "areas": [
+        "Daedeok Innopolis Science Town",
+        "KAIST Main Campus",
+        "National Science Museum",
+        "Expo Science Park"
+      ],
+      "coordinates": {
+        "latitude": 36.3721,
+        "longitude": 127.3604
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-DAEJEON-34141",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

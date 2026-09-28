@@ -1,0 +1,55 @@
+{
+  "prefix": "14",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "14530",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.01",
+        "nameId": "Kabupaten Administrasi Kepulauan Seribu",
+        "nameEn": "Thousand Islands Regency",
+        "administrativeType": "Administrative Regency"
+      },
+      "district": {
+        "code": "31.01.02",
+        "nameId": "Kecamatan Kepulauan Seribu Utara",
+        "nameEn": "North Thousand Islands District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.01.02.1001",
+        "nameId": "Kelurahan Pulau Panggang",
+        "nameEn": "Pulau Panggang",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pulau Pramuka (Pusat Pemerintahan Kepulauan Seribu)",
+        "nameEn": "Pramuka Island Government Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Kepulauan Seribu",
+        "nameEn": "Thousand Islands Post Office",
+        "code": "14530",
+        "type": "KPC",
+        "deliveryStatus": "Island Delivery Service"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-14530-31.01.02.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

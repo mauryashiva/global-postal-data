@@ -1,0 +1,593 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Badghis",
+    "nameNative": "بادغیس",
+    "isoCode": "AF-BDG",
+    "postalPrefix": "33",
+    "capital": "Qala i Naw",
+    "capitalNative": "قلعه نو",
+    "coordinates": {
+      "latitude": 35.1671,
+      "longitude": 63.7695
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 15,
+    "totalRecords": 15,
+    "urbanRecords": 6,
+    "ruralRecords": 9
+  },
+  "records": [
+    {
+      "postalCode": "330101",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qala i Naw - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-BDG-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qala i Naw District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-330101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "330201",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qala i Naw - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-BDG-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qala i Naw District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-330201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "330301",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qala i Naw - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-BDG-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qala i Naw District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-330301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "330401",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qala i Naw - District 4",
+        "type": "Urban Municipal District",
+        "code": "AF-BDG-04"
+      },
+      "locality": {
+        "nameEn": "District 4 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qala i Naw District 4 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-330401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "330501",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qala i Naw - District 5",
+        "type": "Urban Municipal District",
+        "code": "AF-BDG-05"
+      },
+      "locality": {
+        "nameEn": "District 5 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qala i Naw District 5 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-330501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "330601",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qala i Naw - District 6",
+        "type": "Urban Municipal District",
+        "code": "AF-BDG-06"
+      },
+      "locality": {
+        "nameEn": "District 6 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Qala i Naw District 6 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-330601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335101",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Abkamari District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-51"
+      },
+      "locality": {
+        "nameEn": "Abkamari Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Abkamari District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335201",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Balamurghab District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-52"
+      },
+      "locality": {
+        "nameEn": "Balamurghab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Balamurghab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335301",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Ghormach District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-53"
+      },
+      "locality": {
+        "nameEn": "Ghormach Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ghormach District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335401",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Jawand District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-54"
+      },
+      "locality": {
+        "nameEn": "Jawand Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Jawand District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335501",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Qadis District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-55"
+      },
+      "locality": {
+        "nameEn": "Qadis Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Qadis District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335601",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Muqur District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-56"
+      },
+      "locality": {
+        "nameEn": "Muqur Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Muqur District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335701",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Dara Yum District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-57"
+      },
+      "locality": {
+        "nameEn": "Dara Yum Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dara Yum District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335801",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Sang Hatsh District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-58"
+      },
+      "locality": {
+        "nameEn": "Sang Hatsh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Sang Hatsh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335801",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "335901",
+      "province": {
+        "nameEn": "Badghis",
+        "nameNative": "بادغیس",
+        "code": "AF-BDG",
+        "postalPrefix": "33"
+      },
+      "city": {
+        "nameEn": "Qala i Naw",
+        "nameNative": "قلعه نو"
+      },
+      "district": {
+        "nameEn": "Tagab Alam District",
+        "type": "Rural Administrative District",
+        "code": "AF-BDG-59"
+      },
+      "locality": {
+        "nameEn": "Tagab Alam Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Tagab Alam District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.1671,
+        "longitude": 63.7695
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-335901",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

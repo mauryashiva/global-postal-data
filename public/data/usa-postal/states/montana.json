@@ -1,0 +1,164 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Montana",
+    "abbreviation": "MT",
+    "fipsCode": "30",
+    "capital": "Helena",
+    "largestCity": "Billings",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "406"
+    ],
+    "prefixes": [
+      "590",
+      "591",
+      "592",
+      "593",
+      "594",
+      "595",
+      "596",
+      "597",
+      "598",
+      "599"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-MT-59101-0",
+      "zip5": "59101",
+      "zip4": "1001",
+      "zipPlus4": "59101-1001",
+      "state": {
+        "nameEn": "Montana",
+        "abbreviation": "MT",
+        "fipsCode": "30",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Billings",
+      "acceptableCities": [
+        "Billings"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Billings",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Yellowstone County",
+          "fipsCode": "30111",
+          "geoid": "30111"
+        }
+      ],
+      "primaryCounty": "Yellowstone County",
+      "zcta": {
+        "code": "59101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Billings Downtown Post Office",
+        "address": "2602 1st Ave N",
+        "phone": "(406) 657-5600",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 45.7833,
+        "longitude": -108.5007,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "406"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 23,
+        "deliveryPoints": 11600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MT-59101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-MT-59601-1",
+      "zip5": "59601",
+      "zip4": "2001",
+      "zipPlus4": "59601-2001",
+      "state": {
+        "nameEn": "Montana",
+        "abbreviation": "MT",
+        "fipsCode": "30",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Helena",
+      "acceptableCities": [
+        "Helena"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Helena",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Lewis and Clark County",
+          "fipsCode": "30049",
+          "geoid": "30049"
+        }
+      ],
+      "primaryCounty": "Lewis and Clark County",
+      "zcta": {
+        "code": "59601"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Helena Main Post Office",
+        "address": "2300 N Harris St",
+        "phone": "(406) 443-4211",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 46.5958,
+        "longitude": -112.0361,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "406"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 21,
+        "deliveryPoints": 10400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-MT-59601",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

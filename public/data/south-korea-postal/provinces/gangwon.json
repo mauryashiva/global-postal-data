@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Gangwon State",
+    "nameOfficialEn": "Gangwon Special Self-Governing Province",
+    "nameKo": "강원특별자치도",
+    "category": "provinces",
+    "administrativeType": "Special Self-Governing Province",
+    "isoCode": "KR-42",
+    "prefixes": [
+      "24",
+      "25",
+      "26"
+    ],
+    "areaCode": "033",
+    "capitalEn": "Chuncheon",
+    "capitalKo": "춘천",
+    "previousNameEn": "Gangwon-do",
+    "previousNameKo": "강원도",
+    "coordinates": {
+      "latitude": 37.8813,
+      "longitude": 127.7298
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "24266",
+      "roadAddress": {
+        "roadName": "Jungang-ro",
+        "roadNameKo": "중앙로",
+        "roadNameCode": "421102000001",
+        "buildingNumber": "1",
+        "buildingName": "Gangwon Special Self-Governing Provincial Government",
+        "buildingNameKo": "강원특별자치도청",
+        "buildingManagementNumber": "4211010200100150000000001",
+        "fullAddressEn": "1, Jungang-ro, Chuncheon, Gangwon State 24266, Republic of Korea",
+        "fullAddressKo": "강원특별자치도 춘천 중앙로 1 (봉의동, 강원특별자치도청)"
+      },
+      "jibunAddress": {
+        "jibun": "15 Bongui-dong, Chuncheon-si, Gangwon-do",
+        "jibunKo": "강원특별자치도 춘천시 봉의동 15",
+        "legalDong": "Bongui-dong",
+        "legalDongKo": "봉의동",
+        "adminDong": "Soyang-dong",
+        "adminDongKo": "소양동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gangwon State",
+          "nameOfficialEn": "Gangwon Special Self-Governing Province",
+          "nameKo": "강원특별자치도",
+          "isoCode": "KR-42",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Gangwon-do",
+          "previousNameKo": "강원도",
+          "transitionDate": "2023-06-11"
+        },
+        "cityCounty": {
+          "nameEn": "Chuncheon-si",
+          "nameKo": "춘천시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Chuncheon",
+          "nameKo": "춘천",
+          "administrativeType": "Si"
+        },
+        "townDong": {
+          "nameEn": "Bongui-dong",
+          "nameKo": "봉의동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Chuncheon Post Office",
+        "nameKo": "춘천우체국",
+        "code": "20000",
+        "type": "Head Post Office",
+        "phone": "033-250-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "033"
+      },
+      "areas": [
+        "Gangwon Provincial Government Square",
+        "Chuncheon Myeongdong Dakgalbi Street",
+        "Soyanggang Skywalk Corridor"
+      ],
+      "coordinates": {
+        "latitude": 37.8854,
+        "longitude": 127.7298
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GANGWON-24266",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "25466",
+      "roadAddress": {
+        "roadName": "Changhae-ro",
+        "roadNameKo": "창해로",
+        "roadNameCode": "421503000021",
+        "buildingNumber": "14",
+        "buildingName": "Gyeongpo Beach Tourism Center",
+        "buildingNameKo": "경포해변 관광안내소",
+        "buildingManagementNumber": "4215011600100010001000001",
+        "fullAddressEn": "14, Changhae-ro, Gangneung, Gangwon State 25466, Republic of Korea",
+        "fullAddressKo": "강원특별자치도 강릉 창해로 14 (경포동, 경포해변 관광안내소)"
+      },
+      "jibunAddress": {
+        "jibun": "1-1 Gangmun-dong, Gangneung-si, Gangwon-do",
+        "jibunKo": "강원특별자치도 강릉시 강문동 1-1",
+        "legalDong": "Changhae-ro",
+        "legalDongKo": "창해로",
+        "adminDong": "Gyeonpo-dong",
+        "adminDongKo": "경포동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gangwon State",
+          "nameOfficialEn": "Gangwon Special Self-Governing Province",
+          "nameKo": "강원특별자치도",
+          "isoCode": "KR-42",
+          "administrativeType": "Special Self-Governing Province",
+          "previousNameEn": "Gangwon-do",
+          "previousNameKo": "강원도",
+          "transitionDate": "2023-06-11"
+        },
+        "cityCounty": {
+          "nameEn": "Gangneung-si",
+          "nameKo": "강릉시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Gangneung",
+          "nameKo": "강릉",
+          "administrativeType": "Si"
+        },
+        "townDong": {
+          "nameEn": "Gyeonpo-dong",
+          "nameKo": "경포동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gangneung Post Office",
+        "nameKo": "강릉우체국",
+        "code": "21000",
+        "type": "Head Post Office",
+        "phone": "033-640-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "033"
+      },
+      "areas": [
+        "Gyeongpo Lake and Pine Woods",
+        "Anmok Coffee Street",
+        "Ojukheon Historic Site",
+        "Gangneung Olympic Park"
+      ],
+      "coordinates": {
+        "latitude": 37.7989,
+        "longitude": 128.9145
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GANGWON-25466",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

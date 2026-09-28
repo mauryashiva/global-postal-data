@@ -1,0 +1,53 @@
+{
+  "postcodeArea": "W",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "W1A 1AA",
+      "postTown": "LONDON",
+      "locality": "Marylebone",
+      "dependentLocality": "Fitzrovia",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "City of Westminster",
+      "district": "Westminster",
+      "civilParish": null,
+      "ward": "Marylebone High Street",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5186,
+        "longitude": -0.1437,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "W1A1AA-01",
+          "buildingName": "Broadcasting House",
+          "buildingNumber": null,
+          "subBuildingName": "BBC Headquarters",
+          "thoroughfare": "Portland Place",
+          "postTown": "LONDON",
+          "postcode": "W1A 1AA",
+          "fullAddressText": "Broadcasting House, Portland Place, London W1A 1AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "W1A 1AA",
+        "outwardCode": "W1A",
+        "inwardCode": "1AA",
+        "postcodeArea": "W",
+        "postcodeDistrict": "W1A",
+        "postcodeSector": "W1A 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-W1A-1AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

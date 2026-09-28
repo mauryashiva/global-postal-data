@@ -1,0 +1,235 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Puerto Rico",
+    "abbreviation": "PR",
+    "fipsCode": "72",
+    "capital": "San Juan",
+    "largestCity": "San Juan",
+    "category": "territories",
+    "administrativeType": "Territory",
+    "areaCodes": [
+      "787",
+      "939"
+    ],
+    "prefixes": [
+      "006",
+      "007",
+      "009"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-PR-00901-0",
+      "zip5": "00901",
+      "zip4": "1001",
+      "zipPlus4": "00901-1001",
+      "state": {
+        "nameEn": "Puerto Rico",
+        "abbreviation": "PR",
+        "fipsCode": "72",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "San Juan",
+      "acceptableCities": [
+        "San Juan",
+        "Old San Juan"
+      ],
+      "postalCityNames": [
+        {
+          "name": "San Juan",
+          "status": "Primary"
+        },
+        {
+          "name": "Old San Juan",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "San Juan Municipio",
+          "fipsCode": "72127",
+          "geoid": "72127"
+        }
+      ],
+      "primaryCounty": "San Juan Municipio",
+      "zcta": {
+        "code": "00901"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Old San Juan Station",
+        "address": "153 Calle Fortaleza",
+        "phone": "(787) 720-3000",
+        "type": "Historic Station"
+      },
+      "coordinates": {
+        "latitude": 18.4655,
+        "longitude": -66.1158,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "787",
+          "939"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 28,
+        "deliveryPoints": 14100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-PR-00901",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-PR-00907-1",
+      "zip5": "00907",
+      "zip4": "2001",
+      "zipPlus4": "00907-2001",
+      "state": {
+        "nameEn": "Puerto Rico",
+        "abbreviation": "PR",
+        "fipsCode": "72",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "San Juan",
+      "acceptableCities": [
+        "San Juan",
+        "Condado"
+      ],
+      "postalCityNames": [
+        {
+          "name": "San Juan",
+          "status": "Primary"
+        },
+        {
+          "name": "Condado",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "San Juan Municipio",
+          "fipsCode": "72127",
+          "geoid": "72127"
+        }
+      ],
+      "primaryCounty": "San Juan Municipio",
+      "zcta": {
+        "code": "00907"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Condado Station",
+        "address": "1308 Ashford Ave",
+        "phone": "(787) 725-1188",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 18.4552,
+        "longitude": -66.0711,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "787",
+          "939"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 15200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-PR-00907",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-PR-00601-2",
+      "zip5": "00601",
+      "zip4": "1501",
+      "zipPlus4": "00601-1501",
+      "state": {
+        "nameEn": "Puerto Rico",
+        "abbreviation": "PR",
+        "fipsCode": "72",
+        "administrativeType": "Territory",
+        "category": "territories"
+      },
+      "primaryCity": "Adjuntas",
+      "acceptableCities": [
+        "Adjuntas"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Adjuntas",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Adjuntas Municipio",
+          "fipsCode": "72001",
+          "geoid": "72001"
+        }
+      ],
+      "primaryCounty": "Adjuntas Municipio",
+      "zcta": {
+        "code": "00601"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Adjuntas Post Office",
+        "address": "33 Calle Muñoz Rivera",
+        "phone": "(787) 829-2060",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 18.1658,
+        "longitude": -66.7221,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "787",
+          "939"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 18,
+        "deliveryPoints": 8900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-PR-00601",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Suez",
+    "nameNative": "السويس",
+    "isoCode": "EG-SUZ",
+    "postalPrefix": "43",
+    "capital": "Suez",
+    "capitalNative": "السويس",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 29.9668,
+      "longitude": 32.5498
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 12
+  },
+  "records": [
+    {
+      "postalCode": "43511",
+      "governorate": {
+        "nameEn": "Suez",
+        "nameNative": "السويس",
+        "code": "EG-SUZ",
+        "postalPrefix": "43",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Suez",
+        "nameNative": "السويس",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Suez",
+        "nameNative": "حي السويس",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Shohadaa Square",
+        "nameNative": "ميدان الشهداء",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Suez Main Post Office",
+        "nameNative": "مكتب بريد السويس الرئيسي",
+        "type": "Main Post Office",
+        "code": "43511"
+      },
+      "areas": [
+        "Shohadaa Square",
+        "Galaa St",
+        "Governorate Headquarters",
+        "Suez Canal Entrance"
+      ],
+      "coordinates": {
+        "latitude": 29.9668,
+        "longitude": 32.5498
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SUEZ-43511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "43713",
+      "governorate": {
+        "nameEn": "Suez",
+        "nameNative": "السويس",
+        "code": "EG-SUZ",
+        "postalPrefix": "43",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Suez",
+        "nameNative": "السويس",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Ataka",
+        "nameNative": "حي عتاقة",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Ataka Industrial Zone",
+        "nameNative": "المنطقة الصناعية بعتاقة",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Ataka Post Office",
+        "nameNative": "مكتب بريد عتاقة",
+        "type": "Sub Post Office",
+        "code": "43713"
+      },
+      "areas": [
+        "Ataka Commercial Port",
+        "Adabiya Port Approach",
+        "Fertilizer & Petrochemical Plants",
+        "Ain Sokhna Highway"
+      ],
+      "coordinates": {
+        "latitude": 29.9123,
+        "longitude": 32.4856
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SUEZ-43713",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "43715",
+      "governorate": {
+        "nameEn": "Suez",
+        "nameNative": "السويس",
+        "code": "EG-SUZ",
+        "postalPrefix": "43",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Ain Sokhna",
+        "nameNative": "العين السخنة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Ataka",
+        "nameNative": "حي عتاقة",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Port & Tourist Resorts",
+        "nameNative": "الميناء والقرى السياحية",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Ain Sokhna Post Office",
+        "nameNative": "مكتب بريد العين السخنة",
+        "type": "Sub Post Office",
+        "code": "43715"
+      },
+      "areas": [
+        "Sokhna Sokhna Mega Port",
+        "Suez-Red Sea Coastal Strip",
+        "Zafarana Axis",
+        "Industrial Basin"
+      ],
+      "coordinates": {
+        "latitude": 29.6012,
+        "longitude": 32.3145
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SUEZ-43715",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

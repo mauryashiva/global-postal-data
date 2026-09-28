@@ -1,0 +1,42 @@
+{
+  "prefix": "812",
+  "records": [
+    {
+      "postalCode": "8120011",
+      "postalCodeFormatted": "812-0011",
+      "postalCodeType": "AREA",
+      "prefectureCode": "40",
+      "prefectureNameEn": "Fukuoka",
+      "prefectureNameJa": "福岡県",
+      "prefectureNameKana": "フクオカケン",
+      "prefectureNameRomaji": "Fukuoka-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "40132",
+        "nameEn": "Fukuoka Hakata Ward",
+        "nameJa": "福岡市博多区",
+        "nameKana": "フクオカシハカタク",
+        "nameRomaji": "Fukuoka-shi Hakata-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "福岡市",
+        "parentCityEn": "Fukuoka City"
+      },
+      "townArea": {
+        "nameEn": "Hakataekimae",
+        "nameJa": "博多駅前",
+        "nameKana": "ハカタエキマエ",
+        "nameRomaji": "Hakataekimae",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Hakata Station Shinkansen Terminal"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Ulsan",
+    "nameOfficialEn": "Ulsan Metropolitan City",
+    "nameKo": "울산광역시",
+    "category": "metropolitan-cities",
+    "administrativeType": "Metropolitan City",
+    "isoCode": "KR-31",
+    "prefixes": [
+      "44",
+      "45"
+    ],
+    "areaCode": "052",
+    "capitalEn": "Ulsan",
+    "capitalKo": "울산",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 35.5384,
+      "longitude": 129.3114
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "44675",
+      "roadAddress": {
+        "roadName": "Jungang-ro",
+        "roadNameKo": "중앙로",
+        "roadNameCode": "311402000001",
+        "buildingNumber": "201",
+        "buildingName": "Ulsan Metropolitan City Hall",
+        "buildingNameKo": "울산광역시청",
+        "buildingManagementNumber": "3114010100106460004000001",
+        "fullAddressEn": "201, Jungang-ro, Nam-gu, Ulsan 44675, Republic of Korea",
+        "fullAddressKo": "울산광역시 남구 중앙로 201 (신정동, 울산광역시청)"
+      },
+      "jibunAddress": {
+        "jibun": "646-4 Sinjeong-dong, Nam-gu, Ulsan",
+        "jibunKo": "울산광역시 남구 신정동 646-4",
+        "legalDong": "Sinjeong-dong",
+        "legalDongKo": "신정동",
+        "adminDong": "Sinjeong 4-dong",
+        "adminDongKo": "신정4동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Ulsan",
+          "nameOfficialEn": "Ulsan Metropolitan City",
+          "nameKo": "울산광역시",
+          "isoCode": "KR-31",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Ulsan",
+          "nameKo": "울산",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Nam-gu",
+          "nameKo": "남구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Sinjeong-dong",
+          "nameKo": "신정동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Ulsan Post Office",
+        "nameKo": "울산우체국",
+        "code": "68000",
+        "type": "Head Post Office",
+        "phone": "052-250-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "052"
+      },
+      "areas": [
+        "City Hall Plaza Ulsan",
+        "Taehwagang National Garden Corridor",
+        "Sinjeong Market",
+        "Munsu Sports Complex"
+      ],
+      "coordinates": {
+        "latitude": 35.5384,
+        "longitude": 129.3114
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-ULSAN-44675",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "44032",
+      "roadAddress": {
+        "roadName": "Bangeojinsunhwan-doro",
+        "roadNameKo": "방어진순환도로",
+        "roadNameCode": "311702000001",
+        "buildingNumber": "1000",
+        "buildingName": "HD Hyundai Heavy Industries HQ",
+        "buildingNameKo": "HD현대중공업 본사",
+        "buildingManagementNumber": "3117010200100010001000001",
+        "fullAddressEn": "1000, Bangeojinsunhwan-doro, Dong-gu, Ulsan 44032, Republic of Korea",
+        "fullAddressKo": "울산광역시 동구 방어진순환도로 1000 (전하동, HD현대중공업 본사)"
+      },
+      "jibunAddress": {
+        "jibun": "1-1 Jeonha-dong, Dong-gu, Ulsan",
+        "jibunKo": "울산광역시 동구 전하동 1-1",
+        "legalDong": "Jeonha-dong",
+        "legalDongKo": "전하동",
+        "adminDong": "Jeonha 1-dong",
+        "adminDongKo": "전하1동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Ulsan",
+          "nameOfficialEn": "Ulsan Metropolitan City",
+          "nameKo": "울산광역시",
+          "isoCode": "KR-31",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Ulsan",
+          "nameKo": "울산",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Dong-gu",
+          "nameKo": "동구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Jeonha-dong",
+          "nameKo": "전하동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Ulsan Dong-gu Post Office",
+        "nameKo": "울산동구우체국",
+        "code": "68200",
+        "type": "Head Post Office",
+        "phone": "052-230-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "052"
+      },
+      "areas": [
+        "Hyundai Heavy Industries Shipyard",
+        "Ilsan Beach",
+        "Daewangam Park",
+        "Bangeojin Port"
+      ],
+      "coordinates": {
+        "latitude": 35.5189,
+        "longitude": 129.4312
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-ULSAN-44032",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

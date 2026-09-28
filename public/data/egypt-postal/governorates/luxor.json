@@ -1,0 +1,168 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Luxor",
+    "nameNative": "الأقصر",
+    "isoCode": "EG-LX",
+    "postalPrefix": "85",
+    "capital": "Luxor",
+    "capitalNative": "الأقصر",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 25.6872,
+      "longitude": 32.6396
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 12
+  },
+  "records": [
+    {
+      "postalCode": "85951",
+      "governorate": {
+        "nameEn": "Luxor",
+        "nameNative": "الأقصر",
+        "code": "EG-LX",
+        "postalPrefix": "85",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Luxor",
+        "nameNative": "الأقصر",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Luxor",
+        "nameNative": "قسم الأقصر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata / Luxor Temple",
+        "nameNative": "ميدان المحطة / معبد الأقصر",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Luxor Main Post Office",
+        "nameNative": "مكتب بريد الأقصر الرئيسي",
+        "type": "Main Post Office",
+        "code": "85951"
+      },
+      "areas": [
+        "Luxor Railway Station Square",
+        "Luxor Temple Promenade",
+        "Corniche El Nil Luxor",
+        "Souq Tourist Bazaar"
+      ],
+      "coordinates": {
+        "latitude": 25.6872,
+        "longitude": 32.6396
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-LUXOR-85951",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "85953",
+      "governorate": {
+        "nameEn": "Luxor",
+        "nameNative": "الأقصر",
+        "code": "EG-LX",
+        "postalPrefix": "85",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Luxor",
+        "nameNative": "الأقصر",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Luxor",
+        "nameNative": "قسم الأقصر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Karnak Temples Complex",
+        "nameNative": "مجمع معابد الكرنك",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Karnak Post Office",
+        "nameNative": "مكتب بريد الكرنك",
+        "type": "Sub Post Office",
+        "code": "85953"
+      },
+      "areas": [
+        "Avenue of Sphinxes",
+        "Karnak Temple Entrance",
+        "Hilton Karnak Corridor",
+        "East Bank Northern Sector"
+      ],
+      "coordinates": {
+        "latitude": 25.7189,
+        "longitude": 32.6589
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-LUXOR-85953",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "85954",
+      "governorate": {
+        "nameEn": "Luxor",
+        "nameNative": "الأقصر",
+        "code": "EG-LX",
+        "postalPrefix": "85",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Luxor West Bank",
+        "nameNative": "القرنة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Qurna",
+        "nameNative": "مركز القرنة",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Valley of the Kings Access",
+        "nameNative": "مدخل وادي الملوك",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "West Bank (El Qurna) Post Office",
+        "nameNative": "مكتب بريد القرنة (البر الغربي)",
+        "type": "Sub Post Office",
+        "code": "85954"
+      },
+      "areas": [
+        "Valley of the Kings",
+        "Colossi of Memnon",
+        "Hatshepsut Temple Approach",
+        "Ferry Landing West Bank"
+      ],
+      "coordinates": {
+        "latitude": 25.7289,
+        "longitude": 32.6123
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-LUXOR-85954",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

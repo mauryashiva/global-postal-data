@@ -1,0 +1,153 @@
+{
+  "prefix": "97",
+  "totalRecords": 3,
+  "records": [
+    {
+      "postalCode": "97111",
+      "province": {
+        "code": "81",
+        "nameEn": "Maluku",
+        "nameId": "Maluku",
+        "nameNative": "Maluku",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "81.71",
+        "nameId": "Kota Ambon",
+        "nameEn": "Ambon",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "81.71.01",
+        "nameId": "Kecamatan Sirimau",
+        "nameEn": "Sirimau District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "81.71.01.1001",
+        "nameId": "Kelurahan Honipopu",
+        "nameEn": "Honipopu",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Lapangan Merdeka Ambon / Gong Perdamaian",
+        "nameEn": "Ambon Bay Civic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Ambon",
+        "nameEn": "Ambon Main Post Office",
+        "code": "97000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-81-97111-81.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "97711",
+      "province": {
+        "code": "82",
+        "nameEn": "North Maluku",
+        "nameId": "Maluku Utara",
+        "nameNative": "Maluku Utara",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "82.71",
+        "nameId": "Kota Ternate",
+        "nameEn": "Ternate",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "82.71.01",
+        "nameId": "Kecamatan Ternate Tengah",
+        "nameEn": "Central Ternate District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "82.71.01.1001",
+        "nameId": "Kelurahan Gamalama",
+        "nameEn": "Gamalama",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pasar Gamalama / Benteng Oranje",
+        "nameEn": "Fort Oranje Spice Island Historic Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Ternate",
+        "nameEn": "Ternate Main Post Office",
+        "code": "97700",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-82-97711-82.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "97821",
+      "province": {
+        "code": "82",
+        "nameEn": "North Maluku",
+        "nameId": "Maluku Utara",
+        "nameNative": "Maluku Utara",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "82.72",
+        "nameId": "Kota Tidore Kepulauan",
+        "nameEn": "Tidore Islands",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "82.72.06",
+        "nameId": "Kecamatan Oba Utara (Sofifi)",
+        "nameEn": "North Oba (Sofifi) District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "82.72.06.1001",
+        "nameId": "Kelurahan Guraping",
+        "nameEn": "Guraping",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Ibukota Provinsi Maluku Utara (Sofifi)",
+        "nameEn": "Sofifi Provincial Government Complex"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Sofifi",
+        "nameEn": "Sofifi Post Office",
+        "code": "97821",
+        "type": "KPC",
+        "deliveryStatus": "Provincial Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-82-97821-82.72.06.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

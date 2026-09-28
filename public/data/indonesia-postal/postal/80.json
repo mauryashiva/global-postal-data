@@ -1,0 +1,104 @@
+{
+  "prefix": "80",
+  "totalRecords": 2,
+  "records": [
+    {
+      "postalCode": "80232",
+      "province": {
+        "code": "51",
+        "nameEn": "Bali",
+        "nameId": "Bali",
+        "nameNative": "Bali",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "51.71",
+        "nameId": "Kota Denpasar",
+        "nameEn": "Denpasar",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "51.71.02",
+        "nameId": "Kecamatan Denpasar Selatan",
+        "nameEn": "South Denpasar District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "51.71.02.1002",
+        "nameId": "Kelurahan Sanur",
+        "nameEn": "Sanur",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pantai Sanur / Kawasan Pariwisata Sanur",
+        "nameEn": "Sanur Beach Tourism Enclave"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Sanur",
+        "nameEn": "Sanur Post Office",
+        "code": "80228",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-51-80232-51.71.02.1002",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "80361",
+      "province": {
+        "code": "51",
+        "nameEn": "Bali",
+        "nameId": "Bali",
+        "nameNative": "Bali",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "51.03",
+        "nameId": "Kabupaten Badung",
+        "nameEn": "Badung Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "51.03.01",
+        "nameId": "Kecamatan Kuta",
+        "nameEn": "Kuta District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "51.03.01.1001",
+        "nameId": "Kelurahan Kuta",
+        "nameEn": "Kuta",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pantai Kuta / Bandara Ngurah Rai",
+        "nameEn": "Kuta Beach & International Gateway"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Kuta",
+        "nameEn": "Kuta Post Office",
+        "code": "80361",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-51-80361-51.03.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

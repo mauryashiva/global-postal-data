@@ -1,0 +1,42 @@
+{
+  "prefix": "190",
+  "records": [
+    {
+      "postalCode": "1900200",
+      "postalCodeFormatted": "190-0200",
+      "postalCodeType": "AREA",
+      "prefectureCode": "13",
+      "prefectureNameEn": "Tokyo",
+      "prefectureNameJa": "東京都",
+      "prefectureNameKana": "トウキョウト",
+      "prefectureNameRomaji": "Tokyo-to",
+      "administrativeType": "To",
+      "municipality": {
+        "jisCode": "13307",
+        "nameEn": "Hinohara",
+        "nameJa": "西多摩郡檜原村",
+        "nameKana": "ニシタマグンヒノハラムラ",
+        "nameRomaji": "Nishitama-gun Hinohara-mura",
+        "administrativeType": "Village",
+        "countyNameJa": "西多摩郡",
+        "countyNameEn": "Nishitama County"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "descriptionEn": "Special Japan Post source entry: When town area is not listed below"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

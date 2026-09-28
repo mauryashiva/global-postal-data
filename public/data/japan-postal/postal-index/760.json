@@ -1,0 +1,40 @@
+{
+  "prefix": "760",
+  "records": [
+    {
+      "postalCode": "7600000",
+      "postalCodeFormatted": "760-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "37",
+      "prefectureNameEn": "Kagawa",
+      "prefectureNameJa": "香川県",
+      "prefectureNameKana": "カガワケン",
+      "prefectureNameRomaji": "Kagawa-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "37201",
+        "nameEn": "Takamatsu",
+        "nameJa": "高松市",
+        "nameKana": "カガワシ",
+        "nameRomaji": "Kagawa-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Kagawa Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

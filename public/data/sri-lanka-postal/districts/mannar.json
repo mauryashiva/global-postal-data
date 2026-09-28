@@ -1,0 +1,187 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Mannar",
+    "nameSi": "මන්නාරම",
+    "nameTa": "மன்னார்",
+    "administrativeType": "District",
+    "code": "LK-43"
+  },
+  "province": {
+    "nameEn": "Northern Province",
+    "nameSi": "උතුරු පළාත",
+    "nameTa": "வட மாகாணம்",
+    "code": "LK-4"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Mannar",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Manthai West",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Madhu",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Musali",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Nanaddan",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 2,
+    "totalRecords": 2,
+    "dsDivisionCount": 5
+  },
+  "postcodes": [
+    {
+      "postcode": "30158",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mannar",
+            "nameSi": "මන්නාරම",
+            "nameTa": "மன்னார்",
+            "administrativeType": "District",
+            "code": "LK-43"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PUTHUKUDIYIRUPPU",
+            "nameSi": "මන්නාරම",
+            "nameTa": "மன்னார்"
+          },
+          "locality": {
+            "nameEn": "Puthukudiyiruppu",
+            "nameSi": "පුදුකුඩිඉරිප්පු",
+            "nameTa": "புதுக்குடியிருப்பு"
+          },
+          "city": {
+            "nameEn": "Puthukudiyiruppu",
+            "nameSi": "පුදුකුඩිඉරිප්පු",
+            "nameTa": "புதுக்குடியிருப்பு"
+          },
+          "postcode": "30158",
+          "postOffice": {
+            "nameEn": "Puthukudiyiruppu Post Office",
+            "nameSi": "පුදුකුඩිඉරිප්පු තැපැල් කාර්යාලය",
+            "nameTa": "புதுக்குடியிருப்பு தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "30158"
+          },
+          "coordinates": {
+            "latitude": 9.0603894,
+            "longitude": 79.8473091
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "41000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Mannar",
+            "nameSi": "මන්නාරම",
+            "nameTa": "மன்னார்",
+            "administrativeType": "District",
+            "code": "LK-43"
+          },
+          "dsDivision": {
+            "nameEn": "Mannar",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "MANNAR",
+            "nameSi": "මන්නාරම",
+            "nameTa": "மன்னார்"
+          },
+          "locality": {
+            "nameEn": "Mannar",
+            "nameSi": "මන්නාරම",
+            "nameTa": "மன்னார்"
+          },
+          "city": {
+            "nameEn": "Mannar",
+            "nameSi": "මන්නාරම",
+            "nameTa": "மன்னார்"
+          },
+          "postcode": "41000",
+          "postOffice": {
+            "nameEn": "Mannar Post Office",
+            "nameSi": "මන්නාරම තැපැල් කාර්යාලය",
+            "nameTa": "மன்னார் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "41000"
+          },
+          "coordinates": {
+            "latitude": 8.9809743,
+            "longitude": 79.9044149
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

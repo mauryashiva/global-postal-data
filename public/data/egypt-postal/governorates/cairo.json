@@ -1,0 +1,989 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Cairo",
+    "nameNative": "القاهرة",
+    "isoCode": "EG-C",
+    "postalPrefix": "11",
+    "capital": "Cairo",
+    "capitalNative": "القاهرة",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.0444,
+      "longitude": 31.2357
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 20,
+    "totalRecords": 20,
+    "totalPostOffices": 20,
+    "totalLocalities": 85
+  },
+  "records": [
+    {
+      "postalCode": "11511",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Muski",
+        "nameNative": "الموسكي",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Ataba Square",
+        "nameNative": "ميدان العتبة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Cairo Main Post Office (Ataba)",
+        "nameNative": "مكتب بريد القاهرة الرئيسي (العتبة)",
+        "type": "Main Post Office",
+        "code": "11511"
+      },
+      "areas": [
+        "Ataba Square",
+        "1 Abdel Khalek Tharwat St",
+        "Al Gomhuria St",
+        "Opera Square",
+        "Central Cairo"
+      ],
+      "coordinates": {
+        "latitude": 30.0526,
+        "longitude": 31.2469
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11528",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Abdeen",
+        "nameNative": "عابدين",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Bab El Louq",
+        "nameNative": "باب اللوق",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Bab El Louq Post Office",
+        "nameNative": "مكتب بريد باب اللوق",
+        "type": "Sub Post Office",
+        "code": "11528"
+      },
+      "areas": [
+        "Bab El Louq Market",
+        "Falaki Square",
+        "Mohamed Mahmoud St",
+        "Hoda Shaarawy St"
+      ],
+      "coordinates": {
+        "latitude": 30.0451,
+        "longitude": 31.2412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11528",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11518",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Kasr El Nil",
+        "nameNative": "قصر النيل",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Tahrir Square",
+        "nameNative": "ميدان التحرير",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Tahrir Post Office (Kasr El Nil)",
+        "nameNative": "مكتب بريد التحرير (قصر النيل)",
+        "type": "Sub Post Office",
+        "code": "11518"
+      },
+      "areas": [
+        "Tahrir Square",
+        "Egyptian Museum Area",
+        "Mogamma Complex",
+        "Kasr El Nil St"
+      ],
+      "coordinates": {
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11518",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11562",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Sayeda Zeinab",
+        "nameNative": "السيدة زينب",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Kasr El Ainy",
+        "nameNative": "القصر العيني",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Kasr El Ainy Post Office",
+        "nameNative": "مكتب بريد القصر العيني",
+        "type": "Sub Post Office",
+        "code": "11562"
+      },
+      "areas": [
+        "Kasr El Ainy Hospital Area",
+        "French Hospital",
+        "Maglis El Shaab St",
+        "Nobar St"
+      ],
+      "coordinates": {
+        "latitude": 30.0336,
+        "longitude": 31.2341
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11562",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11568",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Kasr El Nil",
+        "nameNative": "قصر النيل",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Zamalek",
+        "nameNative": "الزمالك",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Zamalek Post Office",
+        "nameNative": "مكتب بريد الزمالك",
+        "type": "Sub Post Office",
+        "code": "11568"
+      },
+      "areas": [
+        "Shajarat El Dorr St",
+        "26th of July Corridor",
+        "Hassan Sabry St",
+        "Brazil St",
+        "Gezira Island"
+      ],
+      "coordinates": {
+        "latitude": 30.0617,
+        "longitude": 31.2198
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11568",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11516",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Kasr El Nil",
+        "nameNative": "قصر النيل",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Garden City",
+        "nameNative": "جاردن سيتي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Garden City Post Office",
+        "nameNative": "مكتب بريد جاردن سيتي",
+        "type": "Sub Post Office",
+        "code": "11516"
+      },
+      "areas": [
+        "Corniche El Nil",
+        "Latin Quarter",
+        "Embassy District",
+        "Simon Bolivar Square"
+      ],
+      "coordinates": {
+        "latitude": 30.0381,
+        "longitude": 31.2307
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11516",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11736",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Masr El Gedida",
+        "nameNative": "مصر الجديدة",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Roxy",
+        "nameNative": "روكسي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Heliopolis Post Office (Roxy)",
+        "nameNative": "مكتب بريد مصر الجديدة (روكسي)",
+        "type": "Sub Post Office",
+        "code": "11736"
+      },
+      "areas": [
+        "Roxy Square",
+        "Baghdad St",
+        "Korba Commercial Area",
+        "Ibrahim El Laqqany St",
+        "Merryland"
+      ],
+      "coordinates": {
+        "latitude": 30.0924,
+        "longitude": 31.3175
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11736",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11765",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Nasr City 1",
+        "nameNative": "مدينة نصر شرق",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "1st District",
+        "nameNative": "الحي الأول",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Nasr City Post Office (Hayy Awal)",
+        "nameNative": "مكتب بريد مدينة نصر (الحي الأول)",
+        "type": "Main Post Office",
+        "code": "11765"
+      },
+      "areas": [
+        "Tayaran St",
+        "Abbas El Akkad St",
+        "Rabaa Al-Adawiya Square",
+        "Youssef Abbas St"
+      ],
+      "coordinates": {
+        "latitude": 30.0658,
+        "longitude": 31.3328
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11765",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11768",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Nasr City 1",
+        "nameNative": "مدينة نصر شرق",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "7th District",
+        "nameNative": "الحي السابع",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Nasr City 7th District Post Office",
+        "nameNative": "مكتب بريد مدينة نصر (الحي السابع)",
+        "type": "Sub Post Office",
+        "code": "11768"
+      },
+      "areas": [
+        "Makram Ebeid St",
+        "Hasan El-Maamoun St",
+        "Enpy Complex",
+        "Child Park"
+      ],
+      "coordinates": {
+        "latitude": 30.0543,
+        "longitude": 31.3489
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11768",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11835",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Cairo",
+        "nameNative": "القاهرة الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "New Cairo 1",
+        "nameNative": "التجمع الخامس",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Fifth Settlement",
+        "nameNative": "التجمع الخامس",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "New Cairo Post Office (Fifth Settlement)",
+        "nameNative": "مكتب بريد القاهرة الجديدة (التجمع الخامس)",
+        "type": "Main Post Office",
+        "code": "11835"
+      },
+      "areas": [
+        "North 90th Street",
+        "South 90th Street",
+        "Choueifat District",
+        "Diplomats Area",
+        "GUC Campus"
+      ],
+      "coordinates": {
+        "latitude": 30.0055,
+        "longitude": 31.4285
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11835",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11865",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Cairo",
+        "nameNative": "القاهرة الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "New Cairo 2",
+        "nameNative": "التجمع الأول",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "First Settlement",
+        "nameNative": "التجمع الأول",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "First Settlement Post Office",
+        "nameNative": "مكتب بريد التجمع الأول",
+        "type": "Sub Post Office",
+        "code": "11865"
+      },
+      "areas": [
+        "Sadat Axis",
+        "Mirage City",
+        "Al Benafsaj Neighborhood",
+        "Al Yasmine"
+      ],
+      "coordinates": {
+        "latitude": 30.0512,
+        "longitude": 31.4623
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11865",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11841",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Cairo",
+        "nameNative": "القاهرة الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "New Cairo 2",
+        "nameNative": "التجمع الأول",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Rehab City",
+        "nameNative": "مدينة الرحاب",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Rehab City Post Office",
+        "nameNative": "مكتب بريد مدينة الرحاب",
+        "type": "Sub Post Office",
+        "code": "11841"
+      },
+      "areas": [
+        "Rehab City Gate 6",
+        "Commercial Market 1",
+        "Phase 1-9",
+        "Rehab Mall"
+      ],
+      "coordinates": {
+        "latitude": 30.0611,
+        "longitude": 31.4922
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11841",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11887",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Cairo",
+        "nameNative": "القاهرة الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "New Cairo 2",
+        "nameNative": "مدينتي",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Madinaty",
+        "nameNative": "مدينتي",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Madinaty Post Office",
+        "nameNative": "مكتب بريد مدينتي",
+        "type": "Sub Post Office",
+        "code": "11887"
+      },
+      "areas": [
+        "South Park",
+        "Central Mall",
+        "Crafts Zone",
+        "B1-B12 Residential"
+      ],
+      "coordinates": {
+        "latitude": 30.0988,
+        "longitude": 31.6322
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11887",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11728",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Maadi",
+        "nameNative": "المعادي",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Sarayat El Maadi",
+        "nameNative": "سرايات المعادي",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Maadi Post Office",
+        "nameNative": "مكتب بريد المعادي",
+        "type": "Main Post Office",
+        "code": "11728"
+      },
+      "areas": [
+        "Road 9",
+        "Orabi Square",
+        "Sarayat El Maadi",
+        "Port Said St",
+        "Maadi Corniche"
+      ],
+      "coordinates": {
+        "latitude": 29.9589,
+        "longitude": 31.2589
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11728",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11742",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Basatin",
+        "nameNative": "البساتين",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "New Maadi",
+        "nameNative": "المعادي الجديدة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "New Maadi Post Office",
+        "nameNative": "مكتب بريد المعادي الجديدة",
+        "type": "Sub Post Office",
+        "code": "11742"
+      },
+      "areas": [
+        "Laselki St",
+        "El Nasr St",
+        "Saqr Quraish",
+        "Arab El Maadi"
+      ],
+      "coordinates": {
+        "latitude": 29.9723,
+        "longitude": 31.2789
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11742",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11571",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Mokattam",
+        "nameNative": "المقطم",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Mokattam",
+        "nameNative": "المقطم",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Mokattam Post Office",
+        "nameNative": "مكتب بريد المقطم",
+        "type": "Sub Post Office",
+        "code": "11571"
+      },
+      "areas": [
+        "Nafoura Square",
+        "9th Street Mokattam",
+        "Upper Plateau",
+        "Diplomats Neighborhood"
+      ],
+      "coordinates": {
+        "latitude": 30.0156,
+        "longitude": 31.3056
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11571",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11722",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Helwan",
+        "nameNative": "حلوان",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Helwan",
+        "nameNative": "حلوان",
+        "administrativeType": "Hayy"
+      },
+      "locality": {
+        "nameEn": "Helwan El Mahata",
+        "nameNative": "حلوان المحطة",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Helwan Post Office",
+        "nameNative": "مكتب بريد حلوان",
+        "type": "Main Post Office",
+        "code": "11722"
+      },
+      "areas": [
+        "Mansour St",
+        "Helwan Railway Station",
+        "Ragheb St",
+        "Japanese Garden Area"
+      ],
+      "coordinates": {
+        "latitude": 29.8494,
+        "longitude": 31.3342
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11722",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11837",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "El Shorouk",
+        "nameNative": "مدينة الشروق",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "El Shorouk",
+        "nameNative": "الشروق",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Shorouk Downtown",
+        "nameNative": "وسط مدينة الشروق",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Shorouk City Post Office",
+        "nameNative": "مكتب بريد مدينة الشروق",
+        "type": "Main Post Office",
+        "code": "11837"
+      },
+      "areas": [
+        "Shorouk City Center",
+        "1st & 2nd Neighborhoods",
+        "BUE University Area",
+        "Suez Road"
+      ],
+      "coordinates": {
+        "latitude": 30.1345,
+        "longitude": 31.6189
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11837",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11829",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Badr City",
+        "nameNative": "مدينة بدر",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Badr",
+        "nameNative": "بدر",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Badr Industrial & Residential",
+        "nameNative": "بدر السكنية والصناعية",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Badr City Post Office",
+        "nameNative": "مكتب بريد مدينة بدر",
+        "type": "Main Post Office",
+        "code": "11829"
+      },
+      "areas": [
+        "Central Badr",
+        "Industrial Area 1-3",
+        "Safwa Housing",
+        "Capital Workers City"
+      ],
+      "coordinates": {
+        "latitude": 30.1412,
+        "longitude": 31.7412
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11829",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "11899",
+      "governorate": {
+        "nameEn": "Cairo",
+        "nameNative": "القاهرة",
+        "code": "EG-C",
+        "postalPrefix": "11",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "New Administrative Capital",
+        "nameNative": "العاصمة الإدارية الجديدة",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Government District",
+        "nameNative": "الحي الحكومي",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Ministries Square",
+        "nameNative": "ميدان الوزارات",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "New Administrative Capital Post Office",
+        "nameNative": "مكتب بريد العاصمة الإدارية الجديدة",
+        "type": "Governmental Post Office",
+        "code": "11899"
+      },
+      "areas": [
+        "Government District",
+        "Central Business District (CBD)",
+        "Financial District",
+        "Iconic Tower Area"
+      ],
+      "coordinates": {
+        "latitude": 30.0125,
+        "longitude": 31.7589
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-CAIRO-11899",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "New Mexico",
+    "abbreviation": "NM",
+    "fipsCode": "35",
+    "capital": "Santa Fe",
+    "largestCity": "Albuquerque",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "505",
+      "575"
+    ],
+    "prefixes": [
+      "870",
+      "871",
+      "872",
+      "873",
+      "874",
+      "875",
+      "877",
+      "878",
+      "879",
+      "880",
+      "881",
+      "882",
+      "883",
+      "884"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-NM-87102-0",
+      "zip5": "87102",
+      "zip4": "1001",
+      "zipPlus4": "87102-1001",
+      "state": {
+        "nameEn": "New Mexico",
+        "abbreviation": "NM",
+        "fipsCode": "35",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Albuquerque",
+      "acceptableCities": [
+        "Albuquerque"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Albuquerque",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Bernalillo County",
+          "fipsCode": "35001",
+          "geoid": "35001"
+        }
+      ],
+      "primaryCounty": "Bernalillo County",
+      "zcta": {
+        "code": "87102"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Albuquerque Main Post Office",
+        "address": "1135 Broadway Blvd NE",
+        "phone": "(505) 245-9500",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 35.0844,
+        "longitude": -106.6504,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "505",
+          "575"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 29,
+        "deliveryPoints": 14900
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NM-87102",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NM-87501-1",
+      "zip5": "87501",
+      "zip4": "2001",
+      "zipPlus4": "87501-2001",
+      "state": {
+        "nameEn": "New Mexico",
+        "abbreviation": "NM",
+        "fipsCode": "35",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Santa Fe",
+      "acceptableCities": [
+        "Santa Fe"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Santa Fe",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Santa Fe County",
+          "fipsCode": "35049",
+          "geoid": "35049"
+        }
+      ],
+      "primaryCounty": "Santa Fe County",
+      "zcta": {
+        "code": "87501"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Santa Fe Main Post Office",
+        "address": "120 S Federal Pl",
+        "phone": "(505) 988-6300",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 35.687,
+        "longitude": -105.9378,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "505",
+          "575"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 24,
+        "deliveryPoints": 12300
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NM-87501",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

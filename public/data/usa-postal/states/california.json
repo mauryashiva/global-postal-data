@@ -1,0 +1,483 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "California",
+    "abbreviation": "CA",
+    "fipsCode": "06",
+    "capital": "Sacramento",
+    "largestCity": "Los Angeles",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "209",
+      "213",
+      "310",
+      "408",
+      "415",
+      "510",
+      "619",
+      "650",
+      "714",
+      "818",
+      "858",
+      "916",
+      "949"
+    ],
+    "prefixes": [
+      "900",
+      "901",
+      "902",
+      "903",
+      "904",
+      "905",
+      "906",
+      "907",
+      "908",
+      "910",
+      "911",
+      "912",
+      "913",
+      "914",
+      "915",
+      "916",
+      "917",
+      "918",
+      "919",
+      "920",
+      "921",
+      "922",
+      "923",
+      "924",
+      "925",
+      "926",
+      "927",
+      "928",
+      "930",
+      "931",
+      "932",
+      "933",
+      "934",
+      "935",
+      "936",
+      "937",
+      "938",
+      "939",
+      "940",
+      "941",
+      "942",
+      "943",
+      "944",
+      "945",
+      "946",
+      "947",
+      "948",
+      "949",
+      "950",
+      "951",
+      "952",
+      "953",
+      "954",
+      "955",
+      "956",
+      "957",
+      "958",
+      "959",
+      "960",
+      "961"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 5,
+    "uniqueZipPlus4": 5,
+    "totalRecords": 5,
+    "countiesCount": 5
+  },
+  "records": [
+    {
+      "id": "US-CA-90210-0",
+      "zip5": "90210",
+      "zip4": "3607",
+      "zipPlus4": "90210-3607",
+      "state": {
+        "nameEn": "California",
+        "abbreviation": "CA",
+        "fipsCode": "06",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Beverly Hills",
+      "acceptableCities": [
+        "Beverly Hills",
+        "Los Angeles"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Beverly Hills",
+          "status": "Primary"
+        },
+        {
+          "name": "Los Angeles",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Los Angeles County",
+          "fipsCode": "06037",
+          "geoid": "06037"
+        }
+      ],
+      "primaryCounty": "Los Angeles County",
+      "zcta": {
+        "code": "90210"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Beverly Hills Main Post Office",
+        "address": "325 N Maple Dr",
+        "phone": "(310) 247-3532",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 34.0901,
+        "longitude": -118.4065,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "209",
+          "213",
+          "310",
+          "408",
+          "415",
+          "510",
+          "619",
+          "650",
+          "714",
+          "818",
+          "858",
+          "916",
+          "949"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 38,
+        "deliveryPoints": 19200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CA-90210",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-CA-94102-1",
+      "zip5": "94102",
+      "zip4": "1001",
+      "zipPlus4": "94102-1001",
+      "state": {
+        "nameEn": "California",
+        "abbreviation": "CA",
+        "fipsCode": "06",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "San Francisco",
+      "acceptableCities": [
+        "San Francisco"
+      ],
+      "postalCityNames": [
+        {
+          "name": "San Francisco",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "San Francisco County",
+          "fipsCode": "06075",
+          "geoid": "06075"
+        }
+      ],
+      "primaryCounty": "San Francisco County",
+      "zcta": {
+        "code": "94102"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Civic Center Post Office",
+        "address": "101 Hyde St",
+        "phone": "(415) 923-2895",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 37.7786,
+        "longitude": -122.4212,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "209",
+          "213",
+          "310",
+          "408",
+          "415",
+          "510",
+          "619",
+          "650",
+          "714",
+          "818",
+          "858",
+          "916",
+          "949"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 42,
+        "deliveryPoints": 21500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CA-94102",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-CA-95814-2",
+      "zip5": "95814",
+      "zip4": "1000",
+      "zipPlus4": "95814-1000",
+      "state": {
+        "nameEn": "California",
+        "abbreviation": "CA",
+        "fipsCode": "06",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Sacramento",
+      "acceptableCities": [
+        "Sacramento"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Sacramento",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Sacramento County",
+          "fipsCode": "06067",
+          "geoid": "06067"
+        }
+      ],
+      "primaryCounty": "Sacramento County",
+      "zcta": {
+        "code": "95814"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Capitol Station Post Office",
+        "address": "1300 I St",
+        "phone": "(916) 441-2674",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 38.5816,
+        "longitude": -121.4944,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "209",
+          "213",
+          "310",
+          "408",
+          "415",
+          "510",
+          "619",
+          "650",
+          "714",
+          "818",
+          "858",
+          "916",
+          "949"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 26,
+        "deliveryPoints": 13200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CA-95814",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-CA-92101-3",
+      "zip5": "92101",
+      "zip4": "2001",
+      "zipPlus4": "92101-2001",
+      "state": {
+        "nameEn": "California",
+        "abbreviation": "CA",
+        "fipsCode": "06",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "San Diego",
+      "acceptableCities": [
+        "San Diego"
+      ],
+      "postalCityNames": [
+        {
+          "name": "San Diego",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "San Diego County",
+          "fipsCode": "06073",
+          "geoid": "06073"
+        }
+      ],
+      "primaryCounty": "San Diego County",
+      "zcta": {
+        "code": "92101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "San Diego Downtown Station",
+        "address": "815 E St",
+        "phone": "(619) 232-4752",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 32.7157,
+        "longitude": -117.1611,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "209",
+          "213",
+          "310",
+          "408",
+          "415",
+          "510",
+          "619",
+          "650",
+          "714",
+          "818",
+          "858",
+          "916",
+          "949"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 34,
+        "deliveryPoints": 17400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CA-92101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-CA-94043-4",
+      "zip5": "94043",
+      "zip4": "1234",
+      "zipPlus4": "94043-1234",
+      "state": {
+        "nameEn": "California",
+        "abbreviation": "CA",
+        "fipsCode": "06",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Mountain View",
+      "acceptableCities": [
+        "Mountain View"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Mountain View",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Santa Clara County",
+          "fipsCode": "06085",
+          "geoid": "06085"
+        }
+      ],
+      "primaryCounty": "Santa Clara County",
+      "zcta": {
+        "code": "94043"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Mountain View Post Office",
+        "address": "211 Hope St",
+        "phone": "(650) 967-7389",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 37.4085,
+        "longitude": -122.0775,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "209",
+          "213",
+          "310",
+          "408",
+          "415",
+          "510",
+          "619",
+          "650",
+          "714",
+          "818",
+          "858",
+          "916",
+          "949"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 16100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-CA-94043",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

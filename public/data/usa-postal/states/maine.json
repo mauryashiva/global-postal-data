@@ -1,0 +1,101 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Maine",
+    "abbreviation": "ME",
+    "fipsCode": "23",
+    "capital": "Augusta",
+    "largestCity": "Portland",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "207"
+    ],
+    "prefixes": [
+      "039",
+      "040",
+      "041",
+      "042",
+      "043",
+      "044",
+      "045",
+      "046",
+      "047",
+      "048",
+      "049"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-ME-04101-0",
+      "zip5": "04101",
+      "zip4": "1001",
+      "zipPlus4": "04101-1001",
+      "state": {
+        "nameEn": "Maine",
+        "abbreviation": "ME",
+        "fipsCode": "23",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Portland",
+      "acceptableCities": [
+        "Portland"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Portland",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Cumberland County",
+          "fipsCode": "23005",
+          "geoid": "23005"
+        }
+      ],
+      "primaryCounty": "Cumberland County",
+      "zcta": {
+        "code": "04101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Portland Downtown Post Office",
+        "address": "125 Forest Ave",
+        "phone": "(207) 871-8400",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 43.6591,
+        "longitude": -70.2568,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "207"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 22,
+        "deliveryPoints": 11200
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-ME-04101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

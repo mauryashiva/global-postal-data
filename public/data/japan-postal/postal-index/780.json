@@ -1,0 +1,40 @@
+{
+  "prefix": "780",
+  "records": [
+    {
+      "postalCode": "7800000",
+      "postalCodeFormatted": "780-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "39",
+      "prefectureNameEn": "Kochi",
+      "prefectureNameJa": "高知県",
+      "prefectureNameKana": "コウチケン",
+      "prefectureNameRomaji": "Kochi-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "39201",
+        "nameEn": "Kochi",
+        "nameJa": "高知市",
+        "nameKana": "コウチシ",
+        "nameRomaji": "Kochi-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Kochi Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Samangan",
+    "nameNative": "سمنگان",
+    "isoCode": "AF-SAM",
+    "postalPrefix": "20",
+    "capital": "Aybak",
+    "capitalNative": "ایبک",
+    "coordinates": {
+      "latitude": 36.2647,
+      "longitude": 68.015
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 10,
+    "totalRecords": 10,
+    "urbanRecords": 3,
+    "ruralRecords": 7
+  },
+  "records": [
+    {
+      "postalCode": "200101",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Aybak - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-SAM-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Aybak District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-200101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "200201",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Aybak - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-SAM-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Aybak District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-200201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "200301",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Aybak - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-SAM-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Aybak District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-200301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205101",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Ruy-e-Duab District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-51"
+      },
+      "locality": {
+        "nameEn": "Ruy-e-Duab Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Ruy-e-Duab District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205201",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Dara-e Suf-e-Bala District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-52"
+      },
+      "locality": {
+        "nameEn": "Dara-e Suf-e-Bala Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dara-e Suf-e-Bala District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205301",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Dara-e-Suf-e-Payin District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-53"
+      },
+      "locality": {
+        "nameEn": "Dara-e-Suf-e-Payin Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dara-e-Suf-e-Payin District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205401",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Feroznakhchir District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-54"
+      },
+      "locality": {
+        "nameEn": "Feroznakhchir Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Feroznakhchir District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205501",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Hazrat-e-Sultan District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-55"
+      },
+      "locality": {
+        "nameEn": "Hazrat-e-Sultan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Hazrat-e-Sultan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205601",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Khuram Wa Sarbagh District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-56"
+      },
+      "locality": {
+        "nameEn": "Khuram Wa Sarbagh Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khuram Wa Sarbagh District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "205701",
+      "province": {
+        "nameEn": "Samangan",
+        "nameNative": "سمنگان",
+        "code": "AF-SAM",
+        "postalPrefix": "20"
+      },
+      "city": {
+        "nameEn": "Aybak",
+        "nameNative": "ایبک"
+      },
+      "district": {
+        "nameEn": "Khulm District",
+        "type": "Rural Administrative District",
+        "code": "AF-SAM-57"
+      },
+      "locality": {
+        "nameEn": "Khulm Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khulm District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 36.2647,
+        "longitude": 68.015
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-205701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

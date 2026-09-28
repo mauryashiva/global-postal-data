@@ -1,0 +1,244 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Arizona",
+    "abbreviation": "AZ",
+    "fipsCode": "04",
+    "capital": "Phoenix",
+    "largestCity": "Phoenix",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "480",
+      "520",
+      "602",
+      "623",
+      "928"
+    ],
+    "prefixes": [
+      "850",
+      "851",
+      "852",
+      "853",
+      "855",
+      "856",
+      "857",
+      "859",
+      "860",
+      "863",
+      "864",
+      "865"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 3,
+    "uniqueZipPlus4": 3,
+    "totalRecords": 3,
+    "countiesCount": 3
+  },
+  "records": [
+    {
+      "id": "US-AZ-85001-0",
+      "zip5": "85001",
+      "zip4": "0001",
+      "zipPlus4": "85001-0001",
+      "state": {
+        "nameEn": "Arizona",
+        "abbreviation": "AZ",
+        "fipsCode": "04",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Phoenix",
+      "acceptableCities": [
+        "Phoenix"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Phoenix",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Maricopa County",
+          "fipsCode": "04013",
+          "geoid": "04013"
+        }
+      ],
+      "primaryCounty": "Maricopa County",
+      "zcta": null,
+      "zipType": "PO BOX",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Phoenix Central Post Office",
+        "address": "4949 E Van Buren St",
+        "phone": "(602) 225-3420",
+        "type": "PO Box Distribution"
+      },
+      "coordinates": {
+        "latitude": 33.4484,
+        "longitude": -112.074,
+        "type": "representativePoint"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "480",
+          "520",
+          "602",
+          "623",
+          "928"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 0,
+        "deliveryPoints": 3500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AZ-85001",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-AZ-85004-1",
+      "zip5": "85004",
+      "zip4": "1501",
+      "zipPlus4": "85004-1501",
+      "state": {
+        "nameEn": "Arizona",
+        "abbreviation": "AZ",
+        "fipsCode": "04",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Phoenix",
+      "acceptableCities": [
+        "Phoenix"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Phoenix",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Maricopa County",
+          "fipsCode": "04013",
+          "geoid": "04013"
+        }
+      ],
+      "primaryCounty": "Maricopa County",
+      "zcta": {
+        "code": "85004"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Phoenix Downtown Station",
+        "address": "522 N Central Ave",
+        "phone": "(602) 258-2947",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 33.4532,
+        "longitude": -112.0738,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "480",
+          "520",
+          "602",
+          "623",
+          "928"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 25,
+        "deliveryPoints": 12800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AZ-85004",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-AZ-85701-2",
+      "zip5": "85701",
+      "zip4": "1001",
+      "zipPlus4": "85701-1001",
+      "state": {
+        "nameEn": "Arizona",
+        "abbreviation": "AZ",
+        "fipsCode": "04",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Tucson",
+      "acceptableCities": [
+        "Tucson"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Tucson",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Pima County",
+          "fipsCode": "04019",
+          "geoid": "04019"
+        }
+      ],
+      "primaryCounty": "Pima County",
+      "zcta": {
+        "code": "85701"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Tucson Main Post Office",
+        "address": "1501 S Cherrybell St",
+        "phone": "(520) 388-5190",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 32.2226,
+        "longitude": -110.9747,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "480",
+          "520",
+          "602",
+          "623",
+          "928"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 20,
+        "deliveryPoints": 9800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-AZ-85701",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

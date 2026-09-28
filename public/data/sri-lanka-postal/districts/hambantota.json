@@ -1,0 +1,4331 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Hambantota",
+    "nameSi": "හම්බන්තොට",
+    "nameTa": "அம்பாந்தோட்டை",
+    "administrativeType": "District",
+    "code": "LK-33"
+  },
+  "province": {
+    "nameEn": "Southern Province",
+    "nameSi": "දකුණු පළාත",
+    "nameTa": "தென் மாகாணம்",
+    "code": "LK-3"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Ambalantota",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Angunakolapelessa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Beliatta",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Hambantota",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Katuwana",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Lunugamvehera",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Okewela",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Sooriyawewa",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Tangalle",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Tissamaharama",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Walasmulla",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Weeraketiya",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 64,
+    "totalRecords": 64,
+    "dsDivisionCount": 12
+  },
+  "postcodes": [
+    {
+      "postcode": "81326",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HANDUGALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Handugala",
+            "nameSi": "හඳගුල",
+            "nameTa": "ஹண்டுகல"
+          },
+          "city": {
+            "nameEn": "Handugala",
+            "nameSi": "හඳගුල",
+            "nameTa": "ஹண்டுகல"
+          },
+          "postcode": "81326",
+          "postOffice": {
+            "nameEn": "Handugala Post Office",
+            "nameSi": "හඳගුල තැපැල් කාර්යාලය",
+            "nameTa": "ஹண்டுகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "81326"
+          },
+          "coordinates": {
+            "latitude": 6.1903211,
+            "longitude": 80.6257539
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Hambantota",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "HAMBANTOTA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "ஹம்பாந்தோட்டை"
+          },
+          "city": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "ஹம்பாந்தோட்டை"
+          },
+          "postcode": "82000",
+          "postOffice": {
+            "nameEn": "Hambantota Post Office",
+            "nameSi": "හම්බන්තොට තැපැල් කාර්යාලය",
+            "nameTa": "ஹம்பாந்தோட்டை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82000"
+          },
+          "coordinates": {
+            "latitude": 6.1428829,
+            "longitude": 81.1212308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82002",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BUNDALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Bundala",
+            "nameSi": "බූන්දල",
+            "nameTa": "பண்டாலா"
+          },
+          "city": {
+            "nameEn": "Bundala",
+            "nameSi": "බූන්දල",
+            "nameTa": "பண்டாலா"
+          },
+          "postcode": "82002",
+          "postOffice": {
+            "nameEn": "Bundala Post Office",
+            "nameSi": "බූන්දල තැපැල් කාර්යාලය",
+            "nameTa": "பண்டாலா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82002"
+          },
+          "coordinates": {
+            "latitude": 6.1942487,
+            "longitude": 81.1873141
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82004",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WELIGATTA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Weligatta",
+            "nameSi": "වැලිගත්ත",
+            "nameTa": "வெலிகட்டா"
+          },
+          "city": {
+            "nameEn": "Weligatta",
+            "nameSi": "වැලිගත්ත",
+            "nameTa": "வெலிகட்டா"
+          },
+          "postcode": "82004",
+          "postOffice": {
+            "nameEn": "Weligatta Post Office",
+            "nameSi": "වැලිගත්ත තැපැල් කාර්යාලය",
+            "nameTa": "வெலிகட்டா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82004"
+          },
+          "coordinates": {
+            "latitude": 6.2385761,
+            "longitude": 81.2188355
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82005",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BANDAGIRIYA COLONY",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Bandagiriya Colony",
+            "nameSi": "බන්ඩගිරිය කොලොනි",
+            "nameTa": "பண்டகிரிய காலனி"
+          },
+          "city": {
+            "nameEn": "Bandagiriya Colony",
+            "nameSi": "බන්ඩගිරිය කොලොනි",
+            "nameTa": "பண்டகிரிய காலனி"
+          },
+          "postcode": "82005",
+          "postOffice": {
+            "nameEn": "Bandagiriya Colony Post Office",
+            "nameSi": "බන්ඩගිරිය කොලොනි තැපැල් කාර්යාලය",
+            "nameTa": "பண்டகிரிய காலனி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82005"
+          },
+          "coordinates": {
+            "latitude": 6.2408604,
+            "longitude": 81.1448479
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82006",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GONNORUWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Gonnoruwa",
+            "nameSi": "ගොන්නොරුව",
+            "nameTa": "கொன்னொருவா"
+          },
+          "city": {
+            "nameEn": "Gonnoruwa",
+            "nameSi": "ගොන්නොරුව",
+            "nameTa": "கொன்னொருவா"
+          },
+          "postcode": "82006",
+          "postOffice": {
+            "nameEn": "Gonnoruwa Post Office",
+            "nameSi": "ගොන්නොරුව තැපැල් කාර්යාලය",
+            "nameTa": "கொன்னொருவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82006"
+          },
+          "coordinates": {
+            "latitude": 6.233333,
+            "longitude": 81.1
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82008",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PAHALA ANDARAWEWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Pahala Andarawewa",
+            "nameSi": "පහල අන්දරවැව",
+            "nameTa": "பஹல அந்தரவெவ"
+          },
+          "city": {
+            "nameEn": "Pahala Andarawewa",
+            "nameSi": "පහල අන්දරවැව",
+            "nameTa": "பஹல அந்தரவெவ"
+          },
+          "postcode": "82008",
+          "postOffice": {
+            "nameEn": "Pahala Andarawewa Post Office",
+            "nameSi": "පහල අන්දරවැව තැපැල් කාර්යාලය",
+            "nameTa": "பஹல அந்தரவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82008"
+          },
+          "coordinates": {
+            "latitude": 6.299588,
+            "longitude": 81.0856327
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82010",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Sooriyawewa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "SOORIYAWEWA TOWN",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Sooriyawewa Town",
+            "nameSi": "සූරියවැව නගරය",
+            "nameTa": "சூரியவெவ நகரம்"
+          },
+          "city": {
+            "nameEn": "Sooriyawewa Town",
+            "nameSi": "සූරියවැව නගරය",
+            "nameTa": "சூரியவெவ நகரம்"
+          },
+          "postcode": "82010",
+          "postOffice": {
+            "nameEn": "Sooriyawewa Town Post Office",
+            "nameSi": "සූරියවැව නගරය තැපැල් කාර්යාලය",
+            "nameTa": "சூரியவெவ நகரம் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82010"
+          },
+          "coordinates": {
+            "latitude": 6.3110025,
+            "longitude": 80.9953952
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82014",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEEGAHAJANDURA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Meegahajandura",
+            "nameSi": "මිගහජන්දුරැ",
+            "nameTa": "மீகஹஜந்துர"
+          },
+          "city": {
+            "nameEn": "Meegahajandura",
+            "nameSi": "මිගහජන්දුරැ",
+            "nameTa": "மீகஹஜந்துர"
+          },
+          "postcode": "82014",
+          "postOffice": {
+            "nameEn": "Meegahajandura Post Office",
+            "nameSi": "මිගහජන්දුරැ තැපැල් කාර්යාලය",
+            "nameTa": "மீகஹஜந்துர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82014"
+          },
+          "coordinates": {
+            "latitude": 6.1592853,
+            "longitude": 81.1273013
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82016",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAHAGALWEWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Mahagalwewa",
+            "nameSi": "මහගල්වැව",
+            "nameTa": "மகாகல்வெவ"
+          },
+          "city": {
+            "nameEn": "Mahagalwewa",
+            "nameSi": "මහගල්වැව",
+            "nameTa": "மகாகல்வெவ"
+          },
+          "postcode": "82016",
+          "postOffice": {
+            "nameEn": "Mahagalwewa Post Office",
+            "nameSi": "මහගල්වැව තැපැල් කාර්යාලය",
+            "nameTa": "மகாகல்வெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82016"
+          },
+          "coordinates": {
+            "latitude": 6.3854382,
+            "longitude": 81.0395821
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82018",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANMUDUWEWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ranmuduwewa",
+            "nameSi": "රන්මුඩුවැව",
+            "nameTa": "ரன்முதுவெவ"
+          },
+          "city": {
+            "nameEn": "Ranmuduwewa",
+            "nameSi": "රන්මුඩුවැව",
+            "nameTa": "ரன்முதுவெவ"
+          },
+          "postcode": "82018",
+          "postOffice": {
+            "nameEn": "Ranmuduwewa Post Office",
+            "nameSi": "රන්මුඩුවැව තැපැල් කාර්යාලය",
+            "nameTa": "ரன்முதுவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82018"
+          },
+          "coordinates": {
+            "latitude": 6.3462942,
+            "longitude": 81.058906
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82100",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Ambalantota",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "AMBALANTOTA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ambalantota",
+            "nameSi": "අම්බලන්තොට",
+            "nameTa": "அம்பலாந்தோட்டை"
+          },
+          "city": {
+            "nameEn": "Ambalantota",
+            "nameSi": "අම්බලන්තොට",
+            "nameTa": "அம்பலாந்தோட்டை"
+          },
+          "postcode": "82100",
+          "postOffice": {
+            "nameEn": "Ambalantota Post Office",
+            "nameSi": "අම්බලන්තොට තැපැල් කාර්යාලය",
+            "nameTa": "அம்பலாந்தோட்டை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82100"
+          },
+          "coordinates": {
+            "latitude": 6.1225999,
+            "longitude": 81.0237594
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82102",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BERAGAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Beragama",
+            "nameSi": "බෙරගම",
+            "nameTa": "பெரகம"
+          },
+          "city": {
+            "nameEn": "Beragama",
+            "nameSi": "බෙරගම",
+            "nameTa": "பெரகம"
+          },
+          "postcode": "82102",
+          "postOffice": {
+            "nameEn": "Beragama Post Office",
+            "nameSi": "බෙරගම තැපැල් කාර්යාලය",
+            "nameTa": "பெரகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82102"
+          },
+          "coordinates": {
+            "latitude": 6.1421255,
+            "longitude": 81.0318169
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82106",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RUHUNU RIDIYAGAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ruhunu Ridiyagama",
+            "nameSi": "රුහුණු රිදියගම",
+            "nameTa": "ருஹுனு ரிதியகம"
+          },
+          "city": {
+            "nameEn": "Ruhunu Ridiyagama",
+            "nameSi": "රුහුණු රිදියගම",
+            "nameTa": "ருஹுனு ரிதியகம"
+          },
+          "postcode": "82106",
+          "postOffice": {
+            "nameEn": "Ruhunu Ridiyagama Post Office",
+            "nameSi": "රුහුණු රිදියගම තැපැල් කාර්යාලය",
+            "nameTa": "ருஹுனு ரிதியகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82106"
+          },
+          "coordinates": {
+            "latitude": 6.2468436,
+            "longitude": 80.9824649
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82108",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LUNAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Lunama",
+            "nameSi": "ලුනම",
+            "nameTa": "லுனாமா"
+          },
+          "city": {
+            "nameEn": "Lunama",
+            "nameSi": "ලුනම",
+            "nameTa": "லுனாமா"
+          },
+          "postcode": "82108",
+          "postOffice": {
+            "nameEn": "Lunama Post Office",
+            "nameSi": "ලුනම තැපැල් කාර්යාලය",
+            "nameTa": "லுனாமா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82108"
+          },
+          "coordinates": {
+            "latitude": 6.0953167,
+            "longitude": 80.9677658
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82109",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAMADALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Mamadala",
+            "nameSi": "මාමඩල",
+            "nameTa": "மாமடல"
+          },
+          "city": {
+            "nameEn": "Mamadala",
+            "nameSi": "මාමඩල",
+            "nameTa": "மாமடல"
+          },
+          "postcode": "82109",
+          "postOffice": {
+            "nameEn": "Mamadala Post Office",
+            "nameSi": "මාමඩල තැපැල් කාර්යාලය",
+            "nameTa": "மாமடல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82109"
+          },
+          "coordinates": {
+            "latitude": 6.1596539,
+            "longitude": 80.974674
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82110",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BARAWAKUMBUKA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Barawakumbuka",
+            "nameSi": "බරවකුඹුර",
+            "nameTa": "பரவகும்புகா"
+          },
+          "city": {
+            "nameEn": "Barawakumbuka",
+            "nameSi": "බරවකුඹුර",
+            "nameTa": "பரவகும்புகா"
+          },
+          "postcode": "82110",
+          "postOffice": {
+            "nameEn": "Barawakumbuka Post Office",
+            "nameSi": "බරවකුඹුර තැපැල් කාර්යාලය",
+            "nameTa": "பரவகும்புகா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82110"
+          },
+          "coordinates": {
+            "latitude": 6.2257854,
+            "longitude": 80.9290685
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82120",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HUNGAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Hungama",
+            "nameSi": "හුංගම",
+            "nameTa": "ஹங்காமா"
+          },
+          "city": {
+            "nameEn": "Hungama",
+            "nameSi": "හුංගම",
+            "nameTa": "ஹங்காமா"
+          },
+          "postcode": "82120",
+          "postOffice": {
+            "nameEn": "Hungama Post Office",
+            "nameSi": "හුංගම තැපැල් කාර්යාලය",
+            "nameTa": "ஹங்காமா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82120"
+          },
+          "coordinates": {
+            "latitude": 6.115626,
+            "longitude": 80.9290685
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82125",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANNA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ranna",
+            "nameSi": "රන්න",
+            "nameTa": "ரன்னா"
+          },
+          "city": {
+            "nameEn": "Ranna",
+            "nameSi": "රන්න",
+            "nameTa": "ரன்னா"
+          },
+          "postcode": "82125",
+          "postOffice": {
+            "nameEn": "Ranna Post Office",
+            "nameSi": "රන්න තැපැල් කාර්යාලය",
+            "nameTa": "ரன்னா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82125"
+          },
+          "coordinates": {
+            "latitude": 6.0935429,
+            "longitude": 80.8626864
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82126",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAHANDAMODARA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Kahandamodara",
+            "nameSi": "කහඳමෝදර",
+            "nameTa": "கஹந்தமோதர"
+          },
+          "city": {
+            "nameEn": "Kahandamodara",
+            "nameSi": "කහඳමෝදර",
+            "nameTa": "கஹந்தமோதர"
+          },
+          "postcode": "82126",
+          "postOffice": {
+            "nameEn": "Kahandamodara Post Office",
+            "nameSi": "කහඳමෝදර තැපැල් කාර්යාලය",
+            "nameTa": "கஹந்தமோதர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82126"
+          },
+          "coordinates": {
+            "latitude": 6.0698824,
+            "longitude": 80.891511
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82135",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NETOLPITIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Netolpitiya",
+            "nameSi": "නෙටොල්පිටිය",
+            "nameTa": "நெடோல்பிட்டிய"
+          },
+          "city": {
+            "nameEn": "Netolpitiya",
+            "nameSi": "නෙටොල්පිටිය",
+            "nameTa": "நெடோல்பிட்டிய"
+          },
+          "postcode": "82135",
+          "postOffice": {
+            "nameEn": "Netolpitiya Post Office",
+            "nameSi": "නෙටොල්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "நெடோல்பிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82135"
+          },
+          "coordinates": {
+            "latitude": 6.0656506,
+            "longitude": 80.8391628
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82200",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "TANGALLA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Tangalla",
+            "nameSi": "තංගල්ල",
+            "nameTa": "தங்காலை"
+          },
+          "city": {
+            "nameEn": "Tangalla",
+            "nameSi": "තංගල්ල",
+            "nameTa": "தங்காலை"
+          },
+          "postcode": "82200",
+          "postOffice": {
+            "nameEn": "Tangalla Post Office",
+            "nameSi": "තංගල්ල තැපැල් කාර්යාලය",
+            "nameTa": "தங்காலை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82200"
+          },
+          "coordinates": {
+            "latitude": 6.0243383,
+            "longitude": 80.7940726
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82220",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Angunakolapelessa",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "ANGUNAKOLAPELESSA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Angunakolapelessa",
+            "nameSi": "අඟුණකොළපැලැස්ස",
+            "nameTa": "அங்குனுகொலபெலஸ்ஸ"
+          },
+          "city": {
+            "nameEn": "Angunakolapelessa",
+            "nameSi": "අඟුණකොළපැලැස්ස",
+            "nameTa": "அங்குனுகொலபெலஸ்ஸ"
+          },
+          "postcode": "82220",
+          "postOffice": {
+            "nameEn": "Angunakolapelessa Post Office",
+            "nameSi": "අඟුණකොළපැලැස්ස තැපැල් කාර්යාලය",
+            "nameTa": "அங்குனுகொலபெலஸ்ஸ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82220"
+          },
+          "coordinates": {
+            "latitude": 6.1655689,
+            "longitude": 80.9031172
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82232",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "VITHARANDENIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Vitharandeniya",
+            "nameSi": "විතාරන්දෙණිය",
+            "nameTa": "விதாரந்தெனிய"
+          },
+          "city": {
+            "nameEn": "Vitharandeniya",
+            "nameSi": "විතාරන්දෙණිය",
+            "nameTa": "விதாரந்தெனிய"
+          },
+          "postcode": "82232",
+          "postOffice": {
+            "nameEn": "Vitharandeniya Post Office",
+            "nameSi": "විතාරන්දෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "விதாரந்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82232"
+          },
+          "coordinates": {
+            "latitude": 6.0243383,
+            "longitude": 80.7940726
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82240",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Weeraketiya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "WEERAKETIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Weeraketiya",
+            "nameSi": "වීරකැටිය",
+            "nameTa": "வீரகெட்டிய"
+          },
+          "city": {
+            "nameEn": "Weeraketiya",
+            "nameSi": "වීරකැටිය",
+            "nameTa": "வீரகெட்டிய"
+          },
+          "postcode": "82240",
+          "postOffice": {
+            "nameEn": "Weeraketiya Post Office",
+            "nameSi": "වීරකැටිය තැපැල් කාර්යාලය",
+            "nameTa": "வீரகெட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82240"
+          },
+          "coordinates": {
+            "latitude": 6.1476081,
+            "longitude": 80.7633743
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82242",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MULKIRIGALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Mulkirigala",
+            "nameSi": "මුල්කිරිගල",
+            "nameTa": "முல்கிரிகல"
+          },
+          "city": {
+            "nameEn": "Mulkirigala",
+            "nameSi": "මුල්කිරිගල",
+            "nameTa": "முல்கிரிகல"
+          },
+          "postcode": "82242",
+          "postOffice": {
+            "nameEn": "Mulkirigala Post Office",
+            "nameSi": "මුල්කිරිගල තැපැල් කාර්යාලය",
+            "nameTa": "முல்கிரிகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82242"
+          },
+          "coordinates": {
+            "latitude": 6.1087918,
+            "longitude": 80.7588541
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82246",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEKANDAWELA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Wekandawela",
+            "nameSi": "වෑකඳවෙල",
+            "nameTa": "வெகந்தவெல"
+          },
+          "city": {
+            "nameEn": "Wekandawela",
+            "nameSi": "වෑකඳවෙල",
+            "nameTa": "வெகந்தவெல"
+          },
+          "postcode": "82246",
+          "postOffice": {
+            "nameEn": "Wekandawela Post Office",
+            "nameSi": "වෑකඳවෙල තැපැල් කාර්යාලය",
+            "nameTa": "வெகந்தவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82246"
+          },
+          "coordinates": {
+            "latitude": 6.1428829,
+            "longitude": 81.1212308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82248",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "HAKURUWELA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Hakuruwela",
+            "nameSi": "හකුරුවෙල",
+            "nameTa": "ஹகுருவெல"
+          },
+          "city": {
+            "nameEn": "Hakuruwela",
+            "nameSi": "හකුරුවෙල",
+            "nameTa": "ஹகுருவெல"
+          },
+          "postcode": "82248",
+          "postOffice": {
+            "nameEn": "Hakuruwela Post Office",
+            "nameSi": "හකුරුවෙල තැපැල් කාර්යාලය",
+            "nameTa": "ஹகுருவெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82248"
+          },
+          "coordinates": {
+            "latitude": 6.1493333,
+            "longitude": 80.8308587
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82252",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "JULAMPITIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Julampitiya",
+            "nameSi": "ජුලම්පිටිය",
+            "nameTa": "ஜுலம்பிட்டிய"
+          },
+          "city": {
+            "nameEn": "Julampitiya",
+            "nameSi": "ජුලම්පිටිය",
+            "nameTa": "ஜுலம்பிட்டிய"
+          },
+          "postcode": "82252",
+          "postOffice": {
+            "nameEn": "Julampitiya Post Office",
+            "nameSi": "ජුලම්පිටිය තැපැල් කාර්යාලය",
+            "nameTa": "ஜுலம்பிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82252"
+          },
+          "coordinates": {
+            "latitude": 6.2355232,
+            "longitude": 80.7354311
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82254",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MEDAMULANA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Medamulana",
+            "nameSi": "මැදමුලන",
+            "nameTa": "மெதமுலன"
+          },
+          "city": {
+            "nameEn": "Medamulana",
+            "nameSi": "මැදමුලන",
+            "nameTa": "மெதமுலன"
+          },
+          "postcode": "82254",
+          "postOffice": {
+            "nameEn": "Medamulana Post Office",
+            "nameSi": "මැදමුලන තැපැල් කාර්යාලය",
+            "nameTa": "மெதமுலன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82254"
+          },
+          "coordinates": {
+            "latitude": 6.1810279,
+            "longitude": 80.7685508
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82270",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MIDDENIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Middeniya",
+            "nameSi": "මිද්දෙණිය",
+            "nameTa": "மித்தெனிய"
+          },
+          "city": {
+            "nameEn": "Middeniya",
+            "nameSi": "මිද්දෙණිය",
+            "nameTa": "மித்தெனிய"
+          },
+          "postcode": "82270",
+          "postOffice": {
+            "nameEn": "Middeniya Post Office",
+            "nameSi": "මිද්දෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "மித்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82270"
+          },
+          "coordinates": {
+            "latitude": 6.2513579,
+            "longitude": 80.7641653
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82274",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KARIYAMADITTA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Kariyamaditta",
+            "nameSi": "කරියමදිත්ත",
+            "nameTa": "காரியமடித்தா"
+          },
+          "city": {
+            "nameEn": "Kariyamaditta",
+            "nameSi": "කරියමදිත්ත",
+            "nameTa": "காரியமடித்தா"
+          },
+          "postcode": "82274",
+          "postOffice": {
+            "nameEn": "Kariyamaditta Post Office",
+            "nameSi": "කරියමදිත්ත තැපැල් කාර්යාලය",
+            "nameTa": "காரியமடித்தா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82274"
+          },
+          "coordinates": {
+            "latitude": 6.2552733,
+            "longitude": 80.8128636
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82276",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RATMALWALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ratmalwala",
+            "nameSi": "රත්මල්වල",
+            "nameTa": "ரத்மல்வல"
+          },
+          "city": {
+            "nameEn": "Ratmalwala",
+            "nameSi": "රත්මල්වල",
+            "nameTa": "ரத்மல்வல"
+          },
+          "postcode": "82276",
+          "postOffice": {
+            "nameEn": "Ratmalwala Post Office",
+            "nameSi": "රත්මල්වල තැපැල් කාර්යාලය",
+            "nameTa": "ரத்மல்வல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82276"
+          },
+          "coordinates": {
+            "latitude": 6.1428829,
+            "longitude": 81.1212308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82278",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "USWEWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Uswewa",
+            "nameSi": "උස්වැව",
+            "nameTa": "உஸ்வேவா"
+          },
+          "city": {
+            "nameEn": "Uswewa",
+            "nameSi": "උස්වැව",
+            "nameTa": "உஸ்வேவா"
+          },
+          "postcode": "82278",
+          "postOffice": {
+            "nameEn": "Uswewa Post Office",
+            "nameSi": "උස්වැව තැපැල් කාර්යාලය",
+            "nameTa": "உஸ்வேவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82278"
+          },
+          "coordinates": {
+            "latitude": 6.2420622,
+            "longitude": 80.8834367
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NAKULUGAMUWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Nakulugamuwa",
+            "nameSi": "නාකුළුගමුව",
+            "nameTa": "நகுலுகமுவ"
+          },
+          "city": {
+            "nameEn": "Nakulugamuwa",
+            "nameSi": "නාකුළුගමුව",
+            "nameTa": "நகுலுகமுவ"
+          },
+          "postcode": "82300",
+          "postOffice": {
+            "nameEn": "Nakulugamuwa Post Office",
+            "nameSi": "නාකුළුගමුව තැපැල් කාර්යාලය",
+            "nameTa": "நகுலுகமுவ தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82300"
+          },
+          "coordinates": {
+            "latitude": 5.9954309,
+            "longitude": 80.7089671
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82400",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Beliatta",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "BELIATTA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Beliatta",
+            "nameSi": "බෙලිඅත්ත",
+            "nameTa": "பெலியத்த"
+          },
+          "city": {
+            "nameEn": "Beliatta",
+            "nameSi": "බෙලිඅත්ත",
+            "nameTa": "பெலியத்த"
+          },
+          "postcode": "82400",
+          "postOffice": {
+            "nameEn": "Beliatta Post Office",
+            "nameSi": "බෙලිඅත්ත තැපැල් කාර්යාලය",
+            "nameTa": "பெலியத்த தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82400"
+          },
+          "coordinates": {
+            "latitude": 6.0481573,
+            "longitude": 80.7339144
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82401",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GODA KOGGALLA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Goda Koggalla",
+            "nameSi": "ගොඩ කොග්ගල්ල",
+            "nameTa": "கொட கொக்கல்ல"
+          },
+          "city": {
+            "nameEn": "Goda Koggalla",
+            "nameSi": "ගොඩ කොග්ගල්ල",
+            "nameTa": "கொட கொக்கல்ல"
+          },
+          "postcode": "82401",
+          "postOffice": {
+            "nameEn": "Goda Koggalla Post Office",
+            "nameSi": "ගොඩ කොග්ගල්ල තැපැල් කාර්යාලය",
+            "nameTa": "கொட கொக்கல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82401"
+          },
+          "coordinates": {
+            "latitude": 6.183333,
+            "longitude": 81.016667
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82412",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "IHALA BELIGALLA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ihala Beligalla",
+            "nameSi": "ඉහල බෙලිගල්ල",
+            "nameTa": "இஹல பெலிகல்ல"
+          },
+          "city": {
+            "nameEn": "Ihala Beligalla",
+            "nameSi": "ඉහල බෙලිගල්ල",
+            "nameTa": "இஹல பெலிகல்ல"
+          },
+          "postcode": "82412",
+          "postOffice": {
+            "nameEn": "Ihala Beligalla Post Office",
+            "nameSi": "ඉහල බෙලිගල්ල තැපැල් කාර්යාලය",
+            "nameTa": "இஹல பெலிகல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82412"
+          },
+          "coordinates": {
+            "latitude": 6.1535816,
+            "longitude": 81.127149
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82414",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NIHILUWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Nihiluwa",
+            "nameSi": "නිහිලුව",
+            "nameTa": "நிஹிலுவா"
+          },
+          "city": {
+            "nameEn": "Nihiluwa",
+            "nameSi": "නිහිලුව",
+            "nameTa": "நிஹிலுவா"
+          },
+          "postcode": "82414",
+          "postOffice": {
+            "nameEn": "Nihiluwa Post Office",
+            "nameSi": "නිහිලුව තැපැල් කාර්යාලය",
+            "nameTa": "நிஹிலுவா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82414"
+          },
+          "coordinates": {
+            "latitude": 6.0713577,
+            "longitude": 80.7062933
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82416",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MODARAWANA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Modarawana",
+            "nameSi": "මොදරවාන",
+            "nameTa": "மோதரவன"
+          },
+          "city": {
+            "nameEn": "Modarawana",
+            "nameSi": "මොදරවාන",
+            "nameTa": "மோதரவன"
+          },
+          "postcode": "82416",
+          "postOffice": {
+            "nameEn": "Modarawana Post Office",
+            "nameSi": "මොදරවාන තැපැල් කාර්යාලය",
+            "nameTa": "மோதரவன தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82416"
+          },
+          "coordinates": {
+            "latitude": 6.1173609,
+            "longitude": 80.7242136
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82418",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "YATIGALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Yatigala",
+            "nameSi": "යටිගල",
+            "nameTa": "யடிகல"
+          },
+          "city": {
+            "nameEn": "Yatigala",
+            "nameSi": "යටිගල",
+            "nameTa": "யடிகல"
+          },
+          "postcode": "82418",
+          "postOffice": {
+            "nameEn": "Yatigala Post Office",
+            "nameSi": "යටිගල තැපැල් කාර්යාලය",
+            "nameTa": "யடிகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82418"
+          },
+          "coordinates": {
+            "latitude": 6.1134196,
+            "longitude": 80.6947365
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82420",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GETAMANNA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Getamanna",
+            "nameSi": "ගැටමාන්න",
+            "nameTa": "கெட்டமன்னா"
+          },
+          "city": {
+            "nameEn": "Getamanna",
+            "nameSi": "ගැටමාන්න",
+            "nameTa": "கெட்டமன்னா"
+          },
+          "postcode": "82420",
+          "postOffice": {
+            "nameEn": "Getamanna Post Office",
+            "nameSi": "ගැටමාන්න තැපැල් කාර්යාලය",
+            "nameTa": "கெட்டமன்னா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82420"
+          },
+          "coordinates": {
+            "latitude": 6.0395499,
+            "longitude": 80.6895583
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82450",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Walasmulla",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "WALASMULLA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Walasmulla",
+            "nameSi": "වළස්මුල්ල",
+            "nameTa": "வலஸ்முல்ல"
+          },
+          "city": {
+            "nameEn": "Walasmulla",
+            "nameSi": "වළස්මුල්ල",
+            "nameTa": "வலஸ்முல்ல"
+          },
+          "postcode": "82450",
+          "postOffice": {
+            "nameEn": "Walasmulla Post Office",
+            "nameSi": "වළස්මුල්ල තැපැල් කාර්යාලය",
+            "nameTa": "வலஸ்முல்ல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82450"
+          },
+          "coordinates": {
+            "latitude": 6.1508888,
+            "longitude": 80.6937177
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82462",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ITHTHA DEMALIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Iththa Demaliya",
+            "nameSi": "ඉත්ත දෙමලිය",
+            "nameTa": "இத்தா தெமாலியா"
+          },
+          "city": {
+            "nameEn": "Iththa Demaliya",
+            "nameSi": "ඉත්ත දෙමලිය",
+            "nameTa": "இத்தா தெமாலியா"
+          },
+          "postcode": "82462",
+          "postOffice": {
+            "nameEn": "Iththa Demaliya Post Office",
+            "nameSi": "ඉත්ත දෙමලිය තැපැල් කාර්යාලය",
+            "nameTa": "இத்தா தெமாலியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82462"
+          },
+          "coordinates": {
+            "latitude": 6.1678463,
+            "longitude": 80.7459337
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82500",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Katuwana",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "KATUWANA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Katuwana",
+            "nameSi": "කටුවන",
+            "nameTa": "கடுவன"
+          },
+          "city": {
+            "nameEn": "Katuwana",
+            "nameSi": "කටුවන",
+            "nameTa": "கடுவன"
+          },
+          "postcode": "82500",
+          "postOffice": {
+            "nameEn": "Katuwana Post Office",
+            "nameSi": "කටුවන තැපැල් කාර්යාලය",
+            "nameTa": "கடுவன தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82500"
+          },
+          "coordinates": {
+            "latitude": 6.2636238,
+            "longitude": 80.6909448
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82504",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDA GOMADIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Uda Gomadiya",
+            "nameSi": "උඩ ගෝමදිය",
+            "nameTa": "உட கோமதியா"
+          },
+          "city": {
+            "nameEn": "Uda Gomadiya",
+            "nameSi": "උඩ ගෝමදිය",
+            "nameTa": "உட கோமதியா"
+          },
+          "postcode": "82504",
+          "postOffice": {
+            "nameEn": "Uda Gomadiya Post Office",
+            "nameSi": "උඩ ගෝමදිය තැපැල් කාර්යාලය",
+            "nameTa": "உட கோமதியா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82504"
+          },
+          "coordinates": {
+            "latitude": 6.2956159,
+            "longitude": 80.6693375
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82506",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GANGULANDENIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Gangulandeniya",
+            "nameSi": "ගඟුලන්දෙනිය",
+            "nameTa": "கங்குலந்தெனிய"
+          },
+          "city": {
+            "nameEn": "Gangulandeniya",
+            "nameSi": "ගඟුලන්දෙනිය",
+            "nameTa": "கங்குலந்தெனிய"
+          },
+          "postcode": "82506",
+          "postOffice": {
+            "nameEn": "Gangulandeniya Post Office",
+            "nameSi": "ගඟුලන්දෙනිය තැපැල් කාර්යාලය",
+            "nameTa": "கங்குலந்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82506"
+          },
+          "coordinates": {
+            "latitude": 6.2956299,
+            "longitude": 80.7186697
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82550",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Kirama",
+            "nameSi": "කිරම",
+            "nameTa": "கிரம"
+          },
+          "city": {
+            "nameEn": "Kirama",
+            "nameSi": "කිරම",
+            "nameTa": "கிரம"
+          },
+          "postcode": "82550",
+          "postOffice": {
+            "nameEn": "Kirama Post Office",
+            "nameSi": "කිරම තැපැල් කාර්යාලය",
+            "nameTa": "கிரம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82550"
+          },
+          "coordinates": {
+            "latitude": 6.2066921,
+            "longitude": 80.6618234
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82554",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RAMMALAWARAPITIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Rammalawarapitiya",
+            "nameSi": "රම්මලවරපිටිය",
+            "nameTa": "ரம்மலவரபிட்டிய"
+          },
+          "city": {
+            "nameEn": "Rammalawarapitiya",
+            "nameSi": "රම්මලවරපිටිය",
+            "nameTa": "ரம்மலவரபிட்டிய"
+          },
+          "postcode": "82554",
+          "postOffice": {
+            "nameEn": "Rammalawarapitiya Post Office",
+            "nameSi": "රම්මලවරපිටිය තැපැල් කාර්යාලය",
+            "nameTa": "ரம்மலவரபிட்டிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82554"
+          },
+          "coordinates": {
+            "latitude": 6.2219871,
+            "longitude": 80.6368539
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82586",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GANGULANDENIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Gangulandeniya",
+            "nameSi": "ගඟුලදෙණිය",
+            "nameTa": "கங்குலந்தெனிய"
+          },
+          "city": {
+            "nameEn": "Gangulandeniya",
+            "nameSi": "ගඟුලදෙණිය",
+            "nameTa": "கங்குலந்தெனிய"
+          },
+          "postcode": "82586",
+          "postOffice": {
+            "nameEn": "Gangulandeniya Post Office",
+            "nameSi": "ගඟුලදෙණිය තැපැල් කාර්යාලය",
+            "nameTa": "கங்குலந்தெனிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82586"
+          },
+          "coordinates": {
+            "latitude": 6.2956299,
+            "longitude": 80.7186697
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82600",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": {
+            "nameEn": "Tissamaharama",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "TISSAMAHARAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Tissamaharama",
+            "nameSi": "තිස්සමහාරාම",
+            "nameTa": "திஸ்ஸமஹராமை"
+          },
+          "city": {
+            "nameEn": "Tissamaharama",
+            "nameSi": "තිස්සමහාරාම",
+            "nameTa": "திஸ்ஸமஹராமை"
+          },
+          "postcode": "82600",
+          "postOffice": {
+            "nameEn": "Tissamaharama Post Office",
+            "nameSi": "තිස්සමහාරාම තැපැල් කාර්යාලය",
+            "nameTa": "திஸ்ஸமஹராமை தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82600"
+          },
+          "coordinates": {
+            "latitude": 6.2791538,
+            "longitude": 81.2876691
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82602",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "GONAGAMUWA UDUWILA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Gonagamuwa Uduwila",
+            "nameSi": "ගොනාගමුව උඩුවිල",
+            "nameTa": "கோனகமுவ உடுவில"
+          },
+          "city": {
+            "nameEn": "Gonagamuwa Uduwila",
+            "nameSi": "ගොනාගමුව උඩුවිල",
+            "nameTa": "கோனகமுவ உடுவில"
+          },
+          "postcode": "82602",
+          "postOffice": {
+            "nameEn": "Gonagamuwa Uduwila Post Office",
+            "nameSi": "ගොනාගමුව උඩුවිල තැපැල් කාර්යාලය",
+            "nameTa": "கோனகமுவ உடுவில தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82602"
+          },
+          "coordinates": {
+            "latitude": 6.2472394,
+            "longitude": 81.265649
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82608",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "MAGAMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Magama",
+            "nameSi": "මාගම",
+            "nameTa": "மகம"
+          },
+          "city": {
+            "nameEn": "Magama",
+            "nameSi": "මාගම",
+            "nameTa": "மகம"
+          },
+          "postcode": "82608",
+          "postOffice": {
+            "nameEn": "Magama Post Office",
+            "nameSi": "මාගම තැපැල් කාර්යාලය",
+            "nameTa": "மகம தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82608"
+          },
+          "coordinates": {
+            "latitude": 6.2058366,
+            "longitude": 81.30418
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82612",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "RANAKELIYA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ranakeliya",
+            "nameSi": "රණකෙලිය",
+            "nameTa": "ரணகெலிய"
+          },
+          "city": {
+            "nameEn": "Ranakeliya",
+            "nameSi": "රණකෙලිය",
+            "nameTa": "ரணகெலிய"
+          },
+          "postcode": "82612",
+          "postOffice": {
+            "nameEn": "Ranakeliya Post Office",
+            "nameSi": "රණකෙලිය තැපැල් කාර්යාලය",
+            "nameTa": "ரணகெலிய தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82612"
+          },
+          "coordinates": {
+            "latitude": 6.1428829,
+            "longitude": 81.1212308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82614",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KIRINDA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Kirinda",
+            "nameSi": "කිරින්ද",
+            "nameTa": "கிரிந்த"
+          },
+          "city": {
+            "nameEn": "Kirinda",
+            "nameSi": "කිරින්ද",
+            "nameTa": "கிரிந்த"
+          },
+          "postcode": "82614",
+          "postOffice": {
+            "nameEn": "Kirinda Post Office",
+            "nameSi": "කිරින්ද තැපැල් කාර්යාලය",
+            "nameTa": "கிரிந்த தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82614"
+          },
+          "coordinates": {
+            "latitude": 6.235236,
+            "longitude": 81.3344408
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82615",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEERAWILA NEWTOWN",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Weerawila NewTown",
+            "nameSi": "වීරවිල නව නගරය",
+            "nameTa": "வீரவில நியூடவுன்"
+          },
+          "city": {
+            "nameEn": "Weerawila NewTown",
+            "nameSi": "වීරවිල නව නගරය",
+            "nameTa": "வீரவில நியூடவுன்"
+          },
+          "postcode": "82615",
+          "postOffice": {
+            "nameEn": "Weerawila NewTown Post Office",
+            "nameSi": "වීරවිල නව නගරය තැපැල් කාර්යාලය",
+            "nameTa": "வீரவில நியூடவுன் தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82615"
+          },
+          "coordinates": {
+            "latitude": 6.2421494,
+            "longitude": 81.229209
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82618",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "BERALIHELA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Beralihela",
+            "nameSi": "බෙරලිහෙල",
+            "nameTa": "பெரலிஹெல"
+          },
+          "city": {
+            "nameEn": "Beralihela",
+            "nameSi": "බෙරලිහෙල",
+            "nameTa": "பெரலிஹெல"
+          },
+          "postcode": "82618",
+          "postOffice": {
+            "nameEn": "Beralihela Post Office",
+            "nameSi": "බෙරලිහෙල තැපැල් කාර්යාලය",
+            "nameTa": "பெரலிஹெல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82618"
+          },
+          "coordinates": {
+            "latitude": 6.321587,
+            "longitude": 81.2981673
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82619",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ELLAGALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Ellagala",
+            "nameSi": "ඇල්ලගල",
+            "nameTa": "எல்லகல"
+          },
+          "city": {
+            "nameEn": "Ellagala",
+            "nameSi": "ඇල්ලගල",
+            "nameTa": "எல்லகல"
+          },
+          "postcode": "82619",
+          "postOffice": {
+            "nameEn": "Ellagala Post Office",
+            "nameSi": "ඇල්ලගල තැපැල් කාර්යාලය",
+            "nameTa": "எல்லகல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82619"
+          },
+          "coordinates": {
+            "latitude": 6.333333,
+            "longitude": 81.25
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82622",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "KAWANTISSAPURA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Kawantissapura",
+            "nameSi": "කාවන්තිස්සපුර",
+            "nameTa": "கவுந்திஸ்ஸபுர"
+          },
+          "city": {
+            "nameEn": "Kawantissapura",
+            "nameSi": "කාවන්තිස්සපුර",
+            "nameTa": "கவுந்திஸ்ஸபுர"
+          },
+          "postcode": "82622",
+          "postOffice": {
+            "nameEn": "Kawantissapura Post Office",
+            "nameSi": "කාවන්තිස්සපුර තැපැල් කාර්යාලය",
+            "nameTa": "கவுந்திஸ்ஸபுர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82622"
+          },
+          "coordinates": {
+            "latitude": 6.3518712,
+            "longitude": 81.3129795
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82632",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "WEERAWILA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Weerawila",
+            "nameSi": "වීරවිල",
+            "nameTa": "வீரவில"
+          },
+          "city": {
+            "nameEn": "Weerawila",
+            "nameSi": "වීරවිල",
+            "nameTa": "வீரவில"
+          },
+          "postcode": "82632",
+          "postOffice": {
+            "nameEn": "Weerawila Post Office",
+            "nameSi": "වීරවිල තැපැල් කාර්යාලය",
+            "nameTa": "வீரவில தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82632"
+          },
+          "coordinates": {
+            "latitude": 6.2421494,
+            "longitude": 81.229209
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82634",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "LUNUGAMWEHERA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Lunugamwehera",
+            "nameSi": "ලුණුගම්වෙහෙර",
+            "nameTa": "லுணுகம் வெஹர"
+          },
+          "city": {
+            "nameEn": "Lunugamwehera",
+            "nameSi": "ලුණුගම්වෙහෙර",
+            "nameTa": "லுணுகம் வெஹர"
+          },
+          "postcode": "82634",
+          "postOffice": {
+            "nameEn": "Lunugamwehera Post Office",
+            "nameSi": "ලුණුගම්වෙහෙර තැපැල් කාර්යාලය",
+            "nameTa": "லுணுகம் வெஹர தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82634"
+          },
+          "coordinates": {
+            "latitude": 6.3383515,
+            "longitude": 81.1442093
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82636",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "PADAWKEMA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Padawkema",
+            "nameSi": "පදව්කෙම",
+            "nameTa": "படவ்கேமா"
+          },
+          "city": {
+            "nameEn": "Padawkema",
+            "nameSi": "පදව්කෙම",
+            "nameTa": "படவ்கேமா"
+          },
+          "postcode": "82636",
+          "postOffice": {
+            "nameEn": "Padawkema Post Office",
+            "nameSi": "පදව්කෙම තැපැල් කාර්යාලය",
+            "nameTa": "படவ்கேமா தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82636"
+          },
+          "coordinates": {
+            "latitude": 6.1428829,
+            "longitude": 81.1212308
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "82638",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "UDAMATTALA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Udamattala",
+            "nameSi": "උඩමත්තල",
+            "nameTa": "உடமத்தல"
+          },
+          "city": {
+            "nameEn": "Udamattala",
+            "nameSi": "උඩමත්තල",
+            "nameTa": "உடமத்தல"
+          },
+          "postcode": "82638",
+          "postOffice": {
+            "nameEn": "Udamattala Post Office",
+            "nameSi": "උඩමත්තල තැපැල් කාර්යාලය",
+            "nameTa": "உடமத்தல தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "82638"
+          },
+          "coordinates": {
+            "latitude": 6.2913906,
+            "longitude": 81.1213571
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "91302",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Southern Province",
+            "nameSi": "දකුණු පළාත",
+            "nameTa": "தென் மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-3",
+            "capital": "Galle"
+          },
+          "district": {
+            "nameEn": "Hambantota",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை",
+            "administrativeType": "District",
+            "code": "LK-33"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "ANGUNAKOLAWEWA",
+            "nameSi": "හම්බන්තොට",
+            "nameTa": "அம்பாந்தோட்டை"
+          },
+          "locality": {
+            "nameEn": "Angunakolawewa",
+            "nameSi": "අඟුණකොලවැව",
+            "nameTa": "அங்குனகொலவெவ"
+          },
+          "city": {
+            "nameEn": "Angunakolawewa",
+            "nameSi": "අඟුණකොලවැව",
+            "nameTa": "அங்குனகொலவெவ"
+          },
+          "postcode": "91302",
+          "postOffice": {
+            "nameEn": "Angunakolawewa Post Office",
+            "nameSi": "අඟුණකොලවැව තැපැල් කාර්යාලය",
+            "nameTa": "அங்குனகொலவெவ தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "91302"
+          },
+          "coordinates": {
+            "latitude": 6.4115488,
+            "longitude": 81.0859235
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

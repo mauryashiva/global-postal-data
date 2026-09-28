@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "19",
+    "nameEn": "Yamanashi",
+    "nameJa": "山梨県",
+    "nameKana": "ヤマナシケン",
+    "nameRomaji": "Yamanashi-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Kofu",
+    "capitalJa": "甲府市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "4000000",
+      "postalCodeFormatted": "400-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "19",
+      "prefectureNameEn": "Yamanashi",
+      "prefectureNameJa": "山梨県",
+      "prefectureNameKana": "ヤマナシケン",
+      "prefectureNameRomaji": "Yamanashi-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "19201",
+        "nameEn": "Kofu",
+        "nameJa": "甲府市",
+        "nameKana": "ヤマナシ",
+        "nameRomaji": "Yamanashi-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Yamanashi Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

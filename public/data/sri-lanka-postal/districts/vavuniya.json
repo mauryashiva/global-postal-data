@@ -1,0 +1,249 @@
+{
+  "country": {
+    "nameEn": "Sri Lanka",
+    "nameSi": "ශ්‍රී ලංකාව",
+    "nameTa": "இலங்கை",
+    "isoAlpha2": "LK",
+    "isoAlpha3": "LKA",
+    "isoNumeric": "144"
+  },
+  "district": {
+    "nameEn": "Vavuniya",
+    "nameSi": "වව්නියාව",
+    "nameTa": "வவுனியா",
+    "administrativeType": "District",
+    "code": "LK-44"
+  },
+  "province": {
+    "nameEn": "Northern Province",
+    "nameSi": "උතුරු පළාත",
+    "nameTa": "வட மாகாணம்",
+    "code": "LK-4"
+  },
+  "divisionalSecretariats": [
+    {
+      "nameEn": "Vavuniya",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Vavuniya North",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Vavuniya South",
+      "administrativeType": "Divisional Secretariat Division"
+    },
+    {
+      "nameEn": "Vengalacheddikulam",
+      "administrativeType": "Divisional Secretariat Division"
+    }
+  ],
+  "statistics": {
+    "uniquePostcodes": 3,
+    "totalRecords": 3,
+    "dsDivisionCount": 4
+  },
+  "postcodes": [
+    {
+      "postcode": "42250",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Vavuniya",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா",
+            "administrativeType": "District",
+            "code": "LK-44"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NEDUNKERNY",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா"
+          },
+          "locality": {
+            "nameEn": "Nedunkerny",
+            "nameSi": "නෙඩුන්කේනි",
+            "nameTa": "நெடுங்கேணி"
+          },
+          "city": {
+            "nameEn": "Nedunkerny",
+            "nameSi": "නෙඩුන්කේනි",
+            "nameTa": "நெடுங்கேணி"
+          },
+          "postcode": "42250",
+          "postOffice": {
+            "nameEn": "Nedunkerny Post Office",
+            "nameSi": "නෙඩුන්කේනි තැපැල් කාර්යාලය",
+            "nameTa": "நெடுங்கேணி தபால் நிலையம்",
+            "type": "Sub-Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "42250"
+          },
+          "coordinates": {
+            "latitude": 9.0537187,
+            "longitude": 80.6604364
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "43000",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Vavuniya",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா",
+            "administrativeType": "District",
+            "code": "LK-44"
+          },
+          "dsDivision": {
+            "nameEn": "Vavuniya",
+            "administrativeType": "Divisional Secretariat Division"
+          },
+          "postalTown": {
+            "nameEn": "VAVUNIYA",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா"
+          },
+          "locality": {
+            "nameEn": "Vavuniya",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா"
+          },
+          "city": {
+            "nameEn": "Vavuniya",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா"
+          },
+          "postcode": "43000",
+          "postOffice": {
+            "nameEn": "Vavuniya Post Office",
+            "nameSi": "වව්නියාව තැපැල් කාර්යාලය",
+            "nameTa": "வவுனியா தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "43000"
+          },
+          "coordinates": {
+            "latitude": 8.7542029,
+            "longitude": 80.4982402
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "postcode": "43300",
+      "matches": [
+        {
+          "country": {
+            "nameEn": "Sri Lanka",
+            "nameSi": "ශ්‍රී ලංකාව",
+            "nameTa": "இலங்கை",
+            "isoAlpha2": "LK",
+            "isoAlpha3": "LKA",
+            "isoNumeric": "144"
+          },
+          "province": {
+            "nameEn": "Northern Province",
+            "nameSi": "උතුරු පළාත",
+            "nameTa": "வட மாகாணம்",
+            "administrativeType": "Province",
+            "code": "LK-4",
+            "capital": "Jaffna"
+          },
+          "district": {
+            "nameEn": "Vavuniya",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா",
+            "administrativeType": "District",
+            "code": "LK-44"
+          },
+          "dsDivision": null,
+          "postalTown": {
+            "nameEn": "NERIYAKULAM",
+            "nameSi": "වව්නියාව",
+            "nameTa": "வவுனியா"
+          },
+          "locality": {
+            "nameEn": "Neriyakulam",
+            "nameSi": "නෙරියකුලම්",
+            "nameTa": "நேரியகுளம்"
+          },
+          "city": {
+            "nameEn": "Neriyakulam",
+            "nameSi": "නෙරියකුලම්",
+            "nameTa": "நேரியகுளம்"
+          },
+          "postcode": "43300",
+          "postOffice": {
+            "nameEn": "Neriyakulam Post Office",
+            "nameSi": "නෙරියකුලම් තැපැල් කාර්යාලය",
+            "nameTa": "நேரியகுளம் தபால் நிலையம்",
+            "type": "Main Post Office",
+            "deliveryStatus": "Active Postal Delivery Area",
+            "code": "43300"
+          },
+          "coordinates": {
+            "latitude": 8.6154622,
+            "longitude": 80.3547286
+          },
+          "source": {
+            "name": "Sri Lanka Post & Department of Census and Statistics (DCS)",
+            "organization": "Department of Posts, Sri Lanka",
+            "url": "https://www.slpost.gov.lk",
+            "updatedAt": "2025-12-31",
+            "retrievedAt": "2026-09-28"
+          }
+        }
+      ]
+    }
+  ]
+}

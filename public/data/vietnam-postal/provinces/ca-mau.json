@@ -1,0 +1,3424 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Ca Mau",
+    "nameVi": "Cà Mau",
+    "fullNameEn": "Ca Mau Province",
+    "fullNameVi": "Tỉnh Cà Mau",
+    "nameSearchNormalized": "ca mau",
+    "officialCode": "96",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "97, 98",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 64,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "97116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Bac Lieu",
+        "nameVi": "Bạc Liêu",
+        "fullNameEn": "Bac Lieu Ward",
+        "fullNameVi": "Phường Bạc Liêu",
+        "nameSearchNormalized": "bac lieu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31825",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Bac Lieu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bạc Liêu",
+        "type": "Ward",
+        "code": "97116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạc Liêu",
+        "districtFullName": "Thành phố Bạc Liêu",
+        "districtNameEn": "Bac Lieu",
+        "districtCode": "954",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh Trach",
+        "nameVi": "Vĩnh Trạch",
+        "fullNameEn": "Vinh Trach Ward",
+        "fullNameVi": "Phường Vĩnh Trạch",
+        "nameSearchNormalized": "vinh trach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31834",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Trach Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vĩnh Trạch",
+        "type": "Ward",
+        "code": "97112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạc Liêu",
+        "districtFullName": "Thành phố Bạc Liêu",
+        "districtNameEn": "Bac Lieu",
+        "districtCode": "954",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97114",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Hiep Thanh",
+        "nameVi": "Hiệp Thành",
+        "fullNameEn": "Hiep Thanh Ward",
+        "fullNameVi": "Phường Hiệp Thành",
+        "nameSearchNormalized": "hiep thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31840",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Hiep Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hiệp Thành",
+        "type": "Ward",
+        "code": "97114"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bạc Liêu",
+        "districtFullName": "Thành phố Bạc Liêu",
+        "districtNameEn": "Bac Lieu",
+        "districtCode": "954",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97315",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Hong Dan",
+        "nameVi": "Hồng Dân",
+        "fullNameEn": "Hong Dan Commune",
+        "fullNameVi": "Xã Hồng Dân",
+        "nameSearchNormalized": "hong dan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31843",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Hong Dan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hồng Dân",
+        "type": "Commune",
+        "code": "97315"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Dân",
+        "districtFullName": "Huyện Hồng Dân",
+        "districtNameEn": "Hong Dan",
+        "districtCode": "956",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Ninh Quoi",
+        "nameVi": "Ninh Quới",
+        "fullNameEn": "Ninh Quoi Commune",
+        "fullNameVi": "Xã Ninh Quới",
+        "nameSearchNormalized": "ninh quoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31849",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Ninh Quoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ninh Quới",
+        "type": "Commune",
+        "code": "97313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Dân",
+        "districtFullName": "Huyện Hồng Dân",
+        "districtNameEn": "Hong Dan",
+        "districtCode": "956",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97307",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh Loc",
+        "nameVi": "Vĩnh Lộc",
+        "fullNameEn": "Vinh Loc Commune",
+        "fullNameVi": "Xã Vĩnh Lộc",
+        "nameSearchNormalized": "vinh loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31858",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Lộc",
+        "type": "Commune",
+        "code": "97307"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Dân",
+        "districtFullName": "Huyện Hồng Dân",
+        "districtNameEn": "Hong Dan",
+        "districtCode": "956",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Ninh Thanh Loi",
+        "nameVi": "Ninh Thạnh Lợi",
+        "fullNameEn": "Ninh Thanh Loi Commune",
+        "fullNameVi": "Xã Ninh Thạnh Lợi",
+        "nameSearchNormalized": "ninh thanh loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31864",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Ninh Thanh Loi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ninh Thạnh Lợi",
+        "type": "Commune",
+        "code": "97310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Dân",
+        "districtFullName": "Huyện Hồng Dân",
+        "districtNameEn": "Hong Dan",
+        "districtCode": "956",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Phuoc Long",
+        "nameVi": "Phước Long",
+        "fullNameEn": "Phuoc Long Commune",
+        "fullNameVi": "Xã Phước Long",
+        "nameSearchNormalized": "phuoc long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31867",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Phuoc Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phước Long",
+        "type": "Commune",
+        "code": "97406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Long",
+        "districtFullName": "Huyện Phước Long",
+        "districtNameEn": "Phuoc Long",
+        "districtCode": "957",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97414",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh Phuoc",
+        "nameVi": "Vĩnh Phước",
+        "fullNameEn": "Vinh Phuoc Commune",
+        "fullNameVi": "Xã Vĩnh Phước",
+        "nameSearchNormalized": "vinh phuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31876",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Phuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Phước",
+        "type": "Commune",
+        "code": "97414"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Long",
+        "districtFullName": "Huyện Phước Long",
+        "districtNameEn": "Phuoc Long",
+        "districtCode": "957",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh Thanh",
+        "nameVi": "Vĩnh Thanh",
+        "fullNameEn": "Vinh Thanh Commune",
+        "fullNameVi": "Xã Vĩnh Thanh",
+        "nameSearchNormalized": "vinh thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31882",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Thanh",
+        "type": "Commune",
+        "code": "97411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Long",
+        "districtFullName": "Huyện Phước Long",
+        "districtNameEn": "Phuoc Long",
+        "districtCode": "957",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97415",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Phong Hiep",
+        "nameVi": "Phong Hiệp",
+        "fullNameEn": "Phong Hiep Commune",
+        "fullNameVi": "Xã Phong Hiệp",
+        "nameSearchNormalized": "phong hiep",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31885",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Phong Hiep Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Hiệp",
+        "type": "Commune",
+        "code": "97415"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phước Long",
+        "districtFullName": "Huyện Phước Long",
+        "districtNameEn": "Phuoc Long",
+        "districtCode": "957",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Hoa Binh",
+        "nameVi": "Hoà Bình",
+        "fullNameEn": "Hoa Binh Commune",
+        "fullNameVi": "Xã Hoà Bình",
+        "nameSearchNormalized": "hoa binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31891",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hoà Bình",
+        "type": "Commune",
+        "code": "97706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hoà Bình",
+        "districtFullName": "Huyện Hoà Bình",
+        "districtNameEn": "Hoa Binh",
+        "districtCode": "961",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Chau Thoi",
+        "nameVi": "Châu Thới",
+        "fullNameEn": "Chau Thoi Commune",
+        "fullNameVi": "Xã Châu Thới",
+        "nameSearchNormalized": "chau thoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31894",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Chau Thoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Thới",
+        "type": "Commune",
+        "code": "97206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Lợi",
+        "districtFullName": "Huyện Vĩnh Lợi",
+        "districtNameEn": "Vinh Loi",
+        "districtCode": "958",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97214",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh Loi",
+        "nameVi": "Vĩnh Lợi",
+        "fullNameEn": "Vinh Loi Commune",
+        "fullNameVi": "Xã Vĩnh Lợi",
+        "nameSearchNormalized": "vinh loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31900",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Loi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Lợi",
+        "type": "Commune",
+        "code": "97214"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Lợi",
+        "districtFullName": "Huyện Vĩnh Lợi",
+        "districtNameEn": "Vinh Loi",
+        "districtCode": "958",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97209",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Hung Hoi",
+        "nameVi": "Hưng Hội",
+        "fullNameEn": "Hung Hoi Commune",
+        "fullNameVi": "Xã Hưng Hội",
+        "nameSearchNormalized": "hung hoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31906",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Hung Hoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hưng Hội",
+        "type": "Commune",
+        "code": "97209"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vĩnh Lợi",
+        "districtFullName": "Huyện Vĩnh Lợi",
+        "districtNameEn": "Vinh Loi",
+        "districtCode": "958",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh My",
+        "nameVi": "Vĩnh Mỹ",
+        "fullNameEn": "Vinh My Commune",
+        "fullNameVi": "Xã Vĩnh Mỹ",
+        "nameSearchNormalized": "vinh my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31918",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Mỹ",
+        "type": "Commune",
+        "code": "97714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hoà Bình",
+        "districtFullName": "Huyện Hoà Bình",
+        "districtNameEn": "Hoa Binh",
+        "districtCode": "961",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Vinh Hau",
+        "nameVi": "Vĩnh Hậu",
+        "fullNameEn": "Vinh Hau Commune",
+        "fullNameVi": "Xã Vĩnh Hậu",
+        "nameSearchNormalized": "vinh hau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31927",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Vinh Hau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vĩnh Hậu",
+        "type": "Commune",
+        "code": "97712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hoà Bình",
+        "districtFullName": "Huyện Hoà Bình",
+        "districtNameEn": "Hoa Binh",
+        "districtCode": "961",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97516",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Gia Rai",
+        "nameVi": "Giá Rai",
+        "fullNameEn": "Gia Rai Ward",
+        "fullNameVi": "Phường Giá Rai",
+        "nameSearchNormalized": "gia rai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31942",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Gia Rai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Giá Rai",
+        "type": "Ward",
+        "code": "97516"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giá Rai",
+        "districtFullName": "Thị xã Giá Rai",
+        "districtNameEn": "Gia Rai",
+        "districtCode": "959",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Lang Tron",
+        "nameVi": "Láng Tròn",
+        "fullNameEn": "Lang Tron Ward",
+        "fullNameVi": "Phường Láng Tròn",
+        "nameSearchNormalized": "lang tron",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "31951",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Lang Tron Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Láng Tròn",
+        "type": "Ward",
+        "code": "97508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giá Rai",
+        "districtFullName": "Thị xã Giá Rai",
+        "districtNameEn": "Gia Rai",
+        "districtCode": "959",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97517",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Phong Thanh",
+        "nameVi": "Phong Thạnh",
+        "fullNameEn": "Phong Thanh Commune",
+        "fullNameVi": "Xã Phong Thạnh",
+        "nameSearchNormalized": "phong thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31957",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Phong Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Thạnh",
+        "type": "Commune",
+        "code": "97517"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Giá Rai",
+        "districtFullName": "Thị xã Giá Rai",
+        "districtNameEn": "Gia Rai",
+        "districtCode": "959",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Ganh Hao",
+        "nameVi": "Gành Hào",
+        "fullNameEn": "Ganh Hao Commune",
+        "fullNameVi": "Xã Gành Hào",
+        "nameSearchNormalized": "ganh hao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31972",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Ganh Hao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gành Hào",
+        "type": "Commune",
+        "code": "97606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hải",
+        "districtFullName": "Huyện Đông Hải",
+        "districtNameEn": "Dong Hai",
+        "districtCode": "960",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97617",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Dong Hai",
+        "nameVi": "Đông Hải",
+        "fullNameEn": "Dong Hai Commune",
+        "fullNameVi": "Xã Đông Hải",
+        "nameSearchNormalized": "dong hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31975",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Dong Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Hải",
+        "type": "Commune",
+        "code": "97617"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hải",
+        "districtFullName": "Huyện Đông Hải",
+        "districtNameEn": "Dong Hai",
+        "districtCode": "960",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97611",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Long Dien",
+        "nameVi": "Long Điền",
+        "fullNameEn": "Long Dien Commune",
+        "fullNameVi": "Xã Long Điền",
+        "nameSearchNormalized": "long dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31985",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Long Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Long Điền",
+        "type": "Commune",
+        "code": "97611"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hải",
+        "districtFullName": "Huyện Đông Hải",
+        "districtNameEn": "Dong Hai",
+        "districtCode": "960",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "An Trach",
+        "nameVi": "An Trạch",
+        "fullNameEn": "An Trach Commune",
+        "fullNameVi": "Xã An Trạch",
+        "nameSearchNormalized": "an trach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31988",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "An Trach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã An Trạch",
+        "type": "Commune",
+        "code": "97613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hải",
+        "districtFullName": "Huyện Đông Hải",
+        "districtNameEn": "Dong Hai",
+        "districtCode": "960",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "97614",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Dinh Thanh",
+        "nameVi": "Định Thành",
+        "fullNameEn": "Dinh Thanh Commune",
+        "fullNameVi": "Xã Định Thành",
+        "nameSearchNormalized": "dinh thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "31993",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Dinh Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Định Thành",
+        "type": "Commune",
+        "code": "97614"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đông Hải",
+        "districtFullName": "Huyện Đông Hải",
+        "districtNameEn": "Dong Hai",
+        "districtCode": "960",
+        "legacyProvinceName": "Bạc Liêu",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98113",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "An Xuyen",
+        "nameVi": "An Xuyên",
+        "fullNameEn": "An Xuyen Ward",
+        "fullNameVi": "Phường An Xuyên",
+        "nameSearchNormalized": "an xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "32002",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "An Xuyen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường An Xuyên",
+        "type": "Ward",
+        "code": "98113"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cà Mau",
+        "districtFullName": "Thành phố Cà Mau",
+        "districtNameEn": "Ca Mau",
+        "districtCode": "964",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98121",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Ly Van Lam",
+        "nameVi": "Lý Văn Lâm",
+        "fullNameEn": "Ly Van Lam Ward",
+        "fullNameVi": "Phường Lý Văn Lâm",
+        "nameSearchNormalized": "ly van lam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "32014",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Ly Van Lam Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Lý Văn Lâm",
+        "type": "Ward",
+        "code": "98121"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cà Mau",
+        "districtFullName": "Thành phố Cà Mau",
+        "districtNameEn": "Ca Mau",
+        "districtCode": "964",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tan Thanh",
+        "nameVi": "Tân Thành",
+        "fullNameEn": "Tan Thanh Ward",
+        "fullNameVi": "Phường Tân Thành",
+        "nameSearchNormalized": "tan thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "32025",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Tân Thành",
+        "type": "Ward",
+        "code": "98112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cà Mau",
+        "districtFullName": "Thành phố Cà Mau",
+        "districtNameEn": "Ca Mau",
+        "districtCode": "964",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Hoa Thanh",
+        "nameVi": "Hoà Thành",
+        "fullNameEn": "Hoa Thanh Ward",
+        "fullNameVi": "Phường Hoà Thành",
+        "nameSearchNormalized": "hoa thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "32041",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Hoa Thanh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoà Thành",
+        "type": "Ward",
+        "code": "98120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cà Mau",
+        "districtFullName": "Thành phố Cà Mau",
+        "districtNameEn": "Ca Mau",
+        "districtCode": "964",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Nguyen Phich",
+        "nameVi": "Nguyễn Phích",
+        "fullNameEn": "Nguyen Phich Commune",
+        "fullNameVi": "Xã Nguyễn Phích",
+        "nameSearchNormalized": "nguyen phich",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32044",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Nguyen Phich Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nguyễn Phích",
+        "type": "Commune",
+        "code": "98312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "U Minh",
+        "districtFullName": "Huyện U Minh",
+        "districtNameEn": "U Minh",
+        "districtCode": "966",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98314",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "U Minh",
+        "nameVi": "U Minh",
+        "fullNameEn": "U Minh Commune",
+        "fullNameVi": "Xã U Minh",
+        "nameSearchNormalized": "u minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32047",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "U Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã U Minh",
+        "type": "Commune",
+        "code": "98314"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "U Minh",
+        "districtFullName": "Huyện U Minh",
+        "districtNameEn": "U Minh",
+        "districtCode": "966",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Khanh An",
+        "nameVi": "Khánh An",
+        "fullNameEn": "Khanh An Commune",
+        "fullNameVi": "Xã Khánh An",
+        "nameSearchNormalized": "khanh an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32059",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Khanh An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh An",
+        "type": "Commune",
+        "code": "98313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "U Minh",
+        "districtFullName": "Huyện U Minh",
+        "districtNameEn": "U Minh",
+        "districtCode": "966",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98311",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Khanh Lam",
+        "nameVi": "Khánh Lâm",
+        "fullNameEn": "Khanh Lam Commune",
+        "fullNameVi": "Xã Khánh Lâm",
+        "nameSearchNormalized": "khanh lam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32062",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Lam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Lâm",
+        "type": "Commune",
+        "code": "98311"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "U Minh",
+        "districtFullName": "Huyện U Minh",
+        "districtNameEn": "U Minh",
+        "districtCode": "966",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Thoi Binh",
+        "nameVi": "Thới Bình",
+        "fullNameEn": "Thoi Binh Commune",
+        "fullNameVi": "Xã Thới Bình",
+        "nameSearchNormalized": "thoi binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32065",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Thoi Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thới Bình",
+        "type": "Commune",
+        "code": "98206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Bình",
+        "districtFullName": "Huyện Thới Bình",
+        "districtNameEn": "Thoi Binh",
+        "districtCode": "967",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98211",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Bien Bach",
+        "nameVi": "Biển Bạch",
+        "fullNameEn": "Bien Bach Commune",
+        "fullNameVi": "Xã Biển Bạch",
+        "nameSearchNormalized": "bien bach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32069",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Bien Bach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Biển Bạch",
+        "type": "Commune",
+        "code": "98211"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Bình",
+        "districtFullName": "Huyện Thới Bình",
+        "districtNameEn": "Thoi Binh",
+        "districtCode": "967",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98207",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tri Phai",
+        "nameVi": "Trí Phải",
+        "fullNameEn": "Tri Phai Commune",
+        "fullNameVi": "Xã Trí Phải",
+        "nameSearchNormalized": "tri phai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32071",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tri Phai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trí Phải",
+        "type": "Commune",
+        "code": "98207"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Bình",
+        "districtFullName": "Huyện Thới Bình",
+        "districtNameEn": "Thoi Binh",
+        "districtCode": "967",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tan Loc",
+        "nameVi": "Tân Lộc",
+        "fullNameEn": "Tan Loc Commune",
+        "fullNameVi": "Xã Tân Lộc",
+        "nameSearchNormalized": "tan loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32083",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tan Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Lộc",
+        "type": "Commune",
+        "code": "98216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Bình",
+        "districtFullName": "Huyện Thới Bình",
+        "districtNameEn": "Thoi Binh",
+        "districtCode": "967",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Ho Thi Ky",
+        "nameVi": "Hồ Thị Kỷ",
+        "fullNameEn": "Ho Thi Ky Commune",
+        "fullNameVi": "Xã Hồ Thị Kỷ",
+        "nameSearchNormalized": "ho thi ky",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32092",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Ho Thi Ky Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hồ Thị Kỷ",
+        "type": "Commune",
+        "code": "98217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thới Bình",
+        "districtFullName": "Huyện Thới Bình",
+        "districtNameEn": "Thoi Binh",
+        "districtCode": "967",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tran Van Thoi",
+        "nameVi": "Trần Văn Thời",
+        "fullNameEn": "Tran Van Thoi Commune",
+        "fullNameVi": "Xã Trần Văn Thời",
+        "nameSearchNormalized": "tran van thoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32095",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tran Van Thoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trần Văn Thời",
+        "type": "Commune",
+        "code": "98406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Văn Thời",
+        "districtFullName": "Huyện Trần Văn Thời",
+        "districtNameEn": "Tran Van Thoi",
+        "districtCode": "968",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Song Doc",
+        "nameVi": "Sông Đốc",
+        "fullNameEn": "Song Doc Commune",
+        "fullNameVi": "Xã Sông Đốc",
+        "nameSearchNormalized": "song doc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32098",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Song Doc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sông Đốc",
+        "type": "Commune",
+        "code": "98417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Văn Thời",
+        "districtFullName": "Huyện Trần Văn Thời",
+        "districtNameEn": "Tran Van Thoi",
+        "districtCode": "968",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98419",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Da Bac",
+        "nameVi": "Đá Bạc",
+        "fullNameEn": "Da Bac Commune",
+        "fullNameVi": "Xã Đá Bạc",
+        "nameSearchNormalized": "da bac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32104",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Da Bac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đá Bạc",
+        "type": "Commune",
+        "code": "98419"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Văn Thời",
+        "districtFullName": "Huyện Trần Văn Thời",
+        "districtNameEn": "Tran Van Thoi",
+        "districtCode": "968",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Khanh Binh",
+        "nameVi": "Khánh Bình",
+        "fullNameEn": "Khanh Binh Commune",
+        "fullNameVi": "Xã Khánh Bình",
+        "nameSearchNormalized": "khanh binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32110",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Bình",
+        "type": "Commune",
+        "code": "98413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Văn Thời",
+        "districtFullName": "Huyện Trần Văn Thời",
+        "districtNameEn": "Tran Van Thoi",
+        "districtCode": "968",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98409",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Khanh Hung",
+        "nameVi": "Khánh Hưng",
+        "fullNameEn": "Khanh Hung Commune",
+        "fullNameVi": "Xã Khánh Hưng",
+        "nameSearchNormalized": "khanh hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32119",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Hưng",
+        "type": "Commune",
+        "code": "98409"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trần Văn Thời",
+        "districtFullName": "Huyện Trần Văn Thời",
+        "districtNameEn": "Tran Van Thoi",
+        "districtCode": "968",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Cai Nuoc",
+        "nameVi": "Cái Nước",
+        "fullNameEn": "Cai Nuoc Commune",
+        "fullNameVi": "Xã Cái Nước",
+        "nameSearchNormalized": "cai nuoc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32128",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Cai Nuoc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cái Nước",
+        "type": "Commune",
+        "code": "98606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Nước",
+        "districtFullName": "Huyện Cái Nước",
+        "districtNameEn": "Cai Nuoc",
+        "districtCode": "969",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Luong The Tran",
+        "nameVi": "Lương Thế Trân",
+        "fullNameEn": "Luong The Tran Commune",
+        "fullNameVi": "Xã Lương Thế Trân",
+        "nameSearchNormalized": "luong the tran",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32134",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Luong The Tran Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lương Thế Trân",
+        "type": "Commune",
+        "code": "98616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Nước",
+        "districtFullName": "Huyện Cái Nước",
+        "districtNameEn": "Cai Nuoc",
+        "districtCode": "969",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98611",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tan Hung",
+        "nameVi": "Tân Hưng",
+        "fullNameEn": "Tan Hung Commune",
+        "fullNameVi": "Xã Tân Hưng",
+        "nameSearchNormalized": "tan hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32137",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hưng",
+        "type": "Commune",
+        "code": "98611"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Nước",
+        "districtFullName": "Huyện Cái Nước",
+        "districtNameEn": "Cai Nuoc",
+        "districtCode": "969",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Hung My",
+        "nameVi": "Hưng Mỹ",
+        "fullNameEn": "Hung My Commune",
+        "fullNameVi": "Xã Hưng Mỹ",
+        "nameSearchNormalized": "hung my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32140",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Hung My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hưng Mỹ",
+        "type": "Commune",
+        "code": "98613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cái Nước",
+        "districtFullName": "Huyện Cái Nước",
+        "districtNameEn": "Cai Nuoc",
+        "districtCode": "969",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Dam Doi",
+        "nameVi": "Đầm Dơi",
+        "fullNameEn": "Dam Doi Commune",
+        "fullNameVi": "Xã Đầm Dơi",
+        "nameSearchNormalized": "dam doi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32152",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Dam Doi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đầm Dơi",
+        "type": "Commune",
+        "code": "98706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98708",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Ta An Khuong",
+        "nameVi": "Tạ An Khương",
+        "fullNameEn": "Ta An Khuong Commune",
+        "fullNameVi": "Xã Tạ An Khương",
+        "nameSearchNormalized": "ta an khuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32155",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Ta An Khuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tạ An Khương",
+        "type": "Commune",
+        "code": "98708"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98710",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tran Phan",
+        "nameVi": "Trần Phán",
+        "fullNameEn": "Tran Phan Commune",
+        "fullNameVi": "Xã Trần Phán",
+        "nameSearchNormalized": "tran phan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32161",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tran Phan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trần Phán",
+        "type": "Commune",
+        "code": "98710"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98721",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tan Thuan",
+        "nameVi": "Tân Thuận",
+        "fullNameEn": "Tan Thuan Commune",
+        "fullNameVi": "Xã Tân Thuận",
+        "nameSearchNormalized": "tan thuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32167",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tan Thuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Thuận",
+        "type": "Commune",
+        "code": "98721"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98716",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Quach Pham",
+        "nameVi": "Quách Phẩm",
+        "fullNameEn": "Quach Pham Commune",
+        "fullNameVi": "Xã Quách Phẩm",
+        "nameSearchNormalized": "quach pham",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32182",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Quach Pham Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quách Phẩm",
+        "type": "Commune",
+        "code": "98716"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98717",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Thanh Tung",
+        "nameVi": "Thanh Tùng",
+        "fullNameEn": "Thanh Tung Commune",
+        "fullNameVi": "Xã Thanh Tùng",
+        "nameSearchNormalized": "thanh tung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32185",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Tung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thanh Tùng",
+        "type": "Commune",
+        "code": "98717"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98720",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tan Tien",
+        "nameVi": "Tân Tiến",
+        "fullNameEn": "Tan Tien Commune",
+        "fullNameVi": "Xã Tân Tiến",
+        "nameSearchNormalized": "tan tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32188",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tan Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Tiến",
+        "type": "Commune",
+        "code": "98720"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đầm Dơi",
+        "districtFullName": "Huyện Đầm Dơi",
+        "districtNameEn": "Dam Doi",
+        "districtCode": "970",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98806",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Nam Can",
+        "nameVi": "Năm Căn",
+        "fullNameEn": "Nam Can Commune",
+        "fullNameVi": "Xã Năm Căn",
+        "nameSearchNormalized": "nam can",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32191",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Nam Can Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Năm Căn",
+        "type": "Commune",
+        "code": "98806"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Năm Căn",
+        "districtFullName": "Huyện Năm Căn",
+        "districtNameEn": "Nam Can",
+        "districtCode": "971",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98810",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Dat Moi",
+        "nameVi": "Đất Mới",
+        "fullNameEn": "Dat Moi Commune",
+        "fullNameVi": "Xã Đất Mới",
+        "nameSearchNormalized": "dat moi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32201",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Dat Moi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đất Mới",
+        "type": "Commune",
+        "code": "98810"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Năm Căn",
+        "districtFullName": "Huyện Năm Căn",
+        "districtNameEn": "Nam Can",
+        "districtCode": "971",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98812",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tam Giang",
+        "nameVi": "Tam Giang",
+        "fullNameEn": "Tam Giang Commune",
+        "fullNameVi": "Xã Tam Giang",
+        "nameSearchNormalized": "tam giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32206",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tam Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tam Giang",
+        "type": "Commune",
+        "code": "98812"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Năm Căn",
+        "districtFullName": "Huyện Năm Căn",
+        "districtNameEn": "Nam Can",
+        "districtCode": "971",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98507",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Cai Doi Vam",
+        "nameVi": "Cái Đôi Vàm",
+        "fullNameEn": "Cai Doi Vam Commune",
+        "fullNameVi": "Xã Cái Đôi Vàm",
+        "nameSearchNormalized": "cai doi vam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32212",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Cai Doi Vam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cái Đôi Vàm",
+        "type": "Commune",
+        "code": "98507"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "972",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98512",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Phu My",
+        "nameVi": "Phú Mỹ",
+        "fullNameEn": "Phu My Commune",
+        "fullNameVi": "Xã Phú Mỹ",
+        "nameSearchNormalized": "phu my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32214",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Phu My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Mỹ",
+        "type": "Commune",
+        "code": "98512"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "972",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98511",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Phu Tan",
+        "nameVi": "Phú Tân",
+        "fullNameEn": "Phu Tan Commune",
+        "fullNameVi": "Xã Phú Tân",
+        "nameSearchNormalized": "phu tan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32218",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Phu Tan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phú Tân",
+        "type": "Commune",
+        "code": "98511"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "972",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98515",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Nguyen Viet Khai",
+        "nameVi": "Nguyễn Việt Khái",
+        "fullNameEn": "Nguyen Viet Khai Commune",
+        "fullNameVi": "Xã Nguyễn Việt Khái",
+        "nameSearchNormalized": "nguyen viet khai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32227",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Nguyen Viet Khai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nguyễn Việt Khái",
+        "type": "Commune",
+        "code": "98515"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Phú Tân",
+        "districtFullName": "Huyện Phú Tân",
+        "districtNameEn": "Phu Tan",
+        "districtCode": "972",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98914",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Tan An",
+        "nameVi": "Tân Ân",
+        "fullNameEn": "Tan An Commune",
+        "fullNameVi": "Xã Tân Ân",
+        "nameSearchNormalized": "tan an",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32236",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Tan An Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Ân",
+        "type": "Commune",
+        "code": "98914"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngọc Hiển",
+        "districtFullName": "Huyện Ngọc Hiển",
+        "districtNameEn": "Ngoc Hien",
+        "districtCode": "973",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Phan Ngoc Hien",
+        "nameVi": "Phan Ngọc Hiển",
+        "fullNameEn": "Phan Ngoc Hien Commune",
+        "fullNameVi": "Xã Phan Ngọc Hiển",
+        "nameSearchNormalized": "phan ngoc hien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32244",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Phan Ngoc Hien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phan Ngọc Hiển",
+        "type": "Commune",
+        "code": "98913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngọc Hiển",
+        "districtFullName": "Huyện Ngọc Hiển",
+        "districtNameEn": "Ngoc Hien",
+        "districtCode": "973",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "98912",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ca Mau",
+        "nameVi": "Cà Mau",
+        "fullNameEn": "Ca Mau Province",
+        "fullNameVi": "Tỉnh Cà Mau",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "96"
+      },
+      "commune": {
+        "nameEn": "Dat Mui",
+        "nameVi": "Đất Mũi",
+        "fullNameEn": "Dat Mui Commune",
+        "fullNameVi": "Xã Đất Mũi",
+        "nameSearchNormalized": "dat mui",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "32248",
+        "provinceCode": "96"
+      },
+      "postalObject": {
+        "nameEn": "Dat Mui Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đất Mũi",
+        "type": "Commune",
+        "code": "98912"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Ngọc Hiển",
+        "districtFullName": "Huyện Ngọc Hiển",
+        "districtNameEn": "Ngoc Hien",
+        "districtCode": "973",
+        "legacyProvinceName": "Cà Mau",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Ohio",
+    "abbreviation": "OH",
+    "fipsCode": "39",
+    "capital": "Columbus",
+    "largestCity": "Columbus",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "216",
+      "234",
+      "330",
+      "419",
+      "440",
+      "513",
+      "567",
+      "614",
+      "740",
+      "937"
+    ],
+    "prefixes": [
+      "430",
+      "431",
+      "432",
+      "433",
+      "434",
+      "435",
+      "436",
+      "437",
+      "438",
+      "439",
+      "440",
+      "441",
+      "442",
+      "443",
+      "444",
+      "445",
+      "446",
+      "447",
+      "448",
+      "449",
+      "450",
+      "451",
+      "452",
+      "453",
+      "454",
+      "455",
+      "456",
+      "457",
+      "458"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-OH-43215-0",
+      "zip5": "43215",
+      "zip4": "1001",
+      "zipPlus4": "43215-1001",
+      "state": {
+        "nameEn": "Ohio",
+        "abbreviation": "OH",
+        "fipsCode": "39",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Columbus",
+      "acceptableCities": [
+        "Columbus"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Columbus",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Franklin County",
+          "fipsCode": "39049",
+          "geoid": "39049"
+        }
+      ],
+      "primaryCounty": "Franklin County",
+      "zcta": {
+        "code": "43215"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Columbus Main Post Office",
+        "address": "850 Twin Rivers Dr",
+        "phone": "(614) 469-4200",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 39.9612,
+        "longitude": -82.9988,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "216",
+          "234",
+          "330",
+          "419",
+          "440",
+          "513",
+          "567",
+          "614",
+          "740",
+          "937"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 35,
+        "deliveryPoints": 18100
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-OH-43215",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-OH-44114-1",
+      "zip5": "44114",
+      "zip4": "2001",
+      "zipPlus4": "44114-2001",
+      "state": {
+        "nameEn": "Ohio",
+        "abbreviation": "OH",
+        "fipsCode": "39",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Cleveland",
+      "acceptableCities": [
+        "Cleveland"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Cleveland",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Cuyahoga County",
+          "fipsCode": "39035",
+          "geoid": "39035"
+        }
+      ],
+      "primaryCounty": "Cuyahoga County",
+      "zcta": {
+        "code": "44114"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Cleveland Main Post Office",
+        "address": "2400 Orange Ave",
+        "phone": "(216) 443-4000",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 41.5054,
+        "longitude": -81.6813,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "216",
+          "234",
+          "330",
+          "419",
+          "440",
+          "513",
+          "567",
+          "614",
+          "740",
+          "937"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 15300
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-OH-44114",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

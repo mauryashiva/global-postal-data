@@ -1,0 +1,188 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Tennessee",
+    "abbreviation": "TN",
+    "fipsCode": "47",
+    "capital": "Nashville",
+    "largestCity": "Nashville",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "423",
+      "615",
+      "629",
+      "731",
+      "865",
+      "901",
+      "931"
+    ],
+    "prefixes": [
+      "370",
+      "371",
+      "372",
+      "373",
+      "374",
+      "375",
+      "376",
+      "377",
+      "378",
+      "379",
+      "380",
+      "381",
+      "382",
+      "383",
+      "384",
+      "385"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-TN-37203-0",
+      "zip5": "37203",
+      "zip4": "1001",
+      "zipPlus4": "37203-1001",
+      "state": {
+        "nameEn": "Tennessee",
+        "abbreviation": "TN",
+        "fipsCode": "47",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Nashville",
+      "acceptableCities": [
+        "Nashville"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Nashville",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Davidson County",
+          "fipsCode": "47037",
+          "geoid": "47037"
+        }
+      ],
+      "primaryCounty": "Davidson County",
+      "zcta": {
+        "code": "37203"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Nashville Main Post Office",
+        "address": "901 Broadway",
+        "phone": "(615) 255-7766",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 36.1537,
+        "longitude": -86.7925,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "423",
+          "615",
+          "629",
+          "731",
+          "865",
+          "901",
+          "931"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 34,
+        "deliveryPoints": 17500
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-TN-37203",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-TN-38103-1",
+      "zip5": "38103",
+      "zip4": "1501",
+      "zipPlus4": "38103-1501",
+      "state": {
+        "nameEn": "Tennessee",
+        "abbreviation": "TN",
+        "fipsCode": "47",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Memphis",
+      "acceptableCities": [
+        "Memphis"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Memphis",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Shelby County",
+          "fipsCode": "47157",
+          "geoid": "47157"
+        }
+      ],
+      "primaryCounty": "Shelby County",
+      "zcta": {
+        "code": "38103"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Memphis Downtown Station",
+        "address": "555 S 3rd St",
+        "phone": "(901) 521-2100",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 35.1495,
+        "longitude": -90.049,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "423",
+          "615",
+          "629",
+          "731",
+          "865",
+          "901",
+          "931"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 31,
+        "deliveryPoints": 15800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-TN-38103",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

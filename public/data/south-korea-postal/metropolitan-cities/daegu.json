@@ -1,0 +1,192 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Daegu",
+    "nameOfficialEn": "Daegu Metropolitan City",
+    "nameKo": "대구광역시",
+    "category": "metropolitan-cities",
+    "administrativeType": "Metropolitan City",
+    "isoCode": "KR-27",
+    "prefixes": [
+      "41",
+      "42",
+      "43"
+    ],
+    "areaCode": "053",
+    "capitalEn": "Daegu",
+    "capitalKo": "대구",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 35.8714,
+      "longitude": 128.6014
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "41911",
+      "roadAddress": {
+        "roadName": "Gongpyeong-ro",
+        "roadNameKo": "공평로",
+        "roadNameCode": "271103000018",
+        "buildingNumber": "88",
+        "buildingName": "Daegu Metropolitan City Hall (Dongin Center)",
+        "buildingNameKo": "대구광역시청 동인청사",
+        "buildingManagementNumber": "2711010100100010000000001",
+        "fullAddressEn": "88, Gongpyeong-ro, Jung-gu, Daegu 41911, Republic of Korea",
+        "fullAddressKo": "대구광역시 중구 공평로 88 (동인동1가, 대구광역시청 동인청사)"
+      },
+      "jibunAddress": {
+        "jibun": "1 Dongin-dong 1-ga, Jung-gu, Daegu",
+        "jibunKo": "대구광역시 중구 동인동1가 1",
+        "legalDong": "Dongin-dong 1-ga",
+        "legalDongKo": "동인동1가",
+        "adminDong": "Dongin-dong",
+        "adminDongKo": "동인동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Daegu",
+          "nameOfficialEn": "Daegu Metropolitan City",
+          "nameKo": "대구광역시",
+          "isoCode": "KR-27",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Daegu",
+          "nameKo": "대구",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Jung-gu",
+          "nameKo": "중구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Dongin-dong 1-ga",
+          "nameKo": "동인동1가",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Daegu Post Office",
+        "nameKo": "대구우체국",
+        "code": "70000",
+        "type": "Head Post Office",
+        "phone": "053-250-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "053"
+      },
+      "areas": [
+        "Dongseong-ro Commercial District",
+        "Gyeongbuk National Univ Hospital Area",
+        "Jungangno Station"
+      ],
+      "coordinates": {
+        "latitude": 35.8714,
+        "longitude": 128.6014
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-DAEGU-41911",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "41260",
+      "roadAddress": {
+        "roadName": "Dongdaegu-ro",
+        "roadNameKo": "동대구로",
+        "roadNameCode": "271402002001",
+        "buildingNumber": "550",
+        "buildingName": "Dongdaegu Complex Transit Center (KTX Station)",
+        "buildingNameKo": "동대구역 복합환승센터",
+        "buildingManagementNumber": "2714010100102940000000001",
+        "fullAddressEn": "550, Dongdaegu-ro, Dong-gu, Daegu 41260, Republic of Korea",
+        "fullAddressKo": "대구광역시 동구 동대구로 550 (신암동, 동대구역 복합환승센터)"
+      },
+      "jibunAddress": {
+        "jibun": "294 Sinam-dong, Dong-gu, Daegu",
+        "jibunKo": "대구광역시 동구 신암동 294",
+        "legalDong": "Sinam-dong",
+        "legalDongKo": "신암동",
+        "adminDong": "Sinam 4-dong",
+        "adminDongKo": "신암4동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Daegu",
+          "nameOfficialEn": "Daegu Metropolitan City",
+          "nameKo": "대구광역시",
+          "isoCode": "KR-27",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Daegu",
+          "nameKo": "대구",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Dong-gu",
+          "nameKo": "동구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Sinam-dong",
+          "nameKo": "신암동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Dongdaegu Post Office",
+        "nameKo": "동대구우체국",
+        "code": "70100",
+        "type": "Head Post Office",
+        "phone": "053-950-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "053"
+      },
+      "areas": [
+        "Dongdaegu KTX Station",
+        "Shinsegae Department Store Daegu",
+        "Express Bus Terminal",
+        "Venture Valley"
+      ],
+      "coordinates": {
+        "latitude": 35.8789,
+        "longitude": 128.6289
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-DAEGU-41260",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

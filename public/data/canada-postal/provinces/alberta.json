@@ -1,0 +1,276 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Alberta",
+    "nameFr": "Alberta",
+    "code": "AB",
+    "isoCode": "CA-AB",
+    "sgcCode": "48",
+    "category": "province"
+  },
+  "recordCount": 5,
+  "postalRecords": [
+    {
+      "postalCode": "T2P 1J9",
+      "postalCodeNormalized": "T2P1J9",
+      "fsa": "T2P",
+      "ldu": "1J9",
+      "provinceTerritory": {
+        "nameEn": "Alberta",
+        "nameFr": "Alberta",
+        "code": "AB",
+        "isoCode": "CA-AB",
+        "sgcCode": "48"
+      },
+      "postalGeography": {
+        "postalCity": "Calgary",
+        "postalMunicipality": "City of Calgary"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 6",
+          "code": "4806",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Calgary",
+          "code": "4806016",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Calgary Downtown Commercial Postal Station / The Bow",
+        "nameFr": "Station postale commerciale du centre-ville de Calgary",
+        "station": "Stn M",
+        "type": "Retail Post Office",
+        "identifier": "AB-CGY-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-AB-T2P1J9-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "T2P 2G8",
+      "postalCodeNormalized": "T2P2G8",
+      "fsa": "T2P",
+      "ldu": "2G8",
+      "provinceTerritory": {
+        "nameEn": "Alberta",
+        "nameFr": "Alberta",
+        "code": "AB",
+        "isoCode": "CA-AB",
+        "sgcCode": "48"
+      },
+      "postalGeography": {
+        "postalCity": "Calgary",
+        "postalMunicipality": "City of Calgary"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 6",
+          "code": "4806",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Calgary",
+          "code": "4806016",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "PO Box 2000-7000",
+          "station": "Station M"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Calgary Station M Postal Box Facility",
+        "nameFr": "Installation de cases postales Station M de Calgary",
+        "station": "Stn M Boxes",
+        "type": "Box Delivery Facility",
+        "identifier": "AB-CGY-BOX"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-AB-T2P2G8-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "T5J 0N3",
+      "postalCodeNormalized": "T5J0N3",
+      "fsa": "T5J",
+      "ldu": "0N3",
+      "provinceTerritory": {
+        "nameEn": "Alberta",
+        "nameFr": "Alberta",
+        "code": "AB",
+        "isoCode": "CA-AB",
+        "sgcCode": "48"
+      },
+      "postalGeography": {
+        "postalCity": "Edmonton",
+        "postalMunicipality": "City of Edmonton"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 11",
+          "code": "4811",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Edmonton",
+          "code": "4811061",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Edmonton City Hall / Churchill Square",
+        "nameFr": "Hôtel de ville d’Edmonton / Square Churchill",
+        "station": "Stn Main",
+        "type": "Government Facility",
+        "identifier": "AB-EDM-CH"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-AB-T5J0N3-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "T0A 0A5",
+      "postalCodeNormalized": "T0A0A5",
+      "fsa": "T0A",
+      "ldu": "0A5",
+      "provinceTerritory": {
+        "nameEn": "Alberta",
+        "nameFr": "Alberta",
+        "code": "AB",
+        "isoCode": "CA-AB",
+        "sgcCode": "48"
+      },
+      "postalGeography": {
+        "postalCity": "Cold Lake",
+        "postalMunicipality": "City of Cold Lake"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 12",
+          "code": "4812",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Cold Lake",
+          "code": "4812040",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Military Mail",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Military",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canadian Forces Base Cold Lake (4 Wing Cold Lake)",
+        "nameFr": "Base des Forces canadiennes Cold Lake (4e Escadre)",
+        "station": "CFPO Cold Lake",
+        "type": "Military Post Office",
+        "identifier": "AB-CLK-MIL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-AB-T0A0A5-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "T0A 0A0",
+      "postalCodeNormalized": "T0A0A0",
+      "fsa": "T0A",
+      "ldu": "0A0",
+      "provinceTerritory": {
+        "nameEn": "Alberta",
+        "nameFr": "Alberta",
+        "code": "AB",
+        "isoCode": "CA-AB",
+        "sgcCode": "48"
+      },
+      "postalGeography": {
+        "postalCity": "Ardmore",
+        "postalMunicipality": "Municipal District of Bonnyville No. 87"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 12",
+          "code": "4812",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Bonnyville No. 87",
+          "code": "4812004",
+          "type": "Municipal District"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Ardmore Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Ardmore Post Office",
+        "nameFr": "Bureau de poste d’Ardmore",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "AB-ARD-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-AB-T0A0A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

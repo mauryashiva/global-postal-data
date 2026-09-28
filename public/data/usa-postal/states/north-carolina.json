@@ -1,0 +1,195 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "North Carolina",
+    "abbreviation": "NC",
+    "fipsCode": "37",
+    "capital": "Raleigh",
+    "largestCity": "Charlotte",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "252",
+      "336",
+      "704",
+      "828",
+      "910",
+      "919",
+      "980",
+      "984"
+    ],
+    "prefixes": [
+      "270",
+      "271",
+      "272",
+      "273",
+      "274",
+      "275",
+      "276",
+      "277",
+      "278",
+      "279",
+      "280",
+      "281",
+      "282",
+      "283",
+      "284",
+      "285",
+      "286",
+      "287",
+      "288",
+      "289"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 2,
+    "uniqueZipPlus4": 2,
+    "totalRecords": 2,
+    "countiesCount": 2
+  },
+  "records": [
+    {
+      "id": "US-NC-28202-0",
+      "zip5": "28202",
+      "zip4": "1001",
+      "zipPlus4": "28202-1001",
+      "state": {
+        "nameEn": "North Carolina",
+        "abbreviation": "NC",
+        "fipsCode": "37",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Charlotte",
+      "acceptableCities": [
+        "Charlotte"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Charlotte",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Mecklenburg County",
+          "fipsCode": "37119",
+          "geoid": "37119"
+        }
+      ],
+      "primaryCounty": "Mecklenburg County",
+      "zcta": {
+        "code": "28202"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Charlotte Downtown Station",
+        "address": "201 N McDowell St",
+        "phone": "(704) 333-8700",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 35.2271,
+        "longitude": -80.8431,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "252",
+          "336",
+          "704",
+          "828",
+          "910",
+          "919",
+          "980",
+          "984"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 34,
+        "deliveryPoints": 17600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NC-28202",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "id": "US-NC-27601-1",
+      "zip5": "27601",
+      "zip4": "2001",
+      "zipPlus4": "27601-2001",
+      "state": {
+        "nameEn": "North Carolina",
+        "abbreviation": "NC",
+        "fipsCode": "37",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Raleigh",
+      "acceptableCities": [
+        "Raleigh"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Raleigh",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Wake County",
+          "fipsCode": "37183",
+          "geoid": "37183"
+        }
+      ],
+      "primaryCounty": "Wake County",
+      "zcta": {
+        "code": "27601"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Raleigh Downtown Station",
+        "address": "314 W Jones St",
+        "phone": "(919) 420-5100",
+        "type": "Station"
+      },
+      "coordinates": {
+        "latitude": 35.7796,
+        "longitude": -78.6382,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "252",
+          "336",
+          "704",
+          "828",
+          "910",
+          "919",
+          "980",
+          "984"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 30,
+        "deliveryPoints": 15400
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-NC-27601",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

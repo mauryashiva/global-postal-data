@@ -1,0 +1,55 @@
+{
+  "prefix": "42",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "42111",
+      "province": {
+        "code": "36",
+        "nameEn": "Banten",
+        "nameId": "Banten",
+        "nameNative": "Banten",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "36.73",
+        "nameId": "Kota Serang",
+        "nameEn": "Serang",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "36.73.01",
+        "nameId": "Kecamatan Serang",
+        "nameEn": "Serang District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "36.73.01.1001",
+        "nameId": "Kelurahan Kota Baru",
+        "nameEn": "Kota Baru",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pusat Kota Serang / Alun-alun Serang",
+        "nameEn": "Serang City Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Serang",
+        "nameEn": "Serang Main Post Office",
+        "code": "42100",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-36-42111-36.73.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

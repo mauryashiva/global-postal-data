@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "11",
+    "nameEn": "Saitama",
+    "nameJa": "埼玉県",
+    "nameKana": "サイタマケン",
+    "nameRomaji": "Saitama-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Saitama",
+    "capitalJa": "さいたま市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "3300000",
+      "postalCodeFormatted": "330-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "11",
+      "prefectureNameEn": "Saitama",
+      "prefectureNameJa": "埼玉県",
+      "prefectureNameKana": "サイタマケン",
+      "prefectureNameRomaji": "Saitama-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "11201",
+        "nameEn": "Saitama",
+        "nameJa": "さいたま市",
+        "nameKana": "サイタシ",
+        "nameRomaji": "Saitama-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Saitama Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

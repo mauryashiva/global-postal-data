@@ -1,0 +1,55 @@
+{
+  "prefix": "57",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "57111",
+      "province": {
+        "code": "33",
+        "nameEn": "Central Java",
+        "nameId": "Jawa Tengah",
+        "nameNative": "Jawa Tengah",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "33.72",
+        "nameId": "Kota Surakarta",
+        "nameEn": "Surakarta (Solo)",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "33.72.03",
+        "nameId": "Kecamatan Pasar Kliwon",
+        "nameEn": "Pasar Kliwon District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "33.72.03.1001",
+        "nameId": "Kelurahan Kauman",
+        "nameEn": "Kauman",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Keraton Surakarta Hadiningrat / Pasar Klewer",
+        "nameEn": "Surakarta Royal Palace & Heritage Market"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Gladak Solo",
+        "nameEn": "Gladak Solo Post Office",
+        "code": "57100",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-33-57111-33.72.03.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

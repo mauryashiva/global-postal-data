@@ -1,0 +1,55 @@
+{
+  "postcodeArea": "IM",
+  "recordCount": 1,
+  "records": [
+    {
+      "postcode": "IM1 1AA",
+      "postTown": "ISLE OF MAN",
+      "locality": "Douglas",
+      "dependentLocality": "Circular Road",
+      "constituentCountry": "Isle of Man (Crown Dependency)",
+      "constituentCountryCode": "IM",
+      "region": "Isle of Man",
+      "ceremonialCounty": "Isle of Man",
+      "localAuthority": "Douglas Borough Council",
+      "district": "Douglas",
+      "civilParish": "Onchan",
+      "ward": "Douglas Central",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "isCrownDependency": true,
+      "crownDependencyName": "Isle of Man",
+      "coordinates": {
+        "latitude": 54.1524,
+        "longitude": -4.4828,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "IM11AA-01",
+          "buildingName": "Postal Headquarters",
+          "buildingNumber": null,
+          "subBuildingName": "Isle of Man Post Office",
+          "thoroughfare": "Circular Road",
+          "postTown": "ISLE OF MAN",
+          "postcode": "IM1 1AA",
+          "fullAddressText": "Postal Headquarters, Circular Road, Douglas, Isle of Man IM1 1AA"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "IM1 1AA",
+        "outwardCode": "IM1",
+        "inwardCode": "1AA",
+        "postcodeArea": "IM",
+        "postcodeDistrict": "IM1",
+        "postcodeSector": "IM1 1"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-IM1-1AA",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

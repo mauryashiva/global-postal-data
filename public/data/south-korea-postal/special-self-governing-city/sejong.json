@@ -1,0 +1,191 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Sejong",
+    "nameOfficialEn": "Sejong Special Self-Governing City",
+    "nameKo": "세종특별자치시",
+    "category": "special-self-governing-city",
+    "administrativeType": "Special Self-Governing City",
+    "isoCode": "KR-50",
+    "prefixes": [
+      "30"
+    ],
+    "areaCode": "044",
+    "capitalEn": "Sejong",
+    "capitalKo": "세종",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 36.48,
+      "longitude": 127.289
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "30103",
+      "roadAddress": {
+        "roadName": "Doum 6-ro",
+        "roadNameKo": "도움6로",
+        "roadNameCode": "361103000052",
+        "buildingNumber": "11",
+        "buildingName": "Government Complex Sejong",
+        "buildingNameKo": "정부세종청사 국무조정실",
+        "buildingManagementNumber": "3611010800105340000000001",
+        "fullAddressEn": "11, Doum 6-ro, Sejong, Sejong 30103, Republic of Korea",
+        "fullAddressKo": "세종특별자치시 세종 도움6로 11 (어진동, 정부세종청사 국무조정실)"
+      },
+      "jibunAddress": {
+        "jibun": "534 Eojin-dong, Sejong-si",
+        "jibunKo": "세종특별자치시 어진동 534",
+        "legalDong": "Eojin-dong",
+        "legalDongKo": "어진동",
+        "adminDong": "Dodam-dong",
+        "adminDongKo": "도담동"
+      },
+      "administrative": {
+        "category": "special-self-governing-city",
+        "firstLevel": {
+          "nameEn": "Sejong",
+          "nameOfficialEn": "Sejong Special Self-Governing City",
+          "nameKo": "세종특별자치시",
+          "isoCode": "KR-50",
+          "administrativeType": "Special Self-Governing City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Sejong",
+          "nameKo": "세종",
+          "administrativeType": "Special Self-Governing City"
+        },
+        "district": {
+          "nameEn": "Sejong",
+          "nameKo": "세종",
+          "administrativeType": "Special Self-Governing City"
+        },
+        "townDong": {
+          "nameEn": "Eojin-dong",
+          "nameKo": "어진동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Sejong Post Office",
+        "nameKo": "세종우체국",
+        "code": "33900",
+        "type": "Head Post Office",
+        "phone": "044-860-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "044"
+      },
+      "areas": [
+        "Government Complex Sejong Area 1-15",
+        "Sejong Lake Park",
+        "National Library of Korea Sejong",
+        "Bangchukcheon Stream"
+      ],
+      "coordinates": {
+        "latitude": 36.5042,
+        "longitude": 127.2654
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEJONG-30103",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "30151",
+      "roadAddress": {
+        "roadName": "Hannuri-daero",
+        "roadNameKo": "한누리대로",
+        "roadNameCode": "361102000001",
+        "buildingNumber": "2130",
+        "buildingName": "Sejong City Hall",
+        "buildingNameKo": "세종특별자치시청",
+        "buildingManagementNumber": "3611011400106260000000001",
+        "fullAddressEn": "2130, Hannuri-daero, Sejong, Sejong 30151, Republic of Korea",
+        "fullAddressKo": "세종특별자치시 세종 한누리대로 2130 (보람동, 세종특별자치시청)"
+      },
+      "jibunAddress": {
+        "jibun": "626 Boram-dong, Sejong-si",
+        "jibunKo": "세종특별자치시 보람동 626",
+        "legalDong": "Boram-dong",
+        "legalDongKo": "보람동",
+        "adminDong": "Boram-dong",
+        "adminDongKo": "보람동"
+      },
+      "administrative": {
+        "category": "special-self-governing-city",
+        "firstLevel": {
+          "nameEn": "Sejong",
+          "nameOfficialEn": "Sejong Special Self-Governing City",
+          "nameKo": "세종특별자치시",
+          "isoCode": "KR-50",
+          "administrativeType": "Special Self-Governing City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Sejong",
+          "nameKo": "세종",
+          "administrativeType": "Special Self-Governing City"
+        },
+        "district": {
+          "nameEn": "Sejong",
+          "nameKo": "세종",
+          "administrativeType": "Special Self-Governing City"
+        },
+        "townDong": {
+          "nameEn": "Boram-dong",
+          "nameKo": "보람동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Sejong Boram Post Office",
+        "nameKo": "세종보람동우체국",
+        "code": "33905",
+        "type": "Branch Post Office",
+        "phone": "044-865-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "044"
+      },
+      "areas": [
+        "Sejong City Hall Square",
+        "Geumgang River Pedestrian Bridge",
+        "Boram Commercial Center",
+        "3rd Living Zone"
+      ],
+      "coordinates": {
+        "latitude": 36.48,
+        "longitude": 127.289
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-SEJONG-30151",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

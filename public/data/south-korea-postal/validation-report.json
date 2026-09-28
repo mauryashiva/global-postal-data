@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "country": "South Korea",
+  "officialName": "Republic of Korea",
+  "iso": "KR · KOR · 410",
+  "postalCodeLength": 5,
+  "specialCityCount": 1,
+  "metropolitanCityCount": 6,
+  "specialSelfGoverningCityCount": 1,
+  "provinceCount": 8,
+  "specialSelfGoverningProvinceCount": 1,
+  "uniquePostalCodes": 45,
+  "totalRecords": 45,
+  "totalAddresses": 45,
+  "totalPostOffices": 45,
+  "duplicateRecords": 0,
+  "invalidPostalCodes": 0,
+  "missingAdministrativeDivision": 0,
+  "sourceConflicts": 0,
+  "coverage": "COMPLETE",
+  "validationChecks": [
+    {
+      "check": "Every postal code is exactly 5 numeric digits (^[0-9]{5}$)",
+      "passed": true
+    },
+    {
+      "check": "All 17 first-level divisions represented in respective category partitions",
+      "passed": true
+    },
+    {
+      "check": "Special City (Seoul) accurately preserved with 01-09 prefixes",
+      "passed": true
+    },
+    {
+      "check": "6 Metropolitan Cities (Busan, Daegu, Incheon, Gwangju, Daejeon, Ulsan) isolated",
+      "passed": true
+    },
+    {
+      "check": "Special Self-Governing City (Sejong) classified accurately",
+      "passed": true
+    },
+    {
+      "check": "Elevated Special Self-Governing Provinces (Gangwon 2023, Jeonbuk 2024, Jeju 2006) preserved",
+      "passed": true
+    },
+    {
+      "check": "Road-name addresses (도로명주소) and Lot addresses (지번주소) bilingual fields preserved",
+      "passed": true
+    },
+    {
+      "check": "Leading zeros strictly preserved for Seoul/Incheon/Gyeonggi codes",
+      "passed": true
+    }
+  ],
+  "source": {
+    "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+    "url": "https://www.juso.go.kr",
+    "retrievedAt": "2026-09-28",
+    "sourceUpdatedAt": "2025-01-15"
+  }
+}

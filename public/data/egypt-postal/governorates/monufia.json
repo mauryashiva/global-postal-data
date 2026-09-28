@@ -1,0 +1,119 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Monufia",
+    "nameNative": "المنوفية",
+    "isoCode": "EG-MNF",
+    "postalPrefix": "32",
+    "capital": "Shibin El Kom",
+    "capitalNative": "شبين الكوم",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.5526,
+      "longitude": 31.0097
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 7
+  },
+  "records": [
+    {
+      "postalCode": "32511",
+      "governorate": {
+        "nameEn": "Monufia",
+        "nameNative": "المنوفية",
+        "code": "EG-MNF",
+        "postalPrefix": "32",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Shibin El Kom",
+        "nameNative": "شبين الكوم",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Shibin El Kom",
+        "nameNative": "قسم شبين الكوم",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan Sharaf / Galaa",
+        "nameNative": "ميدان شرف / الجلاء",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Shibin El Kom Main Post Office",
+        "nameNative": "مكتب بريد شبين الكوم الرئيسي",
+        "type": "Main Post Office",
+        "code": "32511"
+      },
+      "areas": [
+        "Galaa St Shibin",
+        "Sharaf Square",
+        "Menofia University Campus",
+        "Bahr Shebin Corniche"
+      ],
+      "coordinates": {
+        "latitude": 30.5526,
+        "longitude": 31.0097
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MONUFIA-32511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "32897",
+      "governorate": {
+        "nameEn": "Monufia",
+        "nameNative": "المنوفية",
+        "code": "EG-MNF",
+        "postalPrefix": "32",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Sadat City",
+        "nameNative": "مدينة السادات",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Sadat City",
+        "nameNative": "مركز السادات",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "1st District Sadat City",
+        "nameNative": "المنطقة الأولى بالسادات",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Sadat City Central Post Office",
+        "nameNative": "مكتب بريد مدينة السادات المركزي",
+        "type": "Main Post Office",
+        "code": "32897"
+      },
+      "areas": [
+        "Industrial Zones 1-7",
+        "University of Sadat City",
+        "Cairo-Alex Desert Highway Km 93"
+      ],
+      "coordinates": {
+        "latitude": 30.3789,
+        "longitude": 30.5123
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-MONUFIA-32897",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

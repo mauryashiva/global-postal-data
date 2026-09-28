@@ -1,0 +1,55 @@
+{
+  "prefix": "13",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "13310",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.75",
+        "nameId": "Kota Administrasi Jakarta Timur",
+        "nameEn": "East Jakarta",
+        "administrativeType": "Administrative City"
+      },
+      "district": {
+        "code": "31.75.03",
+        "nameId": "Kecamatan Jatinegara",
+        "nameEn": "Jatinegara District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.75.03.1001",
+        "nameId": "Kelurahan Bali Mester",
+        "nameEn": "Bali Mester",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Pasar Jatinegara / Stasiun Jatinegara",
+        "nameEn": "Jatinegara Transit & Commerce Hub"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Jatinegara",
+        "nameEn": "Jatinegara Post Office",
+        "code": "13300",
+        "type": "KPC",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-13310-31.75.03.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

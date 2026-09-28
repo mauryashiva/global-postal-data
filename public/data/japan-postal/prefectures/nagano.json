@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "20",
+    "nameEn": "Nagano",
+    "nameJa": "長野県",
+    "nameKana": "ナガノケン",
+    "nameRomaji": "Nagano-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Nagano",
+    "capitalJa": "長野市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "3800000",
+      "postalCodeFormatted": "380-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "20",
+      "prefectureNameEn": "Nagano",
+      "prefectureNameJa": "長野県",
+      "prefectureNameKana": "ナガノケン",
+      "prefectureNameRomaji": "Nagano-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "20201",
+        "nameEn": "Nagano",
+        "nameJa": "長野市",
+        "nameKana": "ナガノシ",
+        "nameRomaji": "Nagano-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Nagano Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

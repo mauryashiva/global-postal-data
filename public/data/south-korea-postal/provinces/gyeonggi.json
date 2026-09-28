@@ -1,0 +1,278 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Gyeonggi-do",
+    "nameOfficialEn": "Gyeonggi Province",
+    "nameKo": "경기도",
+    "category": "provinces",
+    "administrativeType": "Province",
+    "isoCode": "KR-41",
+    "prefixes": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "areaCode": "031",
+    "capitalEn": "Suwon",
+    "capitalKo": "수원",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 37.2636,
+      "longitude": 127.0286
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalAddresses": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 10
+  },
+  "records": [
+    {
+      "postalCode": "16444",
+      "roadAddress": {
+        "roadName": "Docheong-ro",
+        "roadNameKo": "도청로",
+        "roadNameCode": "411173000011",
+        "buildingNumber": "30",
+        "buildingName": "Gyeonggi Provincial Government Complex",
+        "buildingNameKo": "경기도청 광교신청사",
+        "buildingManagementNumber": "4111710300101830000000001",
+        "fullAddressEn": "30, Docheong-ro, Yeongtong-gu, Gyeonggi-do 16444, Republic of Korea",
+        "fullAddressKo": "경기도 영통구 도청로 30 (이의동, 경기도청 광교신청사)"
+      },
+      "jibunAddress": {
+        "jibun": "183 Iui-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+        "jibunKo": "경기도 수원시 영통구 이의동 183",
+        "legalDong": "Iui-dong",
+        "legalDongKo": "이의동",
+        "adminDong": "Gwanggyo 1-dong",
+        "adminDongKo": "광교1동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gyeonggi-do",
+          "nameOfficialEn": "Gyeonggi Province",
+          "nameKo": "경기도",
+          "isoCode": "KR-41",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Suwon-si",
+          "nameKo": "수원시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Yeongtong-gu",
+          "nameKo": "영통구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Iui-dong",
+          "nameKo": "이의동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Gwanggyo Post Office",
+        "nameKo": "광교우체국",
+        "code": "16200",
+        "type": "Branch Post Office",
+        "phone": "031-210-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "031"
+      },
+      "areas": [
+        "Gwanggyo New Town",
+        "Gyeonggi Provincial Government Plaza",
+        "Gwanggyo Lake Park",
+        "Gwanggyo Central Station"
+      ],
+      "coordinates": {
+        "latitude": 37.2889,
+        "longitude": 127.0512
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GYEONGGI-16444",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "13494",
+      "roadAddress": {
+        "roadName": "Pangyoyeok-ro",
+        "roadNameKo": "판교역로",
+        "roadNameCode": "411353000030",
+        "buildingNumber": "235",
+        "buildingName": "Pangyo Techno Valley H-Square",
+        "buildingNameKo": "판교테크노밸리 에이치스퀘어",
+        "buildingManagementNumber": "4113510900106810000000001",
+        "fullAddressEn": "235, Pangyoyeok-ro, Bundang-gu, Gyeonggi-do 13494, Republic of Korea",
+        "fullAddressKo": "경기도 분당구 판교역로 235 (삼평동, 판교테크노밸리 에이치스퀘어)"
+      },
+      "jibunAddress": {
+        "jibun": "681 Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do",
+        "jibunKo": "경기도 성남시 분당구 삼평동 681",
+        "legalDong": "Sampyeong-dong",
+        "legalDongKo": "삼평동",
+        "adminDong": "Sampyeong-dong",
+        "adminDongKo": "삼평동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gyeonggi-do",
+          "nameOfficialEn": "Gyeonggi Province",
+          "nameKo": "경기도",
+          "isoCode": "KR-41",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Seongnam-si",
+          "nameKo": "성남시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Bundang-gu",
+          "nameKo": "분당구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Sampyeong-dong",
+          "nameKo": "삼평동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Seongnam Bundang Post Office",
+        "nameKo": "성남분당우체국",
+        "code": "13500",
+        "type": "Head Post Office",
+        "phone": "031-700-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "031"
+      },
+      "areas": [
+        "Pangyo Techno Valley Silicon Valley of Korea",
+        "Kakao & Naver Tech Campuses",
+        "Pangyo Station Hub"
+      ],
+      "coordinates": {
+        "latitude": 37.4012,
+        "longitude": 127.1112
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GYEONGGI-13494",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "16677",
+      "roadAddress": {
+        "roadName": "Samsung-ro",
+        "roadNameKo": "삼성로",
+        "roadNameCode": "411172000001",
+        "buildingNumber": "129",
+        "buildingName": "Samsung Digital City",
+        "buildingNameKo": "삼성전자 디지털시티 본사",
+        "buildingManagementNumber": "4111710100104160000000001",
+        "fullAddressEn": "129, Samsung-ro, Yeongtong-gu, Gyeonggi-do 16677, Republic of Korea",
+        "fullAddressKo": "경기도 영통구 삼성로 129 (매탄동, 삼성전자 디지털시티 본사)"
+      },
+      "jibunAddress": {
+        "jibun": "416 Mae-tan-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+        "jibunKo": "경기도 수원시 영통구 매탄동 416",
+        "legalDong": "Mae-tan-dong",
+        "legalDongKo": "매탄동",
+        "adminDong": "Mae-tan 3-dong",
+        "adminDongKo": "매탄3동"
+      },
+      "administrative": {
+        "category": "provinces",
+        "firstLevel": {
+          "nameEn": "Gyeonggi-do",
+          "nameOfficialEn": "Gyeonggi Province",
+          "nameKo": "경기도",
+          "isoCode": "KR-41",
+          "administrativeType": "Province",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Suwon-si",
+          "nameKo": "수원시",
+          "administrativeType": "Si"
+        },
+        "district": {
+          "nameEn": "Yeongtong-gu",
+          "nameKo": "영통구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Mae-tan-dong",
+          "nameKo": "매탄동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Suwon Post Office",
+        "nameKo": "수원우체국",
+        "code": "16000",
+        "type": "Head Post Office",
+        "phone": "031-240-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "031"
+      },
+      "areas": [
+        "Samsung Electronics Global HQ",
+        "R&D Center Campuses",
+        "Maetan High Tech Zone"
+      ],
+      "coordinates": {
+        "latitude": 37.2589,
+        "longitude": 127.0545
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-GYEONGGI-16677",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

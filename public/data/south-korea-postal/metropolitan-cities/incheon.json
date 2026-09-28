@@ -1,0 +1,193 @@
+{
+  "country": "South Korea",
+  "countryOfficialEn": "Republic of Korea",
+  "division": {
+    "nameEn": "Incheon",
+    "nameOfficialEn": "Incheon Metropolitan City",
+    "nameKo": "인천광역시",
+    "category": "metropolitan-cities",
+    "administrativeType": "Metropolitan City",
+    "isoCode": "KR-28",
+    "prefixes": [
+      "21",
+      "22",
+      "23"
+    ],
+    "areaCode": "032",
+    "capitalEn": "Incheon",
+    "capitalKo": "인천",
+    "previousNameEn": null,
+    "previousNameKo": null,
+    "coordinates": {
+      "latitude": 37.4563,
+      "longitude": 126.7052
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 2,
+    "totalRecords": 2,
+    "totalAddresses": 2,
+    "totalPostOffices": 2,
+    "totalLocalities": 8
+  },
+  "records": [
+    {
+      "postalCode": "22382",
+      "roadAddress": {
+        "roadName": "Gonghang-ro",
+        "roadNameKo": "공항로",
+        "roadNameCode": "281102000001",
+        "buildingNumber": "272",
+        "buildingName": "Incheon International Airport Terminal 1",
+        "buildingNameKo": "인천국제공항 제1여객터미널",
+        "buildingManagementNumber": "2811014500128510000000001",
+        "fullAddressEn": "272, Gonghang-ro, Jung-gu, Incheon 22382, Republic of Korea",
+        "fullAddressKo": "인천광역시 중구 공항로 272 (운서동, 인천국제공항 제1여객터미널)"
+      },
+      "jibunAddress": {
+        "jibun": "2851 Unseo-dong, Jung-gu, Incheon",
+        "jibunKo": "인천광역시 중구 운서동 2851",
+        "legalDong": "Unseo-dong",
+        "legalDongKo": "운서동",
+        "adminDong": "Unseo-dong",
+        "adminDongKo": "운서동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Incheon",
+          "nameOfficialEn": "Incheon Metropolitan City",
+          "nameKo": "인천광역시",
+          "isoCode": "KR-28",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Incheon",
+          "nameKo": "인천",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Jung-gu",
+          "nameKo": "중구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Unseo-dong",
+          "nameKo": "운서동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Incheon International Airport Post Office",
+        "nameKo": "인천국제공항우체국",
+        "code": "40034",
+        "type": "Branch Post Office",
+        "phone": "032-740-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "032"
+      },
+      "areas": [
+        "Incheon Airport Terminal 1",
+        "Airport Railroad Station",
+        "Free Economic Zone Air City",
+        "Yeongjongdo Island"
+      ],
+      "coordinates": {
+        "latitude": 37.4602,
+        "longitude": 126.4407
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-INCHEON-22382",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "21984",
+      "roadAddress": {
+        "roadName": "Convensia-daero",
+        "roadNameKo": "컨벤시아대로",
+        "roadNameCode": "281852000003",
+        "buildingNumber": "123",
+        "buildingName": "Songdo Convensia",
+        "buildingNameKo": "송도컨벤시아",
+        "buildingManagementNumber": "2818510600100060001000001",
+        "fullAddressEn": "123, Convensia-daero, Yeonsu-gu, Incheon 21984, Republic of Korea",
+        "fullAddressKo": "인천광역시 연수구 컨벤시아대로 123 (송도동, 송도컨벤시아)"
+      },
+      "jibunAddress": {
+        "jibun": "6-1 Songdo-dong, Yeonsu-gu, Incheon",
+        "jibunKo": "인천광역시 연수구 송도동 6-1",
+        "legalDong": "Songdo-dong",
+        "legalDongKo": "송도동",
+        "adminDong": "Songdo 2-dong",
+        "adminDongKo": "송도2동"
+      },
+      "administrative": {
+        "category": "metropolitan-cities",
+        "firstLevel": {
+          "nameEn": "Incheon",
+          "nameOfficialEn": "Incheon Metropolitan City",
+          "nameKo": "인천광역시",
+          "isoCode": "KR-28",
+          "administrativeType": "Metropolitan City",
+          "previousNameEn": null,
+          "previousNameKo": null,
+          "transitionDate": null
+        },
+        "cityCounty": {
+          "nameEn": "Incheon",
+          "nameKo": "인천",
+          "administrativeType": "Metropolitan City"
+        },
+        "district": {
+          "nameEn": "Yeonsu-gu",
+          "nameKo": "연수구",
+          "administrativeType": "Gu"
+        },
+        "townDong": {
+          "nameEn": "Songdo-dong",
+          "nameKo": "송도동",
+          "administrativeType": "Dong"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Incheon Songdo Post Office",
+        "nameKo": "인천송도우체국",
+        "code": "40608",
+        "type": "Branch Post Office",
+        "phone": "032-850-1114"
+      },
+      "telephone": {
+        "countryCode": "+82",
+        "areaCode": "032"
+      },
+      "areas": [
+        "Songdo International Business District",
+        "Central Park Songdo",
+        "Posco Tower Songdo",
+        "Incheon National Univ"
+      ],
+      "coordinates": {
+        "latitude": 37.3892,
+        "longitude": 126.6536
+      },
+      "source": {
+        "name": "Korea Post (우정사업본부) & Ministry of the Interior and Safety (행정안전부)",
+        "url": "https://www.juso.go.kr",
+        "system": "5-Digit National Basic Zone System (국가기초구역번호)",
+        "recordId": "KR-INCHEON-21984",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

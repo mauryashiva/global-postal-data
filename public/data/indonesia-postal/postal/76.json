@@ -1,0 +1,55 @@
+{
+  "prefix": "76",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "76111",
+      "province": {
+        "code": "64",
+        "nameEn": "East Kalimantan",
+        "nameId": "Kalimantan Timur",
+        "nameNative": "Kalimantan Timur",
+        "administrativeType": "Province",
+        "specialStatus": "National Capital Region (IKN Nusantara location)"
+      },
+      "kabupatenKota": {
+        "code": "64.72",
+        "nameId": "Kota Balikpapan",
+        "nameEn": "Balikpapan",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "64.72.01",
+        "nameId": "Kecamatan Balikpapan Kota",
+        "nameEn": "Balikpapan Kota District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "64.72.01.1001",
+        "nameId": "Kelurahan Klandasan Ilir",
+        "nameEn": "Klandasan Ilir",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Jalan Jenderal Sudirman / Pantai Kemala",
+        "nameEn": "Balikpapan Financial & Gateway Core"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Balikpapan",
+        "nameEn": "Balikpapan Main Post Office",
+        "code": "76100",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-64-76111-64.72.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

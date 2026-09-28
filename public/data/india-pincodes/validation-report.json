@@ -1,0 +1,251 @@
+{
+  "status": "PASS",
+  "generatedAt": "2026-09-26T09:58:38.084Z",
+  "source": "Department of Posts, Government of India",
+  "sourceUpdateDate": "2026-09-09",
+  "summary": {
+    "totalPostOfficeRecords": 165595,
+    "uniquePincodes": 19586,
+    "statesCount": 28,
+    "unionTerritoriesCount": 8,
+    "duplicatesFound": 32,
+    "invalidPincodes": 0,
+    "missingAmbiguousFields": 0
+  },
+  "validationChecks": [
+    {
+      "check": "1. Every Pincode must contain exactly 6 digits",
+      "passed": true,
+      "details": "0 invalid pincodes found"
+    },
+    {
+      "check": "2. No duplicate Pincode/Post Office combination",
+      "passed": true,
+      "details": "0 duplicates inside postOffices arrays"
+    },
+    {
+      "check": "3. No Post Office may disappear because another office has the same Pincode",
+      "passed": true,
+      "details": "17456 pincodes with multiple post offices preserved (max: 152)"
+    },
+    {
+      "check": "4. Every record must belong to one State or Union Territory",
+      "passed": true,
+      "details": "0 orphan records"
+    },
+    {
+      "check": "5. Verify all 28 States",
+      "passed": true,
+      "details": "Generated: 28 / 28 states"
+    },
+    {
+      "check": "6. Verify all 8 Union Territories",
+      "passed": true,
+      "details": "Generated: 8 / 8 union territories"
+    },
+    {
+      "check": "7. Verify every generated state/UT file contains only records belonging to that State/UT",
+      "passed": true,
+      "details": "0 cross-contaminated records"
+    },
+    {
+      "check": "8. Verify index.json counts equal the actual generated files",
+      "passed": true,
+      "details": "Index states=28, UTs=8, pincodes=19586"
+    },
+    {
+      "check": "9. Check duplicate office records in raw source",
+      "passed": true,
+      "details": "32 identical rows deduplicated"
+    },
+    {
+      "check": "10. Check missing required postal fields (pincode, state, district, officeName)",
+      "passed": true,
+      "details": "0 records with missing required fields"
+    }
+  ],
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "pincodes": 1264,
+      "postOffices": 10703
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "pincodes": 51,
+      "postOffices": 1170
+    },
+    {
+      "name": "Assam",
+      "pincodes": 578,
+      "postOffices": 4065
+    },
+    {
+      "name": "Bihar",
+      "pincodes": 887,
+      "postOffices": 9365
+    },
+    {
+      "name": "Chhattisgarh",
+      "pincodes": 281,
+      "postOffices": 4770
+    },
+    {
+      "name": "Goa",
+      "pincodes": 89,
+      "postOffices": 261
+    },
+    {
+      "name": "Gujarat",
+      "pincodes": 1018,
+      "postOffices": 8852
+    },
+    {
+      "name": "Haryana",
+      "pincodes": 323,
+      "postOffices": 2717
+    },
+    {
+      "name": "Himachal Pradesh",
+      "pincodes": 439,
+      "postOffices": 2811
+    },
+    {
+      "name": "Jharkhand",
+      "pincodes": 388,
+      "postOffices": 4600
+    },
+    {
+      "name": "Karnataka",
+      "pincodes": 1360,
+      "postOffices": 9670
+    },
+    {
+      "name": "Kerala",
+      "pincodes": 1432,
+      "postOffices": 5062
+    },
+    {
+      "name": "Madhya Pradesh",
+      "pincodes": 787,
+      "postOffices": 10291
+    },
+    {
+      "name": "Maharashtra",
+      "pincodes": 1630,
+      "postOffices": 13810
+    },
+    {
+      "name": "Manipur",
+      "pincodes": 56,
+      "postOffices": 787
+    },
+    {
+      "name": "Meghalaya",
+      "pincodes": 72,
+      "postOffices": 930
+    },
+    {
+      "name": "Mizoram",
+      "pincodes": 44,
+      "postOffices": 461
+    },
+    {
+      "name": "Nagaland",
+      "pincodes": 46,
+      "postOffices": 403
+    },
+    {
+      "name": "Odisha",
+      "pincodes": 943,
+      "postOffices": 8917
+    },
+    {
+      "name": "Punjab",
+      "pincodes": 533,
+      "postOffices": 3799
+    },
+    {
+      "name": "Rajasthan",
+      "pincodes": 1017,
+      "postOffices": 11045
+    },
+    {
+      "name": "Sikkim",
+      "pincodes": 19,
+      "postOffices": 212
+    },
+    {
+      "name": "Tamil Nadu",
+      "pincodes": 2053,
+      "postOffices": 11748
+    },
+    {
+      "name": "Telangana",
+      "pincodes": 713,
+      "postOffices": 6296
+    },
+    {
+      "name": "Tripura",
+      "pincodes": 80,
+      "postOffices": 726
+    },
+    {
+      "name": "Uttar Pradesh",
+      "pincodes": 1672,
+      "postOffices": 17980
+    },
+    {
+      "name": "Uttarakhand",
+      "pincodes": 306,
+      "postOffices": 2747
+    },
+    {
+      "name": "West Bengal",
+      "pincodes": 1135,
+      "postOffices": 8797
+    }
+  ],
+  "unionTerritories": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "pincodes": 22,
+      "postOffices": 100
+    },
+    {
+      "name": "Chandigarh",
+      "pincodes": 23,
+      "postOffices": 53
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "pincodes": 10,
+      "postOffices": 52
+    },
+    {
+      "name": "Delhi",
+      "pincodes": 103,
+      "postOffices": 550
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "pincodes": 213,
+      "postOffices": 1621
+    },
+    {
+      "name": "Ladakh",
+      "pincodes": 14,
+      "postOffices": 119
+    },
+    {
+      "name": "Lakshadweep",
+      "pincodes": 9,
+      "postOffices": 10
+    },
+    {
+      "name": "Puducherry",
+      "pincodes": 33,
+      "postOffices": 95
+    }
+  ]
+}

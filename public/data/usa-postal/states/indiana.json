@@ -1,0 +1,118 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Indiana",
+    "abbreviation": "IN",
+    "fipsCode": "18",
+    "capital": "Indianapolis",
+    "largestCity": "Indianapolis",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "219",
+      "260",
+      "317",
+      "765",
+      "812"
+    ],
+    "prefixes": [
+      "460",
+      "461",
+      "462",
+      "463",
+      "464",
+      "465",
+      "466",
+      "467",
+      "468",
+      "469",
+      "470",
+      "471",
+      "472",
+      "473",
+      "474",
+      "475",
+      "476",
+      "477",
+      "478",
+      "479"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-IN-46204-0",
+      "zip5": "46204",
+      "zip4": "1001",
+      "zipPlus4": "46204-1001",
+      "state": {
+        "nameEn": "Indiana",
+        "abbreviation": "IN",
+        "fipsCode": "18",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Indianapolis",
+      "acceptableCities": [
+        "Indianapolis"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Indianapolis",
+          "status": "Primary"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Marion County",
+          "fipsCode": "18097",
+          "geoid": "18097"
+        }
+      ],
+      "primaryCounty": "Marion County",
+      "zcta": {
+        "code": "46204"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Indianapolis Main Post Office",
+        "address": "125 W South St",
+        "phone": "(317) 464-6000",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 39.7684,
+        "longitude": -86.1581,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "219",
+          "260",
+          "317",
+          "765",
+          "812"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 31,
+        "deliveryPoints": 15600
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-IN-46204",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

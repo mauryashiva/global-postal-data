@@ -1,0 +1,55 @@
+{
+  "prefix": "90",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "90111",
+      "province": {
+        "code": "73",
+        "nameEn": "South Sulawesi",
+        "nameId": "Sulawesi Selatan",
+        "nameNative": "Sulawesi Selatan",
+        "administrativeType": "Province",
+        "specialStatus": null
+      },
+      "kabupatenKota": {
+        "code": "73.71",
+        "nameId": "Kota Makassar",
+        "nameEn": "Makassar",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "73.71.01",
+        "nameId": "Kecamatan Ujung Pandang",
+        "nameEn": "Ujung Pandang District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "73.71.01.1001",
+        "nameId": "Kelurahan Bulo Gading",
+        "nameEn": "Bulo Gading",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Benteng Rotterdam / Pantai Losari",
+        "nameEn": "Fort Rotterdam & Losari Beach Waterfront"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Besar Makassar",
+        "nameEn": "Makassar Main Post Office",
+        "code": "90000",
+        "type": "KPRK",
+        "deliveryStatus": "Central Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-73-90111-73.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

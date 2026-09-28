@@ -1,0 +1,50 @@
+{
+  "prefecture": {
+    "code": "34",
+    "nameEn": "Hiroshima",
+    "nameJa": "広島県",
+    "nameKana": "ヒロシマケン",
+    "nameRomaji": "Hiroshima-ken",
+    "administrativeType": "Ken",
+    "capitalEn": "Hiroshima",
+    "capitalJa": "広島市"
+  },
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "7300000",
+      "postalCodeFormatted": "730-0000",
+      "postalCodeType": "AREA",
+      "prefectureCode": "34",
+      "prefectureNameEn": "Hiroshima",
+      "prefectureNameJa": "広島県",
+      "prefectureNameKana": "ヒロシマケン",
+      "prefectureNameRomaji": "Hiroshima-ken",
+      "administrativeType": "Ken",
+      "municipality": {
+        "jisCode": "34201",
+        "nameEn": "Hiroshima",
+        "nameJa": "広島市",
+        "nameKana": "ヒロシシ",
+        "nameRomaji": "Hiroshima-shi",
+        "administrativeType": "City"
+      },
+      "townArea": {
+        "nameEn": "No town area listed",
+        "nameJa": "以下に掲載がない場合",
+        "nameKana": "イカニケイサイガナイバアイ",
+        "nameRomaji": "Ikanikeisaiganai baai",
+        "type": "NoTownAreaListed",
+        "landmarkEn": "Hiroshima Prefectural Capital Central Area"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": false,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

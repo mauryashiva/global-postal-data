@@ -1,0 +1,100 @@
+{
+  "postcodeArea": "SE",
+  "recordCount": 2,
+  "records": [
+    {
+      "postcode": "SE1 9SG",
+      "postTown": "LONDON",
+      "locality": "Southwark",
+      "dependentLocality": "Bankside",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "London Borough of Southwark",
+      "district": "Southwark",
+      "civilParish": null,
+      "ward": "Borough and Bankside",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5076,
+        "longitude": -0.0994,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SE19SG-01",
+          "buildingName": "Tate Modern",
+          "buildingNumber": null,
+          "subBuildingName": "Bankside Power Station",
+          "thoroughfare": "Bankside",
+          "postTown": "LONDON",
+          "postcode": "SE1 9SG",
+          "fullAddressText": "Tate Modern, Bankside, London SE1 9SG"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SE1 9SG",
+        "outwardCode": "SE1",
+        "inwardCode": "9SG",
+        "postcodeArea": "SE",
+        "postcodeDistrict": "SE1",
+        "postcodeSector": "SE1 9"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SE1-9SG",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    },
+    {
+      "postcode": "SE1 7PB",
+      "postTown": "LONDON",
+      "locality": "Lambeth",
+      "dependentLocality": "Waterloo",
+      "constituentCountry": "England",
+      "constituentCountryCode": "GB-ENG",
+      "region": "London",
+      "ceremonialCounty": "Greater London",
+      "localAuthority": "London Borough of Lambeth",
+      "district": "Lambeth",
+      "civilParish": null,
+      "ward": "Waterloo & South Bank",
+      "isLargeUserPostcode": true,
+      "isPoBox": false,
+      "poBoxNumber": null,
+      "coordinates": {
+        "latitude": 51.5033,
+        "longitude": -0.1195,
+        "coordinateType": "centroid"
+      },
+      "addresses": [
+        {
+          "addressId": "SE17PB-01",
+          "buildingName": "County Hall",
+          "buildingNumber": null,
+          "subBuildingName": "Riverside Building",
+          "thoroughfare": "Westminster Bridge Road",
+          "postTown": "LONDON",
+          "postcode": "SE1 7PB",
+          "fullAddressText": "County Hall, Westminster Bridge Road, London SE1 7PB"
+        }
+      ],
+      "postcodeComponents": {
+        "postcode": "SE1 7PB",
+        "outwardCode": "SE1",
+        "inwardCode": "7PB",
+        "postcodeArea": "SE",
+        "postcodeDistrict": "SE1",
+        "postcodeSector": "SE1 7"
+      },
+      "source": {
+        "sourceName": "Office for National Statistics (NSPL) & Ordnance Survey Code-Point Open",
+        "sourceRecordId": "UK-SE1-7PB",
+        "license": "Open Government Licence v3.0 (OGL v3.0)"
+      }
+    }
+  ]
+}

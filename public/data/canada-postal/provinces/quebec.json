@@ -1,0 +1,488 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Quebec",
+    "nameFr": "Québec",
+    "code": "QC",
+    "isoCode": "CA-QC",
+    "sgcCode": "24",
+    "category": "province"
+  },
+  "recordCount": 9,
+  "postalRecords": [
+    {
+      "postalCode": "H3B 2Y5",
+      "postalCodeNormalized": "H3B2Y5",
+      "fsa": "H3B",
+      "ldu": "2Y5",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Montréal",
+        "postalMunicipality": "Ville de Montréal"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Montréal",
+          "code": "2466",
+          "type": "Territoire équivalent"
+        },
+        "censusSubdivision": {
+          "name": "Montréal",
+          "code": "2466023",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Place Ville Marie Postal Station",
+        "nameFr": "Station postale Place Ville Marie",
+        "station": "Succ Centre-Ville",
+        "type": "Commercial Retail Outlet",
+        "identifier": "QC-MTL-PVM"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-H3B2Y5-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "H3B 1A0",
+      "postalCodeNormalized": "H3B1A0",
+      "fsa": "H3B",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Montréal",
+        "postalMunicipality": "Ville de Montréal"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Montréal",
+          "code": "2466",
+          "type": "Territoire équivalent"
+        },
+        "censusSubdivision": {
+          "name": "Montréal",
+          "code": "2466023",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "General Delivery",
+        "deliveryMode": "General delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": {
+          "isGeneralDelivery": true,
+          "identifier": "Poste restante",
+          "station": "Succursale Centre-Ville"
+        }
+      },
+      "postOffice": {
+        "nameEn": "Montreal General Delivery Facility",
+        "nameFr": "Poste restante de Montréal",
+        "station": "Succ Centre-Ville GD",
+        "type": "General Delivery Outlet",
+        "identifier": "QC-MTL-GD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-H3B1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "H3C 3A9",
+      "postalCodeNormalized": "H3C3A9",
+      "fsa": "H3C",
+      "ldu": "3A9",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Montréal",
+        "postalMunicipality": "Ville de Montréal"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Montréal",
+          "code": "2466",
+          "type": "Territoire équivalent"
+        },
+        "censusSubdivision": {
+          "name": "Montréal",
+          "code": "2466023",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "Postal Box",
+        "deliveryMode": "Postal Box delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": {
+          "isPostalBox": true,
+          "boxNumber": "CP 1000-5000",
+          "station": "Succursale Centre-Ville"
+        },
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Montreal Central Box Facility",
+        "nameFr": "Centre de cases postales Centre-Ville",
+        "station": "Succ Centre-Ville CP",
+        "type": "Box Delivery Facility",
+        "identifier": "QC-MTL-BOX"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-H3C3A9-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "H2Y 1A1",
+      "postalCodeNormalized": "H2Y1A1",
+      "fsa": "H2Y",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Montréal",
+        "postalMunicipality": "Ville de Montréal"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Montréal",
+          "code": "2466",
+          "type": "Territoire équivalent"
+        },
+        "censusSubdivision": {
+          "name": "Montréal",
+          "code": "2466023",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Old Montreal Postal Station",
+        "nameFr": "Station postale Vieux-Montréal",
+        "station": "Succ Saint-Jacques",
+        "type": "Retail Post Office",
+        "identifier": "QC-MTL-OLD"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-H2Y1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "G1R 4P5",
+      "postalCodeNormalized": "G1R4P5",
+      "fsa": "G1R",
+      "ldu": "4P5",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Québec",
+        "postalMunicipality": "Ville de Québec"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Québec",
+          "code": "2423",
+          "type": "Territoire équivalent"
+        },
+        "censusSubdivision": {
+          "name": "Québec",
+          "code": "2423027",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "National Assembly of Quebec / Parliament Building",
+        "nameFr": "Assemblée nationale du Québec / Hôtel du Parlement",
+        "station": "Succ Parlement",
+        "type": "Government Facility",
+        "identifier": "QC-QBC-ASSNAT"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-G1R4P5-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "G0A 4Z0",
+      "postalCodeNormalized": "G0A4Z0",
+      "fsa": "G0A",
+      "ldu": "4Z0",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Courcelette",
+        "postalMunicipality": "Municipalité de Saint-Gabriel-de-Valcartier"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "La Jacques-Cartier",
+          "code": "2422",
+          "type": "Municipalité régionale de comté"
+        },
+        "censusSubdivision": {
+          "name": "Saint-Gabriel-de-Valcartier",
+          "code": "2422025",
+          "type": "Municipalité"
+        }
+      },
+      "delivery": {
+        "type": "Military Mail",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Military",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Canadian Forces Base Valcartier (2nd Canadian Division)",
+        "nameFr": "Base des Forces canadiennes Valcartier",
+        "station": "BFC Valcartier",
+        "type": "Military Post Office",
+        "identifier": "QC-VAL-MIL"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-G0A4Z0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "G0A 1K0",
+      "postalCodeNormalized": "G0A1K0",
+      "fsa": "G0A",
+      "ldu": "1K0",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Boischatel",
+        "postalMunicipality": "Municipalité de Boischatel"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "La Côte-de-Beaupré",
+          "code": "2421",
+          "type": "Municipalité régionale de comté"
+        },
+        "censusSubdivision": {
+          "name": "Boischatel",
+          "code": "2421045",
+          "type": "Municipalité"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Bureau de poste de Boischatel"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Boischatel Post Office",
+        "nameFr": "Bureau de poste de Boischatel",
+        "station": "Succ Boischatel",
+        "type": "Rural Post Office",
+        "identifier": "QC-BSC-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-G0A1K0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "J8Y 3Z4",
+      "postalCodeNormalized": "J8Y3Z4",
+      "fsa": "J8Y",
+      "ldu": "3Z4",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Gatineau",
+        "postalMunicipality": "Ville de Gatineau"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Gatineau",
+          "code": "2481",
+          "type": "Territoire équivalent"
+        },
+        "censusSubdivision": {
+          "name": "Gatineau",
+          "code": "2481017",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Gatineau (Hull Sector) Post Office",
+        "nameFr": "Bureau de poste de Gatineau (secteur Hull)",
+        "station": "Succ Hull",
+        "type": "Retail Post Office",
+        "identifier": "QC-GAT-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-J8Y3Z4-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "J0A 1M0",
+      "postalCodeNormalized": "J0A1M0",
+      "fsa": "J0A",
+      "ldu": "1M0",
+      "provinceTerritory": {
+        "nameEn": "Quebec",
+        "nameFr": "Québec",
+        "code": "QC",
+        "isoCode": "CA-QC",
+        "sgcCode": "24"
+      },
+      "postalGeography": {
+        "postalCity": "Warwick",
+        "postalMunicipality": "Ville de Warwick"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Arthabaska",
+          "code": "2439",
+          "type": "Municipalité régionale de comté"
+        },
+        "censusSubdivision": {
+          "name": "Warwick",
+          "code": "2439077",
+          "type": "Ville"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 2",
+          "station": "Bureau de poste de Warwick"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Warwick Post Office",
+        "nameFr": "Bureau de poste de Warwick",
+        "station": "Succ Warwick",
+        "type": "Rural Post Office",
+        "identifier": "QC-WRW-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-QC-J0A1M0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

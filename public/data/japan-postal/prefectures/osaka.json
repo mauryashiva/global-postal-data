@@ -1,0 +1,89 @@
+{
+  "prefecture": {
+    "code": "27",
+    "nameEn": "Osaka",
+    "nameJa": "大阪府",
+    "nameKana": "オオサカフ",
+    "nameRomaji": "Osaka-fu",
+    "administrativeType": "Fu",
+    "capitalEn": "Osaka",
+    "capitalJa": "大阪市"
+  },
+  "totalRecords": 2,
+  "records": [
+    {
+      "postalCode": "5300001",
+      "postalCodeFormatted": "530-0001",
+      "postalCodeType": "AREA",
+      "prefectureCode": "27",
+      "prefectureNameEn": "Osaka",
+      "prefectureNameJa": "大阪府",
+      "prefectureNameKana": "オオサカフ",
+      "prefectureNameRomaji": "Osaka-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "27127",
+        "nameEn": "Osaka Kita Ward",
+        "nameJa": "大阪市北区",
+        "nameKana": "オオサカシキタク",
+        "nameRomaji": "Osaka-shi Kita-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "大阪市",
+        "parentCityEn": "Osaka City"
+      },
+      "townArea": {
+        "nameEn": "Umeda",
+        "nameJa": "梅田",
+        "nameKana": "ウメダ",
+        "nameRomaji": "Umeda",
+        "type": "NormalTownArea",
+        "landmarkEn": "JR Osaka Station & Umeda Commercial Center"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    },
+    {
+      "postalCode": "5408570",
+      "postalCodeFormatted": "540-8570",
+      "postalCodeType": "AREA",
+      "prefectureCode": "27",
+      "prefectureNameEn": "Osaka",
+      "prefectureNameJa": "大阪府",
+      "prefectureNameKana": "オオサカフ",
+      "prefectureNameRomaji": "Osaka-fu",
+      "administrativeType": "Fu",
+      "municipality": {
+        "jisCode": "27128",
+        "nameEn": "Osaka Chuo Ward",
+        "nameJa": "大阪市中央区",
+        "nameKana": "オオサカシチュウオウク",
+        "nameRomaji": "Osaka-shi Chuo-ku",
+        "administrativeType": "Designated City Ward",
+        "parentCityJa": "大阪市",
+        "parentCityEn": "Osaka City"
+      },
+      "townArea": {
+        "nameEn": "Otemae",
+        "nameJa": "大手前",
+        "nameKana": "オオテマエ",
+        "nameRomaji": "Otemae",
+        "type": "NormalTownArea",
+        "landmarkEn": "Osaka Prefectural Government (大阪府庁) & Osaka Castle"
+      },
+      "flags": {
+        "multiplePostalCodesForTownArea": false,
+        "smallAreaNumbering": false,
+        "hasChome": true,
+        "postalCodeCoversMultipleTownAreas": false
+      },
+      "sourceUpdateFlag": 0,
+      "sourceChangeReason": 0
+    }
+  ]
+}

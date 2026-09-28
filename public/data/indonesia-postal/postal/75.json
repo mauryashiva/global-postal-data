@@ -1,0 +1,104 @@
+{
+  "prefix": "75",
+  "totalRecords": 2,
+  "records": [
+    {
+      "postalCode": "75111",
+      "province": {
+        "code": "64",
+        "nameEn": "East Kalimantan",
+        "nameId": "Kalimantan Timur",
+        "nameNative": "Kalimantan Timur",
+        "administrativeType": "Province",
+        "specialStatus": "National Capital Region (IKN Nusantara location)"
+      },
+      "kabupatenKota": {
+        "code": "64.71",
+        "nameId": "Kota Samarinda",
+        "nameEn": "Samarinda",
+        "administrativeType": "City"
+      },
+      "district": {
+        "code": "64.71.01",
+        "nameId": "Kecamatan Samarinda Kota",
+        "nameEn": "Samarinda Kota District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "64.71.01.1001",
+        "nameId": "Kelurahan Pasar Pagi",
+        "nameEn": "Pasar Pagi",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Tepian Sungai Mahakam / Kantor Gubernur",
+        "nameEn": "Mahakam Riverfront & Provincial Center"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Samarinda",
+        "nameEn": "Samarinda Main Post Office",
+        "code": "75000",
+        "type": "KPRK",
+        "deliveryStatus": "Delivery Office"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-64-75111-64.71.01.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    },
+    {
+      "postalCode": "75571",
+      "province": {
+        "code": "64",
+        "nameEn": "East Kalimantan",
+        "nameId": "Kalimantan Timur",
+        "nameNative": "Kalimantan Timur",
+        "administrativeType": "Province",
+        "specialStatus": "National Capital Region (IKN Nusantara location)"
+      },
+      "kabupatenKota": {
+        "code": "64.09",
+        "nameId": "Kabupaten Penajam Paser Utara",
+        "nameEn": "Penajam Paser Utara Regency",
+        "administrativeType": "Regency"
+      },
+      "district": {
+        "code": "64.09.04",
+        "nameId": "Kecamatan Sepaku",
+        "nameEn": "Sepaku District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "64.09.04.2001",
+        "nameId": "Desa Bumi Harapan",
+        "nameEn": "Bumi Harapan",
+        "administrativeType": "Village"
+      },
+      "locality": {
+        "nameId": "Kawasan Inti Pusat Pemerintahan (KIPP) IKN Nusantara",
+        "nameEn": "IKN Nusantara Government Core"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos IKN Sepaku",
+        "nameEn": "IKN Sepaku Post Office",
+        "code": "75571",
+        "type": "KPC",
+        "deliveryStatus": "Priority Capital Zone Delivery"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-64-75571-64.09.04.2001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "prefix": "11",
+  "totalRecords": 1,
+  "records": [
+    {
+      "postalCode": "11110",
+      "province": {
+        "code": "31",
+        "nameEn": "DKI Jakarta",
+        "nameId": "DKI Jakarta",
+        "nameNative": "Daerah Khusus Ibukota Jakarta",
+        "administrativeType": "Province",
+        "specialStatus": "Special Capital Region (Daerah Khusus)"
+      },
+      "kabupatenKota": {
+        "code": "31.73",
+        "nameId": "Kota Administrasi Jakarta Barat",
+        "nameEn": "West Jakarta",
+        "administrativeType": "Administrative City"
+      },
+      "district": {
+        "code": "31.73.04",
+        "nameId": "Kecamatan Taman Sari",
+        "nameEn": "Taman Sari District",
+        "administrativeType": "District"
+      },
+      "village": {
+        "code": "31.73.04.1001",
+        "nameId": "Kelurahan Pinangsia",
+        "nameEn": "Pinangsia",
+        "administrativeType": "Urban Village"
+      },
+      "locality": {
+        "nameId": "Kota Tua Jakarta / Glodok Commercial Area",
+        "nameEn": "Old Town Jakarta Historic Quarter"
+      },
+      "rt": null,
+      "rw": null,
+      "postOffice": {
+        "nameId": "Kantor Pos Jakarta Kota",
+        "nameEn": "Jakarta Kota Post Office",
+        "code": "11110",
+        "type": "KPRK",
+        "deliveryStatus": "Main Delivery Hub"
+      },
+      "source": {
+        "name": "PT Pos Indonesia & Badan Pusat Statistik (BPS)",
+        "url": "https://kodepos.posindonesia.co.id",
+        "recordId": "ID-31-11110-31.73.04.1001",
+        "retrievedAt": "2026-09-28",
+        "sourceUpdatedAt": "2025-12-31"
+      }
+    }
+  ]
+}

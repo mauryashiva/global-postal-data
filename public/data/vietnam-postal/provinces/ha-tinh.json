@@ -1,0 +1,3689 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Ha Tinh",
+    "nameVi": "Hà Tĩnh",
+    "fullNameEn": "Ha Tinh Province",
+    "fullNameVi": "Tỉnh Hà Tĩnh",
+    "nameSearchNormalized": "ha tinh",
+    "officialCode": "42",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "45, 46",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 69,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "45122",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thanh Sen",
+        "nameVi": "Thành Sen",
+        "fullNameEn": "Thanh Sen Ward",
+        "fullNameVi": "Phường Thành Sen",
+        "nameSearchNormalized": "thanh sen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18073",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thanh Sen Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Thành Sen",
+        "type": "Ward",
+        "code": "45122"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Tran Phu",
+        "nameVi": "Trần Phú",
+        "fullNameEn": "Tran Phu Ward",
+        "fullNameVi": "Phường Trần Phú",
+        "nameSearchNormalized": "tran phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18100",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Tran Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trần Phú",
+        "type": "Ward",
+        "code": "45123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Bac Hong Linh",
+        "nameVi": "Bắc Hồng Lĩnh",
+        "fullNameEn": "Bac Hong Linh Ward",
+        "fullNameVi": "Phường Bắc Hồng Lĩnh",
+        "nameSearchNormalized": "bac hong linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18115",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Bac Hong Linh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Bắc Hồng Lĩnh",
+        "type": "Ward",
+        "code": "45612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Lĩnh",
+        "districtFullName": "Thị xã Hồng Lĩnh",
+        "districtNameEn": "Hong Linh",
+        "districtCode": "437",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45613",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Nam Hong Linh",
+        "nameVi": "Nam Hồng Lĩnh",
+        "fullNameEn": "Nam Hong Linh Ward",
+        "fullNameVi": "Phường Nam Hồng Lĩnh",
+        "nameSearchNormalized": "nam hong linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18118",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Nam Hong Linh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Nam Hồng Lĩnh",
+        "type": "Ward",
+        "code": "45613"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hồng Lĩnh",
+        "districtFullName": "Thị xã Hồng Lĩnh",
+        "districtNameEn": "Hong Linh",
+        "districtCode": "437",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45838",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Huong Son",
+        "nameVi": "Hương Sơn",
+        "fullNameEn": "Huong Son Commune",
+        "fullNameVi": "Xã Hương Sơn",
+        "nameSearchNormalized": "huong son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18133",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Huong Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hương Sơn",
+        "type": "Commune",
+        "code": "45838"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45835",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Son Hong",
+        "nameVi": "Sơn Hồng",
+        "fullNameEn": "Son Hong Commune",
+        "fullNameVi": "Xã Sơn Hồng",
+        "nameSearchNormalized": "son hong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18160",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Son Hong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Hồng",
+        "type": "Commune",
+        "code": "45835"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45820",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Son Tien",
+        "nameVi": "Sơn Tiến",
+        "fullNameEn": "Son Tien Commune",
+        "fullNameVi": "Xã Sơn Tiến",
+        "nameSearchNormalized": "son tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18163",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Son Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Tiến",
+        "type": "Commune",
+        "code": "45820"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45833",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Son Tay",
+        "nameVi": "Sơn Tây",
+        "fullNameEn": "Son Tay Commune",
+        "fullNameVi": "Xã Sơn Tây",
+        "nameSearchNormalized": "son tay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18172",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Son Tay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Tây",
+        "type": "Commune",
+        "code": "45833"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45822",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Son Giang",
+        "nameVi": "Sơn Giang",
+        "fullNameEn": "Son Giang Commune",
+        "fullNameVi": "Xã Sơn Giang",
+        "nameSearchNormalized": "son giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18184",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Son Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Giang",
+        "type": "Commune",
+        "code": "45822"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45836",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Son Kim 1",
+        "nameVi": "Sơn Kim 1",
+        "fullNameEn": "Commune Son Kim 1",
+        "fullNameVi": "Xã Sơn Kim 1",
+        "nameSearchNormalized": "son kim 1",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18196",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Son Kim 1 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Kim 1",
+        "type": "Commune",
+        "code": "45836"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45837",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Son Kim 2",
+        "nameVi": "Sơn Kim 2",
+        "fullNameEn": "Commune Son Kim 2",
+        "fullNameVi": "Xã Sơn Kim 2",
+        "nameSearchNormalized": "son kim 2",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18199",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Son Kim 2 Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Kim 2",
+        "type": "Commune",
+        "code": "45837"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45839",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Tu My",
+        "nameVi": "Tứ Mỹ",
+        "fullNameEn": "Tu My Commune",
+        "fullNameVi": "Xã Tứ Mỹ",
+        "nameSearchNormalized": "tu my",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18202",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Tu My Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tứ Mỹ",
+        "type": "Commune",
+        "code": "45839"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45829",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Kim Hoa",
+        "nameVi": "Kim Hoa",
+        "fullNameEn": "Kim Hoa Commune",
+        "fullNameVi": "Xã Kim Hoa",
+        "nameSearchNormalized": "kim hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18223",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Kim Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kim Hoa",
+        "type": "Commune",
+        "code": "45829"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Sơn",
+        "districtFullName": "Huyện Hương Sơn",
+        "districtNameEn": "Huong Son",
+        "districtCode": "439",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Duc Tho",
+        "nameVi": "Đức Thọ",
+        "fullNameEn": "Duc Tho Commune",
+        "fullNameVi": "Xã Đức Thọ",
+        "nameSearchNormalized": "duc tho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18229",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Duc Tho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Thọ",
+        "type": "Commune",
+        "code": "45706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Thọ",
+        "districtFullName": "Huyện Đức Thọ",
+        "districtNameEn": "Duc Tho",
+        "districtCode": "440",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45736",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Duc Minh",
+        "nameVi": "Đức Minh",
+        "fullNameEn": "Duc Minh Commune",
+        "fullNameVi": "Xã Đức Minh",
+        "nameSearchNormalized": "duc minh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18244",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Duc Minh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Minh",
+        "type": "Commune",
+        "code": "45736"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Thọ",
+        "districtFullName": "Huyện Đức Thọ",
+        "districtNameEn": "Duc Tho",
+        "districtCode": "440",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45734",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Duc Quang",
+        "nameVi": "Đức Quang",
+        "fullNameEn": "Duc Quang Commune",
+        "fullNameVi": "Xã Đức Quang",
+        "nameSearchNormalized": "duc quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18262",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Duc Quang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Quang",
+        "type": "Commune",
+        "code": "45734"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Thọ",
+        "districtFullName": "Huyện Đức Thọ",
+        "districtNameEn": "Duc Tho",
+        "districtCode": "440",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45735",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Duc Thinh",
+        "nameVi": "Đức Thịnh",
+        "fullNameEn": "Duc Thinh Commune",
+        "fullNameVi": "Xã Đức Thịnh",
+        "nameSearchNormalized": "duc thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18277",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Duc Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Thịnh",
+        "type": "Commune",
+        "code": "45735"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Thọ",
+        "districtFullName": "Huyện Đức Thọ",
+        "districtNameEn": "Duc Tho",
+        "districtCode": "440",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45731",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Duc Dong",
+        "nameVi": "Đức Đồng",
+        "fullNameEn": "Duc Dong Commune",
+        "fullNameVi": "Xã Đức Đồng",
+        "nameSearchNormalized": "duc dong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18304",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Duc Dong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đức Đồng",
+        "type": "Commune",
+        "code": "45731"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Đức Thọ",
+        "districtFullName": "Huyện Đức Thọ",
+        "districtNameEn": "Duc Tho",
+        "districtCode": "440",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45906",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Vu Quang",
+        "nameVi": "Vũ Quang",
+        "fullNameEn": "Vu Quang Commune",
+        "fullNameVi": "Xã Vũ Quang",
+        "nameSearchNormalized": "vu quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18313",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Vu Quang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Vũ Quang",
+        "type": "Commune",
+        "code": "45906"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vũ Quang",
+        "districtFullName": "Huyện Vũ Quang",
+        "districtNameEn": "Vu Quang",
+        "districtCode": "441",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45918",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Mai Hoa",
+        "nameVi": "Mai Hoa",
+        "fullNameEn": "Mai Hoa Commune",
+        "fullNameVi": "Xã Mai Hoa",
+        "nameSearchNormalized": "mai hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18322",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Mai Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mai Hoa",
+        "type": "Commune",
+        "code": "45918"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vũ Quang",
+        "districtFullName": "Huyện Vũ Quang",
+        "districtNameEn": "Vu Quang",
+        "districtCode": "441",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45919",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thuong Duc",
+        "nameVi": "Thượng Đức",
+        "fullNameEn": "Thuong Duc Commune",
+        "fullNameVi": "Xã Thượng Đức",
+        "nameSearchNormalized": "thuong duc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18328",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Duc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thượng Đức",
+        "type": "Commune",
+        "code": "45919"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Vũ Quang",
+        "districtFullName": "Huyện Vũ Quang",
+        "districtNameEn": "Vu Quang",
+        "districtCode": "441",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45525",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Nghi Xuan",
+        "nameVi": "Nghi Xuân",
+        "fullNameEn": "Nghi Xuan Commune",
+        "fullNameVi": "Xã Nghi Xuân",
+        "nameSearchNormalized": "nghi xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18352",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Nghi Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghi Xuân",
+        "type": "Commune",
+        "code": "45525"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghi Xuân",
+        "districtFullName": "Huyện Nghi Xuân",
+        "districtNameEn": "Nghi Xuan",
+        "districtCode": "442",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45526",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Dan Hai",
+        "nameVi": "Đan Hải",
+        "fullNameEn": "Dan Hai Commune",
+        "fullNameVi": "Xã Đan Hải",
+        "nameSearchNormalized": "dan hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18364",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Dan Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đan Hải",
+        "type": "Commune",
+        "code": "45526"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghi Xuân",
+        "districtFullName": "Huyện Nghi Xuân",
+        "districtNameEn": "Nghi Xuan",
+        "districtCode": "442",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Tien Dien",
+        "nameVi": "Tiên Điền",
+        "fullNameEn": "Tien Dien Commune",
+        "fullNameVi": "Xã Tiên Điền",
+        "nameSearchNormalized": "tien dien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18373",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Tien Dien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tiên Điền",
+        "type": "Commune",
+        "code": "45506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghi Xuân",
+        "districtFullName": "Huyện Nghi Xuân",
+        "districtNameEn": "Nghi Xuan",
+        "districtCode": "442",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45519",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Co Dam",
+        "nameVi": "Cổ Đạm",
+        "fullNameEn": "Co Dam Commune",
+        "fullNameVi": "Xã Cổ Đạm",
+        "nameSearchNormalized": "co dam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18394",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Co Dam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cổ Đạm",
+        "type": "Commune",
+        "code": "45519"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghi Xuân",
+        "districtFullName": "Huyện Nghi Xuân",
+        "districtNameEn": "Nghi Xuan",
+        "districtCode": "442",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45329",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Can Loc",
+        "nameVi": "Can Lộc",
+        "fullNameEn": "Can Loc Commune",
+        "fullNameVi": "Xã Can Lộc",
+        "nameSearchNormalized": "can loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18406",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Can Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Can Lộc",
+        "type": "Commune",
+        "code": "45329"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Can Lộc",
+        "districtFullName": "Huyện Can Lộc",
+        "districtNameEn": "Can Loc",
+        "districtCode": "443",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Hong Loc",
+        "nameVi": "Hồng Lộc",
+        "fullNameEn": "Hong Loc Commune",
+        "fullNameVi": "Xã Hồng Lộc",
+        "nameSearchNormalized": "hong loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18409",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Hong Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hồng Lộc",
+        "type": "Commune",
+        "code": "45410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45310",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Tung Loc",
+        "nameVi": "Tùng Lộc",
+        "fullNameEn": "Tung Loc Commune",
+        "fullNameVi": "Xã Tùng Lộc",
+        "nameSearchNormalized": "tung loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18418",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Tung Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tùng Lộc",
+        "type": "Commune",
+        "code": "45310"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Can Lộc",
+        "districtFullName": "Huyện Can Lộc",
+        "districtNameEn": "Can Loc",
+        "districtCode": "443",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45330",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Truong Luu",
+        "nameVi": "Trường Lưu",
+        "fullNameEn": "Truong Luu Commune",
+        "fullNameVi": "Xã Trường Lưu",
+        "nameSearchNormalized": "truong luu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18436",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Truong Luu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trường Lưu",
+        "type": "Commune",
+        "code": "45330"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Can Lộc",
+        "districtFullName": "Huyện Can Lộc",
+        "districtNameEn": "Can Loc",
+        "districtCode": "443",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45321",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Gia Hanh",
+        "nameVi": "Gia Hanh",
+        "fullNameEn": "Gia Hanh Commune",
+        "fullNameVi": "Xã Gia Hanh",
+        "nameSearchNormalized": "gia hanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18466",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Gia Hanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gia Hanh",
+        "type": "Commune",
+        "code": "45321"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Can Lộc",
+        "districtFullName": "Huyện Can Lộc",
+        "districtNameEn": "Can Loc",
+        "districtCode": "443",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45324",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Xuan Loc",
+        "nameVi": "Xuân Lộc",
+        "fullNameEn": "Xuan Loc Commune",
+        "fullNameVi": "Xã Xuân Lộc",
+        "nameSearchNormalized": "xuan loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18481",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Lộc",
+        "type": "Commune",
+        "code": "45324"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Can Lộc",
+        "districtFullName": "Huyện Can Lộc",
+        "districtNameEn": "Can Loc",
+        "districtCode": "443",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45325",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Dong Loc",
+        "nameVi": "Đồng Lộc",
+        "fullNameEn": "Dong Loc Commune",
+        "fullNameVi": "Xã Đồng Lộc",
+        "nameSearchNormalized": "dong loc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18484",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Dong Loc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Lộc",
+        "type": "Commune",
+        "code": "45325"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Can Lộc",
+        "districtFullName": "Huyện Can Lộc",
+        "districtNameEn": "Can Loc",
+        "districtCode": "443",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46006",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Huong Khe",
+        "nameVi": "Hương Khê",
+        "fullNameEn": "Huong Khe Commune",
+        "fullNameVi": "Xã Hương Khê",
+        "nameSearchNormalized": "huong khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18496",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Huong Khe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hương Khê",
+        "type": "Commune",
+        "code": "46006"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46011",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ha Linh",
+        "nameVi": "Hà Linh",
+        "fullNameEn": "Ha Linh Commune",
+        "fullNameVi": "Xã Hà Linh",
+        "nameSearchNormalized": "ha linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18502",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ha Linh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hà Linh",
+        "type": "Commune",
+        "code": "46011"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46016",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Huong Binh",
+        "nameVi": "Hương Bình",
+        "fullNameEn": "Huong Binh Commune",
+        "fullNameVi": "Xã Hương Bình",
+        "nameSearchNormalized": "huong binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18523",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Huong Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hương Bình",
+        "type": "Commune",
+        "code": "46016"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46028",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Huong Pho",
+        "nameVi": "Hương Phố",
+        "fullNameEn": "Huong Pho Commune",
+        "fullNameVi": "Xã Hương Phố",
+        "nameSearchNormalized": "huong pho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18532",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Huong Pho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hương Phố",
+        "type": "Commune",
+        "code": "46028"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46022",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Huong Xuan",
+        "nameVi": "Hương Xuân",
+        "fullNameEn": "Huong Xuan Commune",
+        "fullNameVi": "Xã Hương Xuân",
+        "nameSearchNormalized": "huong xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18544",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Huong Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hương Xuân",
+        "type": "Commune",
+        "code": "46022"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46026",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Phuc Trach",
+        "nameVi": "Phúc Trạch",
+        "fullNameEn": "Phuc Trach Commune",
+        "fullNameVi": "Xã Phúc Trạch",
+        "nameSearchNormalized": "phuc trach",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18547",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Phuc Trach Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phúc Trạch",
+        "type": "Commune",
+        "code": "46026"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46007",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Huong Do",
+        "nameVi": "Hương Đô",
+        "fullNameEn": "Huong Do Commune",
+        "fullNameVi": "Xã Hương Đô",
+        "nameSearchNormalized": "huong do",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18550",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Huong Do Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hương Đô",
+        "type": "Commune",
+        "code": "46007"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hương Khê",
+        "districtFullName": "Huyện Hương Khê",
+        "districtNameEn": "Huong Khe",
+        "districtCode": "444",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thach Ha",
+        "nameVi": "Thạch Hà",
+        "fullNameEn": "Thach Ha Commune",
+        "fullNameVi": "Xã Thạch Hà",
+        "nameSearchNormalized": "thach ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18562",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thach Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạch Hà",
+        "type": "Commune",
+        "code": "45206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45413",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Loc Ha",
+        "nameVi": "Lộc Hà",
+        "fullNameEn": "Loc Ha Commune",
+        "fullNameVi": "Xã Lộc Hà",
+        "nameSearchNormalized": "loc ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18568",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Loc Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lộc Hà",
+        "type": "Commune",
+        "code": "45413"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Mai Phu",
+        "nameVi": "Mai Phụ",
+        "fullNameEn": "Mai Phu Commune",
+        "fullNameVi": "Xã Mai Phụ",
+        "nameSearchNormalized": "mai phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18583",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Mai Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mai Phụ",
+        "type": "Commune",
+        "code": "45417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45239",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Dong Kinh",
+        "nameVi": "Đông Kinh",
+        "fullNameEn": "Dong Kinh Commune",
+        "fullNameVi": "Xã Đông Kinh",
+        "nameSearchNormalized": "dong kinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18586",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Dong Kinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Kinh",
+        "type": "Commune",
+        "code": "45239"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45238",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Viet Xuyen",
+        "nameVi": "Việt Xuyên",
+        "fullNameEn": "Viet Xuyen Commune",
+        "fullNameVi": "Xã Việt Xuyên",
+        "nameSearchNormalized": "viet xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18601",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Viet Xuyen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Việt Xuyên",
+        "type": "Commune",
+        "code": "45238"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45211",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thach Khe",
+        "nameVi": "Thạch Khê",
+        "fullNameEn": "Thach Khe Commune",
+        "fullNameVi": "Xã Thạch Khê",
+        "nameSearchNormalized": "thach khe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18604",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thach Khe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạch Khê",
+        "type": "Commune",
+        "code": "45211"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45125",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Dong Tien",
+        "nameVi": "Đồng Tiến",
+        "fullNameEn": "Dong Tien Commune",
+        "fullNameVi": "Xã Đồng Tiến",
+        "nameSearchNormalized": "dong tien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18619",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Dong Tien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đồng Tiến",
+        "type": "Commune",
+        "code": "45125"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45213",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thach Lac",
+        "nameVi": "Thạch Lạc",
+        "fullNameEn": "Thach Lac Commune",
+        "fullNameVi": "Xã Thạch Lạc",
+        "nameSearchNormalized": "thach lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18628",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thach Lac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạch Lạc",
+        "type": "Commune",
+        "code": "45213"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45237",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Toan Luu",
+        "nameVi": "Toàn Lưu",
+        "fullNameEn": "Toan Luu Commune",
+        "fullNameVi": "Xã Toàn Lưu",
+        "nameSearchNormalized": "toan luu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18634",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Toan Luu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Toàn Lưu",
+        "type": "Commune",
+        "code": "45237"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45124",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ha Huy Tap",
+        "nameVi": "Hà Huy Tập",
+        "fullNameEn": "Ha Huy Tap Ward",
+        "fullNameVi": "Phường Hà Huy Tập",
+        "nameSearchNormalized": "ha huy tap",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18652",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ha Huy Tap Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hà Huy Tập",
+        "type": "Ward",
+        "code": "45124"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "45234",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thach Xuan",
+        "nameVi": "Thạch Xuân",
+        "fullNameEn": "Thach Xuan Commune",
+        "fullNameVi": "Xã Thạch Xuân",
+        "nameSearchNormalized": "thach xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18667",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thach Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thạch Xuân",
+        "type": "Commune",
+        "code": "45234"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Thạch Hà",
+        "districtFullName": "Huyện Thạch Hà",
+        "districtNameEn": "Thach Ha",
+        "districtCode": "445",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46106",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Cam Xuyen",
+        "nameVi": "Cẩm Xuyên",
+        "fullNameEn": "Cam Xuyen Commune",
+        "fullNameVi": "Xã Cẩm Xuyên",
+        "nameSearchNormalized": "cam xuyen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18673",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Cam Xuyen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Xuyên",
+        "type": "Commune",
+        "code": "46106"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46109",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Thien Cam",
+        "nameVi": "Thiên Cầm",
+        "fullNameEn": "Thien Cam Commune",
+        "fullNameVi": "Xã Thiên Cầm",
+        "nameSearchNormalized": "thien cam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18676",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Thien Cam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thiên Cầm",
+        "type": "Commune",
+        "code": "46109"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Yen Hoa",
+        "nameVi": "Yên Hoà",
+        "fullNameEn": "Yen Hoa Commune",
+        "fullNameVi": "Xã Yên Hoà",
+        "nameSearchNormalized": "yen hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18682",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Yen Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Hoà",
+        "type": "Commune",
+        "code": "46112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46117",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Cam Binh",
+        "nameVi": "Cẩm Bình",
+        "fullNameEn": "Cam Binh Commune",
+        "fullNameVi": "Xã Cẩm Bình",
+        "nameSearchNormalized": "cam binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18685",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Cam Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Bình",
+        "type": "Commune",
+        "code": "46117"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Hà Tĩnh",
+        "districtFullName": "Thành phố Hà Tĩnh",
+        "districtNameEn": "Ha Tinh",
+        "districtCode": "436",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46124",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Cam Hung",
+        "nameVi": "Cẩm Hưng",
+        "fullNameEn": "Cam Hung Commune",
+        "fullNameVi": "Xã Cẩm Hưng",
+        "nameSearchNormalized": "cam hung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18736",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Cam Hung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Hưng",
+        "type": "Commune",
+        "code": "46124"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46120",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Cam Due",
+        "nameVi": "Cẩm Duệ",
+        "fullNameEn": "Cam Due Commune",
+        "fullNameVi": "Xã Cẩm Duệ",
+        "nameSearchNormalized": "cam due",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18739",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Cam Due Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Duệ",
+        "type": "Commune",
+        "code": "46120"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46131",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Cam Trung",
+        "nameVi": "Cẩm Trung",
+        "fullNameEn": "Cam Trung Commune",
+        "fullNameVi": "Xã Cẩm Trung",
+        "nameSearchNormalized": "cam trung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18742",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Cam Trung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Trung",
+        "type": "Commune",
+        "code": "46131"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46127",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Cam Lac",
+        "nameVi": "Cẩm Lạc",
+        "fullNameEn": "Cam Lac Commune",
+        "fullNameVi": "Xã Cẩm Lạc",
+        "nameSearchNormalized": "cam lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18748",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Cam Lac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cẩm Lạc",
+        "type": "Commune",
+        "code": "46127"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Cẩm Xuyên",
+        "districtFullName": "Huyện Cẩm Xuyên",
+        "districtNameEn": "Cam Xuyen",
+        "districtCode": "446",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46218",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Song Tri",
+        "nameVi": "Sông Trí",
+        "fullNameEn": "Song Tri Ward",
+        "fullNameVi": "Phường Sông Trí",
+        "nameSearchNormalized": "song tri",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18754",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Song Tri Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sông Trí",
+        "type": "Ward",
+        "code": "46218"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Thị xã Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "449",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Xuan",
+        "nameVi": "Kỳ Xuân",
+        "fullNameEn": "Ky Xuan Commune",
+        "fullNameVi": "Xã Kỳ Xuân",
+        "nameSearchNormalized": "ky xuan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18766",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Xuan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Xuân",
+        "type": "Commune",
+        "code": "46308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46327",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Anh",
+        "nameVi": "Kỳ Anh",
+        "fullNameEn": "Ky Anh Commune",
+        "fullNameVi": "Xã Kỳ Anh",
+        "nameSearchNormalized": "ky anh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18775",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Anh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Anh",
+        "type": "Commune",
+        "code": "46327"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46219",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Hai Ninh",
+        "nameVi": "Hải Ninh",
+        "fullNameEn": "Hai Ninh Ward",
+        "fullNameVi": "Phường Hải Ninh",
+        "nameSearchNormalized": "hai ninh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18781",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Hai Ninh Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hải Ninh",
+        "type": "Ward",
+        "code": "46219"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Thị xã Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "449",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46315",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Van",
+        "nameVi": "Kỳ Văn",
+        "fullNameEn": "Ky Van Commune",
+        "fullNameVi": "Xã Kỳ Văn",
+        "nameSearchNormalized": "ky van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18787",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Van Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Văn",
+        "type": "Commune",
+        "code": "46315"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46313",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Khang",
+        "nameVi": "Kỳ Khang",
+        "fullNameEn": "Ky Khang Commune",
+        "fullNameVi": "Xã Kỳ Khang",
+        "nameSearchNormalized": "ky khang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18790",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Khang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Khang",
+        "type": "Commune",
+        "code": "46313"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46217",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Hoa",
+        "nameVi": "Kỳ Hoa",
+        "fullNameEn": "Ky Hoa Commune",
+        "fullNameVi": "Xã Kỳ Hoa",
+        "nameSearchNormalized": "ky hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18814",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Hoa",
+        "type": "Commune",
+        "code": "46217"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46221",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Vung Ang",
+        "nameVi": "Vũng Áng",
+        "fullNameEn": "Vung Ang Ward",
+        "fullNameVi": "Phường Vũng Áng",
+        "nameSearchNormalized": "vung ang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18823",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Vung Ang Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Vũng Áng",
+        "type": "Ward",
+        "code": "46221"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Thị xã Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "449",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46220",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Hoanh Son",
+        "nameVi": "Hoành Sơn",
+        "fullNameEn": "Hoanh Son Ward",
+        "fullNameVi": "Phường Hoành Sơn",
+        "nameSearchNormalized": "hoanh son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "18832",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Hoanh Son Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Hoành Sơn",
+        "type": "Ward",
+        "code": "46220"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Thị xã Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "449",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46326",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Lac",
+        "nameVi": "Kỳ Lạc",
+        "fullNameEn": "Ky Lac Commune",
+        "fullNameVi": "Xã Kỳ Lạc",
+        "nameSearchNormalized": "ky lac",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18838",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Lac Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Lạc",
+        "type": "Commune",
+        "code": "46326"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "46323",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Ha Tinh",
+        "nameVi": "Hà Tĩnh",
+        "fullNameEn": "Ha Tinh Province",
+        "fullNameVi": "Tỉnh Hà Tĩnh",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "42"
+      },
+      "commune": {
+        "nameEn": "Ky Thuong",
+        "nameVi": "Kỳ Thượng",
+        "fullNameEn": "Ky Thuong Commune",
+        "fullNameVi": "Xã Kỳ Thượng",
+        "nameSearchNormalized": "ky thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "18844",
+        "provinceCode": "42"
+      },
+      "postalObject": {
+        "nameEn": "Ky Thuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Kỳ Thượng",
+        "type": "Commune",
+        "code": "46323"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Kỳ Anh",
+        "districtFullName": "Huyện Kỳ Anh",
+        "districtNameEn": "Ky Anh",
+        "districtCode": "447",
+        "legacyProvinceName": "Hà Tĩnh",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

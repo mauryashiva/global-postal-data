@@ -1,0 +1,107 @@
+{
+  "country": "United States",
+  "countryOfficialEn": "United States of America",
+  "division": {
+    "nameEn": "Utah",
+    "abbreviation": "UT",
+    "fipsCode": "49",
+    "capital": "Salt Lake City",
+    "largestCity": "Salt Lake City",
+    "category": "states",
+    "administrativeType": "State",
+    "areaCodes": [
+      "385",
+      "435",
+      "801"
+    ],
+    "prefixes": [
+      "840",
+      "841",
+      "842",
+      "843",
+      "844",
+      "845",
+      "846",
+      "847"
+    ]
+  },
+  "statistics": {
+    "uniqueZip5": 1,
+    "uniqueZipPlus4": 1,
+    "totalRecords": 1,
+    "countiesCount": 1
+  },
+  "records": [
+    {
+      "id": "US-UT-84101-0",
+      "zip5": "84101",
+      "zip4": "1001",
+      "zipPlus4": "84101-1001",
+      "state": {
+        "nameEn": "Utah",
+        "abbreviation": "UT",
+        "fipsCode": "49",
+        "administrativeType": "State",
+        "category": "states"
+      },
+      "primaryCity": "Salt Lake City",
+      "acceptableCities": [
+        "Salt Lake City",
+        "SLC"
+      ],
+      "postalCityNames": [
+        {
+          "name": "Salt Lake City",
+          "status": "Primary"
+        },
+        {
+          "name": "SLC",
+          "status": "Acceptable"
+        }
+      ],
+      "counties": [
+        {
+          "name": "Salt Lake County",
+          "fipsCode": "49035",
+          "geoid": "49035"
+        }
+      ],
+      "primaryCounty": "Salt Lake County",
+      "zcta": {
+        "code": "84101"
+      },
+      "zipType": "STANDARD",
+      "militaryOffice": null,
+      "postOffice": {
+        "name": "Salt Lake City Main Post Office",
+        "address": "1760 W 2100 S",
+        "phone": "(801) 974-2200",
+        "type": "Main Post Office"
+      },
+      "coordinates": {
+        "latitude": 40.7608,
+        "longitude": -111.891,
+        "type": "centroid"
+      },
+      "telephone": {
+        "countryCode": "+1",
+        "areaCodes": [
+          "385",
+          "435",
+          "801"
+        ]
+      },
+      "deliveryInfo": {
+        "carrierRoutes": 31,
+        "deliveryPoints": 15800
+      },
+      "source": {
+        "name": "USPS AIS (Five-Digit ZIP & City State Products) & U.S. Census Bureau (2026 Gazetteer)",
+        "url": "https://postalpro.usps.com/address-quality/five-digit-zip",
+        "recordId": "USPS-CENSUS-UT-84101",
+        "sourceUpdatedAt": "2026-01-15",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

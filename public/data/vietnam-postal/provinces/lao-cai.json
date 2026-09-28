@@ -1,0 +1,5279 @@
+{
+  "country": {
+    "nameEn": "Vietnam",
+    "nameOfficialEn": "Viet Nam",
+    "nameVi": "Việt Nam",
+    "isoAlpha2": "VN",
+    "isoAlpha3": "VNM",
+    "isoNumeric": "704",
+    "phoneCode": "+84",
+    "flag": "🇻🇳"
+  },
+  "unitMetadata": {
+    "administrativeLevel": "Provincial",
+    "administrativeType": "Province",
+    "nameEn": "Lao Cai",
+    "nameVi": "Lào Cai",
+    "fullNameEn": "Lao Cai Province",
+    "fullNameVi": "Tỉnh Lào Cai",
+    "nameSearchNormalized": "lao cai",
+    "officialCode": "15",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "postalCodePrefix": "31, 33",
+    "isCentrallyGovernedCity": false
+  },
+  "statistics": {
+    "totalCommunes": 99,
+    "specialPostalObjects": 0
+  },
+  "postalRecords": [
+    {
+      "postalCode": "31109",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Ward",
+        "fullNameVi": "Phường Lào Cai",
+        "nameSearchNormalized": "lao cai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "02647",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Lao Cai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Lào Cai",
+        "type": "Ward",
+        "code": "31109"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lào Cai",
+        "districtFullName": "Thành phố Lào Cai",
+        "districtNameEn": "Lao Cai",
+        "districtCode": "080",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31116",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Cam Duong",
+        "nameVi": "Cam Đường",
+        "fullNameEn": "Cam Duong Ward",
+        "fullNameVi": "Phường Cam Đường",
+        "nameSearchNormalized": "cam duong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "02671",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Cam Duong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cam Đường",
+        "type": "Ward",
+        "code": "31116"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lào Cai",
+        "districtFullName": "Thành phố Lào Cai",
+        "districtNameEn": "Lao Cai",
+        "districtCode": "080",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31115",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Hop Thanh",
+        "nameVi": "Hợp Thành",
+        "fullNameEn": "Hop Thanh Commune",
+        "fullNameVi": "Xã Hợp Thành",
+        "nameSearchNormalized": "hop thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02680",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Hop Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hợp Thành",
+        "type": "Commune",
+        "code": "31115"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lào Cai",
+        "districtFullName": "Thành phố Lào Cai",
+        "districtNameEn": "Lao Cai",
+        "districtCode": "080",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31606",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bat Xat",
+        "nameVi": "Bát Xát",
+        "fullNameEn": "Bat Xat Commune",
+        "fullNameVi": "Xã Bát Xát",
+        "nameSearchNormalized": "bat xat",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02683",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bat Xat Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bát Xát",
+        "type": "Commune",
+        "code": "31606"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31612",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "A Mu Sung",
+        "nameVi": "A Mú Sung",
+        "fullNameEn": "A Mu Sung Commune",
+        "fullNameVi": "Xã A Mú Sung",
+        "nameSearchNormalized": "a mu sung",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02686",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "A Mu Sung Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã A Mú Sung",
+        "type": "Commune",
+        "code": "31612"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31610",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Trinh Tuong",
+        "nameVi": "Trịnh Tường",
+        "fullNameEn": "Trinh Tuong Commune",
+        "fullNameVi": "Xã Trịnh Tường",
+        "nameSearchNormalized": "trinh tuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02695",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Trinh Tuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trịnh Tường",
+        "type": "Commune",
+        "code": "31610"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Y Ty",
+        "nameVi": "Y Tý",
+        "fullNameEn": "Y Ty Commune",
+        "fullNameVi": "Xã Y Tý",
+        "nameSearchNormalized": "y ty",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02701",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Y Ty Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Y Tý",
+        "type": "Commune",
+        "code": "31615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Den Sang",
+        "nameVi": "Dền Sáng",
+        "fullNameEn": "Den Sang Commune",
+        "fullNameVi": "Xã Dền Sáng",
+        "nameSearchNormalized": "den sang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02707",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Den Sang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dền Sáng",
+        "type": "Commune",
+        "code": "31616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31622",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ban Xeo",
+        "nameVi": "Bản Xèo",
+        "fullNameEn": "Ban Xeo Commune",
+        "fullNameVi": "Xã Bản Xèo",
+        "nameSearchNormalized": "ban xeo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02725",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ban Xeo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bản Xèo",
+        "type": "Commune",
+        "code": "31622"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31619",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Muong Hum",
+        "nameVi": "Mường Hum",
+        "fullNameEn": "Muong Hum Commune",
+        "fullNameVi": "Xã Mường Hum",
+        "nameSearchNormalized": "muong hum",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02728",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Muong Hum Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Hum",
+        "type": "Commune",
+        "code": "31619"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bát Xát",
+        "districtFullName": "Huyện Bát Xát",
+        "districtNameEn": "Bat Xat",
+        "districtCode": "082",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Coc San",
+        "nameVi": "Cốc San",
+        "fullNameEn": "Coc San Commune",
+        "fullNameVi": "Xã Cốc San",
+        "nameSearchNormalized": "coc san",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02746",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Coc San Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cốc San",
+        "type": "Commune",
+        "code": "31123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lào Cai",
+        "districtFullName": "Thành phố Lào Cai",
+        "districtNameEn": "Lao Cai",
+        "districtCode": "080",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31509",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Pha Long",
+        "nameVi": "Pha Long",
+        "fullNameEn": "Pha Long Commune",
+        "fullNameVi": "Xã Pha Long",
+        "nameSearchNormalized": "pha long",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02752",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Pha Long Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Pha Long",
+        "type": "Commune",
+        "code": "31509"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Khương",
+        "districtFullName": "Huyện Mường Khương",
+        "districtNameEn": "Muong Khuong",
+        "districtCode": "083",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Muong Khuong",
+        "nameVi": "Mường Khương",
+        "fullNameEn": "Muong Khuong Commune",
+        "fullNameVi": "Xã Mường Khương",
+        "nameSearchNormalized": "muong khuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02761",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Muong Khuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Khương",
+        "type": "Commune",
+        "code": "31506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Khương",
+        "districtFullName": "Huyện Mường Khương",
+        "districtNameEn": "Muong Khuong",
+        "districtCode": "083",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31517",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Cao Son",
+        "nameVi": "Cao Sơn",
+        "fullNameEn": "Cao Son Commune",
+        "fullNameVi": "Xã Cao Sơn",
+        "nameSearchNormalized": "cao son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02782",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Cao Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cao Sơn",
+        "type": "Commune",
+        "code": "31517"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Khương",
+        "districtFullName": "Huyện Mường Khương",
+        "districtNameEn": "Muong Khuong",
+        "districtCode": "083",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31513",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ban Lau",
+        "nameVi": "Bản Lầu",
+        "fullNameEn": "Ban Lau Commune",
+        "fullNameVi": "Xã Bản Lầu",
+        "nameSearchNormalized": "ban lau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02788",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ban Lau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bản Lầu",
+        "type": "Commune",
+        "code": "31513"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mường Khương",
+        "districtFullName": "Huyện Mường Khương",
+        "districtNameEn": "Muong Khuong",
+        "districtCode": "083",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Si Ma Cai",
+        "nameVi": "Si Ma Cai",
+        "fullNameEn": "Si Ma Cai Commune",
+        "fullNameVi": "Xã Si Ma Cai",
+        "nameSearchNormalized": "si ma cai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02809",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Si Ma Cai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Si Ma Cai",
+        "type": "Commune",
+        "code": "31406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Si Ma Cai",
+        "districtFullName": "Huyện Si Ma Cai",
+        "districtNameEn": "Si Ma Cai",
+        "districtCode": "084",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31410",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Sin Cheng",
+        "nameVi": "Sín Chéng",
+        "fullNameEn": "Sin Cheng Commune",
+        "fullNameVi": "Xã Sín Chéng",
+        "nameSearchNormalized": "sin cheng",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02824",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Sin Cheng Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sín Chéng",
+        "type": "Commune",
+        "code": "31410"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Si Ma Cai",
+        "districtFullName": "Huyện Si Ma Cai",
+        "districtNameEn": "Si Ma Cai",
+        "districtCode": "084",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31306",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bac Ha",
+        "nameVi": "Bắc Hà",
+        "fullNameEn": "Bac Ha Commune",
+        "fullNameVi": "Xã Bắc Hà",
+        "nameSearchNormalized": "bac ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02839",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bac Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bắc Hà",
+        "type": "Commune",
+        "code": "31306"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Hà",
+        "districtFullName": "Huyện Bắc Hà",
+        "districtNameEn": "Bac Ha",
+        "districtCode": "085",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31309",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ta Cu Ty",
+        "nameVi": "Tả Củ Tỷ",
+        "fullNameEn": "Ta Cu Ty Commune",
+        "fullNameVi": "Xã Tả Củ Tỷ",
+        "nameSearchNormalized": "ta cu ty",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02842",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ta Cu Ty Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tả Củ Tỷ",
+        "type": "Commune",
+        "code": "31309"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Hà",
+        "districtFullName": "Huyện Bắc Hà",
+        "districtNameEn": "Bac Ha",
+        "districtCode": "085",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Lung Phinh",
+        "nameVi": "Lùng Phình",
+        "fullNameEn": "Lung Phinh Commune",
+        "fullNameVi": "Xã Lùng Phình",
+        "nameSearchNormalized": "lung phinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02848",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Lung Phinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lùng Phình",
+        "type": "Commune",
+        "code": "31312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Hà",
+        "districtFullName": "Huyện Bắc Hà",
+        "districtNameEn": "Bac Ha",
+        "districtCode": "085",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31326",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ban Lien",
+        "nameVi": "Bản Liền",
+        "fullNameEn": "Ban Lien Commune",
+        "fullNameVi": "Xã Bản Liền",
+        "nameSearchNormalized": "ban lien",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02869",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ban Lien Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bản Liền",
+        "type": "Commune",
+        "code": "31326"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Hà",
+        "districtFullName": "Huyện Bắc Hà",
+        "districtNameEn": "Bac Ha",
+        "districtCode": "085",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31321",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bao Nhai",
+        "nameVi": "Bảo Nhai",
+        "fullNameEn": "Bao Nhai Commune",
+        "fullNameVi": "Xã Bảo Nhai",
+        "nameSearchNormalized": "bao nhai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02890",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bao Nhai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bảo Nhai",
+        "type": "Commune",
+        "code": "31321"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Hà",
+        "districtFullName": "Huyện Bắc Hà",
+        "districtNameEn": "Bac Ha",
+        "districtCode": "085",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31322",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Coc Lau",
+        "nameVi": "Cốc Lầu",
+        "fullNameEn": "Coc Lau Commune",
+        "fullNameVi": "Xã Cốc Lầu",
+        "nameSearchNormalized": "coc lau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02896",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Coc Lau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cốc Lầu",
+        "type": "Commune",
+        "code": "31322"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bắc Hà",
+        "districtFullName": "Huyện Bắc Hà",
+        "districtNameEn": "Bac Ha",
+        "districtCode": "085",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31222",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Phong Hai",
+        "nameVi": "Phong Hải",
+        "fullNameEn": "Phong Hai Commune",
+        "fullNameVi": "Xã Phong Hải",
+        "nameSearchNormalized": "phong hai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02902",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Phong Hai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Hải",
+        "type": "Commune",
+        "code": "31222"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Thắng",
+        "districtFullName": "Huyện Bảo Thắng",
+        "districtNameEn": "Bao Thang",
+        "districtCode": "086",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31221",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bao Thang",
+        "nameVi": "Bảo Thắng",
+        "fullNameEn": "Bao Thang Commune",
+        "fullNameVi": "Xã Bảo Thắng",
+        "nameSearchNormalized": "bao thang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02905",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bao Thang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bảo Thắng",
+        "type": "Commune",
+        "code": "31221"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Thắng",
+        "districtFullName": "Huyện Bảo Thắng",
+        "districtNameEn": "Bao Thang",
+        "districtCode": "086",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31216",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Tang Loong",
+        "nameVi": "Tằng Loỏng",
+        "fullNameEn": "Tang Loong Commune",
+        "fullNameVi": "Xã Tằng Loỏng",
+        "nameSearchNormalized": "tang loong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02908",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Tang Loong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tằng Loỏng",
+        "type": "Commune",
+        "code": "31216"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Thắng",
+        "districtFullName": "Huyện Bảo Thắng",
+        "districtNameEn": "Bao Thang",
+        "districtCode": "086",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31213",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Gia Phu",
+        "nameVi": "Gia Phú",
+        "fullNameEn": "Gia Phu Commune",
+        "fullNameVi": "Xã Gia Phú",
+        "nameSearchNormalized": "gia phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02923",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Gia Phu Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gia Phú",
+        "type": "Commune",
+        "code": "31213"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Thắng",
+        "districtFullName": "Huyện Bảo Thắng",
+        "districtNameEn": "Bao Thang",
+        "districtCode": "086",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31207",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Xuan Quang",
+        "nameVi": "Xuân Quang",
+        "fullNameEn": "Xuan Quang Commune",
+        "fullNameVi": "Xã Xuân Quang",
+        "nameSearchNormalized": "xuan quang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02926",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Quang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Quang",
+        "type": "Commune",
+        "code": "31207"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Thắng",
+        "districtFullName": "Huyện Bảo Thắng",
+        "districtNameEn": "Bao Thang",
+        "districtCode": "086",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31924",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bao Yen",
+        "nameVi": "Bảo Yên",
+        "fullNameEn": "Bao Yen Commune",
+        "fullNameVi": "Xã Bảo Yên",
+        "nameSearchNormalized": "bao yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02947",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bao Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bảo Yên",
+        "type": "Commune",
+        "code": "31924"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Yên",
+        "districtFullName": "Huyện Bảo Yên",
+        "districtNameEn": "Bao Yen",
+        "districtCode": "087",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31910",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nghia Do",
+        "nameVi": "Nghĩa Đô",
+        "fullNameEn": "Nghia Do Commune",
+        "fullNameVi": "Xã Nghĩa Đô",
+        "nameSearchNormalized": "nghia do",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02953",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Do Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghĩa Đô",
+        "type": "Commune",
+        "code": "31910"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Yên",
+        "districtFullName": "Huyện Bảo Yên",
+        "districtNameEn": "Bao Yen",
+        "districtCode": "087",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31908",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Xuan Hoa",
+        "nameVi": "Xuân Hoà",
+        "fullNameEn": "Xuan Hoa Commune",
+        "fullNameVi": "Xã Xuân Hoà",
+        "nameSearchNormalized": "xuan hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02962",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Hoà",
+        "type": "Commune",
+        "code": "31908"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Yên",
+        "districtFullName": "Huyện Bảo Yên",
+        "districtNameEn": "Bao Yen",
+        "districtCode": "087",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Thuong Ha",
+        "nameVi": "Thượng Hà",
+        "fullNameEn": "Thuong Ha Commune",
+        "fullNameVi": "Xã Thượng Hà",
+        "nameSearchNormalized": "thuong ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02968",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thượng Hà",
+        "type": "Commune",
+        "code": "31913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Yên",
+        "districtFullName": "Huyện Bảo Yên",
+        "districtNameEn": "Bao Yen",
+        "districtCode": "087",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31918",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bao Ha",
+        "nameVi": "Bảo Hà",
+        "fullNameEn": "Bao Ha Commune",
+        "fullNameVi": "Xã Bảo Hà",
+        "nameSearchNormalized": "bao ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02989",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bao Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bảo Hà",
+        "type": "Commune",
+        "code": "31918"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Yên",
+        "districtFullName": "Huyện Bảo Yên",
+        "districtNameEn": "Bao Yen",
+        "districtCode": "087",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31921",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Phuc Khanh",
+        "nameVi": "Phúc Khánh",
+        "fullNameEn": "Phuc Khanh Commune",
+        "fullNameVi": "Xã Phúc Khánh",
+        "nameSearchNormalized": "phuc khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "02998",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Phuc Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phúc Khánh",
+        "type": "Commune",
+        "code": "31921"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Bảo Yên",
+        "districtFullName": "Huyện Bảo Yên",
+        "districtNameEn": "Bao Yen",
+        "districtCode": "087",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31710",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ngu Chi Son",
+        "nameVi": "Ngũ Chỉ Sơn",
+        "fullNameEn": "Ngu Chi Son Commune",
+        "fullNameVi": "Xã Ngũ Chỉ Sơn",
+        "nameSearchNormalized": "ngu chi son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03004",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ngu Chi Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Ngũ Chỉ Sơn",
+        "type": "Commune",
+        "code": "31710"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Pa",
+        "districtFullName": "Thị xã Sa Pa",
+        "districtNameEn": "Sa Pa",
+        "districtCode": "088",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Sa Pa",
+        "nameVi": "Sa Pa",
+        "fullNameEn": "Sa Pa Ward",
+        "fullNameVi": "Phường Sa Pa",
+        "nameSearchNormalized": "sa pa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "03006",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Sa Pa Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Sa Pa",
+        "type": "Ward",
+        "code": "31706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Pa",
+        "districtFullName": "Thị xã Sa Pa",
+        "districtNameEn": "Sa Pa",
+        "districtCode": "088",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31709",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ta Phin",
+        "nameVi": "Tả Phìn",
+        "fullNameEn": "Ta Phin Commune",
+        "fullNameVi": "Xã Tả Phìn",
+        "nameSearchNormalized": "ta phin",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03013",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ta Phin Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tả Phìn",
+        "type": "Commune",
+        "code": "31709"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Pa",
+        "districtFullName": "Thị xã Sa Pa",
+        "districtNameEn": "Sa Pa",
+        "districtCode": "088",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31714",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ta Van",
+        "nameVi": "Tả Van",
+        "fullNameEn": "Ta Van Commune",
+        "fullNameVi": "Xã Tả Van",
+        "nameSearchNormalized": "ta van",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03037",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ta Van Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tả Van",
+        "type": "Commune",
+        "code": "31714"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Pa",
+        "districtFullName": "Thị xã Sa Pa",
+        "districtNameEn": "Sa Pa",
+        "districtCode": "088",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31718",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Muong Bo",
+        "nameVi": "Mường Bo",
+        "fullNameEn": "Muong Bo Commune",
+        "fullNameVi": "Xã Mường Bo",
+        "nameSearchNormalized": "muong bo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03043",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Muong Bo Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Bo",
+        "type": "Commune",
+        "code": "31718"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Pa",
+        "districtFullName": "Thị xã Sa Pa",
+        "districtNameEn": "Sa Pa",
+        "districtCode": "088",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31715",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ban Ho",
+        "nameVi": "Bản Hồ",
+        "fullNameEn": "Ban Ho Commune",
+        "fullNameVi": "Xã Bản Hồ",
+        "nameSearchNormalized": "ban ho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03046",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ban Ho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bản Hồ",
+        "type": "Commune",
+        "code": "31715"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Sa Pa",
+        "districtFullName": "Thị xã Sa Pa",
+        "districtNameEn": "Sa Pa",
+        "districtCode": "088",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31810",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Vo Lao",
+        "nameVi": "Võ Lao",
+        "fullNameEn": "Vo Lao Commune",
+        "fullNameVi": "Xã Võ Lao",
+        "nameSearchNormalized": "vo lao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03061",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Vo Lao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Võ Lao",
+        "type": "Commune",
+        "code": "31810"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31815",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nam Chay",
+        "nameVi": "Nậm Chày",
+        "fullNameEn": "Nam Chay Commune",
+        "fullNameVi": "Xã Nậm Chày",
+        "nameSearchNormalized": "nam chay",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03076",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nam Chay Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Chày",
+        "type": "Commune",
+        "code": "31815"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31829",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Van Ban",
+        "nameVi": "Văn Bàn",
+        "fullNameEn": "Van Ban Commune",
+        "fullNameVi": "Xã Văn Bàn",
+        "nameSearchNormalized": "van ban",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03082",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Van Ban Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Bàn",
+        "type": "Commune",
+        "code": "31829"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31816",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nam Xe",
+        "nameVi": "Nậm Xé",
+        "fullNameEn": "Nam Xe Commune",
+        "fullNameVi": "Xã Nậm Xé",
+        "nameSearchNormalized": "nam xe",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03085",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nam Xe Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Xé",
+        "type": "Commune",
+        "code": "31816"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31827",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Chieng Ken",
+        "nameVi": "Chiềng Ken",
+        "fullNameEn": "Chieng Ken Commune",
+        "fullNameVi": "Xã Chiềng Ken",
+        "nameSearchNormalized": "chieng ken",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03091",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Chieng Ken Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chiềng Ken",
+        "type": "Commune",
+        "code": "31827"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31830",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Khanh Yen",
+        "nameVi": "Khánh Yên",
+        "fullNameEn": "Khanh Yen Commune",
+        "fullNameVi": "Xã Khánh Yên",
+        "nameSearchNormalized": "khanh yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03103",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Yên",
+        "type": "Commune",
+        "code": "31830"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31820",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Duong Quy",
+        "nameVi": "Dương Quỳ",
+        "fullNameEn": "Duong Quy Commune",
+        "fullNameVi": "Xã Dương Quỳ",
+        "nameSearchNormalized": "duong quy",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03106",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Duong Quy Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Dương Quỳ",
+        "type": "Commune",
+        "code": "31820"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "31817",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Minh Luong",
+        "nameVi": "Minh Lương",
+        "fullNameEn": "Minh Luong Commune",
+        "fullNameVi": "Xã Minh Lương",
+        "nameSearchNormalized": "minh luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "03121",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Minh Luong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Minh Lương",
+        "type": "Commune",
+        "code": "31817"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Bàn",
+        "districtFullName": "Huyện Văn Bàn",
+        "districtNameEn": "Van Ban",
+        "districtCode": "089",
+        "legacyProvinceName": "Lào Cai",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33123",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Yen Bai",
+        "nameVi": "Yên Bái",
+        "fullNameEn": "Yen Bai Ward",
+        "fullNameVi": "Phường Yên Bái",
+        "nameSearchNormalized": "yen bai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04252",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Yen Bai Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Yên Bái",
+        "type": "Ward",
+        "code": "33123"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bái",
+        "districtFullName": "Thành phố Yên Bái",
+        "districtNameEn": "Yen Bai",
+        "districtCode": "132",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33110",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nam Cuong",
+        "nameVi": "Nam Cường",
+        "fullNameEn": "Nam Cuong Ward",
+        "fullNameVi": "Phường Nam Cường",
+        "nameSearchNormalized": "nam cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04273",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nam Cuong Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Nam Cường",
+        "type": "Ward",
+        "code": "33110"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bái",
+        "districtFullName": "Thành phố Yên Bái",
+        "districtNameEn": "Yen Bai",
+        "districtCode": "132",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33118",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Van Phu",
+        "nameVi": "Văn Phú",
+        "fullNameEn": "Van Phu Ward",
+        "fullNameVi": "Phường Văn Phú",
+        "nameSearchNormalized": "van phu",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04279",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Van Phu Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Văn Phú",
+        "type": "Ward",
+        "code": "33118"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bái",
+        "districtFullName": "Thành phố Yên Bái",
+        "districtNameEn": "Yen Bai",
+        "districtCode": "132",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33713",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nghia Lo",
+        "nameVi": "Nghĩa Lộ",
+        "fullNameEn": "Nghia Lo Ward",
+        "fullNameVi": "Phường Nghĩa Lộ",
+        "nameSearchNormalized": "nghia lo",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04288",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Lo Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Nghĩa Lộ",
+        "type": "Ward",
+        "code": "33713"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Lộ",
+        "districtFullName": "Thị xã Nghĩa Lộ",
+        "districtNameEn": "Nghia Lo",
+        "districtCode": "133",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33330",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Luc Yen",
+        "nameVi": "Lục Yên",
+        "fullNameEn": "Luc Yen Commune",
+        "fullNameVi": "Xã Lục Yên",
+        "nameSearchNormalized": "luc yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04303",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Luc Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lục Yên",
+        "type": "Commune",
+        "code": "33330"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lục Yên",
+        "districtFullName": "Huyện Lục Yên",
+        "districtNameEn": "Luc Yen",
+        "districtCode": "135",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33312",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Lam Thuong",
+        "nameVi": "Lâm Thượng",
+        "fullNameEn": "Lam Thuong Commune",
+        "fullNameVi": "Xã Lâm Thượng",
+        "nameSearchNormalized": "lam thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04309",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Lam Thuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lâm Thượng",
+        "type": "Commune",
+        "code": "33312"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lục Yên",
+        "districtFullName": "Huyện Lục Yên",
+        "districtNameEn": "Luc Yen",
+        "districtCode": "135",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33316",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Tan Linh",
+        "nameVi": "Tân Lĩnh",
+        "fullNameEn": "Tan Linh Commune",
+        "fullNameVi": "Xã Tân Lĩnh",
+        "nameSearchNormalized": "tan linh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04336",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Tan Linh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Lĩnh",
+        "type": "Commune",
+        "code": "33316"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lục Yên",
+        "districtFullName": "Huyện Lục Yên",
+        "districtNameEn": "Luc Yen",
+        "districtCode": "135",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33319",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Khanh Hoa",
+        "nameVi": "Khánh Hoà",
+        "fullNameEn": "Khanh Hoa Commune",
+        "fullNameVi": "Xã Khánh Hoà",
+        "nameSearchNormalized": "khanh hoa",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04342",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Khanh Hoa Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khánh Hoà",
+        "type": "Commune",
+        "code": "33319"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lục Yên",
+        "districtFullName": "Huyện Lục Yên",
+        "districtNameEn": "Luc Yen",
+        "districtCode": "135",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33308",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Muong Lai",
+        "nameVi": "Mường Lai",
+        "fullNameEn": "Muong Lai Commune",
+        "fullNameVi": "Xã Mường Lai",
+        "nameSearchNormalized": "muong lai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04345",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Muong Lai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mường Lai",
+        "type": "Commune",
+        "code": "33308"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lục Yên",
+        "districtFullName": "Huyện Lục Yên",
+        "districtNameEn": "Luc Yen",
+        "districtCode": "135",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33323",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Phuc Loi",
+        "nameVi": "Phúc Lợi",
+        "fullNameEn": "Phuc Loi Commune",
+        "fullNameVi": "Xã Phúc Lợi",
+        "nameSearchNormalized": "phuc loi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04363",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Phuc Loi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phúc Lợi",
+        "type": "Commune",
+        "code": "33323"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Lục Yên",
+        "districtFullName": "Huyện Lục Yên",
+        "districtNameEn": "Luc Yen",
+        "districtCode": "135",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33406",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Mau A",
+        "nameVi": "Mậu A",
+        "fullNameEn": "Mau A Commune",
+        "fullNameVi": "Xã Mậu A",
+        "nameSearchNormalized": "mau a",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04375",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Mau A Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mậu A",
+        "type": "Commune",
+        "code": "33406"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33411",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Lam Giang",
+        "nameVi": "Lâm Giang",
+        "fullNameEn": "Lam Giang Commune",
+        "fullNameVi": "Xã Lâm Giang",
+        "nameSearchNormalized": "lam giang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04381",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Lam Giang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lâm Giang",
+        "type": "Commune",
+        "code": "33411"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33433",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Chau Que",
+        "nameVi": "Châu Quế",
+        "fullNameEn": "Chau Que Commune",
+        "fullNameVi": "Xã Châu Quế",
+        "nameSearchNormalized": "chau que",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04387",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Chau Que Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Châu Quế",
+        "type": "Commune",
+        "code": "33433"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33416",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Dong Cuong",
+        "nameVi": "Đông Cuông",
+        "fullNameEn": "Dong Cuong Commune",
+        "fullNameVi": "Xã Đông Cuông",
+        "nameSearchNormalized": "dong cuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04399",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Dong Cuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Đông Cuông",
+        "type": "Commune",
+        "code": "33416"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33417",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Phong Du Ha",
+        "nameVi": "Phong Dụ Hạ",
+        "fullNameEn": "Phong Du Ha Commune",
+        "fullNameVi": "Xã Phong Dụ Hạ",
+        "nameSearchNormalized": "phong du ha",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04402",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Phong Du Ha Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Dụ Hạ",
+        "type": "Commune",
+        "code": "33417"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33418",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Phong Du Thuong",
+        "nameVi": "Phong Dụ Thượng",
+        "fullNameEn": "Phong Du Thuong Commune",
+        "fullNameVi": "Xã Phong Dụ Thượng",
+        "nameSearchNormalized": "phong du thuong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04423",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Phong Du Thuong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phong Dụ Thượng",
+        "type": "Commune",
+        "code": "33418"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33420",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Tan Hop",
+        "nameVi": "Tân Hợp",
+        "fullNameEn": "Tan Hop Commune",
+        "fullNameVi": "Xã Tân Hợp",
+        "nameSearchNormalized": "tan hop",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04429",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Tan Hop Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tân Hợp",
+        "type": "Commune",
+        "code": "33420"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33428",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Xuan Ai",
+        "nameVi": "Xuân Ái",
+        "fullNameEn": "Xuan Ai Commune",
+        "fullNameVi": "Xã Xuân Ái",
+        "nameSearchNormalized": "xuan ai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04441",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Xuan Ai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Xuân Ái",
+        "type": "Commune",
+        "code": "33428"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33425",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Mo Vang",
+        "nameVi": "Mỏ Vàng",
+        "fullNameEn": "Mo Vang Commune",
+        "fullNameVi": "Xã Mỏ Vàng",
+        "nameSearchNormalized": "mo vang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04450",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Mo Vang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mỏ Vàng",
+        "type": "Commune",
+        "code": "33425"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Yên",
+        "districtFullName": "Huyện Văn Yên",
+        "districtNameEn": "Van Yen",
+        "districtCode": "136",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33506",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Mu Cang Chai",
+        "nameVi": "Mù Cang Chải",
+        "fullNameEn": "Mu Cang Chai Commune",
+        "fullNameVi": "Xã Mù Cang Chải",
+        "nameSearchNormalized": "mu cang chai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04456",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Mu Cang Chai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Mù Cang Chải",
+        "type": "Commune",
+        "code": "33506"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mù Căng Chải",
+        "districtFullName": "Huyện Mù Căng Chải",
+        "districtNameEn": "Mu Cang Chai",
+        "districtCode": "137",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33519",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nam Co",
+        "nameVi": "Nậm Có",
+        "fullNameEn": "Nam Co Commune",
+        "fullNameVi": "Xã Nậm Có",
+        "nameSearchNormalized": "nam co",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04462",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nam Co Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nậm Có",
+        "type": "Commune",
+        "code": "33519"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mù Căng Chải",
+        "districtFullName": "Huyện Mù Căng Chải",
+        "districtNameEn": "Mu Cang Chai",
+        "districtCode": "137",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33508",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Khao Mang",
+        "nameVi": "Khao Mang",
+        "fullNameEn": "Khao Mang Commune",
+        "fullNameVi": "Xã Khao Mang",
+        "nameSearchNormalized": "khao mang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04465",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Khao Mang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Khao Mang",
+        "type": "Commune",
+        "code": "33508"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mù Căng Chải",
+        "districtFullName": "Huyện Mù Căng Chải",
+        "districtNameEn": "Mu Cang Chai",
+        "districtCode": "137",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33510",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Lao Chai",
+        "nameVi": "Lao Chải",
+        "fullNameEn": "Lao Chai Commune",
+        "fullNameVi": "Xã Lao Chải",
+        "nameSearchNormalized": "lao chai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04474",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Lao Chai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lao Chải",
+        "type": "Commune",
+        "code": "33510"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mù Căng Chải",
+        "districtFullName": "Huyện Mù Căng Chải",
+        "districtNameEn": "Mu Cang Chai",
+        "districtCode": "137",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33512",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Che Tao",
+        "nameVi": "Chế Tạo",
+        "fullNameEn": "Che Tao Commune",
+        "fullNameVi": "Xã Chế Tạo",
+        "nameSearchNormalized": "che tao",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04489",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Che Tao Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chế Tạo",
+        "type": "Commune",
+        "code": "33512"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mù Căng Chải",
+        "districtFullName": "Huyện Mù Căng Chải",
+        "districtNameEn": "Mu Cang Chai",
+        "districtCode": "137",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33514",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Pung Luong",
+        "nameVi": "Púng Luông",
+        "fullNameEn": "Pung Luong Commune",
+        "fullNameVi": "Xã Púng Luông",
+        "nameSearchNormalized": "pung luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04492",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Pung Luong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Púng Luông",
+        "type": "Commune",
+        "code": "33514"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Mù Căng Chải",
+        "districtFullName": "Huyện Mù Căng Chải",
+        "districtNameEn": "Mu Cang Chai",
+        "districtCode": "137",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33928",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Tran Yen",
+        "nameVi": "Trấn Yên",
+        "fullNameEn": "Tran Yen Commune",
+        "fullNameVi": "Xã Trấn Yên",
+        "nameSearchNormalized": "tran yen",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04498",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Tran Yen Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trấn Yên",
+        "type": "Commune",
+        "code": "33928"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trấn Yên",
+        "districtFullName": "Huyện Trấn Yên",
+        "districtNameEn": "Tran Yen",
+        "districtCode": "138",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33913",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Quy Mong",
+        "nameVi": "Quy Mông",
+        "fullNameEn": "Quy Mong Commune",
+        "fullNameVi": "Xã Quy Mông",
+        "nameSearchNormalized": "quy mong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04531",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Quy Mong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Quy Mông",
+        "type": "Commune",
+        "code": "33913"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trấn Yên",
+        "districtFullName": "Huyện Trấn Yên",
+        "districtNameEn": "Tran Yen",
+        "districtCode": "138",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33923",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Luong Thinh",
+        "nameVi": "Lương Thịnh",
+        "fullNameEn": "Luong Thinh Commune",
+        "fullNameVi": "Xã Lương Thịnh",
+        "nameSearchNormalized": "luong thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04537",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Luong Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Lương Thịnh",
+        "type": "Commune",
+        "code": "33923"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trấn Yên",
+        "districtFullName": "Huyện Trấn Yên",
+        "districtNameEn": "Tran Yen",
+        "districtCode": "138",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33112",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Au Lau",
+        "nameVi": "Âu Lâu",
+        "fullNameEn": "Au Lau Ward",
+        "fullNameVi": "Phường Âu Lâu",
+        "nameSearchNormalized": "au lau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04543",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Au Lau Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Âu Lâu",
+        "type": "Ward",
+        "code": "33112"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bái",
+        "districtFullName": "Thành phố Yên Bái",
+        "districtNameEn": "Yen Bai",
+        "districtCode": "132",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33918",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Viet Hong",
+        "nameVi": "Việt Hồng",
+        "fullNameEn": "Viet Hong Commune",
+        "fullNameVi": "Xã Việt Hồng",
+        "nameSearchNormalized": "viet hong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04564",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Viet Hong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Việt Hồng",
+        "type": "Commune",
+        "code": "33918"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trấn Yên",
+        "districtFullName": "Huyện Trấn Yên",
+        "districtNameEn": "Tran Yen",
+        "districtCode": "138",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33916",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Hung Khanh",
+        "nameVi": "Hưng Khánh",
+        "fullNameEn": "Hung Khanh Commune",
+        "fullNameVi": "Xã Hưng Khánh",
+        "nameSearchNormalized": "hung khanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04576",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Hung Khanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hưng Khánh",
+        "type": "Commune",
+        "code": "33916"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trấn Yên",
+        "districtFullName": "Huyện Trấn Yên",
+        "districtNameEn": "Tran Yen",
+        "districtCode": "138",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33618",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Hanh Phuc",
+        "nameVi": "Hạnh Phúc",
+        "fullNameEn": "Hanh Phuc Commune",
+        "fullNameVi": "Xã Hạnh Phúc",
+        "nameSearchNormalized": "hanh phuc",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04585",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Hanh Phuc Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Hạnh Phúc",
+        "type": "Commune",
+        "code": "33618"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trạm Tấu",
+        "districtFullName": "Huyện Trạm Tấu",
+        "districtNameEn": "Tram Tau",
+        "districtCode": "139",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33615",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Ta Xi Lang",
+        "nameVi": "Tà Xi Láng",
+        "fullNameEn": "Ta Xi Lang Commune",
+        "fullNameVi": "Xã Tà Xi Láng",
+        "nameSearchNormalized": "ta xi lang",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04603",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Ta Xi Lang Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tà Xi Láng",
+        "type": "Commune",
+        "code": "33615"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trạm Tấu",
+        "districtFullName": "Huyện Trạm Tấu",
+        "districtNameEn": "Tram Tau",
+        "districtCode": "139",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33609",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Tram Tau",
+        "nameVi": "Trạm Tấu",
+        "fullNameEn": "Tram Tau Commune",
+        "fullNameVi": "Xã Trạm Tấu",
+        "nameSearchNormalized": "tram tau",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04606",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Tram Tau Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Trạm Tấu",
+        "type": "Commune",
+        "code": "33609"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trạm Tấu",
+        "districtFullName": "Huyện Trạm Tấu",
+        "districtNameEn": "Tram Tau",
+        "districtCode": "139",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33616",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Phinh Ho",
+        "nameVi": "Phình Hồ",
+        "fullNameEn": "Phinh Ho Commune",
+        "fullNameVi": "Xã Phình Hồ",
+        "nameSearchNormalized": "phinh ho",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04609",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Phinh Ho Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Phình Hồ",
+        "type": "Commune",
+        "code": "33616"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Trạm Tấu",
+        "districtFullName": "Huyện Trạm Tấu",
+        "districtNameEn": "Tram Tau",
+        "districtCode": "139",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33814",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Tu Le",
+        "nameVi": "Tú Lệ",
+        "fullNameEn": "Tu Le Commune",
+        "fullNameVi": "Xã Tú Lệ",
+        "nameSearchNormalized": "tu le",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04630",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Tu Le Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Tú Lệ",
+        "type": "Commune",
+        "code": "33814"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33812",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Gia Hoi",
+        "nameVi": "Gia Hội",
+        "fullNameEn": "Gia Hoi Commune",
+        "fullNameVi": "Xã Gia Hội",
+        "nameSearchNormalized": "gia hoi",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04636",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Gia Hoi Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Gia Hội",
+        "type": "Commune",
+        "code": "33812"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33816",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Son Luong",
+        "nameVi": "Sơn Lương",
+        "fullNameEn": "Son Luong Commune",
+        "fullNameVi": "Xã Sơn Lương",
+        "nameSearchNormalized": "son luong",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04651",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Son Luong Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Sơn Lương",
+        "type": "Commune",
+        "code": "33816"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33837",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Lien Son",
+        "nameVi": "Liên Sơn",
+        "fullNameEn": "Lien Son Commune",
+        "fullNameVi": "Xã Liên Sơn",
+        "nameSearchNormalized": "lien son",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04660",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Lien Son Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Liên Sơn",
+        "type": "Commune",
+        "code": "33837"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Lộ",
+        "districtFullName": "Thị xã Nghĩa Lộ",
+        "districtNameEn": "Nghia Lo",
+        "districtCode": "133",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33706",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Trung Tam",
+        "nameVi": "Trung Tâm",
+        "fullNameEn": "Trung Tam Ward",
+        "fullNameVi": "Phường Trung Tâm",
+        "nameSearchNormalized": "trung tam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04663",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Trung Tam Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Trung Tâm",
+        "type": "Ward",
+        "code": "33706"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Lộ",
+        "districtFullName": "Thị xã Nghĩa Lộ",
+        "districtNameEn": "Nghia Lo",
+        "districtCode": "133",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33838",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Van Chan",
+        "nameVi": "Văn Chấn",
+        "fullNameEn": "Van Chan Commune",
+        "fullNameVi": "Xã Văn Chấn",
+        "nameSearchNormalized": "van chan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04672",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Van Chan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Văn Chấn",
+        "type": "Commune",
+        "code": "33838"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33712",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Cau Thia",
+        "nameVi": "Cầu Thia",
+        "fullNameEn": "Cau Thia Ward",
+        "fullNameVi": "Phường Cầu Thia",
+        "nameSearchNormalized": "cau thia",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Ward",
+        "officialCode": "04681",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Cau Thia Ward Postal Area",
+        "nameVi": "Khu vực bưu chính Phường Cầu Thia",
+        "type": "Ward",
+        "code": "33712"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Nghĩa Lộ",
+        "districtFullName": "Thị xã Nghĩa Lộ",
+        "districtNameEn": "Nghia Lo",
+        "districtCode": "133",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33828",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Cat Thinh",
+        "nameVi": "Cát Thịnh",
+        "fullNameEn": "Cat Thinh Commune",
+        "fullNameVi": "Xã Cát Thịnh",
+        "nameSearchNormalized": "cat thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04693",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Cat Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cát Thịnh",
+        "type": "Commune",
+        "code": "33828"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33833",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Chan Thinh",
+        "nameVi": "Chấn Thịnh",
+        "fullNameEn": "Chan Thinh Commune",
+        "fullNameVi": "Xã Chấn Thịnh",
+        "nameSearchNormalized": "chan thinh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04699",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Chan Thinh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Chấn Thịnh",
+        "type": "Commune",
+        "code": "33833"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33829",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Thuong Bang La",
+        "nameVi": "Thượng Bằng La",
+        "fullNameEn": "Thuong Bang La Commune",
+        "fullNameVi": "Xã Thượng Bằng La",
+        "nameSearchNormalized": "thuong bang la",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04705",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Thuong Bang La Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thượng Bằng La",
+        "type": "Commune",
+        "code": "33829"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33831",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Nghia Tam",
+        "nameVi": "Nghĩa Tâm",
+        "fullNameEn": "Nghia Tam Commune",
+        "fullNameVi": "Xã Nghĩa Tâm",
+        "nameSearchNormalized": "nghia tam",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04711",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Nghia Tam Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Nghĩa Tâm",
+        "type": "Commune",
+        "code": "33831"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Văn Chấn",
+        "districtFullName": "Huyện Văn Chấn",
+        "districtNameEn": "Van Chan",
+        "districtCode": "140",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33206",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Yen Binh",
+        "nameVi": "Yên Bình",
+        "fullNameEn": "Yen Binh Commune",
+        "fullNameVi": "Xã Yên Bình",
+        "nameSearchNormalized": "yen binh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04714",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Yen Binh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Bình",
+        "type": "Commune",
+        "code": "33206"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bình",
+        "districtFullName": "Huyện Yên Bình",
+        "districtNameEn": "Yen Binh",
+        "districtCode": "141",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33231",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Thac Ba",
+        "nameVi": "Thác Bà",
+        "fullNameEn": "Thac Ba Commune",
+        "fullNameVi": "Xã Thác Bà",
+        "nameSearchNormalized": "thac ba",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04717",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Thac Ba Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Thác Bà",
+        "type": "Commune",
+        "code": "33231"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bình",
+        "districtFullName": "Huyện Yên Bình",
+        "districtNameEn": "Yen Binh",
+        "districtCode": "141",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33215",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Cam Nhan",
+        "nameVi": "Cảm Nhân",
+        "fullNameEn": "Cam Nhan Commune",
+        "fullNameVi": "Xã Cảm Nhân",
+        "nameSearchNormalized": "cam nhan",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04726",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Cam Nhan Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Cảm Nhân",
+        "type": "Commune",
+        "code": "33215"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bình",
+        "districtFullName": "Huyện Yên Bình",
+        "districtNameEn": "Yen Binh",
+        "districtCode": "141",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33212",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Yen Thanh",
+        "nameVi": "Yên Thành",
+        "fullNameEn": "Yen Thanh Commune",
+        "fullNameVi": "Xã Yên Thành",
+        "nameSearchNormalized": "yen thanh",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04744",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Yen Thanh Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Yên Thành",
+        "type": "Commune",
+        "code": "33212"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bình",
+        "districtFullName": "Huyện Yên Bình",
+        "districtNameEn": "Yen Binh",
+        "districtCode": "141",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    },
+    {
+      "postalCode": "33221",
+      "country": {
+        "nameEn": "Vietnam",
+        "nameOfficialEn": "Viet Nam",
+        "nameVi": "Việt Nam",
+        "isoAlpha2": "VN",
+        "isoAlpha3": "VNM",
+        "isoNumeric": "704"
+      },
+      "provinceRegion": {
+        "nameEn": "Lao Cai",
+        "nameVi": "Lào Cai",
+        "fullNameEn": "Lao Cai Province",
+        "fullNameVi": "Tỉnh Lào Cai",
+        "administrativeLevel": "Provincial",
+        "administrativeType": "Province",
+        "officialCode": "15"
+      },
+      "commune": {
+        "nameEn": "Bao Ai",
+        "nameVi": "Bảo Ái",
+        "fullNameEn": "Bao Ai Commune",
+        "fullNameVi": "Xã Bảo Ái",
+        "nameSearchNormalized": "bao ai",
+        "administrativeLevel": "Commune",
+        "administrativeType": "Commune",
+        "officialCode": "04750",
+        "provinceCode": "15"
+      },
+      "postalObject": {
+        "nameEn": "Bao Ai Commune Postal Area",
+        "nameVi": "Khu vực bưu chính Xã Bảo Ái",
+        "type": "Commune",
+        "code": "33221"
+      },
+      "legacyAdministrativeData": {
+        "districtName": "Yên Bình",
+        "districtFullName": "Huyện Yên Bình",
+        "districtNameEn": "Yen Binh",
+        "districtCode": "141",
+        "legacyProvinceName": "Yên Bái",
+        "sourcePeriod": "pre-2025"
+      },
+      "source": {
+        "name": "Ministry of Science and Technology (MOST) & General Statistics Office (GSO)",
+        "organization": "Government of the Socialist Republic of Vietnam",
+        "url": "https://mabuuchinh.vn",
+        "documentReference": "Decision 2334/QĐ-BKHCN dated 24 August 2025 & Resolution 202/2025/QH15",
+        "sourceUpdatedAt": "2025-08-24",
+        "retrievedAt": "2026-09-28"
+      }
+    }
+  ]
+}

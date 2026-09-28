@@ -1,0 +1,403 @@
+{
+  "country": "Afghanistan",
+  "province": {
+    "nameEn": "Panjshir",
+    "nameNative": "پنجشیر",
+    "isoCode": "AF-PAN",
+    "postalPrefix": "15",
+    "capital": "Bazarak",
+    "capitalNative": "بازارک",
+    "coordinates": {
+      "latitude": 35.4056,
+      "longitude": 69.5444
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 10,
+    "totalRecords": 10,
+    "urbanRecords": 3,
+    "ruralRecords": 7
+  },
+  "records": [
+    {
+      "postalCode": "150101",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Bazarak - District 1",
+        "type": "Urban Municipal District",
+        "code": "AF-PAN-01"
+      },
+      "locality": {
+        "nameEn": "District 1 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bazarak District 1 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-150101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "150201",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Bazarak - District 2",
+        "type": "Urban Municipal District",
+        "code": "AF-PAN-02"
+      },
+      "locality": {
+        "nameEn": "District 2 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bazarak District 2 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-150201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "150301",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Bazarak - District 3",
+        "type": "Urban Municipal District",
+        "code": "AF-PAN-03"
+      },
+      "locality": {
+        "nameEn": "District 3 (Zone 01)",
+        "deliveryZone": "01",
+        "areaType": "City"
+      },
+      "postOffice": {
+        "nameEn": "Bazarak District 3 Post Office",
+        "type": "Urban Delivery Office",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-150301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155101",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Paryan District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-51"
+      },
+      "locality": {
+        "nameEn": "Paryan Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Paryan District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155101",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155201",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Shutul District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-52"
+      },
+      "locality": {
+        "nameEn": "Shutul Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Shutul District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155201",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155301",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Rukha District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-53"
+      },
+      "locality": {
+        "nameEn": "Rukha Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Rukha District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155301",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155401",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Dara District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-54"
+      },
+      "locality": {
+        "nameEn": "Dara Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Dara District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155401",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155501",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Khenj (Hes-e-Awal) District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-55"
+      },
+      "locality": {
+        "nameEn": "Khenj (Hes-e-Awal) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Khenj (Hes-e-Awal) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155501",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155601",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "Onaba(Anawa) District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-56"
+      },
+      "locality": {
+        "nameEn": "Onaba(Anawa) Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "Onaba(Anawa) District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155601",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "155701",
+      "province": {
+        "nameEn": "Panjshir",
+        "nameNative": "پنجشیر",
+        "code": "AF-PAN",
+        "postalPrefix": "15"
+      },
+      "city": {
+        "nameEn": "Bazarak",
+        "nameNative": "بازارک"
+      },
+      "district": {
+        "nameEn": "abshar District",
+        "type": "Rural Administrative District",
+        "code": "AF-PAN-57"
+      },
+      "locality": {
+        "nameEn": "abshar Central",
+        "deliveryZone": "01",
+        "areaType": "Rural"
+      },
+      "postOffice": {
+        "nameEn": "abshar District Post Office",
+        "type": "District Postal Branch",
+        "deliveryStatus": "Delivery"
+      },
+      "coordinates": {
+        "latitude": 35.4056,
+        "longitude": 69.5444
+      },
+      "source": {
+        "name": "Afghan Post & UPU S42 Standard (2024/2025 Official System)",
+        "recordId": "AF-155701",
+        "sourceUpdatedAt": "2024-10-01",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}

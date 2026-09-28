@@ -1,0 +1,374 @@
+{
+  "provinceTerritory": {
+    "nameEn": "Newfoundland and Labrador",
+    "nameFr": "Terre-Neuve-et-Labrador",
+    "code": "NL",
+    "isoCode": "CA-NL",
+    "sgcCode": "10",
+    "category": "province"
+  },
+  "recordCount": 7,
+  "postalRecords": [
+    {
+      "postalCode": "A1A 1A1",
+      "postalCodeNormalized": "A1A1A1",
+      "fsa": "A1A",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "St. John's",
+        "postalMunicipality": "City of St. John's"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 1",
+          "code": "1001",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "St. John's",
+          "code": "1001519",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "St. John's Main Post Office",
+        "nameFr": "Bureau de poste principal de St. John's",
+        "station": "Stn A",
+        "type": "Retail Post Office",
+        "identifier": "NL-SJN-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A1A1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "A1C 5T7",
+      "postalCodeNormalized": "A1C5T7",
+      "fsa": "A1C",
+      "ldu": "5T7",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "St. John's",
+        "postalMunicipality": "City of St. John's"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 1",
+          "code": "1001",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "St. John's",
+          "code": "1001519",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Large Volume Receiver",
+        "deliveryMode": "Centralized delivery",
+        "isUrban": true,
+        "isLargeVolumeReceiver": true,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Confederation Building / Government of NL",
+        "nameFr": "Édifice de la Confédération / Gouvernement de T.-N.-L.",
+        "station": "Confederation Stn",
+        "type": "Government Facility",
+        "identifier": "NL-SJN-CONFED"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A1C5T7-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "A1N 1A1",
+      "postalCodeNormalized": "A1N1A1",
+      "fsa": "A1N",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "Mount Pearl",
+        "postalMunicipality": "City of Mount Pearl"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 1",
+          "code": "1001",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Mount Pearl",
+          "code": "1001515",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Community mailbox",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Mount Pearl Post Office",
+        "nameFr": "Bureau de poste de Mount Pearl",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "NL-MTP-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A1N1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "A2H 6J8",
+      "postalCodeNormalized": "A2H6J8",
+      "fsa": "A2H",
+      "ldu": "6J8",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "Corner Brook",
+        "postalMunicipality": "City of Corner Brook"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 5",
+          "code": "1005",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Corner Brook",
+          "code": "1005060",
+          "type": "City"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Corner Brook Post Office",
+        "nameFr": "Bureau de poste de Corner Brook",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "NL-CRB-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A2H6J8-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "A2A 1A1",
+      "postalCodeNormalized": "A2A1A1",
+      "fsa": "A2A",
+      "ldu": "1A1",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "Grand Falls-Windsor",
+        "postalMunicipality": "Town of Grand Falls-Windsor"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 6",
+          "code": "1006",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Grand Falls-Windsor",
+          "code": "1006009",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Letter Carrier",
+        "deliveryMode": "Door to door",
+        "isUrban": true,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Grand Falls Post Office",
+        "nameFr": "Bureau de poste de Grand Falls",
+        "station": "Stn Main",
+        "type": "Retail Post Office",
+        "identifier": "NL-GFW-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A2A1A1-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "A0A 1A0",
+      "postalCodeNormalized": "A0A1A0",
+      "fsa": "A0A",
+      "ldu": "1A0",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "Bay Bulls",
+        "postalMunicipality": "Town of Bay Bulls"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 1",
+          "code": "1001",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Bay Bulls",
+          "code": "1001503",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Rural Route",
+        "deliveryMode": "Rural route delivery",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": {
+          "isRuralRoute": true,
+          "routeIdentifier": "RR 1",
+          "station": "Bay Bulls Post Office"
+        },
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Bay Bulls Post Office",
+        "nameFr": "Bureau de poste de Bay Bulls",
+        "station": "Stn Main",
+        "type": "Rural Post Office",
+        "identifier": "NL-BBL-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A0A1A0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    },
+    {
+      "postalCode": "A0P 1E0",
+      "postalCodeNormalized": "A0P1E0",
+      "fsa": "A0P",
+      "ldu": "1E0",
+      "provinceTerritory": {
+        "nameEn": "Newfoundland and Labrador",
+        "nameFr": "Terre-Neuve-et-Labrador",
+        "code": "NL",
+        "isoCode": "CA-NL",
+        "sgcCode": "10"
+      },
+      "postalGeography": {
+        "postalCity": "Happy Valley-Goose Bay",
+        "postalMunicipality": "Town of Happy Valley-Goose Bay"
+      },
+      "officialGeography": {
+        "censusDivision": {
+          "name": "Division No. 10",
+          "code": "1010",
+          "type": "Census Division"
+        },
+        "censusSubdivision": {
+          "name": "Happy Valley-Goose Bay",
+          "code": "1010025",
+          "type": "Town"
+        }
+      },
+      "delivery": {
+        "type": "Community Mailbox",
+        "deliveryMode": "Community mailbox",
+        "isUrban": false,
+        "isLargeVolumeReceiver": false,
+        "deliveryContext": "Civilian",
+        "ruralRoute": null,
+        "postalBox": null,
+        "generalDelivery": null
+      },
+      "postOffice": {
+        "nameEn": "Goose Bay Postal Station",
+        "nameFr": "Station postale de Goose Bay",
+        "station": "Stn A",
+        "type": "Northern Post Office",
+        "identifier": "NL-HVG-001"
+      },
+      "source": {
+        "name": "Canada Post & Statistics Canada SGC",
+        "recordId": "CA-NL-A0P1E0-01",
+        "sourceUrl": "https://www.canadapost-postescanada.ca/"
+      }
+    }
+  ]
+}

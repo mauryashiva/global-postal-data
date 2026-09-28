@@ -1,0 +1,167 @@
+{
+  "country": "Egypt",
+  "governorate": {
+    "nameEn": "Sharqia",
+    "nameNative": "الشرقية",
+    "isoCode": "EG-SHR",
+    "postalPrefix": "44",
+    "capital": "Zagazig",
+    "capitalNative": "الزقازيق",
+    "administrativeType": "Governorate",
+    "coordinates": {
+      "latitude": 30.5877,
+      "longitude": 31.502
+    }
+  },
+  "statistics": {
+    "uniquePostalCodes": 3,
+    "totalRecords": 3,
+    "totalPostOffices": 3,
+    "totalLocalities": 11
+  },
+  "records": [
+    {
+      "postalCode": "44511",
+      "governorate": {
+        "nameEn": "Sharqia",
+        "nameNative": "الشرقية",
+        "code": "EG-SHR",
+        "postalPrefix": "44",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Zagazig",
+        "nameNative": "الزقازيق",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Zagazig 1",
+        "nameNative": "حي أول الزقازيق",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Midan El Mahata / Talaat Harb",
+        "nameNative": "ميدان المحطة / طلعت حرب",
+        "administrativeType": "Shiyakha"
+      },
+      "postOffice": {
+        "nameEn": "Zagazig Main Post Office",
+        "nameNative": "مكتب بريد الزقازيق الرئيسي",
+        "type": "Main Post Office",
+        "code": "44511"
+      },
+      "areas": [
+        "Railway Station Square",
+        "Governorate Cabinet Zagazig",
+        "Galaa St",
+        "Muhafaza St"
+      ],
+      "coordinates": {
+        "latitude": 30.5877,
+        "longitude": 31.502
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SHARQIA-44511",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "44635",
+      "governorate": {
+        "nameEn": "Sharqia",
+        "nameNative": "الشرقية",
+        "code": "EG-SHR",
+        "postalPrefix": "44",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "10th of Ramadan City",
+        "nameNative": "مدينة العاشر من رمضان",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "10th of Ramadan 1",
+        "nameNative": "قسم أول العاشر من رمضان",
+        "administrativeType": "Qism"
+      },
+      "locality": {
+        "nameEn": "Al Rowad / Central Zone",
+        "nameNative": "حي الرواد / المنطقة المركزية",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "10th of Ramadan City Central Post Office",
+        "nameNative": "مكتب بريد العاشر من رمضان المركزي",
+        "type": "Main Post Office",
+        "code": "44635"
+      },
+      "areas": [
+        "Industrial Zones A1 to C6",
+        "Rowad Square",
+        "Jordanian Market",
+        "Cairo-Ismailia Desert Rd"
+      ],
+      "coordinates": {
+        "latitude": 30.3012,
+        "longitude": 31.7456
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SHARQIA-44635",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    },
+    {
+      "postalCode": "44611",
+      "governorate": {
+        "nameEn": "Sharqia",
+        "nameNative": "الشرقية",
+        "code": "EG-SHR",
+        "postalPrefix": "44",
+        "administrativeType": "Governorate"
+      },
+      "city": {
+        "nameEn": "Bilbeis",
+        "nameNative": "بلبيس",
+        "administrativeType": "City"
+      },
+      "district": {
+        "nameEn": "Bilbeis",
+        "nameNative": "مركز بلبيس",
+        "administrativeType": "Markaz"
+      },
+      "locality": {
+        "nameEn": "Bilbeis Downtown",
+        "nameNative": "وسط مدينة بلبيس",
+        "administrativeType": "Locality"
+      },
+      "postOffice": {
+        "nameEn": "Bilbeis Post Office",
+        "nameNative": "مكتب بريد بلبيس",
+        "type": "Sub Post Office",
+        "code": "44611"
+      },
+      "areas": [
+        "Air Academy Area",
+        "Ansari Square",
+        "Zagazig-Cairo Agricultural Rd"
+      ],
+      "coordinates": {
+        "latitude": 30.4189,
+        "longitude": 31.5623
+      },
+      "source": {
+        "name": "Egypt Post / National Postal Authority (البريد المصري)",
+        "url": "https://www.egyptpost.org",
+        "recordId": "EG-SHARQIA-44611",
+        "sourceUpdatedAt": "2025-01-15",
+        "retrievedAt": "2026-09-26"
+      }
+    }
+  ]
+}
