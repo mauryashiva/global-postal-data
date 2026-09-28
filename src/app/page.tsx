@@ -1,10 +1,9 @@
-﻿'use client';
+'use client';
 
-import React, { useState, useEffect, useTransition } from 'react';
+import React, { useState, useEffect, useTransition, useMemo } from 'react';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { CountrySelector } from '@/components/CountrySelector';
-import { PostalRecordTable } from '@/components/PostalRecordTable';
 import { PostalRecordDrawer } from '@/components/PostalRecordDrawer';
 import { DatasetInfo } from '@/components/DatasetInfo';
 import {
@@ -23,7 +22,6 @@ export default function SaaSPostalLookupPage() {
   const [selectedArea, setSelectedArea] = useState<string>('');
   const [isCustomArea, setIsCustomArea] = useState(false);
   const [customAreaText, setCustomAreaText] = useState('');
-  const [activeResultTab, setActiveResultTab] = useState<'cards' | 'table'>('cards');
   const [drawerRecord, setDrawerRecord] = useState<UniversalPostalRecord | null>(null);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
@@ -37,6 +35,55 @@ export default function SaaSPostalLookupPage() {
   const [savedPayload, setSavedPayload] = useState<any | null>(null);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
   const [isPending, startTransition] = useTransition();
+
+  // Identify area and post office fields from country definition
+  const areaField = useMemo(() => {
+    const areaKeys = ['area', 'locality', 'villageLocality', 'townArea', 'communeWard'];
+    return selectedCountry.fields.find((f) => areaKeys.includes(f.key));
+  }, [selectedCountry]);
+
+  const postOfficeField = useMemo(() => {
+    const postOfficeKeys = ['postOffice', 'postalArea', 'postOfficeArea', 'deliveryType'];
+    return selectedCountry.fields.find((f) => postOfficeKeys.includes(f.key));
+  }, [selectedCountry]);
+
+  const otherFields = useMemo(() => {
+    return selectedCountry.fields.filter(
+      (f) => f.key !== areaField?.key && f.key !== postOfficeField?.key
+    );
+  }, [selectedCountry, areaField, postOfficeField]);
+
+  // Compute available areas dynamically from lookup results
+  const availableAreas = useMemo(() => {
+    if (!lookupResult || !lookupResult.found) return [];
+
+    // Check if the selected record specifically provides localized areas
+    const recAreas =
+      selectedRecord?.rawRecord?.areas ||
+      selectedRecord?.rawRecord?.neighborhoods ||
+      selectedRecord?.rawRecord?.localities;
+    if (Array.isArray(recAreas) && recAreas.length > 0) {
+      return (recAreas as string[]).filter(Boolean);
+    }
+
+    const areaSet = new Set<string>();
+    if (lookupResult.areas && lookupResult.areas.length > 0) {
+      lookupResult.areas.forEach((a) => {
+        if (a && a.trim()) areaSet.add(a.trim());
+      });
+    } else {
+      lookupResult.records.forEach((r) => {
+        if (r.area && r.area.trim()) areaSet.add(r.area.trim());
+      });
+    }
+
+    // Ensure selectedRecord.area is present if set
+    if (selectedRecord?.area && selectedRecord.area.trim()) {
+      areaSet.add(selectedRecord.area.trim());
+    }
+
+    return Array.from(areaSet);
+  }, [lookupResult, selectedRecord]);
 
   // Execute lookup whenever postalCode reaches the required country length
   useEffect(() => {
@@ -347,9 +394,9 @@ export default function SaaSPostalLookupPage() {
         </div>
 
         {/* 2-Column Desktop Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-[520px_1fr] gap-3">
+        <div className="grid grid-cols-1 lg:grid-cols-[430px_1fr] xl:grid-cols-[470px_1fr] gap-3.5">
 
-          {/* LEFT COLUMN: Lookup + Results */}
+          {/* LEFT COLUMN: Compact Lookup Controls */}
           <div className="flex flex-col gap-2.5 min-h-0">
 
             {/* Lookup Control Card */}
@@ -512,219 +559,46 @@ export default function SaaSPostalLookupPage() {
               </div>
             )}
 
-            {/* Results Section */}
-            {lookupResult && lookupResult.found && lookupResult.records.length > 0 && (
-              <div className="flex flex-col gap-2">
-
-                {/* Multiple-record prompt */}
-                {lookupResult.records.length > 1 && !selectedRecord && (
-                  <div className="px-3 py-2 rounded-lg border border-amber-200 dark:border-amber-900/60 bg-amber-50/70 dark:bg-amber-950/40 text-amber-800 dark:text-amber-300 text-[10.5px] flex items-center gap-1.5">
-                    <span>👉</span>
-                    <span><strong>{lookupResult.records.length} areas found.</strong> Click to select your post office / area below.</span>
-                  </div>
-                )}
-
-                {/* JP flags */}
-                {selectedCountry.id === 'JP' && selectedRecord && (selectedRecord.rawRecord?.flags?.multiplePostalCodesForTownArea || selectedRecord.rawRecord?.flags?.smallAreaNumbering) && (
-                  <div className="px-3 py-2 rounded-lg border border-amber-200 dark:border-amber-900/60 bg-amber-50/70 dark:bg-amber-950/40 text-[10.5px] flex items-center gap-2 text-amber-900 dark:text-amber-200">
-                    <span>⚠️</span>
-                    <span><strong>Additional address info required</strong> (Chome / Banchi / Koaza)</span>
-                  </div>
-                )}
-                {selectedCountry.id === 'JP' && selectedRecord?.rawRecord?.postalCodeType === 'BUSINESS' && (
-                  <div className="px-3 py-2 rounded-lg border border-indigo-200 dark:border-indigo-900/60 bg-indigo-50/70 dark:bg-indigo-950/40 text-[10.5px] space-y-0.5">
-                    <div className="flex items-center gap-1.5">
-                      <span className="px-1.5 py-0.5 rounded font-bold text-[9px] bg-indigo-600 text-white uppercase tracking-wider">Business Code</span>
-                      <span className="font-mono font-bold">{selectedRecord.postalCode}</span>
-                    </div>
-                    <div className="text-xs font-bold">{selectedRecord.rawRecord.businessNameJa} ({selectedRecord.rawRecord.businessName})</div>
-                    <div className="text-slate-600 dark:text-slate-300">{selectedRecord.rawRecord.addressLineJa} ({selectedRecord.rawRecord.addressLineEn})</div>
-                  </div>
-                )}
-
-                {/* Results Header with View Toggle */}
-                <div className="flex items-center justify-between px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-xs">
-                  <div className="flex items-center gap-1.5 min-w-0">
-                    <span className="text-[10.5px] font-bold text-slate-900 dark:text-white">
-                      📍 Select Postal Area / Post Office
+            {/* Verified Status Card */}
+            {lookupResult && lookupResult.found && (
+              <div className="p-3 rounded-xl border border-emerald-200 dark:border-emerald-900/60 bg-emerald-50/50 dark:bg-emerald-950/20 text-slate-800 dark:text-slate-200 space-y-1.5">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-1.5">
+                    <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block animate-pulse" />
+                    <span className="text-xs font-bold text-emerald-800 dark:text-emerald-300">
+                      Offline Verified
                     </span>
-                    <span className="px-1.5 py-0.5 rounded-full text-[9.5px] font-mono bg-indigo-50 dark:bg-indigo-950/70 text-indigo-600 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-800/60 shrink-0">
-                      {lookupResult.records.length}
+                    <span className="text-[10px] text-slate-500 dark:text-slate-400">
+                      · {lookupResult.records.length} {lookupResult.records.length === 1 ? 'branch' : 'branches'} found
                     </span>
                   </div>
-                  <div className="inline-flex rounded-md border border-slate-200 dark:border-slate-800 p-0.5 bg-slate-50 dark:bg-slate-950 shrink-0">
-                    <button
-                      type="button"
-                      onClick={() => setActiveResultTab('cards')}
-                      className={`px-2 py-0.5 text-[10px] font-medium rounded transition ${
-                        activeResultTab === 'cards'
-                          ? 'bg-white dark:bg-slate-800 text-slate-900 dark:text-white shadow-xs'
-                          : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-                      }`}
-                    >
-                      Cards
-                    </button>
-                    <button
-                      type="button"
-                      onClick={() => setActiveResultTab('table')}
-                      className={`px-2 py-0.5 text-[10px] font-medium rounded transition ${
-                        activeResultTab === 'table'
-                          ? 'bg-white dark:bg-slate-800 text-slate-900 dark:text-white shadow-xs'
-                          : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-                      }`}
-                    >
-                      Table
-                    </button>
-                  </div>
+                  <span className="text-[10px] font-mono text-emerald-700 dark:text-emerald-400 bg-emerald-100/70 dark:bg-emerald-900/40 px-1.5 py-0.5 rounded">
+                    {lookupResult.executionTimeMs}ms
+                  </span>
                 </div>
+                <p className="text-[10.5px] text-slate-600 dark:text-slate-400 leading-relaxed">
+                  {lookupResult.records.length > 1
+                    ? 'Multiple postal offices found. Use the dropdowns on the right to select your branch and neighborhood.'
+                    : 'Postal record loaded. Review and complete your address details on the right.'}
+                </p>
+              </div>
+            )}
 
-                {/* Cards View */}
-                {activeResultTab === 'cards' && (
-                  <div className="max-h-40 overflow-y-auto custom-scrollbar grid grid-cols-1 sm:grid-cols-2 gap-2 pr-1">
-                    {lookupResult.records.map((r) => {
-                      const isSelected = selectedRecord?.id === r.id;
-                      return (
-                        <div
-                          key={r.id}
-                          onClick={() => handleRecordSelect(r)}
-                          className={`p-2.5 rounded-lg border text-left cursor-pointer transition-all relative ${
-                            isSelected
-                              ? 'bg-indigo-50/80 dark:bg-indigo-950/60 border-indigo-500 shadow-sm ring-1 ring-indigo-500/20'
-                              : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700'
-                          }`}
-                        >
-                          <div className="flex items-start justify-between gap-1">
-                            <div className="font-semibold text-[11px] text-slate-900 dark:text-white truncate">
-                              {r.area || r.primaryName}
-                            </div>
-                            {r.deliveryStatus && (
-                              <span
-                                className={`text-[9px] uppercase font-bold px-1 py-0.5 rounded border shrink-0 ${
-                                  r.deliveryStatus === 'Delivery'
-                                    ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/60 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800/50'
-                                    : 'bg-amber-50 text-amber-700 dark:bg-amber-950/60 dark:text-amber-300 border-amber-200 dark:border-amber-800/50'
-                                }`}
-                              >
-                                {r.deliveryStatus}
-                              </span>
-                            )}
-                          </div>
-                          <div className="text-[10px] text-slate-500 dark:text-slate-400 truncate mt-0.5">
-                            {r.primaryName}
-                          </div>
-                          <div className="text-[10px] text-slate-400 truncate">
-                            {r.city}{r.districtCounty ? `, ${r.districtCounty}` : ''}
-                          </div>
-                          <div className="mt-1.5 pt-1.5 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
-                            <span className="text-[10px] font-mono text-slate-400">{r.postalCode}</span>
-                            <button
-                              type="button"
-                              onClick={(e) => { e.stopPropagation(); handleOpenDrawer(r); }}
-                              className="text-[10px] text-indigo-600 dark:text-indigo-400 hover:underline"
-                            >
-                              View →
-                            </button>
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
-                )}
-
-                {/* Table View */}
-                {activeResultTab === 'table' && (
-                  <div className="max-h-40 overflow-hidden">
-                    <PostalRecordTable
-                      records={lookupResult.records}
-                      selectedRecord={selectedRecord}
-                      onSelectRecord={handleRecordSelect}
-                      country={selectedCountry}
-                      onViewRecordDetail={handleOpenDrawer}
-                    />
-                  </div>
-                )}
-
-                {/* Neighborhoods */}
-                {lookupResult.areas && lookupResult.areas.length > 1 && (
-                  <div className="px-3 py-2.5 rounded-lg border border-indigo-200 dark:border-indigo-800/60 bg-indigo-50/40 dark:bg-indigo-950/30">
-                    <div className="flex items-center justify-between mb-1.5">
-                      <span className="text-[10.5px] font-bold text-slate-900 dark:text-white">
-                        📍 Neighborhoods / Local Areas ({lookupResult.areas.length})
-                      </span>
-                      <span className="text-[9.5px] text-slate-500">Click to apply</span>
-                    </div>
-                    <div className="flex flex-wrap gap-1.5">
-                      {lookupResult.areas.map((area) => {
-                        const isAreaSelected = selectedArea === area && !isCustomArea;
-                        return (
-                          <button
-                            key={area}
-                            type="button"
-                            onClick={() => handleAreaSelect(area)}
-                            className={`text-[10px] px-2 py-0.5 rounded-md font-medium transition ${
-                              isAreaSelected
-                                ? 'bg-indigo-600 text-white shadow-xs font-semibold'
-                                : 'bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-800 hover:border-indigo-300'
-                            }`}
-                          >
-                            {isAreaSelected ? '✓ ' : ''}{area}
-                          </button>
-                        );
-                      })}
-                      <button
-                        type="button"
-                        onClick={() => setIsCustomArea(!isCustomArea)}
-                        className="text-[10px] px-2 py-0.5 rounded-md border border-dashed border-slate-300 dark:border-slate-700 text-indigo-600 dark:text-indigo-400 hover:bg-white dark:hover:bg-slate-900"
-                      >
-                        {isCustomArea ? '← List' : '+ Custom'}
-                      </button>
-                    </div>
-                  </div>
-                )}
-
-                {/* Selected Postal Area Summary */}
-                {selectedRecord && (
-                  <div className="px-3 py-2.5 rounded-lg border border-indigo-200 dark:border-indigo-800/80 bg-indigo-50/50 dark:bg-indigo-950/40 shadow-xs">
-                    <div className="flex items-center justify-between mb-1.5">
-                      <span className="text-[10px] font-bold uppercase tracking-wider text-indigo-700 dark:text-indigo-300 flex items-center gap-1">
-                        <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse inline-block" />
-                        Selected Postal Area
-                      </span>
-                      <button
-                        type="button"
-                        onClick={() => handleOpenDrawer(selectedRecord)}
-                        className="text-[10px] font-medium text-indigo-600 dark:text-indigo-400 hover:underline"
-                      >
-                        View Full Record →
-                      </button>
-                    </div>
-                    <div className="p-2 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800">
-                      <div className="flex items-center justify-between gap-2">
-                        <div className="min-w-0">
-                          <div className="text-xs font-bold text-slate-900 dark:text-white truncate">
-                            {isCustomArea && customAreaText.trim() ? customAreaText.trim() : (selectedArea || selectedRecord.area)}
-                          </div>
-                          <div className="text-[10px] text-slate-500 dark:text-slate-400 truncate">{selectedRecord.primaryName}</div>
-                        </div>
-                        <div className="flex items-center gap-1.5 text-[10px] shrink-0">
-                          <span className="font-mono font-bold px-1.5 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700">
-                            {selectedRecord.postalCode}
-                          </span>
-                          {selectedRecord.deliveryStatus && (
-                            <span className={`px-1.5 py-0.5 rounded font-semibold ${
-                              selectedRecord.deliveryStatus === 'Delivery'
-                                ? 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/60 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800/50'
-                                : 'bg-amber-50 text-amber-700 dark:bg-amber-950/60 dark:text-amber-300 border border-amber-200 dark:border-amber-800/50'
-                            }`}>
-                              {selectedRecord.deliveryStatus}
-                            </span>
-                          )}
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                )}
-
+            {/* JP Special flags */}
+            {selectedCountry.id === 'JP' && selectedRecord && (selectedRecord.rawRecord?.flags?.multiplePostalCodesForTownArea || selectedRecord.rawRecord?.flags?.smallAreaNumbering) && (
+              <div className="px-3 py-2 rounded-lg border border-amber-200 dark:border-amber-900/60 bg-amber-50/70 dark:bg-amber-950/40 text-[10.5px] flex items-center gap-2 text-amber-900 dark:text-amber-200">
+                <span>⚠️</span>
+                <span><strong>Additional address info required</strong> (Chome / Banchi / Koaza)</span>
+              </div>
+            )}
+            {selectedCountry.id === 'JP' && selectedRecord?.rawRecord?.postalCodeType === 'BUSINESS' && (
+              <div className="px-3 py-2 rounded-lg border border-indigo-200 dark:border-indigo-900/60 bg-indigo-50/70 dark:bg-indigo-950/40 text-[10.5px] space-y-0.5">
+                <div className="flex items-center gap-1.5">
+                  <span className="px-1.5 py-0.5 rounded font-bold text-[9px] bg-indigo-600 text-white uppercase tracking-wider">Business Code</span>
+                  <span className="font-mono font-bold">{selectedRecord.postalCode}</span>
+                </div>
+                <div className="text-xs font-bold">{selectedRecord.rawRecord.businessNameJa} ({selectedRecord.rawRecord.businessName})</div>
+                <div className="text-slate-600 dark:text-slate-300">{selectedRecord.rawRecord.addressLineJa} ({selectedRecord.rawRecord.addressLineEn})</div>
               </div>
             )}
 
@@ -770,41 +644,152 @@ export default function SaaSPostalLookupPage() {
               <form onSubmit={handleSaveToErp} className="flex flex-col flex-1 min-h-0">
                 <div className="flex-1 overflow-y-auto custom-scrollbar px-3.5 py-2.5 space-y-2.5">
 
-                  {/* SECTION A: Postal Information (Auto-Filled) â€” FIRST */}
-                  <div>
-                    <div className="flex items-center justify-between mb-1.5">
+                  {/* SECTION A: Postal Information (Auto-Filled) — FIRST */}
+                  <div className="space-y-2.5">
+                    <div className="flex items-center justify-between mb-0.5">
                       <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">
                         Postal Information
                       </span>
                       <span className="text-[9.5px] text-slate-400">
                         Auto-filled · {selectedCountry.name} local dataset
-                        {isCustomArea && <span className="ml-1.5 text-indigo-500">· Custom colony</span>}
+                        {isCustomArea && <span className="ml-1.5 text-indigo-500 font-semibold">· Custom colony</span>}
                       </span>
                     </div>
 
-                    {/* Custom Colony input */}
-                    {isCustomArea && (
-                      <div className="mb-2 p-2 rounded-lg bg-indigo-50/60 dark:bg-indigo-950/40 border border-indigo-200 dark:border-indigo-800/60">
-                        <label className="block text-[10px] font-semibold text-slate-700 dark:text-slate-300 mb-1">
-                          Custom Neighborhood / Colony Name
+                    {/* 1. Area / Neighborhood Dropdown + [CUSTOM] */}
+                    <div>
+                      <div className="flex items-center justify-between mb-0.5">
+                        <label className="text-[9.5px] font-semibold text-slate-600 dark:text-slate-400 truncate leading-tight">
+                          {areaField?.label || 'Area / Neighborhood'}
                         </label>
-                        <input
-                          type="text"
-                          value={customAreaText}
-                          onChange={(e) => setCustomAreaText(e.target.value)}
-                          placeholder="Type custom colony, society, or apartment complex..."
-                          className="w-full px-2.5 py-1.5 rounded-md text-[10.5px] bg-white dark:bg-slate-900 border border-indigo-400 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none"
-                          autoFocus
-                        />
+                        {selectedArea && !isCustomArea && (
+                          <span className="text-[8.5px] text-emerald-600 dark:text-emerald-400 shrink-0 ml-1">✓</span>
+                        )}
                       </div>
-                    )}
+                      <div className="flex items-center gap-1.5">
+                        <div className="relative flex-1 min-w-0">
+                          <select
+                            value={isCustomArea ? '__CUSTOM__' : (selectedArea || '')}
+                            onChange={(e) => {
+                              const val = e.target.value;
+                              if (val === '__CUSTOM__') {
+                                setIsCustomArea(true);
+                              } else if (val) {
+                                handleAreaSelect(val);
+                              } else {
+                                setSelectedArea('');
+                              }
+                            }}
+                            disabled={!lookupResult || !lookupResult.found || availableAreas.length === 0}
+                            className="w-full h-7.5 px-2.5 pr-7 rounded-md text-[10.5px] font-medium bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-800 text-slate-900 dark:text-white appearance-none focus:outline-none focus:border-indigo-500 disabled:opacity-60 disabled:cursor-not-allowed transition truncate"
+                          >
+                            <option value="">
+                              {lookupResult?.found ? 'Select an area / neighborhood' : (areaField?.placeholder || 'Select an area / neighborhood')}
+                            </option>
+                            {availableAreas.map((area) => (
+                              <option key={area} value={area}>
+                                {area}
+                              </option>
+                            ))}
+                            <option value="__CUSTOM__">+ Custom</option>
+                          </select>
+                          <div className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 text-[9px]">
+                            ▼
+                          </div>
+                        </div>
+                        <button
+                          type="button"
+                          onClick={() => setIsCustomArea(!isCustomArea)}
+                          className={`h-7.5 px-2.5 rounded-md text-[10px] font-semibold transition shrink-0 border flex items-center gap-1 ${
+                            isCustomArea
+                              ? 'bg-indigo-600 text-white border-indigo-600 shadow-xs'
+                              : 'bg-white dark:bg-slate-900 text-indigo-600 dark:text-indigo-400 border-dashed border-slate-300 dark:border-slate-700 hover:border-indigo-400 dark:hover:border-indigo-500'
+                          }`}
+                          title="Enter custom colony, society or apartment complex"
+                        >
+                          {isCustomArea ? '✓ Custom' : '+ Custom'}
+                        </button>
+                      </div>
 
-                    {/* Dynamic Country-Specific Fields */}
-                    <div className="grid grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-2">
-                      {selectedCountry.fields.map((field) => {
+                      {/* Custom Colony input */}
+                      {isCustomArea && (
+                        <div className="mt-1.5 p-2 rounded-lg bg-indigo-50/60 dark:bg-indigo-950/40 border border-indigo-200 dark:border-indigo-800/60">
+                          <label className="block text-[10px] font-semibold text-slate-700 dark:text-slate-300 mb-1">
+                            Custom Colony / Society / Local Area Name
+                          </label>
+                          <input
+                            type="text"
+                            value={customAreaText}
+                            onChange={(e) => setCustomAreaText(e.target.value)}
+                            placeholder="Type custom colony, society, or apartment complex..."
+                            className="w-full h-7 px-2.5 rounded-md text-[10.5px] bg-white dark:bg-slate-900 border border-indigo-400 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none"
+                            autoFocus
+                          />
+                        </div>
+                      )}
+                    </div>
+
+                    {/* 2. Post Office Branch Dropdown + [View →] */}
+                    <div>
+                      <div className="flex items-center justify-between mb-0.5">
+                        <label className="text-[9.5px] font-semibold text-slate-600 dark:text-slate-400 truncate leading-tight">
+                          {postOfficeField?.label || 'Post Office Branch'}
+                        </label>
+                        {selectedRecord && (
+                          <span className="text-[8.5px] text-emerald-600 dark:text-emerald-400 shrink-0 ml-1">✓</span>
+                        )}
+                      </div>
+                      <div className="flex items-center gap-1.5">
+                        <div className="relative flex-1 min-w-0">
+                          <select
+                            value={selectedRecord?.id || ''}
+                            onChange={(e) => {
+                              const chosen = lookupResult?.records.find((r) => r.id === e.target.value);
+                              if (chosen) {
+                                handleRecordSelect(chosen);
+                              }
+                            }}
+                            disabled={!lookupResult || !lookupResult.found || lookupResult.records.length === 0}
+                            className="w-full h-7.5 px-2.5 pr-7 rounded-md text-[10.5px] font-medium bg-white dark:bg-slate-950 border border-slate-300 dark:border-slate-800 text-slate-900 dark:text-white appearance-none focus:outline-none focus:border-indigo-500 disabled:opacity-60 disabled:cursor-not-allowed transition truncate"
+                          >
+                            <option value="">
+                              {lookupResult?.found ? 'Select a post office branch' : (postOfficeField?.placeholder || 'Select a post office branch')}
+                            </option>
+                            {lookupResult?.records.map((r) => {
+                              const branchLabel =
+                                r.area && r.area.trim() !== r.primaryName.trim()
+                                  ? `${r.area} — ${r.primaryName}`
+                                  : r.primaryName;
+                              return (
+                                <option key={r.id} value={r.id}>
+                                  {branchLabel}
+                                </option>
+                              );
+                            })}
+                          </select>
+                          <div className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-slate-400 text-[9px]">
+                            ▼
+                          </div>
+                        </div>
+                        <button
+                          type="button"
+                          onClick={() => selectedRecord && handleOpenDrawer(selectedRecord)}
+                          disabled={!selectedRecord}
+                          className="h-7.5 px-2.5 rounded-md text-[10px] font-semibold transition shrink-0 border border-indigo-200 dark:border-indigo-800/70 text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 hover:bg-indigo-50 dark:hover:bg-indigo-950/60 disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-transparent flex items-center gap-1"
+                          title="View post office branch details"
+                        >
+                          View →
+                        </button>
+                      </div>
+                    </div>
+
+                    {/* 3. Dynamic Administrative Fields (City, District, Taluk, State, Country) */}
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 pt-1">
+                      {otherFields.map((field) => {
                         const val = getFieldValue(field.key);
+                        const isFullWidth = field.key === 'country';
                         return (
-                          <div key={field.key}>
+                          <div key={field.key} className={isFullWidth ? 'sm:col-span-2' : ''}>
                             <div className="flex items-center justify-between mb-0.5">
                               <label className="text-[9.5px] font-semibold text-slate-600 dark:text-slate-400 truncate leading-tight">
                                 {field.label}
